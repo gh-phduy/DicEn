@@ -1,0 +1,255 @@
+# Original usage notes. Multiple source IDs may share one grammar rule.
+a, an|Dùng trước danh từ đếm được số ít khi chưa xác định. Chọn a/an theo âm mở đầu: a university nhưng an hour, không chỉ theo chữ cái.
+the|Dùng khi người/vật đã được xác định hoặc cả hai bên đều biết. Không đặt the trước mọi danh từ; thường không dùng trước tên người và tên đa số quốc gia.
+about|About + danh từ là “về”; about + số lượng là “khoảng”. Hai cách dùng này không thay thế nhau.
+above|Chỉ vị trí cao hơn, thường không chạm vật phía dưới. Cũng dùng cho số hoặc mức cao hơn một mốc.
+across|Across diễn tả đi từ bên này sang bên kia một bề mặt hay khu vực, hoặc vị trí ở bên kia.
+activity|Danh từ đếm được: an activity, activities. Action là hành động cụ thể, còn activity thường là hoạt động có quá trình.
+actor;actress|Actor có thể chỉ diễn viên thuộc bất kỳ giới nào; actress chỉ nữ diễn viên. Không cần đổi actor thành actress nếu người đó dùng actor để gọi nghề.
+add|Add A to B: thêm A vào B. Trong phép tính, add two and three là cộng hai với ba.
+address|Nghĩa đang học A1 là danh từ “địa chỉ”. Động từ address (giải quyết hoặc phát biểu với) thuộc mức cao hơn, không trộn vào nghĩa này.
+adult|Ở A1 học danh từ “người trưởng thành”; cách dùng tính từ adult nằm ở mức A2 trong PDF.
+advice|Danh từ không đếm được: some advice, a piece of advice. Không dùng an advice hoặc advices; advise là động từ.
+afraid|Thường đứng sau be/feel: afraid of + danh từ hoặc -ing; afraid to + động từ. I am afraid còn có thể mở đầu một lời báo tin không thuận lợi.
+after;before|After/before + danh từ hoặc cụm thời gian trong nghĩa giới từ A1. Cách nối trực tiếp hai mệnh đề được xếp cao hơn trong PDF.
+ago|Đặt sau khoảng thời gian và thường đi với quá khứ đơn: two days ago. Không dùng ago để chỉ khoảng thời gian trong tương lai.
+agree|Agree with someone/an opinion, agree on a plan, agree to do something. Không nói I am agree.
+air|Air trong nghĩa không khí thường không đếm được. Một luồng/gợn không khí không phải an air trong nghĩa A1 này.
+all;both|All dùng cho toàn bộ nhóm; both chỉ đúng hai người/vật. Cả hai có thể đứng trước danh từ hoặc đi riêng khi nhóm đã rõ.
+also|Thường trước động từ chính nhưng sau be: I also work; she is also a teacher. Too thường tự nhiên ở cuối câu.
+always;often;usually;sometimes;never|Trạng từ tần suất thường trước động từ chính nhưng sau be: always works, is always busy. Never đã mang nghĩa phủ định, không thêm not.
+angry|Be angry with someone, angry about something. Anger là danh từ; angry là tính từ.
+another|Another + danh từ đếm được số ít: another book. Có thể có nghĩa một cái khác hoặc thêm một cái nữa.
+any|Trong câu hỏi/phủ định thường là “chút nào, cái nào”; trong câu khẳng định có thể là “bất kỳ”. Some thường dùng khi đề nghị hoặc mời.
+anyone;anything|Anyone chỉ người; anything chỉ vật hoặc điều. Dùng động từ số ít; không đổi thành số nhiều bằng cách thêm s.
+april;august;december;february;january;july;june;march;november;october;september|Tên tháng viết hoa. Dùng in + tháng và on + ngày cụ thể; March ở đây là tháng Ba, không phải động từ diễu hành.
+may|PDF gộp May (tháng Năm, danh từ A1) và may (khuyết thiếu A2) dưới cùng một khóa. Khi nói tên tháng phải viết hoa; may + động từ chỉ khả năng hoặc xin phép. Hai nghĩa có cùng cách đọc.
+arm|Nghĩa A1 là cánh tay; hand là bàn tay. Động từ arm nghĩa trang bị vũ khí ở mức cao hơn.
+arrive|Arrive at + địa điểm cụ thể; arrive in + thành phố/quốc gia; arrive home không có giới từ. Không dùng arrive to trong các cấu trúc này.
+art|Art là nghệ thuật nói chung; an artist là nghệ sĩ. Không thêm s để nói “các tác phẩm” theo nghĩa này; dùng works of art.
+article|Ở đây article là bài báo/bài viết. “Mạo từ” cũng được gọi là article trong ngữ pháp, nhưng là nghĩa khác.
+as|As + nghề/vai trò: work as a teacher. Like dùng cho sự giống nhau, không xác nhận một người thực sự có vai trò đó.
+ask|Ask someone a question; ask for something; ask someone to do something. Ask khác request ở mức độ trang trọng.
+at|At dùng cho điểm địa điểm và thời điểm cụ thể: at school, at six. Không dùng một giới từ duy nhất cho mọi nơi hoặc thời gian.
+aunt;uncle;cousin|Tiếng Anh không phân biệt đầy đủ bên nội/ngoại hay lớn/nhỏ tuổi như tiếng Việt. Cousin dùng cho cả anh, chị và em họ.
+awesome|Cách khen thân mật, đặc biệt phổ biến trong giao tiếp Mỹ. Không phải lựa chọn trang trọng cho mọi văn bản học thuật.
+back|Có thể là lưng, phía sau hoặc trở lại. Go back là quay lại; at the back là ở phía sau.
+bank (money)|Mục này chỉ ngân hàng. Bank nghĩa bờ sông là một mục Oxford khác; không đưa bờ sông vào nghĩa hoặc họ từ của mục này.
+bar|Ở A1 học quán bar. Thanh, vạch và động từ ngăn cản là các nghĩa khác ở mức cao hơn.
+bath;bathroom|Take a bath là tắm bồn; take a shower là tắm vòi sen. Trong tiếng Mỹ, bathroom có thể là nhà vệ sinh ngay cả khi không có bồn tắm.
+be|Be có các dạng am/is/are và was/were; là động từ nối hoặc trợ động từ. Đây là biến đổi ngữ pháp của be, không phải các từ đồng nghĩa.
+become|Become + tính từ/danh từ: become happy, become a teacher. Nhấn mạnh sự thay đổi trạng thái; không có nghĩa mọi trường hợp “đến”.
+believe|Believe someone là tin lời người đó; believe in someone là tin vào năng lực/phẩm chất. Believe that + mệnh đề nêu điều mình tin.
+best;better|Better và best là dạng so sánh bất quy tắc của good hoặc well; không thêm more trước better hay most trước best.
+between|Dùng cho những bên hoặc mốc riêng biệt, không bắt buộc chỉ có hai bên. Among nhấn mạnh ở trong một nhóm chung.
+bill|Ở A1 bill là hóa đơn. Trong tiếng Mỹ restaurant bill cũng thường được gọi là check; các nghĩa như dự luật nằm ở mức cao hơn.
+blond|Blond mô tả tóc vàng; blonde cũng thường gặp. Không dùng để gọi mọi màu vàng của đồ vật.
+book|Nghĩa A1 là sách. Động từ book nghĩa đặt chỗ được xếp A2 trong tài liệu.
+bored;boring|Bored chỉ người cảm thấy chán; boring chỉ người/vật gây chán. I am boring có nghĩa tôi làm người khác chán.
+born|Thường dùng be born: was born in a year/place, on a date. Không dùng I born hoặc I am born để kể ngày sinh trong quá khứ.
+boyfriend;girlfriend|Trong nghĩa đang học, chỉ người yêu nam/nữ; không chỉ mọi người bạn có giới tương ứng. Friend là bạn thông thường.
+bread;butter;cheese;cream;food;meat;milk;rice;sugar;water|Nghĩa chất/thực phẩm thông thường không đếm được. Muốn đếm dùng đơn vị như a piece of bread, a glass of water; một số từ có nghĩa đếm được khi nói khẩu phần hoặc loại.
+break|Break có dạng quá khứ broke và phân từ broken. A break là giờ nghỉ; be broken là đã vỡ hoặc hỏng.
+bring;take|Bring thường đưa đến phía người nói hoặc điểm được xem là đích; take thường mang đi nơi khác. Lựa chọn còn tùy điểm nhìn trong hội thoại.
+business|Business có thể là hoạt động kinh doanh nói chung hoặc một doanh nghiệp cụ thể. A business và businesses dùng khi đếm doanh nghiệp.
+by|By bus/train/car không có mạo từ. Đi bộ là on foot. By còn chỉ người thực hiện trong câu bị động và vị trí bên cạnh.
+can1;cannot|Can + động từ nguyên mẫu không to; không thêm s ở ngôi thứ ba. Cannot viết liền; dạng nói thường là can't. Mục này không phải can nghĩa lon.
+capital|Ở A1 là thủ đô hoặc thuộc thủ đô. Vốn và chữ viết hoa là nghĩa khác; nhìn ngữ cảnh để phân biệt.
+career|Career là quá trình nghề nghiệp dài hạn; job là một việc làm cụ thể. Một người có thể có nhiều jobs trong một career.
+cent|Một cent bằng 1/100 đô la. Danh từ đếm được: one cent, fifty cents.
+cheap|Ở A1 cheap là giá thấp. Trong ngữ cảnh khác có thể gợi chất lượng thấp; inexpensive thường ít hàm ý chê hơn.
+chicken;fish|Có thể đếm khi chỉ con vật, không đếm khi chỉ thịt/thực phẩm. Chicken và fish trong câu ăn uống không nhất thiết mang nghĩa con vật nguyên con.
+child|Số nhiều là children, không phải childs. Children và childhood không phải hai dạng số nhiều của nhau.
+clothes|Danh từ số nhiều: clothes are. Một món quần áo là an item of clothing, không phải a clothes.
+close1|Mục này là động từ đóng, đọc /kloʊz/. Close nghĩa gần đọc /kloʊs/ là mục đồng hình khác.
+college|Trong tiếng Mỹ college thường chỉ việc học bậc đại học hoặc một trường thuộc bậc này, không luôn tương đương “cao đẳng” ở Việt Nam.
+come;go|Come hướng về người nói/người nghe hoặc nơi đã chọn làm điểm nhìn; go thường đi ra nơi khác. Không dịch cả hai bằng một quy tắc cố định.
+compare|Compare A with/to B. Khi học lựa chọn hai món hàng, compare thường nói việc xem điểm giống và khác.
+complete|Là tính từ “đầy đủ” hoặc động từ “hoàn tất”. Completely là trạng từ, không dùng thay complete trước danh từ.
+cost|Cost có quá khứ và phân từ cost trong nghĩa có giá. It costs ten dollars; không dùng it is cost ten dollars.
+could;would|Could you...? và Would you...? giúp lời yêu cầu lịch sự hơn. Could còn là khả năng trong quá khứ; would không luôn chỉ tương lai.
+country|Country là quốc gia hoặc vùng nông thôn (thường the country). Không đồng nhất với countryside trong mọi cấu trúc.
+cut|Cut giữ nguyên ở hiện tại, quá khứ và phân từ: cut–cut–cut. Cutting có hai chữ t.
+date|Ở A1 date là ngày tháng; hẹn hò và cuộc hẹn là nghĩa khác. Khi viết số ngày, định dạng Mỹ thường đặt tháng trước ngày.
+dear|Trong đầu thư: Dear Anna. Dear còn có nghĩa thân yêu hoặc đắt trong ngữ cảnh khác; không dùng thay delicious.
+decide|Decide to + động từ; decide on + lựa chọn; decide that + mệnh đề. Decision là danh từ.
+die|Die là động từ, dead là tính từ, death là danh từ. Dying là dạng -ing của die; dying không đồng nghĩa với đã chết.
+discuss|Discuss something, không dùng discuss about something. Have a discussion about something là cấu trúc có danh từ.
+do1|Động từ do có dạng does/did/done. Khi là trợ động từ trong câu hỏi/phủ định, động từ chính giữ nguyên mẫu: Does she work?
+dress;skirt|Dress là váy liền, skirt là chân váy. Dress còn là động từ mặc quần áo; các mục A1 trong PDF gồm cả danh từ và động từ.
+during|During + danh từ/khoảng sự kiện; while + mệnh đề. For + khoảng thời gian nêu độ dài, không thay during trong mọi câu.
+each;every|Each nhấn mạnh từng thành viên; every nhấn mạnh toàn bộ nhóm. Cả each và every đi với danh từ đếm được số ít và động từ số ít khi cụm đó làm chủ ngữ: each student is, every student is.
+early|Early có thể là tính từ và trạng từ. Không tạo trạng từ earlyly.
+east;west;north;south|Chỉ hướng hoặc vùng. Dùng in the north, go north; tên khu vực có thể viết hoa theo cách đặt tên riêng.
+else|Else thường sau từ hỏi hoặc từ như someone/anything: what else, someone else. Không đặt else trước danh từ như other.
+enough|Enough đứng trước danh từ nhưng sau tính từ/trạng từ: enough time, good enough.
+even|Even nghĩa “ngay cả/thậm chí” ở A1. Không nhầm với evening là buổi tối hoặc even nghĩa bằng phẳng/chẵn ở mức cao hơn.
+ever;never|Ever thường trong câu hỏi về trải nghiệm: Have you ever...? Never đã có nghĩa không bao giờ nên không cần thêm not.
+everybody;everyone;everything|Everybody/everyone chỉ người; everything chỉ vật/việc. Dùng động từ số ít dù nghĩa bao gồm nhiều người/vật.
+excited;exciting|Excited là cảm thấy hào hứng, exciting là gây hào hứng. Các tính từ -ed/-ing không luôn thay thế được nhau.
+explain|Explain something to someone; không dùng explain me something. Explanation là danh từ.
+fall|Trong tiếng Mỹ fall là mùa thu; autumn phổ biến trong tiếng Anh Anh. Động từ fall (rơi/ngã) có dạng fell–fallen.
+far|Far là tính từ hoặc trạng từ. Far from chỉ cách xa; how far hỏi khoảng cách, không hỏi thời lượng.
+fast|Fast có thể là tính từ hoặc trạng từ: a fast car, drive fast. Không dùng fastly.
+few;little|Few đi với danh từ đếm được số nhiều, little đi với danh từ không đếm được. A few/a little thường có nghĩa một ít vẫn có; few/little thường nhấn mạnh ít hoặc không đủ.
+fine|Nghĩa A1 đang học là ổn/tốt: I'm fine. Fine nghĩa tiền phạt là nghĩa khác; không ghép vào ví dụ hỏi thăm sức khỏe.
+first;third;fourth;fifth|Số thứ tự khác số đếm: one–first, three–third, four–fourth, five–fifth. Thường dùng the trước thứ tự khi nói một mục xác định.
+foot|Số nhiều là feet; foot là bàn chân, leg chỉ phần chân từ hông đến bàn chân. Foot còn là đơn vị đo trong các ngữ cảnh khác.
+football|Trong danh sách tiếng Mỹ, football thường chỉ bóng bầu dục Mỹ. Bóng đá thường được gọi là soccer ở Mỹ; football theo tiếng Anh Anh thường là bóng đá.
+for|For + khoảng thời gian nói độ dài: for two hours. For cũng chỉ người nhận/mục đích: a gift for you.
+free|Có ba nghĩa thông dụng khác nhau: miễn phí, rảnh hoặc tự do. Free time là thời gian rảnh; không nhất thiết là dịch vụ miễn phí.
+from|From chỉ xuất phát/nguồn; thường đi cùng to trong khoảng: from Monday to Friday.
+full|Full là tính từ “đầy/no”; fill là động từ “làm đầy”. Không nói I am fill để nói tôi no.
+fun;funny|Fun là vui/thú vị; funny thường là buồn cười hoặc kỳ lạ. A fun activity không nhất thiết làm mọi người bật cười.
+get|Get có nhiều nghĩa; ở đây học nhận/lấy/trở nên theo ngữ cảnh. Quá khứ got; tiếng Mỹ thường dùng gotten làm phân từ trong nhiều nghĩa.
+give|Give something to someone hoặc give someone something. Quá khứ gave, phân từ given.
+good;well|Good thường là tính từ; well thường là trạng từ hoặc tính từ nghĩa khỏe. She sings well, không phải sings good trong tiếng Anh chuẩn.
+grow|Grow–grew–grown. Có thể tự lớn lên hoặc trồng thứ gì: children grow; farmers grow rice.
+half|Half an hour là nửa giờ; half of the class là một nửa lớp. Half và halves là hai dạng số ít/số nhiều khi làm danh từ.
+hard|Hard có thể là tính từ/trạng từ; hardly nghĩa hầu như không, không phải “một cách chăm chỉ”. Work hard và hardly work khác nghĩa.
+have;have to|Have có dạng has/had. Have to nêu nghĩa phải làm; phủ định don't have to là không cần làm, không phải bị cấm.
+he;him;his|He làm chủ ngữ, him làm tân ngữ, his chỉ sở hữu. His dùng trước danh từ hoặc đi riêng: his book, the book is his.
+hear;listen|Hear là nghe thấy; listen là chủ động lắng nghe. Dùng listen to someone/something, không bỏ to khi có tân ngữ.
+her;she|She làm chủ ngữ; her làm tân ngữ hoặc đứng trước danh từ chỉ sở hữu. Khi sở hữu đứng riêng dùng hers.
+high;tall|Tall thường cho chiều cao người/vật có hình cao; high thường cho độ cao vị trí hoặc mức. A tall person nhưng a high price.
+home;house|House là tòa nhà; home là nơi ở/tổ ấm. Go home, không dùng go to home; nhưng go to the house đúng.
+homework;information;news|Trong nghĩa đang học là danh từ không đếm được. News đi với động từ số ít dù có s: the news is. Không dùng homeworks/informations.
+how|How hỏi cách; how much hỏi lượng/giá với danh từ không đếm được; how many hỏi số lượng đếm được; how long hỏi thời lượng/độ dài.
+however|However nối ý tương phản; khác but ở vị trí và dấu câu. Thường đứng đầu câu hoặc sau dấu chấm phẩy, rồi có dấu phẩy.
+hundred;thousand;million|Sau số cụ thể không thêm s: two hundred. Khi nói lượng ước chừng: hundreds of people.
+i|Đại từ I luôn viết hoa. Dùng me làm tân ngữ; my/mine chỉ sở hữu; myself chỉ chính bản thân.
+if|If + mệnh đề nêu điều kiện. Trong điều kiện tương lai thông dụng, mệnh đề if dùng hiện tại, không tự động thêm will.
+in;into|In thường chỉ vị trí trong một nơi; into nhấn mạnh đi/chuyển vào trong. Có những động từ dùng in để chỉ chuyển động, nên phải đọc cả cấu trúc.
+interested;interesting|Interested in + danh từ/-ing chỉ người có hứng thú; interesting chỉ thứ gây hứng thú. I am interesting nói tôi là người thú vị.
+it;its|It làm chủ ngữ/tân ngữ. Its chỉ sở hữu; it's là viết tắt của it is hoặc it has, không phải sở hữu.
+jeans;pants|Các danh từ này thường dùng số nhiều; một chiếc quần là a pair of jeans/pants. Trong tiếng Mỹ pants là quần dài, không phải quần lót như một số cách dùng tiếng Anh Anh.
+just|Ở A1 just thường là chỉ hoặc vừa mới. Just nghĩa công bằng là cách dùng tính từ ở mức cao hơn.
+kind (type)|Mục này là danh từ loại/kiểu: a kind of fruit. Kind nghĩa tử tế là tính từ khác, không thuộc nghĩa đang học.
+know|Know–knew–known. Know a person/fact là biết; know how to do là biết cách làm.
+last1 (final)|Ở đây last chỉ cuối cùng hoặc vừa qua. Last là động từ kéo dài thuộc mục khác trong chỉ mục Oxford.
+late;later|Late là muộn; later là sau/muộn hơn. Lately nghĩa gần đây, không thay late trong câu đến trễ.
+learn;study|Study nhấn mạnh quá trình học/nghiên cứu; learn nhấn mạnh tiếp thu kiến thức/kỹ năng. Có thể study mà chưa learn được điều muốn học.
+leave|Leave–left–left. Leave a place là rời nơi đó; leave something là để lại vật gì.
+let|Let someone do something, không thêm to trước động từ theo sau trong cấu trúc này.
+lie1|Mục A1 là nằm: lie–lay–lain. Lie (nói dối) là mục khác; lay (đặt xuống) thường cần tân ngữ và cũng là một động từ khác.
+light (from the sun/a lamp)|Mục này chỉ ánh sáng/chiếu sáng. Light nghĩa nhẹ là mục Oxford khác; không ghép lightly nghĩa nhẹ nhàng vào họ từ của nghĩa ánh sáng.
+like (find sb/sth pleasant);like (similar)|Like là động từ thích hoặc giới từ giống như, được giữ thành hai mục riêng. Dùng like + -ing/to-infinitive cho sở thích; like + danh từ cho sự giống nhau.
+live1|Mục này là động từ sống, đọc /lɪv/. Live nghĩa trực tiếp/còn sống đọc /laɪv/ là mục đồng hình khác.
+long1|Mục này là dài/lâu. Long là động từ khao khát trong cách dùng khác, không thuộc nghĩa A1 này.
+look|Look at + đối tượng khi chủ động nhìn; look + tính từ khi có vẻ: look happy. Không tự động thêm at trước tính từ.
+lot|A lot of/lots of + danh từ; a lot có thể đi riêng sau động từ. A lot viết hai từ, không phải alot.
+make;do1|Make thường tạo ra sản phẩm/kết quả; do thường thực hiện hoạt động. Nhiều cụm phải học riêng: make a mistake nhưng do homework.
+man;woman|Số nhiều bất quy tắc: man–men, woman–women. Không thêm s thành mans/womans trong nghĩa người.
+many;much|Many + danh từ đếm được số nhiều; much + danh từ không đếm được. Trong khẳng định hằng ngày, a lot of thường tự nhiên hơn much.
+married|Be married to someone, không dùng married with someone trong nghĩa có vợ/chồng. Marry someone không cần to.
+match (contest/correspond)|Hai cách dùng A1: a match là trận đấu; match là hợp/khớp. Match nghĩa que diêm là mục Oxford khác.
+maybe;probably|Maybe thường diễn tả điều có thể; probably gợi khả năng khá cao. Không gắn hai từ này với một phần trăm xác suất cố định.
+mean|Mean là động từ có nghĩa; meaning là danh từ ý nghĩa. Mean–meant–meant; không dùng what is this word mean?
+meet;meeting|Meet–met–met. Meet someone là gặp, a meeting là cuộc họp/gặp có tổ chức; không phải lúc nào cũng là hai từ thay thế nhau.
+meter;mile;yard|Các đơn vị khác nhau: một mile khoảng 1,609 km, một yard 0,9144 m. Không dùng mile hoặc yard như từ đồng nghĩa với meter.
+minute1|Mục này là phút, đọc /ˈmɪnɪt/. Minute nghĩa rất nhỏ đọc /maɪˈnuːt/ là mục đồng hình khác.
+miss|Miss the bus là lỡ xe; miss someone là nhớ ai. Không dùng miss thay lose khi làm thất lạc vật.
+more;most|More là nhiều hơn, most là nhiều nhất hoặc phần lớn. Most people khác the most people ở ý nghĩa và cấu trúc.
+mouse|Số nhiều thường là mice cho con vật. Chuột máy tính có thể dùng mice hoặc mouses tùy cách dùng.
+must;should|Must mạnh hơn should: bắt buộc/suy đoán chắc; should là lời khuyên hoặc điều nên xảy ra. Must not là cấm, don't have to là không cần.
+negative;positive|Có thể nói thái độ hoặc dạng câu. Trong nghĩa ngữ pháp, positive là khẳng định, negative là phủ định; không tự động có nghĩa tốt/xấu.
+next to;near|Next to là sát/bên cạnh; near chỉ ở gần, không nhất thiết liền kề.
+no;not|No + danh từ để nói không có; not phủ định động từ/tính từ hoặc cấu trúc khác. No và not không đổi chỗ tùy ý.
+no one;nobody;nothing|Các từ này đã phủ định và thường đi với động từ số ít; không thêm not trong câu chuẩn. No one viết hai từ, nobody viết một từ.
+object|Ở A1 object là danh từ đồ vật, nhấn âm đầu /ˈɑbdʒɛkt/. Động từ phản đối nhấn âm sau, là cách dùng khác.
+off;on|Turn on là bật, turn off là tắt. Khi nói vị trí, on là trên và off là rời khỏi, tùy vật/ngữ cảnh.
+ok|Có thể viết OK hoặc okay. Dùng trong lời đồng ý hoặc nói tình trạng ổn; khá thân mật.
+old;young|Old nói tuổi lớn hoặc vật cũ; young nói tuổi còn ít. How old are you? không hàm ý chê người nghe già.
+once;twice|Once là một lần, twice là hai lần. Once còn có cách dùng từng/khi... ở mức cao hơn; ví dụ A1 tập trung số lần.
+one|One là số đếm hoặc đại từ thay danh từ đếm được đã rõ: the red one. Số nhiều đại từ là ones.
+only|Only có thể thay đổi phạm vi nghĩa tùy vị trí: only I, I only eat, I eat only fruit. Đọc cả câu để biết thứ bị giới hạn.
+orange|Orange là quả cam hoặc màu cam. Danh từ quả đếm được; danh từ màu và tính từ màu có cấu trúc khác.
+other|Other + danh từ; others là đại từ số nhiều không có danh từ theo sau. The other thường chỉ phần còn lại của nhóm đã xác định.
+our;us;we|We làm chủ ngữ, us làm tân ngữ, our trước danh từ sở hữu; ours dùng khi sở hữu đứng riêng.
+own|My own room nhấn mạnh phòng của chính tôi. Own làm động từ là sở hữu, được xếp ở mức cao hơn trong PDF.
+o’clock|Dùng với giờ đúng: three o'clock. Không thêm o'clock sau thời gian có phút như three fifteen.
+pair|A pair of pants/shoes; two pairs of shoes. Động từ theo số của pair nếu pair là chủ ngữ: this pair is.
+paper|Giấy thường không đếm được: some paper; a piece of paper. A paper có thể chỉ bài báo/bài viết trong ngữ cảnh khác.
+park|A park là công viên; park a car là đỗ xe. Cùng cách viết và đọc nhưng cách dùng danh từ/động từ khác nhau.
+pay|Pay for something, pay someone, pay a bill. Quá khứ và phân từ paid, không phải payed trong nghĩa trả tiền thông thường.
+people;person|Person là một người; people thường là số nhiều của person. Persons chỉ gặp trong một số văn cảnh trang trọng/pháp lý.
+period|Trong tiếng Mỹ, period là dấu chấm; tiếng Anh Anh thường dùng full stop. Period còn là một khoảng thời gian.
+phone;telephone|Phone là cách gọi ngắn thông dụng của telephone; cả hai có thể là danh từ hoặc động từ. Không khác nhau về thiết bị trong nghĩa này.
+photo;photograph|Photo là dạng ngắn phổ biến của photograph. Photographer là người chụp; không dùng photographer để gọi một bức ảnh.
+picture|Picture có thể là ảnh, tranh vẽ hoặc hình nói chung. Photo luôn là ảnh chụp, không bao gồm tranh vẽ bằng tay.
+play|Play a sport/game không dùng the trước tên môn; play the piano/guitar thường có the trong cách dùng thông thường.
+please|Trong yêu cầu, please giúp lịch sự nhưng giọng/cách diễn đạt vẫn quan trọng. Động từ please (làm hài lòng) là cách dùng khác.
+police;policeman|Police là danh từ tập hợp đi với động từ số nhiều: the police are. Policeman là một nam cảnh sát; police officer dùng không chỉ định giới.
+pool|Nghĩa A1 là hồ bơi. Pool nghĩa vũng, nhóm nguồn lực hoặc môn bi-a là nghĩa khác.
+practice|Theo tiếng Mỹ, cả danh từ và động từ viết practice. Theo tiếng Anh Anh, động từ thường viết practise.
+prefer|Prefer A to B; prefer doing A to doing B; prefer to do something. Không dùng prefer A than B.
+present|Mục này gộp danh từ món quà và tính từ hiện tại/có mặt. Nhấn âm đầu trong các nghĩa này; động từ trình bày nhấn âm sau và thuộc mức cao hơn.
+pretty|Pretty là xinh khi làm tính từ; khá khi làm trạng từ mức độ: pretty good. Hai nghĩa không dùng chung một bản dịch cố định.
+price;cost|Price thường là giá được đưa ra; cost là khoản phải trả/chi phí, và cũng là động từ có giá. Không dùng price như động từ cost trong It costs...
+program|Dùng chính tả Mỹ program cho chương trình. Programme phổ biến trong tiếng Anh Anh trừ nhiều ngữ cảnh phần mềm.
+project|Ở A1 là danh từ dự án, nhấn âm đầu. Động từ chiếu/dự tính nhấn âm sau, thuộc mức cao hơn.
+put|Put–put–put. Thường cần vị trí đi kèm: put the bag on the table; không chỉ put the bag nếu ngữ cảnh chưa rõ.
+quarter|A quarter là 1/4; quarter past three là 3:15. Ở Mỹ a quarter cũng là đồng 25 xu.
+quick;quickly|Quick là tính từ; quickly là trạng từ. A quick answer nhưng answer quickly.
+quite|Quite thường nghĩa khá; trước một số tính từ có giới hạn tuyệt đối có thể nghĩa hoàn toàn. Mức độ còn tùy biến thể và ngữ cảnh.
+read|Hiện tại read đọc /riːd/; quá khứ/phân từ vẫn viết read nhưng đọc /rɛd/.
+relax|Relax là động từ thư giãn; relaxed chỉ người thấy thoải mái; relaxing chỉ thứ giúp thư giãn.
+return|Return là trở lại hoặc trả lại; thường không cần thêm back để lặp nghĩa. Return to a place, return something to someone.
+right|Right là đúng hoặc bên phải trong A1. Rights nghĩa quyền là cách dùng khác; không trộn các nghĩa vào mọi ví dụ.
+room|Room là phòng (đếm được) hoặc chỗ trống (không đếm được): a room, enough room.
+same;similar|The same thường chỉ giống hệt/cùng một; similar chỉ tương tự, vẫn có khác biệt. Dùng similar to, không dùng similar with trong nghĩa thông thường.
+say;tell|Say + lời/nội dung; tell thường cần người nghe: tell me a story. Say hello to someone nhưng tell someone your name.
+second1 (unit of time)|Mục này là một giây; second nghĩa thứ hai là mục Oxford khác. Không dùng ví dụ xếp thứ tự để minh họa nghĩa đơn vị thời gian.
+send|Send–sent–sent. Send someone something hoặc send something to someone.
+sheep|Sheep có số ít và số nhiều cùng dạng: one sheep, two sheep.
+short|Short có thể là ngắn (vật/thời gian) hoặc thấp (người). Low không luôn thay short khi nói người thấp.
+sit;stand|Sit–sat–sat, stand–stood–stood. Sit down/stand up mô tả chuyển tư thế; sit/stand có thể chỉ tư thế đang giữ.
+some|Dùng lượng không xác định; thường trong khẳng định, lời mời hoặc đề nghị: Would you like some tea? Không phải mọi câu hỏi đều phải đổi some thành any.
+somebody;someone;something|Somebody/someone chỉ người, something chỉ vật/điều; dùng động từ số ít. Somebody và someone thường thay thế được nhau.
+speak;talk|Speak thường dùng cho ngôn ngữ hoặc lời nói trang trọng; talk thường cho hội thoại. Speak English không có to trước English.
+spend|Spend time/money on something hoặc spend time doing something. Quá khứ spent.
+sport|Tiếng Mỹ thường nói sports khi chỉ thể thao nói chung. A sport là một môn cụ thể; không coi môn thể thao và trò chơi là đồng nghĩa tuyệt đối.
+spring|Ở A1 là mùa xuân. Lò xo và động từ bật nhảy là các nghĩa khác ở mức cao hơn.
+station|Nêu loại nếu cần: train station, bus station, police station. Không phải mọi station đều là ga tàu.
+still|Ở A1 still là vẫn: still waiting. Still nghĩa bất động là tính từ được xếp cao hơn trong PDF.
+store;shop|Store là cửa hàng rất thông dụng trong tiếng Mỹ; shop cũng dùng được, thường là cửa hàng/chuyên môn nhỏ hơn. Không có ranh giới kích thước tuyệt đối.
+study;student|Study là động từ học/nghiên cứu hoặc danh từ việc học. Student là người học, không dùng study để chỉ học sinh.
+success|Success là danh từ; successful là tính từ; succeed là động từ. Không dùng He is success để nói anh ấy thành công.
+sure|Be sure about something, be sure that..., be sure to do... có trọng tâm khác nhau. Surely có thể diễn tả mong đợi hoặc sự tin chắc của người nói.
+take|Take–took–taken. Các cụm như take a bus, take a shower, take a photo không dịch take bằng một nghĩa “lấy” duy nhất.
+teach;teacher|Teach someone something hoặc teach someone to do something. Quá khứ và phân từ taught.
+teenager|Thông thường chỉ người 13–19 tuổi, không phải mọi trẻ em. Teenage là tính từ dùng trước danh từ.
+than|Dùng trong cấu trúc so sánh hơn: taller than, more books than. Không nhầm than với then (sau đó).
+thank;thanks|Thank you là cụm có động từ; thanks là lời cảm ơn ngắn. Dùng thanks for + danh từ/-ing, không nói thanks you.
+that;this|This thường gần người nói; that xa hơn hoặc nhắc điều đã nói. Số nhiều là these/those. That còn nối mệnh đề theo nghĩa rằng.
+their;them;they|They làm chủ ngữ, them làm tân ngữ, their trước danh từ sở hữu; theirs đi riêng. They cũng có thể dùng cho một người khi không nêu giới.
+there|There chỉ ở đó hoặc mở cấu trúc tồn tại there is/are. There, their và they're có âm giống nhau nhưng chức năng khác.
+thirsty|Thirsty là khát; hungry là đói. Dùng be/feel thirsty, không dùng have thirsty.
+through|Through thường diễn tả đi xuyên trong một không gian/vật; across thường từ bên này sang bên kia bề mặt.
+time|Time là thời gian nói chung (không đếm được); a time/times có thể là một lần/các lần. What time hỏi giờ, how many times hỏi số lần.
+to|To là giới từ đến/hướng tới hoặc dấu hiệu nguyên mẫu: want to learn. Không phải mọi động từ sau một động từ khác đều có to.
+today;tomorrow;tonight;yesterday|Thông thường không thêm on/in/at trước các từ này: see you tomorrow, không phải on tomorrow.
+too|Too là cũng khi bổ sung hoặc quá khi đứng trước tính từ/trạng từ. Too hot thường gợi vượt mức phù hợp; very hot chỉ mức độ cao.
+tooth|Số nhiều bất quy tắc teeth. Tooth là một chiếc răng; không thêm s thành tooths.
+tourist;travel;trip|Tourist là người đi du lịch; travel là hoạt động đi lại; a trip là một chuyến cụ thể. Travel thường không đếm được trong nghĩa hoạt động.
+try|Try to do là cố gắng làm; try doing là thử một cách xem có hiệu quả không. Quá khứ tried, dạng -ing trying.
+type|Type là loại hoặc động từ gõ chữ; kind nghĩa loại có thể gần nghĩa trong nhiều ngữ cảnh, không chỉ kỹ thuật.
+understand|Understand–understood–understood. Không thêm am trước understand để nói tôi hiểu.
+use;useful|Use là động từ dùng, useful là tính từ hữu ích. Động từ use đọc /juːz/; danh từ use đọc /juːs/.
+very|Very bổ nghĩa cho nhiều tính từ/trạng từ: very good. Không dùng very + động từ để nói thích nhiều; dùng like ... very much.
+wait;waiter|Wait for someone/something; waiter là người phục vụ, không phải mọi người đang chờ. Waiter có thể dùng không chỉ định giới; waitress chỉ nữ phục vụ.
+wake|Wake up là thức dậy; wake someone up là đánh thức ai. Quá khứ woke, phân từ woken.
+wear|Wear chỉ đang mặc/đeo; put on là hành động mặc vào. Quá khứ wore, phân từ worn.
+weather|Danh từ không đếm được: good weather. Whether (liệu...) là từ khác có âm gần/giống weather.
+week;weekend|Tiếng Mỹ thường dùng on the weekend; tiếng Anh Anh thường at the weekend. Cả hai có thể dùng với một ngày cuối tuần cụ thể theo cấu trúc phù hợp.
+welcome|Welcome to + nơi: Welcome to our home. You're welcome là đáp lại lời cảm ơn, không dùng Welcome you thay cho lời chào đơn giản.
+what;which|What hỏi lựa chọn mở; which thường khi phạm vi lựa chọn đã rõ. Cả hai có thể đứng trước danh từ hoặc đi riêng.
+when;where;who;why|When hỏi thời gian, where hỏi nơi, who hỏi người, why hỏi lý do. Dùng đúng cấu trúc câu hỏi; không chỉ đổi một từ trong mọi câu.
+will|Will + động từ nguyên mẫu không to. Will not viết tắt won't; dùng cho dự đoán, quyết định tại lúc nói hoặc lời hứa tùy ngữ cảnh.
+with;without|With là có/cùng; without là không có. Sau giới từ without có thể dùng -ing: without asking.
+work|Work là công việc nói chung hoặc động từ làm việc; a job là một việc làm cụ thể. Không dùng a work để chỉ một công việc thông thường.
+would|Would like + danh từ/to-infinitive diễn tả muốn một cách lịch sự. Would you...? thường là đề nghị; would không tương đương will trong mọi câu.
+write|Write–wrote–written; writer là người viết; writing là việc/bài viết.
+yard|Yard là sân hoặc đơn vị độ dài 0,9144 m. Không dùng yard như từ đồng nghĩa hoàn toàn với garden.
+yeah;yes|Yeah là cách nói thân mật của yes; dùng yes trong trả lời trang trọng hoặc khi cần rõ ràng hơn.
+you;your;yourself|You dùng cả số ít và số nhiều. Your đứng trước danh từ, yours đi riêng; yourself là phản thân số ít, yourselves là số nhiều.

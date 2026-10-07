@@ -1,0 +1,495 @@
+# Explicit headword IDs separated by semicolons | original English | Vietnamese.
+a, an;apple;banana;bag|There is an apple and a banana in my bag.|Có một quả táo và một quả chuối trong túi của tôi.
+about;article;read|I read an article about healthy food.|Tôi đọc một bài viết về thực phẩm tốt cho sức khỏe.
+above;clock;door|The clock is above the door.|Đồng hồ ở phía trên cửa ra vào.
+across;river;bridge|We walk across the bridge over the river.|Chúng tôi đi bộ qua cây cầu bắc qua sông.
+action;plan|We need a plan before we take action.|Chúng ta cần một kế hoạch trước khi hành động.
+activity;favorite;swimming|Swimming is my favorite activity.|Bơi lội là hoạt động yêu thích nhất của tôi.
+actor;actress;movie|My brother is an actor, and my sister is an actress in this movie.|Anh tôi là diễn viên nam, còn chị tôi là diễn viên nữ trong bộ phim này.
+add;salt;soup|Add a little salt to the soup.|Thêm một ít muối vào súp.
+address;form|Write your address on this form.|Viết địa chỉ của bạn vào mẫu đơn này.
+adult;child;ticket|Each adult needs a ticket, but a child under five can enter for free.|Mỗi người lớn cần một vé, nhưng trẻ dưới năm tuổi được vào miễn phí.
+advice;help|Thank you for your advice and help.|Cảm ơn lời khuyên và sự giúp đỡ của bạn.
+afraid;dog|The girl is afraid of the dog.|Cô bé sợ con chó.
+after;afternoon;class|We play tennis after class in the afternoon.|Chúng tôi chơi quần vợt sau giờ học vào buổi chiều.
+again;repeat;please|Please repeat the question again.|Làm ơn nhắc lại câu hỏi lần nữa.
+age;old|What is your age? I am twenty years old.|Bạn bao nhiêu tuổi? Tôi hai mươi tuổi.
+ago;arrive|We arrived here two days ago.|Chúng tôi đến đây hai ngày trước.
+agree;opinion|I agree with your opinion.|Tôi đồng ý với ý kiến của bạn.
+air;fresh|Open the window to let some fresh air in.|Mở cửa sổ để đón chút không khí trong lành vào.
+airport;flight;plane|Our plane leaves the airport at nine; the flight takes two hours.|Máy bay của chúng tôi rời sân bay lúc chín giờ; chuyến bay kéo dài hai giờ.
+all;student;ready|All the students are ready for the test.|Tất cả học sinh đều sẵn sàng cho bài kiểm tra.
+also;guitar;piano|She plays the guitar and also plays the piano.|Cô ấy chơi ghi ta và cũng chơi piano.
+always;breakfast|I always eat breakfast before work.|Tôi luôn ăn sáng trước khi đi làm.
+amazing;view|The view from the mountain is amazing.|Cảnh nhìn từ trên núi thật tuyệt vời.
+and;bread;butter|We have bread and butter for breakfast.|Chúng tôi ăn bánh mì và bơ vào bữa sáng.
+angry;late|He is angry because I am late.|Anh ấy tức giận vì tôi đến muộn.
+animal;lion;elephant|A lion and an elephant are large animals.|Sư tử và voi là những động vật lớn.
+another;cup;tea|Would you like another cup of tea?|Bạn có muốn thêm một tách trà không?
+answer;question|Please answer the question in English.|Hãy trả lời câu hỏi bằng tiếng Anh.
+any;milk|Do we have any milk in the kitchen?|Chúng ta còn chút sữa nào trong bếp không?
+anyone;anything|Does anyone need anything from the supermarket?|Có ai cần thứ gì từ siêu thị không?
+apartment;live1|We live in a small apartment.|Chúng tôi sống trong một căn hộ nhỏ.
+april;month|April is the fourth month of the year.|Tháng Tư là tháng thứ tư trong năm.
+area;quiet|This area is quiet at night.|Khu vực này yên tĩnh vào ban đêm.
+arm;hand|Raise your arm and open your hand.|Giơ cánh tay lên và mở bàn tay ra.
+around;garden|There is a wall around the garden.|Có một bức tường bao quanh khu vườn.
+art;artist;painting|The artist shows her painting at an art festival.|Nữ nghệ sĩ trưng bày bức tranh của mình tại một lễ hội nghệ thuật.
+as;teacher|She works as a teacher.|Cô ấy làm giáo viên.
+ask;name|May I ask your name?|Tôi có thể hỏi tên bạn được không?
+at;station|Meet me at the station at six.|Gặp tôi ở nhà ga lúc sáu giờ.
+august;vacation|We take a vacation in August.|Chúng tôi đi nghỉ vào tháng Tám.
+aunt;uncle|My aunt and uncle are visiting us.|Dì và dượng tôi đang đến thăm chúng tôi.
+away;far|The hospital is far away from our town.|Bệnh viện ở rất xa thị trấn của chúng tôi.
+awesome;concert|That concert was awesome!|Buổi hòa nhạc đó tuyệt quá!
+baby;sleep|The baby is sleeping in her bed.|Em bé đang ngủ trên giường của bé.
+back;chair|My back hurts, so I sit on a chair.|Lưng tôi đau nên tôi ngồi xuống ghế.
+bad;weather|The weather is bad today.|Thời tiết hôm nay xấu.
+ball;boy|The boy throws the ball to his friend.|Cậu bé ném bóng cho bạn mình.
+band;music|The band plays music in the park.|Ban nhạc chơi nhạc trong công viên.
+bank (money);money|I put my money in the bank.|Tôi gửi tiền vào ngân hàng.
+bar;beer|We have a beer at the bar after work.|Chúng tôi uống một cốc bia ở quán bar sau giờ làm.
+baseball;basketball;sport|Baseball and basketball are popular sports in the United States.|Bóng chày và bóng rổ là những môn thể thao phổ biến ở Mỹ.
+bath;bathroom|There is a big bath in the bathroom.|Có một bồn tắm lớn trong phòng tắm.
+be;happy|I want to be happy.|Tôi muốn được hạnh phúc.
+beach;ocean|We walk on the beach and look at the ocean.|Chúng tôi đi bộ trên bãi biển và nhìn ra đại dương.
+beautiful;flower|These flowers are beautiful.|Những bông hoa này thật đẹp.
+because;hungry|I eat because I am hungry.|Tôi ăn vì tôi đói.
+become;doctor|She wants to become a doctor.|Cô ấy muốn trở thành bác sĩ.
+bed;bedroom|My bed is in the bedroom upstairs.|Giường của tôi ở trong phòng ngủ trên tầng.
+before;finish|Finish your homework before dinner.|Làm xong bài tập về nhà trước bữa tối.
+begin;beginning;lesson|We begin with a song at the beginning of the lesson.|Chúng ta bắt đầu bằng một bài hát ở đầu buổi học.
+behind;house|The car is behind the house.|Ô tô ở phía sau ngôi nhà.
+believe;true|I believe that the story is true.|Tôi tin câu chuyện đó là thật.
+below;line|Write your name below the line.|Viết tên bạn bên dưới dòng kẻ.
+best;better;good|This book is good, that one is better, and this is the best.|Cuốn sách này hay, cuốn kia hay hơn, còn cuốn này là hay nhất.
+between;next to|The cafe is between the bank and the store, next to our office.|Quán cà phê nằm giữa ngân hàng và cửa hàng, cạnh văn phòng của chúng tôi.
+bicycle;bike;ride|I ride my bicycle to school; my brother calls it a bike.|Tôi đi xe đạp đến trường; anh tôi gọi nó là bike.
+big;box|There is a big box on the table.|Có một hộp lớn trên bàn.
+bill;pay|Can I pay the bill by card?|Tôi có thể thanh toán hóa đơn bằng thẻ không?
+bird;tree|A bird is singing in the tree.|Một con chim đang hót trên cây.
+birthday;card|I sent her a card for her birthday.|Tôi gửi cô ấy một tấm thiệp nhân dịp sinh nhật.
+black;white;color|Black and white are my favorite colors.|Đen và trắng là những màu tôi thích nhất.
+blog;post;online|I write a post on my blog every week.|Tôi viết một bài đăng trên blog của mình mỗi tuần.
+blond;hair|He has blond hair.|Anh ấy có tóc vàng.
+blue;boat|The blue boat is on the river.|Chiếc thuyền màu xanh dương ở trên sông.
+body;exercise|Exercise is good for your body.|Tập thể dục tốt cho cơ thể bạn.
+book;library|I get this book from the library.|Tôi mượn cuốn sách này từ thư viện.
+boot;shoe|I wear boots in winter and shoes in summer.|Tôi đi ủng vào mùa đông và đi giày vào mùa hè.
+bored;boring|I feel bored because the movie is boring.|Tôi cảm thấy chán vì bộ phim tẻ nhạt.
+born;july|I was born in July.|Tôi sinh vào tháng Bảy.
+both;brother|Both my brothers like football.|Cả hai anh trai của tôi đều thích bóng bầu dục.
+bottle;water|Bring a bottle of water.|Mang theo một chai nước.
+boyfriend;girlfriend|My boyfriend and my sister's girlfriend are joining us for dinner.|Bạn trai tôi và bạn gái của chị tôi sẽ ăn tối cùng chúng tôi.
+break;glass|Be careful not to break the glass.|Cẩn thận đừng làm vỡ cốc.
+bring;take|Bring your book here, then take this bag home.|Mang sách của bạn đến đây, rồi mang túi này về nhà.
+brown;coat|He wears a brown coat.|Anh ấy mặc một chiếc áo khoác màu nâu.
+build;building|They build a new building near our school.|Họ xây một tòa nhà mới gần trường chúng tôi.
+bus;bus stop|We take the bus to work.|Chúng tôi đi xe buýt đến chỗ làm.
+business;company|She has a small business; her company sells clothes.|Cô ấy có một doanh nghiệp nhỏ; công ty của cô ấy bán quần áo.
+busy;but|I am busy, but I can help you later.|Tôi đang bận nhưng có thể giúp bạn sau.
+buy;cheap|I want to buy a cheap camera.|Tôi muốn mua một chiếc máy ảnh rẻ.
+by;train|We travel by train.|Chúng tôi đi bằng tàu hỏa.
+bye;goodbye|Bye, Dad! Goodbye, Mom!|Tạm biệt bố! Tạm biệt mẹ!
+cafe;coffee|We drink coffee at the cafe.|Chúng tôi uống cà phê ở quán.
+cake;chocolate|This chocolate cake is delicious.|Chiếc bánh sô cô la này rất ngon.
+call;phone|Call me on my phone after lunch.|Gọi vào điện thoại của tôi sau bữa trưa nhé.
+camera;photo|I take a photo with my camera.|Tôi chụp một bức ảnh bằng máy ảnh của mình.
+can1;cannot;swim|I can swim, but my brother cannot.|Tôi biết bơi, nhưng anh tôi thì không.
+capital;city|Hanoi is the capital city of Vietnam.|Hà Nội là thủ đô của Việt Nam.
+car;drive;driver|The driver drives a red car.|Người lái xe lái một chiếc ô tô màu đỏ.
+career;job|Her first job was the beginning of her career.|Công việc đầu tiên là khởi đầu sự nghiệp của cô ấy.
+carrot;potato;onion|Cut the carrot, potato, and onion for the soup.|Cắt cà rốt, khoai tây và hành để nấu súp.
+carry;heavy|Can you carry this bag for me?|Bạn có thể xách túi này giúp tôi không?
+cat;mouse|The cat watches a mouse in the garden.|Con mèo nhìn một con chuột trong vườn.
+cd;dvd|This CD has music, and this DVD has a movie.|Đĩa CD này có nhạc, còn đĩa DVD này có một bộ phim.
+cent;dollar|One dollar is one hundred cents.|Một đô la bằng một trăm xu.
+center;map|The library is in the center of the town on this map.|Trên bản đồ này, thư viện nằm ở trung tâm thị trấn.
+change;clothes|Change your clothes after the game.|Thay quần áo sau trận đấu.
+chart;result|This chart shows our test results.|Biểu đồ này cho thấy kết quả bài kiểm tra của chúng ta.
+check;passport|Please check your passport before you leave.|Hãy kiểm tra hộ chiếu trước khi đi.
+cheese;sandwich|I make a cheese sandwich for lunch.|Tôi làm một chiếc bánh mì kẹp phô mai cho bữa trưa.
+chicken;rice|We have chicken and rice for dinner.|Chúng tôi ăn thịt gà và cơm vào bữa tối.
+choose;menu|Choose a dish from the menu.|Chọn một món ăn trong thực đơn.
+classroom;desk|There are twenty desks in our classroom.|Có hai mươi bàn học trong phòng học của chúng tôi.
+clean;dirty;wash|Wash this dirty shirt until it is clean.|Giặt chiếc áo sơ mi bẩn này cho đến khi sạch.
+climb;mountain|We climb the mountain together.|Chúng tôi cùng nhau leo núi.
+close1;open;window|Please close the door and open the window.|Vui lòng đóng cửa ra vào và mở cửa sổ.
+club;join;member|Join our club and become a member.|Tham gia câu lạc bộ của chúng tôi và trở thành thành viên.
+cold;sick|I have a cold and feel sick.|Tôi bị cảm lạnh và thấy không khỏe.
+college;university|My sister goes to college; my brother studies at a university.|Chị tôi học cao đẳng; anh tôi học ở một trường đại học.
+come;here|Come here and sit with us.|Đến đây và ngồi cùng chúng tôi.
+common;mistake|This is a common mistake in English.|Đây là một lỗi phổ biến trong tiếng Anh.
+compare;price|Compare the prices before you buy.|So sánh giá trước khi mua.
+complete;project|We need to complete this project today.|Chúng tôi cần hoàn thành dự án này hôm nay.
+computer;internet|My computer is connected to the internet.|Máy tính của tôi được kết nối với Internet.
+conversation;dialogue|Read the dialogue, then have a conversation with a partner.|Đọc đoạn đối thoại rồi trò chuyện với một bạn cùng học.
+cook;cooking|I cook dinner because I enjoy cooking.|Tôi nấu bữa tối vì tôi thích nấu ăn.
+cool;warm|The room is cool in the morning but warm in the afternoon.|Căn phòng mát vào buổi sáng nhưng ấm vào buổi chiều.
+correct;wrong|Is this answer correct or wrong?|Câu trả lời này đúng hay sai?
+cost;expensive|How much does it cost? It is too expensive for me.|Nó giá bao nhiêu? Nó quá đắt đối với tôi.
+could;would|Could you help me? Would you like some tea?|Bạn có thể giúp tôi không? Bạn có muốn uống chút trà không?
+country;culture|I want to learn about the culture of your country.|Tôi muốn tìm hiểu văn hóa của đất nước bạn.
+course;language|I am taking a language course.|Tôi đang học một khóa ngôn ngữ.
+cousin;family|My cousin lives with our family.|Anh họ tôi sống cùng gia đình chúng tôi.
+cow;farm;farmer|The farmer keeps a cow on his farm.|Người nông dân nuôi một con bò cái ở trang trại.
+cream;ice cream|We use fresh cream to make ice cream.|Chúng tôi dùng kem sữa tươi để làm kem.
+create;design|Create a new design for our website.|Tạo một thiết kế mới cho trang web của chúng ta.
+customer;store|The customer is in the store.|Khách hàng đang ở trong cửa hàng.
+cut;piece|Cut a small piece of cake.|Cắt một miếng bánh nhỏ.
+dad;father;mom;mother|I call my father Dad and my mother Mom.|Tôi gọi cha là bố và mẹ là mẹ.
+dance;dancer;dancing|The dancer loves dancing and teaches us a new dance.|Vũ công thích nhảy múa và dạy chúng tôi một điệu nhảy mới.
+dangerous;fire|Fire can be dangerous.|Lửa có thể nguy hiểm.
+dark;light (from the sun/a lamp)|The room is dark; turn on the light.|Căn phòng tối; hãy bật đèn.
+date;december|The date of the party is December twenty-fifth.|Bữa tiệc diễn ra ngày hai mươi lăm tháng Mười Hai.
+daughter;son|Their daughter is ten, and their son is eight.|Con gái của họ mười tuổi, còn con trai tám tuổi.
+day;night|I work during the day and sleep at night.|Tôi làm việc ban ngày và ngủ ban đêm.
+dear;letter|Dear Anna, thank you for your letter.|Anna thân mến, cảm ơn lá thư của bạn.
+decide;future|We must decide what to do in the future.|Chúng ta phải quyết định sẽ làm gì trong tương lai.
+delicious;meal|This meal is delicious.|Bữa ăn này ngon quá.
+describe;description|Describe your room, then write a short description.|Miêu tả căn phòng của bạn, rồi viết một đoạn mô tả ngắn.
+detail;picture|Look at the small details in this picture.|Hãy nhìn những chi tiết nhỏ trong bức tranh này.
+dictionary;meaning|Find the meaning of this word in a dictionary.|Tìm nghĩa của từ này trong từ điển.
+die;life|Plants die without water; water is important for life.|Cây chết khi không có nước; nước quan trọng đối với sự sống.
+diet;vegetable|My diet includes a lot of vegetables.|Chế độ ăn của tôi gồm nhiều rau.
+difference;different|What is the difference between these two different pictures?|Hai bức tranh khác nhau này có điểm gì khác biệt?
+difficult;easy|The first question is easy, but the last is difficult.|Câu hỏi đầu tiên dễ, nhưng câu cuối khó.
+dinner;lunch|I have lunch at noon and dinner at seven.|Tôi ăn trưa lúc mười hai giờ và ăn tối lúc bảy giờ.
+discuss;topic|Let us discuss this topic together.|Chúng ta hãy cùng thảo luận chủ đề này.
+dish;fish|This fish dish is my favorite.|Món cá này là món tôi thích nhất.
+do1;homework|What do you do after school? I do my homework.|Bạn làm gì sau giờ học? Tôi làm bài tập về nhà.
+doctor;nurse;hospital|The doctor and the nurse work at the hospital.|Bác sĩ và điều dưỡng làm việc ở bệnh viện.
+down;up|Walk down the street, then go up the stairs.|Đi xuôi con phố, rồi đi lên cầu thang.
+downstairs;upstairs|My room is upstairs, and the kitchen is downstairs.|Phòng tôi ở tầng trên, còn bếp ở tầng dưới.
+draw;pencil|Draw a flower with a pencil.|Vẽ một bông hoa bằng bút chì.
+dress;skirt|She wears a dress today and a skirt tomorrow.|Hôm nay cô ấy mặc váy liền, ngày mai mặc chân váy.
+drink;juice|I drink orange juice every morning.|Tôi uống nước cam mỗi sáng.
+during;week|I study during the week and relax at the weekend.|Tôi học trong tuần và thư giãn vào cuối tuần.
+each;every|Each student gets a book, and every student reads it.|Mỗi học sinh nhận một cuốn sách và tất cả học sinh đều đọc sách đó.
+ear;eye;nose;mouth|I draw a face with two eyes, two ears, a nose, and a mouth.|Tôi vẽ một khuôn mặt có hai mắt, hai tai, một mũi và một miệng.
+early;morning|I wake up early in the morning.|Tôi thức dậy sớm vào buổi sáng.
+east;west;sun|The sun rises in the east and sets in the west.|Mặt trời mọc ở phía đông và lặn ở phía tây.
+eat;egg|I eat an egg for breakfast.|Tôi ăn một quả trứng vào bữa sáng.
+eight;eighteen;eighty|Eight plus ten is eighteen; ten times eight is eighty.|Tám cộng mười bằng mười tám; mười nhân tám bằng tám mươi.
+eleven;twelve;thirteen|Eleven, twelve, and thirteen are the next three numbers.|Mười một, mười hai và mười ba là ba số tiếp theo.
+else;other|What else do you need? Are there any other things on your list?|Bạn còn cần gì nữa? Có thứ nào khác trong danh sách của bạn không?
+email;send|Send me an email with your address.|Gửi cho tôi một email kèm địa chỉ của bạn.
+end;last1 (final)|The last page is at the end of the book.|Trang cuối nằm ở phần cuối của cuốn sách.
+enjoy;fun|We enjoy the game because it is fun.|Chúng tôi thích trò chơi vì nó vui.
+enough;full|I have eaten enough; I am full.|Tôi đã ăn đủ; tôi no rồi.
+euro;pound|The price is ten euros or about nine pounds.|Giá là mười euro hoặc khoảng chín bảng Anh.
+even;surprised|Even my little brother knows the answer.|Ngay cả em trai nhỏ của tôi cũng biết câu trả lời.
+evening;tonight|I work this evening, but I am free later tonight.|Tôi làm việc vào buổi tối, nhưng sẽ rảnh muộn hơn tối nay.
+event;festival|The music festival is a big event in our town.|Lễ hội âm nhạc là một sự kiện lớn ở thị trấn chúng tôi.
+ever;never|Have you ever been to Japan? I have never been there.|Bạn từng đến Nhật Bản chưa? Tôi chưa bao giờ đến đó.
+everybody;everyone;everything|Everybody is here; everyone is ready, and everything is on the table.|Mọi người đều ở đây; ai cũng sẵn sàng và mọi thứ đều trên bàn.
+exam;test|We have a short test today and a final exam next week.|Chúng tôi có bài kiểm tra ngắn hôm nay và kỳ thi cuối kỳ vào tuần sau.
+example;sentence|Write a sentence with this word; use my sentence as an example.|Viết một câu với từ này; dùng câu của tôi làm ví dụ.
+excited;exciting|The children are excited about the exciting trip.|Bọn trẻ hào hứng với chuyến đi thú vị.
+explain;reason|Please explain the reason for your answer.|Hãy giải thích lý do cho câu trả lời của bạn.
+extra;space|We need extra space for another chair.|Chúng ta cần thêm chỗ cho một chiếc ghế nữa.
+face;smile|There is a smile on her face.|Trên khuôn mặt cô ấy có một nụ cười.
+fact;false|Check the facts; that story is false.|Kiểm tra thông tin có thật; câu chuyện đó sai.
+fall;spring;summer;winter|Spring, summer, fall, and winter are the four seasons.|Xuân, hạ, thu và đông là bốn mùa.
+famous;star|She is a famous movie star.|Cô ấy là một ngôi sao điện ảnh nổi tiếng.
+fantastic;wonderful;great|We had a fantastic day, a wonderful meal, and a great evening.|Chúng tôi có một ngày tuyệt vời, một bữa ăn ngon và một buổi tối rất vui.
+fast;slow|This train is fast, but that bus is slow.|Tàu này nhanh, nhưng xe buýt kia chậm.
+fat;healthy|Too much fat is not healthy.|Quá nhiều chất béo không tốt cho sức khỏe.
+february;january|January comes before February.|Tháng Một đến trước tháng Hai.
+feel;feeling|I feel happy; it is a wonderful feeling.|Tôi cảm thấy vui; đó là một cảm giác tuyệt vời.
+few;many|I have a few books, but my teacher has many books.|Tôi có một vài cuốn sách, nhưng giáo viên của tôi có nhiều sách.
+fifteen;fifty;fifth|On my fifth visit, I bought fifteen tickets for fifty dollars.|Trong lần đến thứ năm, tôi mua mười lăm vé với giá năm mươi đô la.
+fill;form|Fill in your name on the form.|Điền tên của bạn vào mẫu đơn.
+final;first;fourth;third|The first, third, and fourth questions are easy; the final one is hard.|Câu thứ nhất, thứ ba và thứ tư dễ; câu cuối khó.
+find;key|I cannot find my key.|Tôi không tìm thấy chìa khóa của mình.
+fine;well|I am fine, thank you. I feel well today.|Tôi ổn, cảm ơn bạn. Hôm nay tôi thấy khỏe.
+five;four;fourteen;forty|Four plus five is nine; fourteen plus forty is fifty-four.|Bốn cộng năm bằng chín; mười bốn cộng bốn mươi bằng năm mươi tư.
+floor;room|My room is on the third floor.|Phòng tôi ở tầng ba.
+fly;bird|Birds can fly, but some birds cannot.|Chim có thể bay, nhưng một số loài chim không thể.
+follow;rule|Follow the rules when you play this game.|Tuân thủ quy tắc khi chơi trò chơi này.
+food;fruit|Fruit is a kind of food.|Trái cây là một loại thực phẩm.
+foot;leg|My left foot hurts, but my right leg is fine.|Bàn chân trái tôi đau, nhưng chân phải vẫn ổn.
+football;team|Our football team won the game.|Đội bóng bầu dục của chúng tôi đã thắng trận đấu.
+for;present|This present is for you.|Món quà này dành cho bạn.
+forget;remember|Do not forget your bag; remember to bring it.|Đừng quên túi của bạn; nhớ mang theo nó.
+free;weekend|Are you free this weekend?|Cuối tuần này bạn có rảnh không?
+friday;saturday;sunday|We work on Friday and rest on Saturday and Sunday.|Chúng tôi làm việc vào thứ Sáu và nghỉ vào thứ Bảy, Chủ nhật.
+friend;friendly|My friend is friendly to everyone.|Bạn tôi thân thiện với mọi người.
+from;to|We travel from Hanoi to Hue.|Chúng tôi đi từ Hà Nội đến Huế.
+front;behind|The bus stop is in front of the school, not behind it.|Trạm xe buýt ở trước trường, không phải phía sau.
+funny;laugh|The funny story makes me laugh.|Câu chuyện buồn cười khiến tôi cười.
+game;win|Our team hopes to win the game.|Đội chúng tôi hy vọng thắng trận đấu.
+garden;plant|I grow plants in my garden.|Tôi trồng cây trong vườn.
+geography;history;subject|Geography and history are my favorite subjects.|Địa lý và lịch sử là những môn học tôi thích nhất.
+get;message|I get a message from my sister every morning.|Tôi nhận được một tin nhắn từ chị tôi mỗi sáng.
+girl;boy|The girl and the boy are in the same class.|Cô bé và cậu bé học cùng lớp.
+give;me|Give me your phone number, please.|Làm ơn cho tôi số điện thoại của bạn.
+go;home|I go home after work.|Tôi về nhà sau giờ làm.
+grandfather;grandmother;grandparent|My grandfather and grandmother are my grandparents.|Ông và bà là ông bà của tôi.
+gray;green|The sky is gray, but the trees are green.|Bầu trời màu xám, nhưng cây có màu xanh lá.
+group;people|A group of people is waiting outside.|Một nhóm người đang đợi bên ngoài.
+grow;tree|These trees grow quickly.|Những cây này lớn nhanh.
+guess;answer|Guess the answer before you check it.|Đoán câu trả lời trước khi kiểm tra.
+gym;strong|I go to the gym to become strong.|Tôi đến phòng tập để trở nên khỏe hơn.
+half;hour|The lesson lasts half an hour.|Buổi học kéo dài nửa giờ.
+happen;situation|What happened? Tell me about the situation.|Chuyện gì đã xảy ra? Kể cho tôi về tình huống đó.
+hard;work|She works hard every day.|Cô ấy làm việc chăm chỉ mỗi ngày.
+hat;head|He wears a hat on his head.|Anh ấy đội mũ trên đầu.
+hate;love|I love music, but I hate loud noise.|Tôi yêu âm nhạc nhưng ghét tiếng ồn lớn.
+have;have to|I have a car, but I have to walk today.|Tôi có ô tô nhưng hôm nay tôi phải đi bộ.
+he;his;him|He is my brother; this is his bag, and I give it to him.|Anh ấy là anh trai tôi; đây là túi của anh ấy và tôi đưa nó cho anh ấy.
+health;important|Good sleep is important for your health.|Ngủ ngon quan trọng đối với sức khỏe của bạn.
+hear;listen|I can hear the radio, but I am listening to you.|Tôi nghe thấy radio nhưng đang lắng nghe bạn.
+hello;hey;hi|Hello, Anna! Hi, Ben! Hey, are you coming with us?|Xin chào Anna! Chào Ben! Này, bạn có đi cùng chúng tôi không?
+her;she|She is my sister; I help her with her homework.|Cô ấy là chị tôi; tôi giúp cô ấy làm bài tập về nhà.
+high;tall|The mountain is high, and the tree beside it is tall.|Ngọn núi cao và cây bên cạnh cũng cao.
+hobby;reading|Reading is my hobby.|Đọc sách là sở thích của tôi.
+hope;soon|I hope to see you soon.|Tôi hy vọng sớm gặp bạn.
+horse;ride|She rides a horse on the farm.|Cô ấy cưỡi ngựa ở trang trại.
+hot;pepper|This pepper is very hot.|Quả ớt này rất cay.
+hotel;stay|We stay at a hotel near the beach.|Chúng tôi ở tại một khách sạn gần bãi biển.
+house;home|This house is our home.|Ngôi nhà này là tổ ấm của chúng tôi.
+how;much|How much water do you need?|Bạn cần bao nhiêu nước?
+however;rain|I want to go out; however, it is raining.|Tôi muốn ra ngoài; tuy nhiên, trời đang mưa.
+hundred;thousand;million|A thousand is ten times a hundred; a million is a thousand thousands.|Một nghìn bằng mười lần một trăm; một triệu bằng một nghìn lần một nghìn.
+husband;wife;married|Anna and Ben are married; Anna is his wife, and Ben is her husband.|Anna và Ben đã kết hôn; Anna là vợ của Ben và Ben là chồng của Anna.
+i;my|I live with my family.|Tôi sống cùng gia đình của mình.
+ice;cold|Put some ice in the drink to keep it cold.|Cho chút đá vào đồ uống để giữ lạnh.
+idea;imagine|Imagine a new kind of school; tell us your idea.|Hãy tưởng tượng một kiểu trường học mới; nói cho chúng tôi ý tưởng của bạn.
+if;want|If you want help, ask me.|Nếu bạn muốn được giúp đỡ, hãy hỏi tôi.
+improve;skill|Practice every day to improve your skills.|Luyện tập hằng ngày để cải thiện kỹ năng của bạn.
+in;into|Put the book into your bag; it is now in the bag.|Bỏ sách vào túi; bây giờ sách ở trong túi.
+include;information|Please include this information in your email.|Hãy đưa thông tin này vào email của bạn.
+interest;interested;interesting|I have an interest in art; I am interested in this interesting painting.|Tôi quan tâm đến nghệ thuật; tôi thấy hứng thú với bức tranh thú vị này.
+interview;job|She has a job interview on Monday.|Cô ấy có một cuộc phỏng vấn xin việc vào thứ Hai.
+introduce;yourself|Please introduce yourself to the group.|Hãy giới thiệu bản thân với nhóm.
+island;boat|We travel to the island by boat.|Chúng tôi đến đảo bằng thuyền.
+it;its|It is a cat; its name is Snow.|Đó là một con mèo; tên nó là Snow.
+jacket;jeans;t-shirt|He wears a jacket, jeans, and a T-shirt.|Anh ấy mặc áo khoác, quần jeans và áo phông.
+june;july;august|June, July, and August are summer months here.|Ở đây, tháng Sáu, tháng Bảy và tháng Tám là những tháng mùa hè.
+just;now|I have just finished my work; I am free now.|Tôi vừa làm xong việc; bây giờ tôi rảnh.
+keep;useful|Keep this map; it is useful.|Giữ bản đồ này; nó hữu ích.
+kind (type);type|What kind of music do you like? This type is popular.|Bạn thích loại nhạc nào? Loại này phổ biến.
+kitchen;table|We have a table in the kitchen.|Chúng tôi có một chiếc bàn trong bếp.
+know;understand|I know this word, but I do not understand the sentence.|Tôi biết từ này nhưng không hiểu câu.
+land;island|The boat reaches the land near the island.|Thuyền đến phần đất liền gần hòn đảo.
+large;small|This room is large, but that room is small.|Phòng này rộng, nhưng phòng kia nhỏ.
+later;return|I will return later today.|Tôi sẽ trở lại muộn hơn hôm nay.
+learn;study|I learn new words when I study English.|Tôi học từ mới khi học tiếng Anh.
+leave;office|I leave the office at five.|Tôi rời văn phòng lúc năm giờ.
+left;right;turn|Turn left, then turn right at the next street.|Rẽ trái, rồi rẽ phải ở con phố tiếp theo.
+let;us|Let us help you.|Hãy để chúng tôi giúp bạn.
+letter;spell;spelling|Spell the word letter; check your spelling.|Đánh vần từ letter; kiểm tra chính tả của bạn.
+lie1;bed|I lie on the bed after lunch.|Tôi nằm trên giường sau bữa trưa.
+like (find sb/sth pleasant);like (similar)|I like your bag; it looks like mine.|Tôi thích túi của bạn; nó trông giống túi của tôi.
+list;shopping|Write a list before you go shopping.|Viết một danh sách trước khi đi mua sắm.
+little;lot|I have a little time today, but a lot of time tomorrow.|Hôm nay tôi có ít thời gian, nhưng ngày mai có nhiều thời gian.
+local;market|We buy fruit at the local market.|Chúng tôi mua trái cây ở chợ địa phương.
+long1;short|This road is long, but that street is short.|Con đường này dài, còn con phố kia ngắn.
+look;see|Look at the window; can you see the bird?|Nhìn về phía cửa sổ; bạn có thấy con chim không?
+lose;find|I often lose my keys, but I usually find them.|Tôi thường làm mất chìa khóa, nhưng thường tìm lại được.
+machine;use|We use this machine to make coffee.|Chúng tôi dùng máy này để pha cà phê.
+magazine;newspaper;news|I read the news in a newspaper, not in this fashion magazine.|Tôi đọc tin tức trên báo, không phải trong tạp chí thời trang này.
+main;street|Our store is on the main street.|Cửa hàng chúng tôi nằm trên đường phố chính.
+make;breakfast|I make breakfast for my children.|Tôi làm bữa sáng cho các con.
+mall;shop|There are many shops in the mall.|Có nhiều cửa hàng trong trung tâm mua sắm.
+man;woman|A man and a woman are waiting at the door.|Một người đàn ông và một phụ nữ đang chờ ở cửa.
+march;may|March comes before April, and May comes after it.|Tháng Ba đến trước tháng Tư, còn tháng Năm đến sau.
+match (contest/correspond);tennis|We watch a tennis match; our shirts match the team colors.|Chúng tôi xem một trận quần vợt; áo của chúng tôi cùng màu với đội.
+maybe;probably|Maybe it will rain; it will probably be cold too.|Có lẽ trời sẽ mưa; rất có thể trời cũng sẽ lạnh.
+mean;meaning|What does this word mean? Tell me its meaning.|Từ này có nghĩa là gì? Nói cho tôi nghĩa của nó.
+meat;chicken|I eat chicken, but I do not eat red meat.|Tôi ăn thịt gà nhưng không ăn thịt đỏ.
+meet;meeting|We meet our teacher before the meeting.|Chúng tôi gặp giáo viên trước cuộc họp.
+meter;mile|One mile is about sixteen hundred meters.|Một dặm xấp xỉ một nghìn sáu trăm mét.
+midnight;minute1;second1 (unit of time)|At midnight, wait one minute and then one second.|Vào nửa đêm, chờ một phút rồi thêm một giây.
+miss;bus|Do not miss the last bus.|Đừng bỏ lỡ chuyến xe buýt cuối.
+model;train|The child plays with a model train.|Đứa trẻ chơi với một mô hình tàu hỏa.
+modern;building|We work in a modern building.|Chúng tôi làm việc trong một tòa nhà hiện đại.
+moment;wait|Wait a moment, please.|Vui lòng đợi một chút.
+monday;tuesday;wednesday;thursday|I work on Monday, Tuesday, Wednesday, and Thursday.|Tôi làm việc vào thứ Hai, thứ Ba, thứ Tư và thứ Năm.
+month;year|There are twelve months in a year.|Có mười hai tháng trong một năm.
+more;most|Anna has more books than Ben; Lily has the most.|Anna có nhiều sách hơn Ben; Lily có nhiều nhất.
+mountain;high|This mountain is very high.|Ngọn núi này rất cao.
+move;house|We move to a new house next week.|Chúng tôi chuyển đến một ngôi nhà mới vào tuần sau.
+museum;visit;visitor|Many visitors visit the museum every day.|Nhiều khách đến tham quan bảo tàng mỗi ngày.
+must;should|You must wear a seat belt, and you should drive slowly.|Bạn phải thắt dây an toàn và nên lái xe chậm.
+natural;light (from the sun/a lamp)|This room has a lot of natural light.|Căn phòng này có nhiều ánh sáng tự nhiên.
+near;next to|Our house is near the school and next to a park.|Nhà chúng tôi gần trường và bên cạnh một công viên.
+need;want|I want a new phone, but I need food first.|Tôi muốn điện thoại mới, nhưng trước hết tôi cần thức ăn.
+negative;positive;statement|This sentence is a positive statement; add not to make it negative.|Câu này là câu khẳng định; thêm not để biến nó thành câu phủ định.
+neighbor;neighborhood|My neighbor lives in this quiet neighborhood.|Hàng xóm của tôi sống trong khu phố yên tĩnh này.
+new;old|My new phone is better than my old phone.|Điện thoại mới của tôi tốt hơn điện thoại cũ.
+next;week|Our next lesson is next week.|Buổi học kế tiếp của chúng ta vào tuần sau.
+nice;person|She is a nice person.|Cô ấy là một người tử tế.
+nine;nineteen;ninety|Nine plus ten is nineteen; nine times ten is ninety.|Chín cộng mười bằng mười chín; chín nhân mười bằng chín mươi.
+no;not|No, that is not my book.|Không, đó không phải sách của tôi.
+no one;nobody;nothing|No one is here; nobody is waiting, and there is nothing on the desk.|Không ai ở đây; không ai đang đợi và không có gì trên bàn.
+north;south|We travel from the north to the south of the country.|Chúng tôi đi từ miền bắc đến miền nam của đất nước.
+note;pen;paper|Write a note with a pen on this paper.|Viết một lời nhắn bằng bút trên tờ giấy này.
+november;october;september|September, October, and November come before December.|Tháng Chín, tháng Mười và tháng Mười Một đến trước tháng Mười Hai.
+number;phone|What is your phone number?|Số điện thoại của bạn là gì?
+object;thing|What is that object? It looks like a small metal thing.|Vật đó là gì? Nó trông như một vật nhỏ bằng kim loại.
+of;piece|Would you like a piece of cake?|Bạn có muốn một miếng bánh không?
+off;on|Turn the light off, then turn it on again.|Tắt đèn, rồi bật lại.
+often;usually;sometimes|I often walk to work; I usually take the bus when it rains, and sometimes I drive.|Tôi hay đi bộ đi làm; thường đi xe buýt khi trời mưa, và đôi khi lái xe.
+oh;ok|Oh, I see. OK, let us go.|Ồ, tôi hiểu rồi. Được, chúng ta đi thôi.
+once;twice|I call my mom once a day and visit her twice a week.|Tôi gọi mẹ mỗi ngày một lần và đến thăm mẹ mỗi tuần hai lần.
+one;two;three|I have one dog, two cats, and three birds.|Tôi có một con chó, hai con mèo và ba con chim.
+online;website|I buy tickets online from this website.|Tôi mua vé trực tuyến từ trang web này.
+only;own|This is my only coat, and I bought it with my own money.|Đây là chiếc áo khoác duy nhất của tôi và tôi mua nó bằng tiền của mình.
+opposite;outside|The shop is opposite our house; I wait outside the shop.|Cửa hàng đối diện nhà chúng tôi; tôi đợi bên ngoài cửa hàng.
+or;orange|Would you like an orange or an apple?|Bạn muốn một quả cam hay một quả táo?
+order;restaurant|We order soup at the restaurant.|Chúng tôi gọi súp ở nhà hàng.
+our;we|We love our school.|Chúng tôi yêu trường của mình.
+out;away|Go out and put the bag away.|Đi ra ngoài và cất túi đi.
+over;under|The bird flies over the tree, and the cat sits under it.|Chim bay qua phía trên cây, còn mèo ngồi dưới cây.
+o’clock;time|What time is it? It is three o'clock.|Mấy giờ rồi? Ba giờ đúng.
+page;paragraph;section|Read the first paragraph of this section on page ten.|Đọc đoạn văn đầu tiên của phần này ở trang mười.
+paint;painting|I paint flowers; this painting is for my mom.|Tôi vẽ hoa bằng màu; bức tranh này dành cho mẹ tôi.
+pair;pants|I need a new pair of pants.|Tôi cần một chiếc quần dài mới.
+parent;family|Each parent comes to the school with their child.|Mỗi phụ huynh đến trường cùng con của mình.
+park;car|You can park your car near the park.|Bạn có thể đỗ xe gần công viên.
+part;body|The hand is a part of the body.|Bàn tay là một bộ phận của cơ thể.
+partner;work|I work with a partner on this project.|Tôi làm dự án này cùng một người cộng sự.
+party;invite|We have a party on Saturday.|Chúng tôi tổ chức tiệc vào thứ Bảy.
+past;time|In the past, I walked to school; now I take the bus.|Trước đây tôi đi bộ đến trường; bây giờ tôi đi xe buýt.
+people;person|One person is waiting inside; three people are outside.|Một người đang đợi bên trong; ba người ở bên ngoài.
+perfect;day|It is a perfect day for a walk.|Đây là một ngày lý tưởng để đi dạo.
+period;sentence|Put a period at the end of the sentence.|Đặt dấu chấm ở cuối câu.
+personal;information|Do not share your personal information with strangers.|Đừng chia sẻ thông tin cá nhân với người lạ.
+photograph;photo|This photograph is old; that photo is new.|Bức ảnh này cũ; bức ảnh kia mới.
+phrase;word|A phrase can contain more than one word.|Một cụm từ có thể chứa nhiều hơn một từ.
+picture;photo|Draw a picture of your house, or take a photo of it.|Vẽ một bức tranh ngôi nhà của bạn hoặc chụp ảnh nó.
+pig;sheep|The farmer has a pig and two sheep.|Người nông dân có một con lợn và hai con cừu.
+pink;purple;yellow|She has a pink bag, a purple hat, and a yellow coat.|Cô ấy có túi màu hồng, mũ màu tím và áo khoác màu vàng.
+place;town|This town is a nice place to live.|Thị trấn này là một nơi dễ chịu để sống.
+plant;grow|This plant grows near the window.|Cây này mọc gần cửa sổ.
+play;player|The players play basketball after school.|Các cầu thủ chơi bóng rổ sau giờ học.
+point;map|Point to your city on the map.|Chỉ vào thành phố của bạn trên bản đồ.
+police;policeman|The policeman calls the police station.|Nam cảnh sát gọi về đồn cảnh sát.
+pool;swim|We swim in the pool.|Chúng tôi bơi trong hồ bơi.
+poor;rich|He was poor before, but now he is rich.|Trước đây anh ấy nghèo, nhưng bây giờ anh ấy giàu.
+popular;singer|She is a popular singer.|Cô ấy là một ca sĩ được yêu thích.
+possible;impossible|Is it possible to finish this today?|Có thể hoàn thành việc này hôm nay không?
+practice;skill|Practice your speaking skills every day.|Luyện kỹ năng nói mỗi ngày.
+prefer;coffee|I prefer tea to coffee.|Tôi thích trà hơn cà phê.
+prepare;ready|Prepare your bag so you are ready for school.|Chuẩn bị túi để sẵn sàng đi học.
+present;gift|This present is for your birthday.|Món quà này dành cho sinh nhật của bạn.
+pretty;dress|That is a pretty dress.|Đó là một chiếc váy xinh.
+problem;answer|We need an answer to this problem.|Chúng ta cần lời giải cho vấn đề này.
+product;price|This product has a low price.|Sản phẩm này có giá thấp.
+program;television;tv|This television program is on TV tonight.|Chương trình truyền hình này lên sóng ti vi tối nay.
+put;table|Put your phone on the table.|Đặt điện thoại của bạn lên bàn.
+quarter;hour|A quarter of an hour is fifteen minutes.|Một phần tư giờ là mười lăm phút.
+quick;quickly|She gives a quick answer and leaves quickly.|Cô ấy trả lời nhanh rồi rời đi nhanh chóng.
+quite;quiet|This room is quite quiet.|Căn phòng này khá yên tĩnh.
+radio;listen|Listen to the news on the radio.|Nghe tin tức trên radio.
+rain;umbrella|Take an umbrella because it may rain.|Mang theo ô vì trời có thể mưa.
+reader;read;reading|The reader likes reading and reads every evening.|Người đọc thích việc đọc và đọc sách mỗi tối.
+real;really|Is this a real diamond? It is really beautiful.|Đây có phải kim cương thật không? Nó thực sự đẹp.
+red;shirt|He wears a red shirt.|Anh ấy mặc áo sơ mi đỏ.
+relax;weekend|I relax at home on the weekend.|Tôi thư giãn ở nhà vào cuối tuần.
+report;result|Write a report about the results.|Viết báo cáo về các kết quả.
+return;book|Please return the book to the library.|Vui lòng trả sách lại cho thư viện.
+road;traffic|There is a lot of traffic on this road.|Có nhiều xe cộ trên con đường này.
+routine;usually|My morning routine usually starts with breakfast.|Thói quen buổi sáng của tôi thường bắt đầu bằng bữa sáng.
+run;sport|I run every day because I like sport.|Tôi chạy hằng ngày vì thích thể thao.
+sad;sorry|I am sorry that you are sad.|Tôi rất tiếc vì bạn buồn.
+salad;tomato|I make a salad with tomatoes.|Tôi làm món rau trộn với cà chua.
+same;similar|Our bags are similar, but they are not the same.|Túi của chúng tôi tương tự nhau, nhưng không phải cùng một túi.
+say;tell|Say hello to Anna, then tell her your name.|Chào Anna, rồi nói cho cô ấy biết tên bạn.
+school;student|The students are at school.|Các học sinh đang ở trường.
+science;scientist|The scientist teaches science.|Nhà khoa học dạy môn khoa học.
+sell;buy|They sell fruit, and I buy apples.|Họ bán trái cây và tôi mua táo.
+seven;seventeen;seventy|Seven plus ten is seventeen; seven times ten is seventy.|Bảy cộng mười bằng mười bảy; bảy nhân mười bằng bảy mươi.
+share;room|I share a room with my brother.|Tôi ở chung phòng với anh trai.
+shopping;shop|We go shopping at a small shop.|Chúng tôi đi mua sắm ở một cửa hàng nhỏ.
+show;photo|Show me your photo, please.|Làm ơn cho tôi xem ảnh của bạn.
+shower;bath|I take a shower in the morning and a bath at night.|Tôi tắm vòi sen buổi sáng và tắm bồn buổi tối.
+sing;singer;song|The singer sings a new song.|Ca sĩ hát một bài hát mới.
+sister;brother|My sister is older than my brother.|Chị tôi lớn tuổi hơn anh tôi.
+sit;stand|Sit here, or stand near the door.|Ngồi đây hoặc đứng gần cửa.
+six;sixteen;sixty|Six plus ten is sixteen; six times ten is sixty.|Sáu cộng mười bằng mười sáu; sáu nhân mười bằng sáu mươi.
+smart;child|That child is very smart.|Đứa trẻ đó rất thông minh.
+snake;animal|A snake is an animal without legs.|Rắn là một loài động vật không có chân.
+snow;winter|There is snow on the mountain in winter.|Có tuyết trên núi vào mùa đông.
+so;tired|I am tired, so I go to bed.|Tôi mệt nên đi ngủ.
+some;bread|Would you like some bread?|Bạn có muốn chút bánh mì không?
+somebody;someone;something|Somebody is at the door; someone wants to tell you something.|Có ai đó ở cửa; một người muốn nói với bạn điều gì đó.
+soon;start|The movie will start soon.|Bộ phim sẽ bắt đầu sớm thôi.
+sound;music|The sound of the music is beautiful.|Âm thanh của bản nhạc thật đẹp.
+speak;language|I speak two languages.|Tôi nói hai ngôn ngữ.
+special;day|Your birthday is a special day.|Sinh nhật của bạn là một ngày đặc biệt.
+spend;money|I spend little money on clothes.|Tôi tiêu ít tiền vào quần áo.
+star;night|We look at the stars at night.|Chúng tôi ngắm sao vào ban đêm.
+start;stop|Start the car, then stop at the next street.|Khởi động ô tô rồi dừng ở con phố tiếp theo.
+stay;home|Stay at home until you feel better.|Ở nhà cho đến khi bạn thấy khỏe hơn.
+still;wait|I am still waiting for the bus.|Tôi vẫn đang đợi xe buýt.
+story;write|Write a short story about your family.|Viết một câu chuyện ngắn về gia đình bạn.
+strong;weak|My brother is strong and can carry this box.|Anh tôi khỏe và có thể mang chiếc hộp này.
+style;modern|I like the modern style of this room.|Tôi thích phong cách hiện đại của căn phòng này.
+success;work|Her hard work brings success.|Việc làm chăm chỉ mang lại thành công cho cô ấy.
+sugar;tea|Do not put sugar in my tea.|Đừng cho đường vào trà của tôi.
+supermarket;vegetable|We buy vegetables at the supermarket.|Chúng tôi mua rau ở siêu thị.
+sure;answer|Are you sure about your answer?|Bạn có chắc về câu trả lời của mình không?
+sweater;warm|This sweater keeps me warm.|Chiếc áo len này giữ ấm cho tôi.
+talk;conversation|We talk every day; our conversation is always interesting.|Chúng tôi nói chuyện mỗi ngày; cuộc trò chuyện luôn thú vị.
+tall;short|My brother is tall, but I am short.|Anh tôi cao, còn tôi thấp.
+taxi;take|Take a taxi to the airport.|Đi taxi đến sân bay.
+teach;teacher|The teacher teaches us English.|Giáo viên dạy chúng tôi tiếng Anh.
+team;player|Each player is important to the team.|Mỗi cầu thủ đều quan trọng đối với đội.
+teenager;age|A teenager is between thirteen and nineteen years of age.|Một người ở tuổi thiếu niên có độ tuổi từ mười ba đến mười chín.
+telephone;call|Use the telephone to call your father.|Dùng điện thoại để gọi cho bố bạn.
+ten;twenty;thirty|Ten plus twenty is thirty.|Mười cộng hai mươi bằng ba mươi.
+tennis;play|We play tennis on Sunday.|Chúng tôi chơi quần vợt vào Chủ nhật.
+terrible;bad|This movie is terrible; the story is very bad.|Bộ phim này rất tệ; câu chuyện rất dở.
+text;message|I send a text message to my friend.|Tôi gửi một tin nhắn văn bản cho bạn mình.
+than;better|This book is better than that one.|Cuốn sách này hay hơn cuốn kia.
+thank;thanks|Thank you for coming! Thanks for your help!|Cảm ơn bạn đã đến! Cảm ơn sự giúp đỡ của bạn!
+that;this;the|This bag is mine; that bag is yours. The red bag is my favorite.|Túi này là của tôi; túi kia là của bạn. Túi đỏ là túi tôi thích nhất.
+theater;show|We watch a show at the theater.|Chúng tôi xem một buổi biểu diễn ở nhà hát.
+their;them;they|They are my friends; I give them their books.|Họ là bạn tôi; tôi đưa cho họ sách của họ.
+then;after|We eat, then we go for a walk after dinner.|Chúng tôi ăn rồi đi dạo sau bữa tối.
+there;here|There is a cafe here and a hotel there.|Có một quán cà phê ở đây và một khách sạn ở đó.
+think;idea|I think your idea is good.|Tôi nghĩ ý tưởng của bạn hay.
+thirsty;drink|I am thirsty; I need a drink.|Tôi khát; tôi cần một đồ uống.
+through;door|Walk through the door into the classroom.|Đi qua cửa vào phòng học.
+time;hour|We have time to wait for an hour.|Chúng tôi có thời gian để chờ một giờ.
+title;book|What is the title of this book?|Tên của cuốn sách này là gì?
+today;tomorrow;yesterday|Yesterday was Monday; today is Tuesday, and tomorrow is Wednesday.|Hôm qua là thứ Hai; hôm nay là thứ Ba và ngày mai là thứ Tư.
+together;family|We eat together as a family.|Gia đình chúng tôi ăn cùng nhau.
+toilet;bathroom|The toilet is in the bathroom.|Bồn cầu ở trong phòng tắm.
+too;hot|This tea is too hot to drink.|Trà này quá nóng để uống.
+tooth;teeth|My tooth hurts; I need to clean my teeth.|Một chiếc răng của tôi đau; tôi cần làm sạch răng.
+tourist;town|The tourists visit our town.|Khách du lịch đến thăm thị trấn chúng tôi.
+travel;trip|We travel by bus; the trip takes two hours.|Chúng tôi đi bằng xe buýt; chuyến đi kéo dài hai giờ.
+tree;garden|There is a tree in our garden.|Có một cây trong vườn của chúng tôi.
+truck;carry|The truck carries food to the store.|Xe tải chở thức ăn đến cửa hàng.
+try;again|Try again; you can do it.|Thử lại nhé; bạn có thể làm được.
+turn;left|Turn left at the supermarket.|Rẽ trái ở siêu thị.
+umbrella;rain|Use your umbrella in the rain.|Dùng ô của bạn khi trời mưa.
+until;wait|Wait here until I return.|Chờ ở đây cho đến khi tôi trở lại.
+usually;morning|I usually walk in the morning.|Tôi thường đi bộ vào buổi sáng.
+very;happy|I am very happy today.|Hôm nay tôi rất vui.
+video;watch|We watch a short video in class.|Chúng tôi xem một đoạn video ngắn trong lớp.
+waiter;restaurant|The waiter brings our food at the restaurant.|Người phục vụ mang thức ăn đến cho chúng tôi ở nhà hàng.
+wake;early|I wake up early every day.|Tôi thức dậy sớm mỗi ngày.
+walk;wall|We walk beside the wall.|Chúng tôi đi bộ bên cạnh bức tường.
+wear;watch|I wear a watch on my left arm.|Tôi đeo đồng hồ trên tay trái.
+way;road|Can you show me the way to this road?|Bạn chỉ cho tôi đường đến con đường này được không?
+week;weekend|I work all week and rest on the weekend.|Tôi làm việc cả tuần và nghỉ cuối tuần.
+welcome;home|Welcome to our home!|Chào mừng bạn đến nhà chúng tôi!
+what;when;where|What is the event? When does it start? Where is it?|Đó là sự kiện gì? Khi nào bắt đầu? Nó ở đâu?
+which;who;why|Which book is yours? Who wrote it? Why do you like it?|Cuốn sách nào là của bạn? Ai viết nó? Tại sao bạn thích nó?
+will;tomorrow|I will call you tomorrow.|Tôi sẽ gọi cho bạn ngày mai.
+win;game|We want to win this game.|Chúng tôi muốn thắng trận đấu này.
+wine;glass|She drinks a glass of wine with dinner.|Cô ấy uống một ly rượu vang trong bữa tối.
+with;without|I like tea with milk but without sugar.|Tôi thích trà có sữa nhưng không có đường.
+word;writing|Use these words in your writing.|Dùng những từ này trong bài viết của bạn.
+worker;work|The workers work in this building.|Những người lao động làm việc trong tòa nhà này.
+world;country|There are many countries in the world.|Có nhiều quốc gia trên thế giới.
+write;writer;writing|The writer writes every day because she enjoys writing.|Nhà văn viết mỗi ngày vì cô ấy thích việc viết.
+yard;house|The children play in the yard behind our house.|Bọn trẻ chơi trong sân phía sau nhà chúng tôi.
+yeah;yes|Yeah, I agree. Yes, that is correct.|Ừ, tôi đồng ý. Vâng, điều đó đúng.
+young;old|She is young, but her grandfather is old.|Cô ấy trẻ, nhưng ông của cô ấy đã già.
+you;your;yourself|You can do your homework by yourself.|Bạn có thể tự làm bài tập về nhà của mình.

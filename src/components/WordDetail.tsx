@@ -43,24 +43,25 @@ export function WordDetail({ word, saved, ready, onClose, onSave, review, onKnow
         </View> : <View style={s.recall}><Text style={s.recallTitle}>Còn nhớ nghĩa từ này?</Text><Text style={s.body}>Thử nhớ lại trước khi mở đáp án.</Text><Pressable accessibilityRole="button" accessibilityLabel="Xem nghĩa" onPress={() => setRevealed(true)} style={s.primary}><Text style={s.primaryText}>Xem nghĩa</Text></Pressable></View>}
         {visible && <View style={s.content}>
           {panel === 'family' && <>
-            <Text style={s.sectionTitle}>Word family</Text><Text style={s.description}>Các dạng cùng họ từ, kèm nghĩa Việt. Những dạng thông dụng được chia theo loại từ.</Text>
-            {word.wordFamily ? groups.map(group => <View key={group.key} style={s.familyGroup}>
+            <Text style={s.sectionTitle}>Word family</Text><Text style={s.description}>{word.familyNote ?? 'Các dạng cùng họ từ, kèm nghĩa Việt. Những dạng thông dụng được chia theo loại từ.'}</Text>
+            {!!word.forms?.length && <View style={s.familyGroup}><View style={s.groupHeading}><Text style={s.groupTitle}>Dạng ngữ pháp</Text></View><Text style={s.description}>Biến đổi của từ đang học, được tách riêng khỏi họ từ.</Text>{word.forms.map((member, i) => <View key={i} style={s.member}><Text selectable style={s.memberTerm}>{member.term}</Text><Text selectable style={s.memberMeaning}>{member.vi}</Text></View>)}</View>}
+            {word.wordFamily && Object.values(word.wordFamily).some(members => members.length) ? groups.map(group => <View key={group.key} style={s.familyGroup}>
               <View style={s.groupHeading}><Text style={s.groupTitle}>{group.label}</Text><Text style={s.groupTag}>{group.tag}</Text></View>
               {word.wordFamily![group.key].length ? word.wordFamily![group.key].map((member, i) => <View key={i} style={s.member}>
                 <Text selectable style={[s.memberTerm, member.term === word.term && { color: C.green }]}>{member.term}</Text><Text selectable style={s.memberMeaning}>{member.vi}</Text>
               </View>) : <Text style={s.emptyGroup}>Không có dạng thông dụng được chọn trong bộ này.</Text>}
-            </View>) : <Text style={s.description}>Chưa bổ sung word family cho từ này.</Text>}
-            <Text style={s.footnote}>Họ từ khác từ đồng nghĩa. Bản này tập trung các dạng thường dùng, không liệt kê mọi dạng hiếm hoặc các dạng chia động từ.</Text>
-            <Pressable accessibilityRole="button" accessibilityLabel="Xem sắc thái từ đồng nghĩa" onPress={() => setPanel('nuance')} style={s.nextSection}><Text style={s.nextText}>Phân biệt từ gần nghĩa</Text><Icon name="arrow-forward" color={C.green} size={21} /></Pressable>
+            </View>) : !word.wordFamily ? <Text style={s.description}>Chưa bổ sung word family cho từ này.</Text> : null}
+            <Text style={s.footnote}>Họ từ khác từ đồng nghĩa. Bộ này chọn các dạng thông dụng; các biến đổi ngữ pháp đã bổ sung nằm trong phần riêng. Danh sách không bao gồm mọi dạng hiếm.</Text>
+            <Pressable accessibilityRole="button" accessibilityLabel="Xem sắc thái và cách dùng" onPress={() => setPanel('nuance')} style={s.nextSection}><Text style={s.nextText}>Phân biệt cách dùng</Text><Icon name="arrow-forward" color={C.green} size={21} /></Pressable>
           </>}
           {panel === 'nuance' && <>
-            <Text style={s.sectionTitle}>Chọn từ đúng ngữ cảnh</Text><Text style={s.description}>Từ gần nghĩa có thể khác cách dùng. Ví dụ bên dưới minh họa riêng cho từng từ.</Text>
+            <Text style={s.sectionTitle}>Chọn từ đúng ngữ cảnh</Text><Text style={s.description}>Từ gần nghĩa, từ đối lập và các cặp dễ nhầm. Các từ được so sánh không luôn thay thế được nhau.</Text>
             {!!word.usageNote && <View style={s.usageBox}><Text style={s.usageTitle}>{word.term}</Text><Text selectable style={s.body}>{word.usageNote}</Text></View>}
             {word.comparisons?.length ? word.comparisons.map((item, i) => <View key={i} style={s.comparison}>
-              <View style={s.comparisonTop}><Text selectable style={s.comparisonTerm}>{item.term}</Text><View style={s.register}><Text style={s.registerText}>{item.register}</Text></View></View>
+              <View style={s.comparisonTop}><Text selectable style={s.comparisonTerm}>{item.term}</Text>{!!item.register && <View style={s.register}><Text style={s.registerText}>{item.register}</Text></View>}</View>
               <Text style={s.comparisonMeaning}>{item.vi}</Text><Text selectable style={s.body}>{item.nuance}</Text>
               <View style={s.shortExample}><Text selectable style={s.english}>{item.example.en}</Text><Text selectable style={s.vietnamese}>{item.example.vi}</Text></View>
-            </View>) : <Text style={s.description}>Chưa bổ sung phần so sánh cho từ này.</Text>}
+            </View>) : <Text style={s.description}>Bộ này chưa chọn cặp so sánh phù hợp cho nghĩa đang học. Xem ví dụ để hiểu cách dùng trong câu.</Text>}
             {!!word.references?.length && <View style={s.references}><Text style={s.referenceTitle}>Đọc thêm</Text>{word.references.map(reference => <Pressable key={reference.url} accessibilityRole="link" onPress={() => void Linking.openURL(reference.url)} style={s.reference}><Text style={s.referenceText}>{reference.title}</Text><Icon name="open-outline" color={C.green} size={18} /></Pressable>)}</View>}
           </>}
           {panel === 'examples' && <>

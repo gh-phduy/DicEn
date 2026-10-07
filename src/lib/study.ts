@@ -7,6 +7,7 @@ export type Word = {
   meanings?: string[]; examples?: { en: string; vi: string }[];
   collocations?: { phrase: string; vi: string }[];
   wordFamily?: WordFamily; usageNote?: string; comparisons?: Comparison[];
+  familyNote?: string; forms?: FamilyMember[];
   references?: { title: string; url: string }[];
 };
 // Retain the legacy heard field so existing local study records stay compatible.
@@ -22,11 +23,12 @@ export function searchWords(words: Word[], query: string, level = 'All'): Word[]
   return words.filter(word => (level === 'All' || (word.levels ?? [word.level]).includes(level)) &&
     (!q || normalizeSearch([word.term, word.definition ?? '', ...(word.meanings ?? []),
       ...familyTerms(word).flatMap(member => [member.term, member.vi]),
+      ...(word.forms ?? []).flatMap(member => [member.term, member.vi]),
       ...(word.comparisons ?? []).flatMap(item => [item.term, item.vi]),
     ].join(' ')).includes(q)))
     .sort((a, b) => {
       const rank = (word: Word) => normalizeSearch(word.term) === q ? 0 :
-        familyTerms(word).some(member => normalizeSearch(member.term) === q) ? 1 :
+        [...familyTerms(word), ...(word.forms ?? [])].some(member => normalizeSearch(member.term) === q) ? 1 :
         normalizeSearch(word.term).startsWith(q) ? 2 : 3;
       return rank(a) - rank(b) || a.term.localeCompare(b.term);
     });

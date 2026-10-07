@@ -1,0 +1,156 @@
+# A|B|original contrast. These are related uses, not guaranteed synonyms.
+action|activity|Action nhấn một hành động; activity thường là hoạt động có quá trình. Không đổi hai danh từ trong mọi câu.
+actor|actress|Actor có thể dùng không phân biệt giới; actress nêu riêng nữ diễn viên. Tùy cách người đó tự gọi nghề.
+add|put|Add nhấn thêm vào thứ đã có; put là đặt một vật ở một vị trí, không nhất thiết thêm lượng.
+advice|information|Advice gợi nên làm gì; information cung cấp dữ kiện, không nhất thiết có khuyến nghị.
+afraid|angry|Afraid là sợ, angry là giận. Đây là hai trạng thái khác nhau, không phải từ đồng nghĩa.
+after|before|After là sau, before là trước. Đây là cặp đối lập về thời gian, không phải từ đồng nghĩa.
+ago|before|Ago tính lùi từ hiện tại; before có thể so với một thời điểm hoặc sự kiện khác.
+all|both|All là toàn bộ nhóm; both chỉ hai thành viên. Không dùng both cho ba người.
+also|too|Also thường đứng trong câu; too với nghĩa cũng thường đứng cuối. Too còn có nghĩa quá nên cần xem vị trí.
+always|usually|Always chỉ mọi lần trong nghĩa thông thường; usually là thông thường, vẫn có ngoại lệ.
+another|other|Another thường đi với danh từ đếm được số ít; other có thể đi với số nhiều hoặc danh từ không đếm được.
+answer|reply|Answer thường là trả lời câu hỏi; reply nhấn hồi đáp người hoặc tin nhắn. Reply to someone, answer someone.
+any|some|Any thường trong câu hỏi/phủ định hoặc nghĩa bất kỳ; some thường trong khẳng định và lời mời/đề nghị.
+anyone|anything|Anyone chỉ người; anything chỉ vật/điều. Không thay thế vì khác đối tượng.
+apartment|house|Apartment là một căn trong tòa nhà; house thường là nhà riêng. Home nhấn nơi mình sống hơn loại công trình.
+arrive|come|Arrive nhấn đến điểm đích; come nhấn chuyển động về một điểm nhìn. Arrive at/in nhưng come to.
+as|like (similar)|As nêu vai trò thật: work as a teacher. Like nói sự giống: like a teacher không xác nhận nghề giáo.
+awesome|great|Awesome là lời khen thân mật mạnh; great dùng rộng hơn. Cả hai còn có nghĩa riêng khác khi đứng trong văn cảnh khác.
+bad|terrible|Terrible thường mạnh hơn bad. Không quy đổi mức độ thành một thang số cố định.
+big|large|Big tự nhiên trong giao tiếp và nghĩa tầm quan trọng; large thường nói kích thước/số lượng. Không dùng large mistake như big mistake.
+bill|check|Trong nhà hàng Mỹ, check có thể là hóa đơn. Check còn là kiểm tra; bill có thể chỉ các loại hóa đơn khác.
+bicycle|bike|Bike là cách gọi ngắn, thân mật của bicycle; trong ngữ cảnh khác bike cũng có thể chỉ xe máy.
+book|notebook|Book là sách; notebook là sổ để ghi. Cùng liên quan đến giấy nhưng không phải hai từ đồng nghĩa.
+bored|boring|Bored là cảm giác của người; boring là tính chất gây chán. Hoán đổi có thể đảo hoàn toàn ý định.
+bring|take|Bring hướng đưa đến điểm nhìn; take hướng mang đi nơi khác. Chọn theo nơi của người nói/người nghe và đích trong hội thoại.
+buy|pay|Buy là mua được món hàng; pay là trả tiền. Pay for a book nhưng buy a book.
+call|phone|Khi nói gọi điện hai từ có thể gần nghĩa; call còn là gọi tên/kêu gọi, rộng hơn phone.
+can1|could|Can nói khả năng hiện tại hoặc yêu cầu trực tiếp; could nói khả năng quá khứ, khả năng giả định hoặc lời yêu cầu lịch sự hơn.
+career|job|Job là việc làm/vị trí cụ thể; career là quá trình nghề nghiệp có thể gồm nhiều jobs.
+carry|bring|Carry nhấn việc mang/chở; bring nhấn đích đưa đến. Carry không tự xác định hướng về người nói.
+cheap|inexpensive|Cả hai có thể chỉ giá thấp; cheap còn dễ gợi chất lượng kém trong một số ngữ cảnh, inexpensive ít hàm ý chê hơn.
+choose|decide|Choose là chọn giữa các lựa chọn; decide rộng hơn, gồm quyết định sẽ làm gì. Decide to nhưng choose a thing.
+class|lesson|Class có thể là nhóm/lớp hoặc buổi học; lesson thường là bài/buổi học cụ thể. Hai từ có vùng nghĩa chồng nhau.
+clean|wash|Wash dùng nước/chất rửa; clean là làm sạch bằng nhiều cách, có thể không dùng nước.
+cold|cool|Cold là lạnh; cool là mát, thường dễ chịu hơn khi nói nhiệt độ. Cool còn có nghĩa ngầu.
+come|go|Come về phía điểm nhìn trong cuộc nói; go đi đến nơi khác. Phụ thuộc vị trí và cách nhìn của các bên.
+complete|finish|Cả hai có thể là hoàn thành; complete còn là tính từ đầy đủ, finish thường nhấn đến điểm kết thúc.
+conversation|dialogue|Conversation là cuộc trò chuyện tự nhiên; dialogue có thể là đoạn đối thoại đã viết hoặc cuộc trao đổi giữa các bên.
+cook|bake|Cook là nấu nói chung; bake là nướng bằng nhiệt khô trong lò. Không phải mọi món cook đều được bake.
+cost|price|Price là giá đưa ra; cost là khoản phải trả/chi phí và còn làm động từ. Chi phí thực có thể gồm khoản ngoài giá niêm yết.
+country|town|Country là quốc gia hoặc vùng nông thôn; town là đô thị/thị trấn. Đây là cấp/loại địa điểm khác nhau.
+create|make|Create thường nhấn tạo thứ mới/ý tưởng; make dùng rất rộng cho tạo và làm. Không phải mọi cụm với make đổi sang create.
+dad|father|Dad thân mật trong gia đình; father trung tính/trang trọng hơn khi nêu quan hệ. Nghĩa cha cơ bản giống nhau.
+date|day|Date xác định ngày theo lịch; day là một ngày hoặc ban ngày. What is the date? khác What day is it?
+describe|explain|Describe nêu một thứ như thế nào; explain làm rõ vì sao/cách hoạt động. Không thay thế mọi ngữ cảnh.
+desk|table|Desk là bàn dành cho học/làm việc; table là bàn nói chung, gồm bàn ăn. Công dụng là trọng tâm phân biệt.
+die|dead|Die là động từ, dead là tính từ. He died khác He is dead về cấu trúc và thời điểm nhấn.
+difficult|hard|Hard có thể gần difficult trong nghĩa khó; hard còn là cứng và trạng từ chăm chỉ. Không dùng difficult cho mọi nghĩa của hard.
+discuss|talk|Discuss trực tiếp một chủ đề; talk thường cần about trước chủ đề. Talk còn chỉ hội thoại nói chung.
+do1|make|Do thường thực hiện hoạt động; make thường tạo kết quả. Học các cụm cố định như do homework, make a mistake.
+dress|skirt|Dress là váy liền gồm phần thân; skirt chỉ chân váy. Là hai loại quần áo, không phải từ đồng nghĩa.
+during|for|During xác định sự kiện/khoảng có hoạt động; for nêu độ dài: during class nhưng for two hours.
+each|every|Each nhấn từng cá thể; every nhấn toàn bộ tập hợp. Each có thể đi riêng, every cần danh từ hoặc cấu trúc thay thế phù hợp.
+end|finish|End là kết thúc hoặc phần cuối; finish thường là làm xong. End a call khác finish homework về kết hợp tự nhiên.
+enjoy|like (find sb/sth pleasant)|Enjoy nhấn thích thú khi trải nghiệm, đi với danh từ/-ing; like rộng hơn và có thể đi với to-infinitive.
+ever|never|Ever là từng/bất kỳ lúc nào trong câu hỏi hoặc điều kiện; never là không bao giờ. Chúng không phải từ đồng nghĩa.
+everybody|everyone|Hai từ thường thay thế được nhau khi chỉ mọi người; everybody có thể nghe thân mật hơn trong một số văn cảnh.
+excited|exciting|Excited chỉ người có cảm xúc; exciting chỉ người/vật gây cảm xúc. Không đổi đuôi tùy ý.
+expensive|costly|Cả hai có thể là tốn tiền; costly còn dùng cho thiệt hại không chỉ tiền. Expensive là từ giá cả hằng ngày.
+famous|popular|Famous là nhiều người biết; popular là được nhiều người thích/dùng. Một người nổi tiếng không nhất thiết được ưa thích.
+far|long1|Far nêu khoảng cách; long nêu chiều dài/thời gian. How far khác how long.
+fast|quick|Fast thường nói tốc độ; quick nói việc diễn ra trong thời gian ngắn/đáp ứng nhanh. Fast làm trạng từ; quick thường cần quickly.
+few|little|Few đi với số lượng đếm được, little với lượng không đếm được. Không dùng few water hoặc little books trong các nghĩa lượng này.
+find|look|Find là tìm thấy, look for là đang tìm. Look at là nhìn vào, không đảm bảo tìm thấy vật.
+food|meal|Food là thức ăn nói chung; meal là một bữa ăn có thể gồm nhiều món. Food không đếm, meal đếm được trong nghĩa này.
+foot|leg|Foot là bàn chân; leg là phần chân từ hông đến bàn chân. Đây là các phần cơ thể khác nhau.
+free|available|Free có thể là rảnh, tự do hoặc miễn phí; available là có sẵn/có thể sử dụng. Available không bảo đảm miễn phí.
+fun|funny|Fun làm người ta vui/thích; funny thường làm buồn cười hoặc thấy lạ. Chuyến đi fun có thể không có chuyện funny.
+get|receive|Receive nhấn nhận, trung tính/trang trọng; get thân mật và nhiều nghĩa hơn, gồm trở nên/lấy.
+give|send|Give là trao/cho; send nhấn gửi qua một phương tiện hoặc người khác. Không phải mọi lần give đều cần vận chuyển.
+good|well|Good thường tính từ, well thường trạng từ/khỏe. A good singer nhưng sings well.
+great|wonderful|Đều có thể là lời khen mạnh; great còn có nghĩa lớn/quan trọng, wonderful thiên về điều gây thích thú.
+happy|glad|Happy thường mô tả trạng thái vui/hạnh phúc rộng; glad thường là vui vì một tin/việc cụ thể.
+hard|hardly|Hard là khó/cứng hoặc chăm chỉ; hardly là hầu như không. Đây là cặp dễ nhầm, không phải trạng từ đồng nghĩa.
+hate|dislike|Hate thường mạnh hơn dislike. Dislike là không thích; không nhất thiết có cảm giác ghét mạnh.
+hear|listen|Hear thường tiếp nhận âm thanh; listen chủ động chú ý. Listen to cần to khi theo sau bởi đối tượng.
+high|tall|Tall thường cho chiều cao người/cây/tòa nhà; high cho độ cao hoặc mức. Tùy loại vật, đôi khi cả hai dùng được với trọng tâm khác.
+home|house|House là công trình; home là nơi ở/tổ ấm. Một apartment cũng có thể là home.
+how|why|How hỏi cách/thực hiện; why hỏi nguyên nhân. Không dùng một từ để hỏi mọi thông tin.
+imagine|think|Imagine hình dung điều không ở trước mắt; think là suy nghĩ rộng hơn, gồm đánh giá và ý kiến.
+interested|interesting|Interested là có hứng thú; interesting là gây hứng thú. Người interested không nhất thiết là người interesting.
+in|into|In thường vị trí; into nhấn chuyển từ ngoài vào trong. Cần xét động từ và cụm đầy đủ.
+job|work|A job là công việc/vị trí cụ thể; work là hoạt động/công việc nói chung và thường không đếm được.
+kind (type)|type|Đều chỉ loại; type đôi khi nhấn phân loại/đặc điểm xác định. Không có quy tắc loại trừ tuyệt đối giữa chúng.
+know|understand|Know là biết dữ kiện/người/kỹ năng; understand là hiểu ý/cơ chế. Có thể biết từ mà chưa hiểu câu.
+late|later|Late là muộn; later là sau/muộn hơn. Later có thể là trạng từ chỉ một thời điểm sau, không hàm ý trễ hẹn.
+learn|study|Study là quá trình học; learn là tiếp thu được kiến thức/kỹ năng. Kết quả học và quá trình không luôn trùng nhau.
+leave|go|Leave nhấn rời một nơi; go nhấn di chuyển/đi đến nơi. Leave a place nhưng go to a place.
+like (find sb/sth pleasant)|love|Love thường mạnh hơn like khi nói sở thích; love còn là tình yêu. Không có mức độ số cố định.
+little|small|Small nói kích thước trung tính; little có thể thêm cảm xúc/thân mật hoặc nói lượng không đếm được.
+look|see|Look là hướng mắt/chú ý; see là nhìn thấy hoặc hiểu trong nghĩa khác. Look at nhưng see trực tiếp đối tượng.
+lose|miss|Lose là mất/thua; miss là lỡ xe/sự kiện hoặc nhớ ai. Miss a bus không đồng nghĩa với làm mất xe buýt.
+main|important|Main là chính/chủ yếu; important là quan trọng. Có nhiều điều important nhưng chỉ một main point trong một cách tổ chức.
+many|much|Many cho danh từ đếm được số nhiều; much cho không đếm được. A lot of dùng được cho cả hai nhóm.
+maybe|probably|Probably gợi khả năng cao hơn maybe theo cách nói thông thường; không phải phép đo xác suất chính xác.
+meet|see|Meet có thể là lần gặp đầu/hẹn gặp; see rộng hơn gồm nhìn thấy/gặp. Không phải mọi lần see đều có chủ ý tổ chức một cuộc gặp.
+modern|new|New là mới theo thời gian sử dụng; modern là thuộc phong cách/thời hiện đại. Một đồ mới có thể mang thiết kế cổ.
+must|should|Must là nghĩa vụ mạnh hoặc suy đoán chắc; should là khuyên/nên. Cần thêm ngữ cảnh để xác định mức ràng buộc.
+near|next to|Near là gần; next to là bên cạnh/liền kề. Không phải mọi nơi near đều next to nhau.
+nice|kind|Nice là dễ chịu/tốt nói chung; kind nhấn lòng tử tế với người khác. Một nơi nice không phải nơi kind.
+no one|nobody|Hai từ thường có cùng nghĩa không ai; khác cách viết. Cả hai thường dùng động từ số ít.
+old|young|Cặp đối lập khi nói tuổi; old còn chỉ đồ cũ, còn young không phải từ đối lập của mọi vật cũ.
+only|just|Only nhấn giới hạn/duy nhất; just có thể tương đương chỉ nhưng còn vừa mới/chính xác. Không thay mọi nghĩa của just bằng only.
+photo|photograph|Photo là cách gọi ngắn thông dụng; photograph trung tính/trang trọng hơn và cũng làm động từ chụp ảnh.
+photo|picture|Photo là ảnh chụp; picture gồm ảnh chụp và tranh/hình. Không gọi mọi tranh vẽ là photo.
+poor|rich|Cặp đối lập về tiền/của cải trong nghĩa đang học. Cả hai còn có các nghĩa chất lượng/độ phong phú khác.
+possible|probably|Possible là tính từ có thể xảy ra; probably là trạng từ có lẽ với khả năng khá cao. Không thay nhau về cấu trúc.
+practice|study|Practice là thực hành lặp lại kỹ năng; study gồm đọc/học/nghiên cứu. Học có thể gồm thực hành nhưng không chỉ là thực hành.
+prepare|ready|Prepare là động từ chuẩn bị; ready thường là tính từ sẵn sàng. Prepare a bag nhưng be ready.
+present|gift|Trong nghĩa danh từ quà, thường gần nghĩa; gift còn dùng cho năng khiếu. Present có nghĩa hiện tại/có mặt riêng.
+quick|quickly|Quick tính từ, quickly trạng từ. Cần đổi cấu trúc, không thay nguyên vị trí trong mọi câu.
+quiet|quite|Quiet là yên tĩnh; quite là trạng từ khá/hoàn toàn. Hai từ gần cách viết nhưng không gần nghĩa.
+real|true|Real là có thật/không giả; true là đúng sự thật. Một vật real và một lời kể true có trọng tâm khác nhau.
+remember|forget|Remember là nhớ, forget là quên. Đây là cặp đối lập; remember to do và remember doing còn khác nghĩa.
+return|come|Return là trở lại/trả lại; come chỉ đến. Return có hàm ý quay lại nơi/tình trạng trước.
+road|street|Road là đường kết nối/di chuyển; street thường là đường trong đô thị có nhà cửa. Nhiều tên đường không theo ranh giới cứng.
+same|similar|Same nhấn giống hệt/cùng; similar là giống nhưng có thể khác một số điểm. Dùng the same as, similar to.
+say|speak|Say nhấn nội dung lời; speak nhấn hành động nói/ngôn ngữ. Say a word nhưng speak English.
+share|give|Share là chia hoặc cùng dùng; give là trao cho. Share có thể không chuyển quyền sở hữu.
+shop|store|Cả hai là cửa hàng; store rất phổ biến ở Mỹ, shop thường trong tên cửa hàng nhỏ/chuyên môn. Cũng có shop làm động từ mua sắm.
+short|small|Short là ngắn/thấp theo một chiều; small là nhỏ tổng thể. A short person và a small bag khác trọng tâm.
+sit|stand|Hai tư thế khác nhau: ngồi và đứng. Sit down/stand up mô tả thay đổi tư thế.
+sleep|rest|Sleep là ngủ; rest là nghỉ, có thể vẫn thức. Không phải mọi lần rest đều là sleep.
+slow|slowly|Slow là tính từ/động từ và có vài cách dùng trạng từ; slowly là trạng từ chuẩn dùng rộng khi nói làm gì chậm.
+somebody|someone|Hai từ thường thay thế khi chỉ ai đó; không có sự khác biệt giới tính. Cả hai dùng động từ số ít.
+speak|talk|Talk thường nhấn hội thoại; speak thường dùng với ngôn ngữ hoặc phát biểu. Speak a language, không talk a language trong nghĩa này.
+start|begin|Cả hai là bắt đầu trong nhiều ngữ cảnh; start tự nhiên hơn khi khởi động máy/xe. Không thay begin the engine cho start the engine.
+still|yet|Still thường là vẫn tiếp diễn; yet thường trong câu hỏi/phủ định về điều chưa xảy ra. Vị trí trong câu khác nhau.
+story|history|Story là câu chuyện; history là lịch sử/những gì đã xảy ra. Câu chuyện không bảo đảm là sự kiện lịch sử.
+strong|powerful|Strong dùng sức cơ thể/độ bền/cường độ; powerful nhấn sức mạnh/tác động. Không đổi mọi cụm như strong coffee.
+study|learn|Study là bỏ công học; learn là tiếp thu. Bạn có thể study nhiều giờ nhưng learn ít nếu cách học chưa phù hợp.
+sure|certain|Trong nghĩa chắc chắn có thể gần nhau; sure thông dụng, certain có thể trang trọng hơn và còn nghĩa một số/nhất định.
+take|carry|Take nhấn mang đi hoặc nhiều cụm cố định; carry nhấn vận chuyển/nâng giữ. Carry a bag không luôn xác định điểm đích.
+teach|learn|Teach là dạy, learn là học tiếp thu. Hai vai trò khác nhau trong cùng quá trình, không phải từ đồng nghĩa.
+telephone|phone|Phone là dạng ngắn thông dụng; telephone đầy đủ/trang trọng hơn. Có thể chỉ cùng thiết bị/cuộc gọi.
+thank|thanks|Thank là động từ; thanks là lời cảm ơn/danh từ. Thank you nhưng thanks to/for, không thanks you.
+that|this|This thường gần, that thường xa/điều đã nhắc. Cả hai còn các chức năng ngữ pháp khác.
+than|then|Than trong so sánh; then chỉ sau đó/lúc đó. Hai từ gần cách viết, không cùng nghĩa.
+too|very|Very là rất; too là quá mức phù hợp hoặc cũng. Too hot thường khiến không làm được điều muốn làm.
+tourist|visitor|Tourist thường đi vì du lịch; visitor là người đến thăm nói chung, gồm khách công việc/gia đình.
+travel|trip|Travel là hoạt động đi lại, thường không đếm được; trip là chuyến cụ thể, đếm được. A trip nhưng không a travel trong nghĩa này.
+true|correct|True là đúng sự thật; correct là đúng theo quy tắc/kết quả. A correct spelling khác a true story.
+use|useful|Use là dùng hoặc việc dùng; useful là hữu ích. Không thay nhau về loại từ.
+wait|stay|Wait là chờ một điều/người; stay là ở lại. Một người có thể stay mà không đang wait.
+warm|hot|Warm là ấm, hot là nóng. Warm thường gợi dễ chịu khi nói nhiệt độ nhưng còn tùy hoàn cảnh.
+wash|clean|Wash dùng nước; clean rộng hơn, gồm lau/quét/vệ sinh bằng cách khác.
+watch|see|Watch là theo dõi có chú ý trong thời gian; see là nhìn thấy/gặp. Watch a game nhưng see a bird.
+weather|whether|Weather là thời tiết; whether là liệu/có hay không. Âm thường giống nhau, nghĩa và loại từ khác hẳn.
+what|which|What hỏi lựa chọn mở; which hỏi trong phạm vi đã rõ. Có thể có ngoại lệ theo ngữ cảnh người nói giả định.
+will|would|Will thường dự đoán/quyết định/hứa; would thường giả định, quá khứ của will hoặc lời lịch sự. Không đổi tùy ý.
+win|beat|Win a game/prize; beat an opponent. Win nhấn kết quả, beat nhấn đánh bại đối thủ.
+work|job|Work là hoạt động/công việc nói chung; job là một vị trí/nhiệm vụ cụ thể, đếm được.
+write|type|Write là tạo chữ/văn bản; type là gõ bàn phím. Type có thể là một cách write, không bao gồm viết tay.
+yard|garden|Yard thường là khoảng đất quanh nhà, garden thường có cây/hoa. Trong tiếng Mỹ có thể garden là một phần của yard.
+yeah|yes|Yeah thân mật, yes trung tính/trang trọng hơn. Hai từ có thể cùng ý đồng ý nhưng khác sắc thái giao tiếp.

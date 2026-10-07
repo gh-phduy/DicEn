@@ -1,0 +1,386 @@
+# A1 IDs | nouns | verbs | adjectives | adverbs. Related forms may be above A1.
+# Members are term=Vietnamese separated by semicolons. No invented suffix rules.
+action;activity;actor;actress|action=hành động;activity=hoạt động;actor=diễn viên;actress=nữ diễn viên;acting=việc diễn xuất|act=hành động; diễn xuất|active=năng động;inactive=không hoạt động|actively=một cách tích cực
+add|addition=phép cộng; sự thêm vào|add=thêm; cộng|additional=thêm, bổ sung|additionally=ngoài ra
+adult|adult=người trưởng thành;adulthood=tuổi trưởng thành||adult=trưởng thành|
+advice|advice=lời khuyên;adviser=người tư vấn|advise=khuyên|advisable=nên làm|
+age|age=tuổi;aging=sự lão hóa|age=già đi|aged=có tuổi;ageless=không có vẻ già đi|
+agree|agreement=sự đồng ý;disagreement=sự bất đồng|agree=đồng ý;disagree=không đồng ý|agreeable=dễ chịu; có thể chấp nhận|
+amazing|amazement=sự kinh ngạc|amaze=làm kinh ngạc|amazed=cảm thấy kinh ngạc;amazing=gây kinh ngạc|amazingly=một cách đáng kinh ngạc
+angry|anger=cơn giận|anger=làm tức giận|angry=tức giận|angrily=một cách tức giận
+answer|answer=câu trả lời|answer=trả lời|unanswered=chưa được trả lời|
+arrive|arrival=sự đến nơi|arrive=đến nơi||
+art;artist|art=nghệ thuật;artist=nghệ sĩ||artistic=có tính nghệ thuật|artistically=một cách nghệ thuật
+ask|asking=việc hỏi|ask=hỏi||
+awesome|awe=sự kinh ngạc, kính phục||awesome=tuyệt vời; gây kinh ngạc|awesomely=một cách tuyệt vời
+bad|badness=sự xấu, tồi tệ||bad=xấu;worse=tệ hơn;worst=tệ nhất|
+beautiful|beauty=vẻ đẹp|beautify=làm đẹp|beautiful=đẹp|beautifully=một cách đẹp đẽ
+begin;beginning|beginning=phần đầu;beginner=người mới bắt đầu|begin=bắt đầu||
+believe|belief=niềm tin;believer=người tin|believe=tin;disbelieve=không tin|believable=đáng tin;unbelievable=khó tin|unbelievably=một cách khó tin
+best;better;good|goodness=sự tốt lành||good=tốt;better=tốt hơn;best=tốt nhất|
+bicycle;bike|bicycle=xe đạp;cycling=việc đạp xe;cyclist=người đi xe đạp|cycle=đi xe đạp||
+birthday;born|birth=sự sinh ra;birthday=ngày sinh;birthplace=nơi sinh||newborn=mới sinh|
+black|blackness=màu đen; bóng tối|blacken=làm đen|black=đen|
+blog|blog=bài/nhật ký blog;blogger=người viết blog|blog=viết blog||
+body|body=cơ thể||bodily=thuộc cơ thể|bodily=bằng cơ thể; trực tiếp bằng người
+book|book=sách;booklet=cuốn sách nhỏ;bookcase=tủ sách||bookish=mê sách vở|
+bored;boring|boredom=sự buồn chán|bore=làm chán|bored=cảm thấy chán;boring=gây chán|
+boy|boy=cậu bé;boyhood=thời niên thiếu (nam)||boyish=giống trẻ con trai|
+break|break=giờ nghỉ; chỗ vỡ;breakage=sự vỡ|break=làm vỡ; bị vỡ|broken=bị vỡ;breakable=dễ vỡ;unbreakable=khó vỡ|
+build;building|building=tòa nhà;builder=thợ xây|build=xây dựng;rebuild=xây lại|built-in=được lắp sẵn|
+business;busy|business=kinh doanh;busyness=sự bận rộn||busy=bận|busily=một cách bận rộn
+buy|buyer=người mua;buy=món mua đáng tiền|buy=mua||
+call|call=cuộc gọi;caller=người gọi|call=gọi||
+carry|carrier=người/vật vận chuyển|carry=mang, chở||
+center|center=trung tâm|center=đặt ở giữa|central=thuộc trung tâm|centrally=ở trung tâm
+change|change=sự thay đổi;changer=người/vật thay đổi|change=thay đổi|changeable=dễ thay đổi;unchanged=không thay đổi|
+cheap|cheapness=sự rẻ tiền||cheap=rẻ|cheaply=với giá rẻ
+check|check=sự kiểm tra;checker=người/công cụ kiểm tra|check=kiểm tra;recheck=kiểm tra lại||
+child|child=trẻ em;childhood=thời thơ ấu||childish=trẻ con (chê);childlike=hồn nhiên như trẻ|
+choose|choice=sự lựa chọn;chooser=người chọn|choose=chọn|choosy=kén chọn|
+clean|cleaner=người/chất làm sạch;cleanliness=sự sạch sẽ|clean=làm sạch|clean=sạch;unclean=không sạch|cleanly=một cách sạch sẽ
+climb|climb=việc leo;climber=người leo|climb=leo||
+close1|closure=sự đóng; sự kết thúc|close=đóng|closed=đã đóng|
+cold|coldness=sự lạnh lẽo||cold=lạnh|coldly=một cách lạnh lùng
+color|color=màu sắc;coloring=việc tô màu|color=tô màu|colorful=nhiều màu;colorless=không màu|
+compare|comparison=sự so sánh|compare=so sánh|comparable=có thể so sánh;comparative=có tính so sánh|comparatively=tương đối
+complete|completion=sự hoàn thành|complete=hoàn thành|complete=đầy đủ;incomplete=chưa đầy đủ|completely=hoàn toàn
+computer|computer=máy tính;computing=việc tính toán; ngành máy tính|compute=tính toán;computerize=tin học hóa|computerized=được tin học hóa|
+conversation|conversation=cuộc trò chuyện|converse=trò chuyện (trang trọng)|conversational=thuộc hội thoại|conversationally=theo cách trò chuyện
+cook;cooking|cook=người nấu; cooker (UK)=thiết bị nấu;cooking=việc nấu ăn|cook=nấu|cooked=đã nấu;uncooked=chưa nấu|
+cool|coolness=sự mát mẻ|cool=làm mát|cool=mát|coolly=một cách bình tĩnh
+correct|correction=sự sửa chữa|correct=sửa cho đúng|correct=đúng;incorrect=sai|correctly=một cách đúng;incorrectly=một cách sai
+cost|cost=chi phí|cost=tốn|costly=tốn kém|
+create|creation=sự sáng tạo;creator=người tạo ra;creativity=óc sáng tạo|create=tạo ra|creative=sáng tạo|creatively=một cách sáng tạo
+culture|culture=văn hóa||cultural=thuộc văn hóa;multicultural=đa văn hóa|culturally=về mặt văn hóa
+customer|customer=khách hàng;customization=việc tùy chỉnh|customize=tùy chỉnh|custom-made=được làm theo yêu cầu|
+cut|cut=vết cắt;cutter=dụng cụ/người cắt|cut=cắt||
+dance;dancer;dancing|dance=điệu nhảy;dancer=vũ công;dancing=việc nhảy múa|dance=nhảy múa||
+dangerous|danger=mối nguy|endanger=gây nguy hiểm cho|dangerous=nguy hiểm|dangerously=một cách nguy hiểm
+dark|darkness=bóng tối|darken=làm tối|dark=tối;darkish=hơi tối|darkly=một cách u ám
+decide|decision=quyết định|decide=quyết định|decisive=quyết đoán;undecided=chưa quyết định|decisively=một cách dứt khoát
+delicious|deliciousness=vị ngon||delicious=ngon|deliciously=một cách ngon miệng
+describe;description|description=sự mô tả|describe=miêu tả|descriptive=có tính mô tả|descriptively=theo cách mô tả
+design|design=bản thiết kế;designer=người thiết kế|design=thiết kế||
+detail|detail=chi tiết|detail=trình bày chi tiết|detailed=chi tiết|
+die|death=cái chết|die=chết|dead=đã chết;dying=sắp chết;deathly=như chết|
+diet|diet=chế độ ăn;dietitian=chuyên gia dinh dưỡng|diet=ăn kiêng|dietary=thuộc chế độ ăn|
+difference;different|difference=sự khác biệt|differ=khác|different=khác nhau|differently=theo cách khác
+difficult|difficulty=sự khó khăn||difficult=khó|
+dirty|dirt=bụi bẩn|dirty=làm bẩn|dirty=bẩn|dirtily=một cách bẩn thỉu
+discuss|discussion=cuộc thảo luận|discuss=thảo luận||
+do1|doer=người thực hiện;doing=việc thực hiện|do=làm;redo=làm lại;undo=hủy tác động||
+doctor|doctor=bác sĩ;doctorate=học vị tiến sĩ||doctoral=thuộc học vị tiến sĩ|
+draw|drawing=bản vẽ; việc vẽ|draw=vẽ||
+dress|dress=váy liền;dresser=tủ ngăn kéo; người giúp mặc|dress=mặc;undress=cởi quần áo|dressed=đã mặc;undressed=chưa mặc|
+drink|drink=đồ uống;drinker=người uống|drink=uống|drinkable=có thể uống;undrinkable=không uống được|
+drive;driver|driver=người lái;drive=cuộc đi xe;driving=việc lái xe|drive=lái||
+ear|ear=tai||earless=không có tai|
+early|||early=sớm|
+east|east=hướng đông||eastern=thuộc phía đông|eastward=về phía đông
+easy|ease=sự dễ dàng|ease=làm dịu, làm dễ|easy=dễ|easily=một cách dễ dàng
+eat|eater=người ăn;eating=việc ăn|eat=ăn|eatable=có thể ăn được|
+email|email=thư điện tử|email=gửi email||
+end|end=kết thúc;ending=phần kết|end=kết thúc|endless=vô tận|endlessly=không ngừng
+enjoy|enjoyment=sự thích thú|enjoy=tận hưởng|enjoyable=thú vị|enjoyably=một cách thú vị
+exam|exam=kỳ thi;examination=kỳ thi; sự kiểm tra;examiner=người kiểm tra|examine=kiểm tra||
+excited;exciting|excitement=sự hào hứng|excite=làm hào hứng|excited=cảm thấy hào hứng;exciting=gây hào hứng|excitedly=một cách hào hứng
+exercise|exercise=bài tập|exercise=tập luyện||
+expensive|expense=chi phí||expensive=đắt;inexpensive=không đắt|expensively=một cách tốn kém
+explain|explanation=lời giải thích|explain=giải thích|explanatory=để giải thích|
+face|face=khuôn mặt|face=đối mặt|facial=thuộc khuôn mặt|
+fact|fact=sự thật||factual=dựa trên sự thật|factually=về mặt thực tế
+false|falsehood=điều sai sự thật||false=sai|falsely=một cách sai
+family|family=gia đình||familial=thuộc gia đình|
+famous|fame=danh tiếng||famous=nổi tiếng|famously=nổi tiếng là
+fantastic|||fantastic=tuyệt vời|fantastically=cực kỳ tốt
+farm;farmer|farm=trang trại;farmer=nông dân;farming=việc làm nông|farm=làm nông||
+fast|||fast=nhanh|
+fat|fat=chất béo|fatten=vỗ béo|fat=béo;fatty=có nhiều chất béo|
+feel;feeling|feeling=cảm giác|feel=cảm thấy|unfeeling=không có tình cảm|
+fill|filling=phần nhân;filler=chất lấp đầy|fill=làm đầy;refill=làm đầy lại|filled=đã đầy;unfilled=chưa đầy|
+final|final=trận chung kết;finalist=người vào vòng chung kết|finalize=hoàn tất|final=cuối cùng|finally=cuối cùng
+find|finder=người/công cụ tìm;finding=phát hiện|find=tìm thấy||
+finish|finish=sự kết thúc;finisher=người hoàn thành|finish=kết thúc|finished=đã xong;unfinished=chưa xong|
+fire|fire=lửa;firefighter=lính cứu hỏa||fiery=rực lửa;fireproof=chống cháy|
+fish|fish=cá;fishing=việc câu cá;fisherman=người đánh cá|fish=câu, đánh cá|fishy=có mùi cá; đáng ngờ|
+flight;fly|flight=chuyến bay;flyer=người bay; tờ quảng cáo|fly=bay|flightless=không bay được|
+flower|flower=hoa;flowering=việc ra hoa|flower=ra hoa|flowery=có nhiều hoa; văn hoa|
+follow|follower=người theo|follow=theo||
+forget|forgetfulness=sự hay quên|forget=quên|forgetful=hay quên;forgettable=dễ quên;unforgettable=khó quên|
+form|form=hình thức;formation=sự hình thành|form=tạo thành|formless=không có hình dạng|
+free|freedom=sự tự do|free=giải phóng|free=tự do; miễn phí|freely=một cách tự do
+friend;friendly|friend=bạn;friendship=tình bạn|befriend=kết bạn với|friendly=thân thiện;unfriendly=không thân thiện|
+fruit|fruit=trái cây||fruity=có mùi/vị trái cây;fruitful=có kết quả tốt|
+full|fullness=sự đầy đủ||full=đầy|fully=hoàn toàn
+fun;funny|fun=niềm vui||fun=vui;funny=buồn cười|funnily=một cách buồn cười
+game|game=trò chơi;gamer=người chơi trò chơi|game=chơi trò chơi điện tử||
+garden|garden=vườn;gardener=người làm vườn;gardening=việc làm vườn|garden=làm vườn||
+geography|geography=địa lý;geographer=nhà địa lý||geographical=thuộc địa lý|geographically=về mặt địa lý
+give|giver=người cho;giving=việc cho|give=cho||
+gray|grayness=màu xám|gray=trở nên xám|gray=xám|
+great|greatness=sự vĩ đại||great=tuyệt vời, lớn lao|greatly=rất nhiều
+green|greenness=màu xanh;greenery=cây xanh|green=làm xanh|green=xanh lá|
+group|group=nhóm;grouping=việc phân nhóm|group=phân nhóm||
+grow|growth=sự tăng trưởng;grower=người trồng|grow=lớn lên; trồng|grown=trưởng thành;growing=đang phát triển|
+guess|guess=sự phỏng đoán;guesswork=việc đoán|guess=đoán||
+guitar|guitar=đàn ghi ta;guitarist=người chơi ghi ta|||
+gym|gym=phòng tập;gymnast=người tập thể dục dụng cụ;gymnastics=thể dục dụng cụ||gymnastic=thuộc thể dục dụng cụ|
+hair|hair=tóc;haircut=kiểu/lần cắt tóc;hairdresser=thợ làm tóc||hairy=nhiều lông;hairless=không có lông|
+hand|hand=bàn tay;handful=một nắm|hand=đưa bằng tay|handmade=làm bằng tay;handy=tiện dụng|
+happen|happening=sự kiện|happen=xảy ra||
+happy|happiness=sự hạnh phúc;unhappiness=sự bất hạnh||happy=vui;unhappy=không vui|happily=một cách vui vẻ;unhappily=một cách buồn bã
+hard|hardness=độ cứng|harden=làm cứng|hard=cứng; khó|
+hate|hate=sự ghét;hatred=lòng thù ghét|hate=ghét|hateful=đáng ghét|
+head|head=đầu;heading=tiêu đề|head=đứng đầu|headless=không có đầu|
+health;healthy|health=sức khỏe||healthy=khỏe mạnh;unhealthy=không khỏe, không lành mạnh|healthily=một cách lành mạnh
+hear|hearing=khả năng nghe; phiên điều trần;hearer=người nghe|hear=nghe thấy||
+help|help=sự giúp đỡ;helper=người giúp|help=giúp|helpful=hữu ích;helpless=bất lực;unhelpful=không hữu ích|helpfully=một cách hữu ích;helplessly=một cách bất lực
+high|height=chiều cao|heighten=làm tăng|high=cao|highly=ở mức độ cao
+history|history=lịch sử;historian=nhà sử học||historical=thuộc lịch sử;historic=có ý nghĩa lịch sử|historically=về mặt lịch sử
+home|home=nhà;homelessness=tình trạng vô gia cư||homeless=vô gia cư;homely=giản dị, ấm cúng (UK)|homeward=về nhà
+hope|hope=hy vọng|hope=hy vọng|hopeful=đầy hy vọng;hopeless=vô vọng|hopefully=hy vọng rằng;hopelessly=một cách tuyệt vọng
+hot|heat=nhiệt|heat=làm nóng;overheat=làm quá nóng|hot=nóng;heated=đã làm nóng; gây tranh cãi|
+hungry|hunger=cơn đói||hungry=đói|hungrily=một cách đói khát
+imagine|imagination=trí tưởng tượng|imagine=tưởng tượng|imaginary=tưởng tượng, không thật;imaginative=giàu trí tưởng tượng|
+important|importance=tầm quan trọng||important=quan trọng;unimportant=không quan trọng|importantly=một cách quan trọng
+improve|improvement=sự cải thiện|improve=cải thiện|improved=được cải thiện|
+include|inclusion=sự bao gồm|include=bao gồm|inclusive=bao gồm rộng;included=được bao gồm|
+information|information=thông tin|inform=thông báo|informative=cung cấp nhiều thông tin;informed=hiểu biết|
+interest;interested;interesting|interest=sự quan tâm|interest=làm quan tâm|interested=quan tâm;interesting=thú vị;uninterested=không quan tâm|interestingly=điều thú vị là
+interview|interview=cuộc phỏng vấn;interviewer=người phỏng vấn;interviewee=người được phỏng vấn|interview=phỏng vấn||
+introduce|introduction=sự giới thiệu|introduce=giới thiệu|introductory=mở đầu|
+join|joining=việc kết nối|join=tham gia; kết nối|joined=được nối|
+keep|keeper=người giữ|keep=giữ||
+know|knowledge=kiến thức|know=biết|known=đã biết;unknown=không biết;knowledgeable=hiểu biết|knowingly=có ý thức, biết rõ
+large|||large=lớn|largely=phần lớn
+late;later|||late=muộn;later=muộn hơn|lately=gần đây
+laugh|laugh=tiếng cười;laughter=tiếng cười|laugh=cười|laughable=buồn cười; đáng chê|
+learn|learning=việc học;learner=người học|learn=học|learned=uyên bác|
+life;live1|life=cuộc sống;livelihood=sinh kế|live=sống|living=đang sống;lifeless=không có sự sống;lifelong=suốt đời|
+light (from the sun/a lamp)|light=ánh sáng;lighting=hệ thống chiếu sáng|light=thắp sáng|lighted=được thắp sáng;sunlit=có ánh nắng|
+like (find sb/sth pleasant)|liking=sự thích|like=thích;dislike=không thích|likable=dễ mến|
+list|list=danh sách;listing=bản liệt kê|list=liệt kê;enlist=gia nhập||
+listen|listener=người nghe;listening=việc nghe|listen=lắng nghe||
+local|local=người địa phương;locality=địa phương|localize=khu trú|local=thuộc địa phương|locally=tại địa phương
+long1|length=chiều dài|lengthen=làm dài|long=dài;lengthy=dài dòng|lengthwise=theo chiều dài
+look|look=cái nhìn;looker-on=người đứng xem|look=nhìn||
+lose|loss=sự mất;loser=người thua|lose=mất, thua|lost=bị mất|
+love|love=tình yêu;lover=người yêu|love=yêu|lovely=đáng yêu;loving=đầy yêu thương|lovingly=một cách yêu thương
+main|||main=chính|mainly=chủ yếu
+make|maker=người chế tạo;making=việc làm|make=làm;remake=làm lại||
+married|marriage=hôn nhân|marry=kết hôn|married=đã kết hôn;unmarried=chưa kết hôn|
+mean;meaning|meaning=ý nghĩa|mean=có nghĩa|meaningful=có ý nghĩa;meaningless=vô nghĩa|meaningfully=một cách có ý nghĩa
+meet;meeting|meeting=cuộc họp|meet=gặp||
+message|message=tin nhắn;messaging=việc nhắn tin|message=nhắn tin||
+modern|modernity=tính hiện đại;modernization=sự hiện đại hóa|modernize=hiện đại hóa|modern=hiện đại|
+move|movement=sự di chuyển;mover=người chuyển đồ|move=di chuyển|movable=có thể di chuyển;moving=gây xúc động|
+music|music=âm nhạc;musician=nhạc sĩ||musical=thuộc âm nhạc|musically=về âm nhạc
+name|name=tên|name=đặt tên;rename=đổi tên|nameless=không có tên|
+natural|nature=tự nhiên;naturalness=tính tự nhiên|naturalize=nhập quốc tịch|natural=tự nhiên;unnatural=không tự nhiên|naturally=một cách tự nhiên
+need|need=nhu cầu|need=cần|needy=túng thiếu;needless=không cần thiết|
+negative|negativity=tính tiêu cực||negative=tiêu cực|negatively=một cách tiêu cực
+neighbor;neighborhood|neighbor=hàng xóm;neighborhood=khu phố||neighborly=thân thiện với hàng xóm|
+new;news|news=tin tức;newness=tính mới|renew=làm mới|new=mới|newly=mới, vừa
+nice|niceness=sự tử tế||nice=tốt, dễ chịu|nicely=một cách tốt
+north|north=hướng bắc||northern=thuộc phía bắc|northward=về phía bắc
+note|note=ghi chú;notebook=sổ ghi chép|note=ghi chú|noteworthy=đáng chú ý|
+number|number=con số|number=đánh số|numerical=thuộc con số|numerically=về mặt số lượng
+nurse|nurse=điều dưỡng;nursing=nghề điều dưỡng|nurse=chăm sóc người bệnh||
+ocean|ocean=đại dương||oceanic=thuộc đại dương|
+office|office=văn phòng;officer=cán bộ, sĩ quan;official=viên chức||official=chính thức|officially=một cách chính thức
+old|oldness=sự cũ kỹ||old=cũ, già;older=lớn tuổi hơn;oldest=lớn tuổi nhất|
+open|opening=chỗ mở;openness=sự cởi mở|open=mở;reopen=mở lại|open=mở|openly=một cách công khai
+opinion|opinion=ý kiến||opinionated=hay áp đặt ý kiến|
+opposite|opposition=sự phản đối|oppose=phản đối|opposite=đối diện;opposed=phản đối|
+order|order=đơn hàng; trật tự|order=đặt hàng|orderly=có trật tự|
+own|owner=chủ sở hữu;ownership=quyền sở hữu|own=sở hữu||
+paint;painting|paint=sơn;painting=bức tranh;painter=họa sĩ, thợ sơn|paint=sơn, vẽ||
+parent|parent=bố/mẹ;parenthood=việc làm cha mẹ||parental=thuộc cha mẹ|
+partner|partner=cộng sự;partnership=sự hợp tác|partner=hợp tác||
+pay|pay=tiền công;payment=sự thanh toán;payer=người trả|pay=trả|payable=phải/có thể thanh toán;unpaid=chưa trả|
+perfect|perfection=sự hoàn hảo|perfect=hoàn thiện|perfect=hoàn hảo;imperfect=không hoàn hảo|perfectly=hoàn toàn
+person;personal|person=người;personality=tính cách|personalize=cá nhân hóa|personal=cá nhân;impersonal=không mang tính cá nhân|personally=về cá nhân
+phone;telephone|phone=điện thoại;telephone=điện thoại|phone=gọi điện;telephone=gọi điện||
+photo;photograph|photo=ảnh;photograph=ảnh;photographer=nhiếp ảnh gia;photography=nhiếp ảnh|photograph=chụp ảnh|photographic=thuộc nhiếp ảnh|
+piano|piano=đàn piano;pianist=người chơi piano|||
+plan|plan=kế hoạch;planner=người lập kế hoạch;planning=việc lập kế hoạch|plan=lập kế hoạch|planned=đã lên kế hoạch;unplanned=không lên kế hoạch|
+plant|plant=cây;planter=người/chậu trồng cây|plant=trồng||
+play;player|play=vở kịch;player=người chơi;playfulness=sự tinh nghịch|play=chơi|playful=tinh nghịch|playfully=một cách tinh nghịch
+please|pleasure=niềm vui|please=làm hài lòng|pleased=hài lòng;pleasing=gây hài lòng;pleasant=dễ chịu|pleasantly=một cách dễ chịu
+point|point=điểm;pointer=vật chỉ|point=chỉ|pointed=nhọn;pointless=vô ích|
+poor|poverty=sự nghèo;poorness=sự kém||poor=nghèo, kém|poorly=một cách kém
+popular|popularity=sự phổ biến|popularize=làm phổ biến|popular=phổ biến;unpopular=không được ưa thích|
+positive|positivity=tính tích cực||positive=tích cực|positively=một cách tích cực
+possible|possibility=khả năng;impossibility=điều không thể||possible=có thể;impossible=không thể|possibly=có lẽ
+practice|practice=việc luyện tập;practitioner=người hành nghề|practice=luyện tập|practiced=có kinh nghiệm|
+prefer|preference=sự ưu tiên|prefer=thích hơn|preferable=đáng chọn hơn;preferred=được ưa thích|preferably=tốt hơn là
+prepare|preparation=sự chuẩn bị|prepare=chuẩn bị|prepared=sẵn sàng;unprepared=chưa chuẩn bị|
+present|present=món quà;presence=sự có mặt;presentation=bài thuyết trình|present=trình bày|present=có mặt|
+pretty|prettiness=vẻ xinh xắn||pretty=xinh|prettily=một cách xinh xắn
+price|price=giá;pricing=việc định giá|price=định giá|priceless=vô giá;pricey=đắt (thân mật)|
+product|product=sản phẩm;production=sự sản xuất;producer=người sản xuất;productivity=năng suất|produce=sản xuất|productive=có năng suất|productively=một cách có năng suất
+program|program=chương trình;programmer=lập trình viên;programming=việc lập trình|program=lập trình||
+question|question=câu hỏi;questioner=người đặt câu hỏi|question=hỏi; chất vấn|questionable=đáng nghi|
+quick;quickly|quickness=sự nhanh chóng||quick=nhanh|quickly=nhanh chóng
+quiet|quietness=sự yên tĩnh|quieten=làm yên (UK)|quiet=yên tĩnh|quietly=một cách yên tĩnh
+rain|rain=mưa;rainfall=lượng mưa|rain=mưa|rainy=có mưa|
+read;reader;reading|reader=người đọc;reading=việc đọc;readership=độc giả|read=đọc;reread=đọc lại|readable=dễ đọc;unreadable=khó đọc|
+ready|readiness=sự sẵn sàng|ready=chuẩn bị|ready=sẵn sàng|
+real;really|reality=thực tế;realism=chủ nghĩa hiện thực|realize=nhận ra|real=thật;unreal=không thật;realistic=thực tế|really=thực sự
+reason|reason=lý do;reasoning=sự suy luận|reason=suy luận|reasonable=hợp lý;unreasonable=không hợp lý|reasonably=một cách hợp lý
+relax|relaxation=sự thư giãn|relax=thư giãn|relaxed=cảm thấy thư giãn;relaxing=gây thư giãn|
+remember|remembrance=sự tưởng nhớ|remember=nhớ||
+repeat|repeat=lần lặp lại;repetition=sự lặp lại|repeat=lặp lại|repetitive=lặp đi lặp lại|repeatedly=nhiều lần
+report|report=báo cáo;reporter=phóng viên|report=báo cáo||
+result|result=kết quả|result=dẫn đến|resulting=phát sinh|
+return|return=sự trở lại|return=trở lại; trả lại|returnable=có thể trả lại|
+rich|richness=sự phong phú;riches=của cải|enrich=làm phong phú|rich=giàu|richly=một cách phong phú
+ride|ride=cuộc đi;rider=người cưỡi/đi|ride=cưỡi, đi||
+routine|routine=thói quen||routine=thường lệ|routinely=thường xuyên
+rule|rule=quy tắc;ruler=người cai trị; thước kẻ|rule=cai trị|ruling=đang cai trị|
+run|run=cuộc chạy;runner=người chạy;running=việc chạy|run=chạy||
+sad|sadness=nỗi buồn||sad=buồn|sadly=một cách buồn bã
+similar|similarity=sự tương tự||similar=tương tự;dissimilar=khác nhau|similarly=một cách tương tự
+say|saying=câu nói, tục ngữ|say=nói||
+science;scientist|science=khoa học;scientist=nhà khoa học||scientific=thuộc khoa học|scientifically=một cách khoa học
+see|sight=thị giác;seeing=việc nhìn|see=nhìn thấy|unseen=chưa được nhìn thấy|
+sell|sale=việc bán;seller=người bán|sell=bán|unsold=chưa bán|
+send|sender=người gửi|send=gửi;resend=gửi lại||
+share|share=phần chia;sharing=việc chia sẻ|share=chia sẻ|shared=được chia sẻ|
+shop;shopping|shop=cửa hàng;shopper=người mua sắm;shopping=việc mua sắm|shop=mua sắm||
+short|shortness=độ ngắn|shorten=làm ngắn|short=ngắn|shortly=chẳng bao lâu nữa
+show|show=buổi biểu diễn;showing=việc trình chiếu|show=cho xem||
+sick|sickness=bệnh tật|sicken=làm phát ốm|sick=bị bệnh;sickly=hay ốm|
+sing;singer;song|singer=ca sĩ;singing=việc hát;song=bài hát|sing=hát||
+sit|sitting=buổi ngồi|sit=ngồi||
+skill|skill=kỹ năng||skilled=có kỹ năng;skillful=khéo léo|skillfully=một cách khéo léo
+sleep|sleep=giấc ngủ;sleeper=người ngủ;sleepiness=sự buồn ngủ|sleep=ngủ|sleepy=buồn ngủ;sleepless=không ngủ được|sleepily=một cách buồn ngủ
+slow|slowness=sự chậm chạp|slow=làm chậm|slow=chậm|slowly=một cách chậm
+small|smallness=sự nhỏ bé||small=nhỏ|
+smart|smartness=sự thông minh||smart=thông minh|smartly=một cách thông minh
+snow|snow=tuyết;snowfall=việc tuyết rơi|snow=tuyết rơi|snowy=có tuyết|
+sound|sound=âm thanh|sound=nghe có vẻ|soundless=không có âm thanh|
+south|south=hướng nam||southern=thuộc phía nam|southward=về phía nam
+speak|speech=bài nói, lời nói;speaker=người nói|speak=nói|spoken=được nói;unspoken=không được nói|
+special|specialty=chuyên môn;specialist=chuyên gia|specialize=chuyên về|special=đặc biệt|specially=đặc biệt để;especially=đặc biệt là
+spell;spelling|spelling=chính tả;speller=người đánh vần|spell=đánh vần;misspell=viết sai chính tả||
+spend|spending=việc chi tiêu;spender=người tiêu tiền|spend=tiêu; dành||
+sport|sport=thể thao;sportsman=nam vận động viên;sportswoman=nữ vận động viên||sporty=thích thể thao|
+stand|stand=giá đỡ;standing=vị thế|stand=đứng||
+start|start=sự bắt đầu;starter=người/vật bắt đầu|start=bắt đầu;restart=bắt đầu lại||
+statement|statement=lời phát biểu|state=nêu, trình bày||
+stay|stay=lần ở lại|stay=ở lại||
+stop|stop=điểm dừng;stopper=nút chặn|stop=dừng|unstoppable=không thể ngăn|
+store|store=cửa hàng;storage=sự lưu trữ|store=lưu trữ||
+strong|strength=sức mạnh|strengthen=làm mạnh|strong=mạnh|strongly=một cách mạnh mẽ
+student;study|student=học sinh;study=việc học;studies=các môn học|study=học|studious=chăm học|
+style|style=phong cách;stylist=người tạo phong cách|style=tạo kiểu|stylish=sành điệu|stylishly=một cách sành điệu
+success|success=sự thành công|succeed=thành công|successful=thành công;unsuccessful=không thành công|successfully=một cách thành công
+sugar|sugar=đường|sugar=cho đường|sugary=nhiều đường|
+sun|sun=mặt trời;sunshine=ánh nắng||sunny=có nắng;sunless=không có nắng|
+sure|||sure=chắc chắn;unsure=không chắc|surely=chắc hẳn
+swim;swimming|swimmer=người bơi;swimming=việc bơi|swim=bơi||
+talk|talk=cuộc nói chuyện;talker=người nói|talk=nói chuyện|talkative=hay nói|
+tall|tallness=chiều cao||tall=cao|
+teach;teacher|teacher=giáo viên;teaching=việc dạy|teach=dạy;reteach=dạy lại||
+teenager|teenager=người ở tuổi thiếu niên;teens=tuổi 13–19||teenage=thuộc tuổi thiếu niên|
+tell|teller=người kể; giao dịch viên;storyteller=người kể chuyện|tell=kể, nói cho biết||
+test|test=bài kiểm tra;tester=người/công cụ kiểm tra;testing=việc kiểm tra|test=kiểm tra|tested=đã được kiểm tra|
+text|text=văn bản;texting=việc nhắn tin|text=nhắn tin|textual=thuộc văn bản|
+thank;thanks|thanks=lời cảm ơn;thankfulness=lòng biết ơn|thank=cảm ơn|thankful=biết ơn;thankless=không được biết ơn|thankfully=may thay; với lòng biết ơn
+think|thought=ý nghĩ;thinker=người suy nghĩ|think=nghĩ;rethink=suy nghĩ lại|thoughtful=chu đáo;thoughtless=thiếu suy nghĩ|thoughtfully=một cách chu đáo
+thirsty|thirst=cơn khát||thirsty=khát|thirstily=một cách khát nước
+tired|tiredness=sự mệt mỏi|tire=làm mệt|tired=mệt;tiring=gây mệt|
+tourist|tourist=khách du lịch;tourism=du lịch;tour=chuyến tham quan|tour=tham quan||
+travel|travel=việc đi lại;traveler=người đi du lịch|travel=đi lại||
+true|truth=sự thật||true=đúng;truthful=trung thực;untrue=không đúng|truly=thực sự;truthfully=một cách trung thực
+try|try=sự thử;trial=cuộc thử nghiệm|try=thử||
+turn|turn=lượt;turning=việc quay|turn=quay, rẽ||
+type|type=loại;typist=người đánh máy;typing=việc gõ|type=gõ;retype=gõ lại||
+understand|understanding=sự hiểu biết|understand=hiểu;misunderstand=hiểu nhầm|understandable=có thể hiểu;understanding=thông cảm|understandably=một cách có thể hiểu được
+use;useful|use=việc dùng;user=người dùng;usefulness=sự hữu ích|use=sử dụng;reuse=dùng lại;misuse=dùng sai|useful=hữu ích;useless=vô dụng;usable=có thể dùng|
+usually|||usual=thông thường;unusual=khác thường|usually=thông thường
+visit;visitor|visit=chuyến thăm;visitor=khách thăm|visit=thăm||
+wait;waiter|wait=sự chờ đợi;waiter=người phục vụ;waiting=việc chờ|wait=chờ||
+wake|wakefulness=sự tỉnh táo|wake=thức dậy;awaken=đánh thức|awake=tỉnh;wakeful=khó ngủ|
+walk|walk=cuộc đi bộ;walker=người đi bộ;walking=việc đi bộ|walk=đi bộ||
+warm|warmth=sự ấm áp|warm=làm ấm|warm=ấm|warmly=một cách nồng nhiệt
+wash|wash=việc giặt;washer=máy/người giặt;washing=đồ giặt|wash=giặt|washable=có thể giặt|
+watch|watch=đồng hồ;watcher=người quan sát|watch=xem|watchful=cảnh giác|watchfully=một cách cảnh giác
+water|water=nước|water=tưới|watery=nhiều nước;waterproof=chống nước|
+week|week=tuần;weekend=cuối tuần||weekly=hàng tuần|weekly=mỗi tuần
+welcome|welcome=sự chào đón|welcome=chào đón|welcome=được hoan nghênh;welcoming=niềm nở|
+west|west=hướng tây||western=thuộc phía tây|westward=về phía tây
+win|win=chiến thắng;winner=người thắng|win=thắng||
+woman|woman=phụ nữ;womanhood=tuổi trưởng thành của phụ nữ||womanly=có nét phụ nữ|
+wonderful|wonder=sự kinh ngạc; kỳ quan|wonder=tự hỏi|wonderful=tuyệt vời|wonderfully=một cách tuyệt vời
+word|word=từ;wording=cách dùng từ|word=diễn đạt|wordless=không lời|
+work;worker|work=công việc;worker=người lao động;workplace=nơi làm việc|work=làm việc|working=đang làm việc;workable=khả thi|
+write;writer;writing|writer=người viết;writing=việc viết|write=viết;rewrite=viết lại|written=được viết|
+wrong|wrongness=sự sai||wrong=sai|wrongly=một cách sai
+year|year=năm||yearly=hàng năm|yearly=mỗi năm
+young|youth=tuổi trẻ;youngster=người trẻ||young=trẻ; youthful=trẻ trung|
+address|address=địa chỉ;addressee=người nhận thư;addressing=việc đề địa chỉ|address=đề địa chỉ; giải quyết||
+air|air=không khí;airiness=sự thoáng đãng||airy=thoáng;airless=thiếu không khí|
+arm|arm=cánh tay;armful=một ôm;armrest=chỗ tựa tay|||
+bag|bag=túi;baggage=hành lý|bag=bỏ vào túi|baggy=rộng thùng thình|
+bank (money)|bank=ngân hàng;banker=người làm ngân hàng;banking=hoạt động ngân hàng|bank=giao dịch với ngân hàng||
+bed;bedroom|bed=giường;bedroom=phòng ngủ;bedding=chăn ga gối;bedtime=giờ ngủ|||
+bill|bill=hóa đơn;billing=việc lập hóa đơn|bill=gửi hóa đơn||
+blue|||blue=xanh dương;bluish=hơi xanh dương|
+boat|boat=thuyền;boater=người đi thuyền;boating=việc đi thuyền|boat=đi thuyền||
+bottle|bottle=chai;bottling=việc đóng chai|bottle=đóng chai|bottled=được đóng chai|
+box|box=hộp|box=đóng vào hộp;unbox=mở hộp|boxed=đã đóng hộp;boxy=có hình hộp|
+brown|brownness=màu nâu|brown=làm chuyển màu nâu|brown=nâu;brownish=hơi nâu|
+chart|chart=biểu đồ;charting=việc lập biểu đồ|chart=vẽ biểu đồ||
+class;classroom|class=lớp;classification=sự phân loại;classroom=phòng học|classify=phân loại|classified=đã phân loại;unclassified=chưa phân loại|
+common|||common=phổ biến;uncommon=không phổ biến|commonly=thường, phổ biến
+day|day=ngày;daytime=ban ngày||daily=hàng ngày|daily=mỗi ngày
+dinner|dinner=bữa tối;diner=người ăn; quán ăn kiểu Mỹ;dining=việc dùng bữa|dine=dùng bữa (trang trọng)||
+first|||first=đầu tiên|firstly=thứ nhất (liệt kê)
+future|future=tương lai;futurism=chủ nghĩa vị lai||future=thuộc tương lai;futuristic=mang phong cách tương lai|
+girl|girl=cô bé;girlhood=thời niên thiếu của nữ||girlish=có nét trẻ trung như con gái|
+glass|glass=thủy tinh;glassware=đồ thủy tinh||glassy=trong/bóng như kính|
+hospital|hospital=bệnh viện;hospitalization=việc nhập viện|hospitalize=cho nhập viện||
+hour|hour=giờ||hourly=mỗi giờ|hourly=mỗi giờ
+island|island=đảo;islander=người sống trên đảo|||
+land|land=đất;landing=việc hạ cánh|land=hạ cánh||
+leg|leg=chân;legroom=chỗ duỗi chân||legless=không có chân|
+lunch|lunch=bữa trưa|lunch=ăn trưa||
+map|map=bản đồ;mapping=việc lập bản đồ|map=lập bản đồ||
+market|market=chợ;marketing=hoạt động tiếp thị;marketer=người làm tiếp thị|market=tiếp thị|marketable=có thể bán được|
+meat|meat=thịt||meaty=nhiều thịt; có nội dung đáng kể|
+mountain|mountain=núi;mountainside=sườn núi||mountainous=nhiều núi|
+mouth|mouth=miệng;mouthful=một miếng, một ngụm;mouthwash=nước súc miệng|||
+night|night=đêm;nightlife=cuộc sống về đêm||nightly=mỗi đêm|nightly=mỗi đêm
+outside|outside=bên ngoài;outsider=người ngoài||outside=ở bên ngoài|
+pair|pair=cặp;pairing=việc ghép cặp|pair=ghép cặp||
+park|park=công viên;parking=việc đỗ xe|park=đỗ xe|parked=đã đỗ|
+part|part=phần|part=chia tay, tách|partial=một phần|partly=một phần;partially=một phần
+pepper|pepper=tiêu, ớt||peppery=có vị cay của tiêu|
+period|period=khoảng thời gian||periodic=định kỳ|periodically=theo định kỳ
+phrase|phrase=cụm từ;phrasing=cách diễn đạt|phrase=diễn đạt bằng lời||
+picture|picture=bức tranh|picture=hình dung|picturesque=đẹp như tranh|
+place|place=địa điểm;placement=việc đặt, bố trí|place=đặt;misplace=để nhầm chỗ|misplaced=để nhầm chỗ|
+police;policeman|police=cảnh sát;policeman=nam cảnh sát;police officer=cảnh sát không nêu giới;policing=hoạt động giữ trật tự|police=giữ trật tự||
+red|redness=sắc đỏ|redden=làm đỏ|red=đỏ;reddish=hơi đỏ|
+room|room=phòng;roommate=bạn cùng phòng||roomy=rộng rãi|
+school|school=trường;schooling=việc học ở trường;schoolchild=học sinh nhỏ tuổi|school=đào tạo||
+shoe|shoe=giày;shoemaker=thợ đóng giày;shoemaking=việc đóng giày|||
+situation|situation=tình huống; vị trí|situate=đặt ở vị trí|situated=nằm tại;situational=thuộc tình huống|
+space|space=không gian;spacing=việc đặt khoảng cách|space=đặt cách nhau|spacious=rộng rãi|
+star|star=ngôi sao;stardom=vị thế ngôi sao|star=đóng vai chính|starry=đầy sao;starless=không có sao|
+summer|summer=mùa hè||summery=có nét mùa hè|
+winter|winter=mùa đông||wintry=có nét mùa đông|
+table|table=bàn;tabletop=mặt bàn;tableware=đồ dùng bàn ăn|||
+team|team=đội;teammate=đồng đội;teamwork=việc phối hợp nhóm|team up=hợp tác||
+television|television=truyền hình|televise=truyền hình, phát lên ti vi|televised=được truyền hình|
+theater|theater=nhà hát;theatricality=tính sân khấu||theatrical=thuộc sân khấu|theatrically=theo cách sân khấu
+terrible|||terrible=rất tệ|terribly=rất; một cách tệ
+title|title=tiêu đề|title=đặt tiêu đề;retitle=đổi tiêu đề|titled=có tiêu đề;untitled=chưa có tiêu đề|
+tooth|tooth=răng||toothless=không có răng;toothy=lộ nhiều răng|
+tree|tree=cây;treetop=ngọn cây||treeless=không có cây|
+vacation|vacation=kỳ nghỉ;vacationer=người đi nghỉ|vacation=đi nghỉ (Mỹ)||
+vegetable|vegetable=rau;vegetarian=người ăn chay;vegetarianism=việc ăn chay||vegetarian=thuộc ăn chay|
+video|video=đoạn phim;videography=việc quay video;videographer=người quay video|video=quay video||

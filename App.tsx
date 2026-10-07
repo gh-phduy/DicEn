@@ -2,7 +2,7 @@ import React, { useMemo, useState } from 'react';
 import { FlatList, Pressable, ScrollView, StyleSheet, Text, TextInput, View } from 'react-native';
 import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 import { StatusBar } from 'expo-status-bar';
-import { trialWords, wordById } from './src/data/catalog';
+import { a1Words, learningWords, wordById } from './src/data/catalog';
 import { dueWords, recordKnown, searchWords, type Word } from './src/lib/study';
 import { useLibrary } from './src/hooks/useLibrary';
 import { usePronunciation } from './src/hooks/usePronunciation';
@@ -12,14 +12,14 @@ import { WordDetail } from './src/components/WordDetail';
 function AppContent() {
   const [tab, setTab] = useState<'dictionary' | 'saved'>('dictionary');
   const [query, setQuery] = useState('');
-  const [level, setLevel] = useState('All');
+  const [level, setLevel] = useState('A1');
   const [detail, setDetail] = useState<Word | null>(null);
   const [review, setReview] = useState(false);
   const library = useLibrary();
   const pronunciation = usePronunciation();
   const savedWords = useMemo(() => library.saved.map(id => wordById.get(id)).filter((word): word is Word => !!word), [library.saved]);
   const reviews = dueWords(savedWords, library.saved, library.progress).filter(word => word.definition);
-  const results = useMemo(() => searchWords(tab === 'dictionary' ? trialWords : savedWords, query, level), [tab, query, level, savedWords]);
+  const results = useMemo(() => searchWords(tab === 'dictionary' ? learningWords : savedWords, query, level), [tab, query, level, savedWords]);
   const openWord = (word: Word, forReview = false) => { pronunciation.stopSpeech(); setReview(forReview); setDetail(word); };
   const closeWord = () => { setDetail(null); pronunciation.stopSpeech(); };
   const markKnown = () => {
@@ -28,13 +28,13 @@ function AppContent() {
     const next = reviews.find(word => word.id !== detail.id);
     if (next) openWord(next, true); else closeWord();
   };
-  const changeTab = (next: 'dictionary' | 'saved') => { setTab(next); setQuery(''); setLevel('All'); };
+  const changeTab = (next: 'dictionary' | 'saved') => { setTab(next); setQuery(''); setLevel(next === 'dictionary' ? 'A1' : 'All'); };
   const renderWord = ({ item }: { item: Word }) => <View style={s.wordRow}>
     <Pressable accessibilityRole="button" accessibilityLabel={`Xem từ ${item.term}`} onPress={() => openWord(item)}
       style={({ pressed }) => [s.wordButton, pressed && { opacity: 0.55 }]}>
       <View style={s.wordHeading}><Text style={s.word}>{item.term}</Text><Level label={item.level} /></View>
       <Text style={s.definition} numberOfLines={2}>{item.definition ?? 'Chưa có nghĩa Việt'}</Text>
-      <Text style={s.wordHint}>{item.wordFamily ? 'Word family' : 'Chi tiết'}{item.comparisons?.length ? '  ·  Sắc thái' : ''}</Text>
+      <Text style={s.wordHint}>{item.forms?.length ? 'Dạng ngữ pháp' : item.wordFamily && Object.values(item.wordFamily).flat().some(member => member.term !== item.term) ? 'Word family' : 'Chi tiết'}{item.comparisons?.length ? '  ·  Sắc thái' : ''}</Text>
     </Pressable>
     <IconButton icon={library.saved.includes(item.id) ? 'bookmark' : 'bookmark-outline'} label={library.saved.includes(item.id) ? `Bỏ lưu ${item.term}` : `Lưu ${item.term}`} active={library.saved.includes(item.id)} disabled={!library.ready} onPress={() => library.toggleSaved(item.id)} />
   </View>;
@@ -48,7 +48,7 @@ function AppContent() {
       {!!library.error && <View accessibilityRole="alert" style={s.error}><Text style={s.errorText}>{library.error}</Text></View>}
       <View style={s.main}>
         <View style={s.intro}>
-          <Text style={s.title}>{tab === 'dictionary' ? '50 từ để học kỹ.' : 'Từ đã lưu.'}</Text>
+          <Text style={s.title}>{tab === 'dictionary' ? level === 'A1' ? `${a1Words.length} từ A1.` : 'Từ điển của mình.' : 'Từ đã lưu.'}</Text>
           <Text style={s.subtitle}>{tab === 'dictionary' ? 'Họ từ · Sắc thái · Ví dụ Anh–Việt' : `${savedWords.length} từ của mình · Lưu trên máy`}</Text>
         </View>
         <View style={s.search}><Icon name="search-outline" color={C.secondary} size={23} />
@@ -65,7 +65,7 @@ function AppContent() {
         {tab === 'saved' && !!reviews.length && <Pressable accessibilityRole="button" accessibilityLabel="Bắt đầu ôn từ đã lưu" onPress={() => openWord(reviews[0], true)} style={s.reviewBanner}><View style={{ flex: 1 }}><Text style={s.reviewTitle}>Ôn {reviews.length} từ đang chờ</Text><Text style={s.reviewSubtitle}>Nhớ nghĩa trước khi mở đáp án</Text></View><Icon name="arrow-forward" color={C.green} /></Pressable>}
         <Text style={s.resultCount}>{results.length} từ{query ? ` khớp “${query}”` : ' · Chạm để mở chi tiết'}</Text>
         <FlatList data={results} keyExtractor={word => word.id} renderItem={renderWord} initialNumToRender={12} keyboardShouldPersistTaps="handled" showsVerticalScrollIndicator={false} contentContainerStyle={{ paddingBottom: 16 }}
-          ListEmptyComponent={<View style={s.empty}><Icon name={tab === 'saved' && !query ? 'bookmark-outline' : 'search-outline'} size={37} color={C.green} /><Text style={s.emptyTitle}>{tab === 'saved' && !query ? 'Lưu những từ muốn nhớ' : 'Chưa tìm thấy từ'}</Text><Text style={s.emptyText}>{tab === 'saved' && !query ? 'Chạm biểu tượng lưu bên cạnh một từ để đưa vào bộ từ của mình.' : 'Thử tìm ngắn hơn hoặc chọn Tất cả. Bản thử tập trung vào 50 từ.'}</Text></View>} />
+          ListEmptyComponent={<View style={s.empty}><Icon name={tab === 'saved' && !query ? 'bookmark-outline' : 'search-outline'} size={37} color={C.green} /><Text style={s.emptyTitle}>{tab === 'saved' && !query ? 'Lưu những từ muốn nhớ' : 'Chưa tìm thấy từ'}</Text><Text style={s.emptyText}>{tab === 'saved' && !query ? 'Chạm biểu tượng lưu bên cạnh một từ để đưa vào bộ từ của mình.' : 'Thử tìm ngắn hơn hoặc chọn Tất cả. Các mức khác đang được bổ sung dần.'}</Text></View>} />
       </View>
       <View style={s.navigation}>{([{ id: 'dictionary', title: 'Từ điển', icon: 'book-outline', selected: 'book' }, { id: 'saved', title: 'Đã lưu', icon: 'bookmark-outline', selected: 'bookmark' }] as const).map(item => <Pressable key={item.id} accessibilityRole="tab" accessibilityLabel={item.title} accessibilityState={{ selected: tab === item.id }} onPress={() => changeTab(item.id)} style={[s.navTab, item.id === tab && s.navSelected]}><Icon name={item.id === tab ? item.selected : item.icon} size={23} color={item.id === tab ? C.green : C.secondary} /><Text style={[s.navText, item.id === tab && { color: C.green }]}>{item.title}</Text></Pressable>)}</View>
     </View>

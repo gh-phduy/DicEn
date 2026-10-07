@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { TRIAL_NOTES, CHECKED_REFERENCES } from './trial-notes.mjs';
+import { buildA1 } from './build-a1.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 // Keep the bilingual source inside DicEn; regeneration needs no other checkout.
@@ -23,3 +24,4 @@ if (trial.length !== 50) throw new Error('The trial must contain exactly 50 word
 fs.writeFileSync(path.join(root, 'src/data/trial.json'), JSON.stringify(trial, null, 2) + '\n');
 console.log(`Imported ${words.length} bilingual entries from the local source data.`);
 console.log(`Prepared ${trial.length} trial words with word families and sense comparisons.`);
+buildA1();

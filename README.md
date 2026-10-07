@@ -1,13 +1,16 @@
 # DicEn
 
 Ứng dụng từ điển Anh–Việt độc lập, xây dựng bằng Expo và React Native cho Android.
-Bản thử tập trung **50 từ**, giúp học họ từ và chọn từ đúng ngữ cảnh.
+Hiện có đủ **899 mục từ A1** trong danh sách Oxford đã nhập, cùng bộ 50 từ thử
+trước đó. App mở mặc định ở A1 để học từ nền tảng và chọn từ đúng ngữ cảnh.
 
 ## Tính năng
 
 - Tra từ, nghĩa Việt có hoặc không dấu, và dạng trong họ từ.
 - Lọc theo trình độ Oxford A1–C1.
 - Chi tiết gồm **Họ từ**, **Sắc thái**, **Ví dụ Anh–Việt** và cụm từ thường gặp.
+- Dạng ngữ pháp riêng cho đại từ, số nhiều bất quy tắc và một số động từ bất quy tắc.
+  Tìm `wrote` để ra `write`, `children` để ra `child`, `happiness` để ra `happy`.
 - Lưu từ trên thiết bị, tự kiểm tra và ôn lại sau 24 giờ.
 - Phát âm riêng từng từ hoặc câu bằng giọng đọc của thiết bị; không có trình phát bài nghe.
 - Nền sáng, chữ lớn, màu tương phản và nút dễ chạm.
@@ -34,7 +37,19 @@ npm run web
 
 ## Dữ liệu
 
-`src/data/trial.json` chứa 50 từ được bổ sung họ từ và so sánh ngữ cảnh.
+`src/data/a1.json` chứa toàn bộ 899 mục A1, mỗi mục có nghĩa Việt, phiên âm Mỹ
+và ít nhất một ví dụ Anh–Việt. `src/data/a1-report.json` ghi kiểm tra độ bao phủ:
+438 mục có thêm họ từ, 90 mục có dạng ngữ pháp, 372 mục có ghi chú cách dùng,
+253 mục có so sánh. Không tạo từ bằng cách thêm hậu tố tự động hoặc coi các từ
+đối lập/dễ nhầm là đồng nghĩa. Một số ví dụ được dùng chung cho các từ trong cùng câu.
+
+Nguồn biên soạn A1 nằm trong các file `scripts/data/a1-*.txt`, snapshot phiên âm
+`a1-pronunciations.json` và `scripts/a1-extra.mjs`. Nghĩa/loại từ hiển thị tập trung
+vào A1; các dạng họ từ liên quan có thể thuộc mức cao hơn. Dữ liệu biên soạn phục vụ
+học tập, chưa được chuyên gia từ điển rà soát từng mục. Không tuyên bố bao gồm mọi
+nghĩa hoặc mọi dạng phái sinh của từng từ.
+
+`src/data/trial.json` giữ 50 từ thử có họ từ và so sánh ngữ cảnh.
 Danh sách họ từ chọn các dạng thông dụng, không bao gồm mọi dạng hiếm hoặc dạng chia.
 Các ghi chú và ví dụ so sánh nằm trong `scripts/trial-notes.mjs`.
 
@@ -49,8 +64,9 @@ npm run data:import
 Chỉ mục Oxford gồm 4.978 mục từ được nhập từ American Oxford 3000 và phần bổ sung
 American Oxford 5000. PDF cung cấp từ, loại từ và trình độ; nghĩa Việt và ví dụ được
 biên soạn riêng. `src/data/import-report.json` ghi số lượng thực tế.
-Danh sách chính hiện chỉ hiển thị 50 từ thử nghiệm. Chỉ mục lớn được giữ để mở rộng
-và đọc những từ đã lưu trước đây. PDF gốc không được đưa vào repo.
+Danh sách chính gồm A1 và các từ thử trước đó, khử trùng theo ID và ưu tiên nội dung
+A1 khi trùng. Chỉ mục lớn được giữ để mở rộng và đọc những từ đã lưu trước đây.
+PDF gốc không được đưa vào repo.
 
 Nhập lại từ hai PDF do người dùng cung cấp (tùy chọn; không cần để chạy app):
 
@@ -59,6 +75,19 @@ python -m pip install pypdf
 python scripts/import-oxford.py /path/to/American_Oxford_3000.pdf /path/to/American_Oxford_5000.pdf
 npm run data:import
 ```
+
+Đối chiếu lại loại từ và chữ hoa của riêng A1 từ PDF gốc:
+
+```sh
+python scripts/extract-a1-metadata.py /path/to/American_Oxford_3000.pdf
+npm run data:import
+```
+
+Snapshot phiên âm dùng [ipa-dict](https://github.com/open-dict-data/ipa-dict) và
+được lưu kèm nguồn, phiên bản và thông báo bản quyền MIT tại
+`scripts/data/attributions/`. Các ghi chú về hardly, each/every, can và bring/take
+đã được đối chiếu với Cambridge và có liên kết trong chi tiết từ. Các từ khác
+không được đánh dấu như đã kiểm chứng bằng từ điển.
 
 Phát âm dùng `expo-speech`; khả năng đọc khi ngoại tuyến tùy thuộc giọng đã cài
 trên thiết bị. Bookmark và tiến độ học lưu cục bộ. Giữ định danh ứng dụng Android/iOS
@@ -72,8 +101,9 @@ npm test
 npx expo export --platform android --platform web --output-dir dist
 ```
 
-Kiểm tra gồm tìm kiếm không dấu và họ từ, lọc nhiều trình độ, lịch ôn 24 giờ,
-độ đầy đủ của 50 từ, phân biệt nghĩa của lead và cách dùng rise/raise.
+Kiểm tra gồm bao phủ A1 chính xác theo PDF, loại từ theo mức A1, đồng hình và
+phiên âm theo nghĩa, tìm kiếm dạng biến đổi/họ từ, tìm không dấu, lọc nhiều trình độ,
+lịch ôn 24 giờ, độ đầy đủ của 50 từ, nghĩa của lead và cách dùng rise/raise.
 Export tạo bundle, chưa phải APK; độ rõ dưới nắng và giọng đọc cần thử trên điện thoại.
 
 ## APK
