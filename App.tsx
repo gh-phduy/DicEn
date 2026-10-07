@@ -2,12 +2,14 @@ import React, { useMemo, useState } from 'react';
 import { FlatList, Pressable, ScrollView, StyleSheet, Text, TextInput, View } from 'react-native';
 import { SafeAreaProvider, SafeAreaView } from 'react-native-safe-area-context';
 import { StatusBar } from 'expo-status-bar';
-import { a1Words, learningWords, wordById } from './src/data/catalog';
+import { a1Words, b1Words, learningWords, wordById } from './src/data/catalog';
 import { dueWords, recordKnown, searchWords, type Word } from './src/lib/study';
 import { useLibrary } from './src/hooks/useLibrary';
 import { usePronunciation } from './src/hooks/usePronunciation';
 import { colors as C, Icon, IconButton, Level } from './src/components/ui';
 import { WordDetail } from './src/components/WordDetail';
+
+const preparedLevelCounts: Record<string, number> = { A1: a1Words.length, B1: b1Words.length };
 
 function AppContent() {
   const [tab, setTab] = useState<'dictionary' | 'saved'>('dictionary');
@@ -48,7 +50,7 @@ function AppContent() {
       {!!library.error && <View accessibilityRole="alert" style={s.error}><Text style={s.errorText}>{library.error}</Text></View>}
       <View style={s.main}>
         <View style={s.intro}>
-          <Text style={s.title}>{tab === 'dictionary' ? level === 'A1' ? `${a1Words.length} từ A1.` : 'Từ điển của mình.' : 'Từ đã lưu.'}</Text>
+          <Text style={s.title}>{tab === 'dictionary' ? preparedLevelCounts[level] ? `${preparedLevelCounts[level]} từ ${level}.` : 'Từ điển của mình.' : 'Từ đã lưu.'}</Text>
           <Text style={s.subtitle}>{tab === 'dictionary' ? 'Họ từ · Sắc thái · Ví dụ Anh–Việt' : `${savedWords.length} từ của mình · Lưu trên máy`}</Text>
         </View>
         <View style={s.search}><Icon name="search-outline" color={C.secondary} size={23} />

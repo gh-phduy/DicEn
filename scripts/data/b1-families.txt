@@ -1,0 +1,375 @@
+# Explicit B1 headwords | nouns | verbs | adjectives | adverbs. Related forms may be above B1.
+academic|academy=học viện;academic=học giả||academic=thuộc học thuật|academically=về mặt học thuật
+access|access=quyền tiếp cận;accessibility=khả năng tiếp cận|access=truy cập|accessible=có thể tiếp cận|
+account|account=tài khoản;accountant=kế toán viên;accounting=ngành kế toán|account for=giải thích, chiếm (tỷ lệ)|accountable=chịu trách nhiệm|
+admire|admiration=sự ngưỡng mộ;admirer=người ngưỡng mộ|admire=ngưỡng mộ|admirable=đáng khâm phục|admirably=một cách đáng khâm phục
+admit|admission=sự thừa nhận;admittance=sự cho phép vào|admit=thừa nhận, cho vào||
+advise|advice=lời khuyên;adviser=người tư vấn|advise=khuyên|advisable=nên làm|
+agent|agent=người đại diện;agency=cơ quan, đại lý|||
+alarm|alarm=chuông báo động, sự lo sợ|alarm=làm lo sợ|alarmed=lo sợ;alarming=đáng lo|
+alcohol;alcoholic|alcohol=cồn, rượu||alcoholic=có cồn;nonalcoholic=không có cồn|
+amazed|amazement=sự kinh ngạc|amaze=làm kinh ngạc|amazed=kinh ngạc;amazing=đáng kinh ngạc|amazingly=một cách đáng kinh ngạc
+ambition|ambition=hoài bão||ambitious=có tham vọng|ambitiously=một cách đầy tham vọng
+analysis|analysis=sự phân tích;analyst=nhà phân tích|analyze=phân tích|analytical=thuộc phân tích|analytically=theo cách phân tích
+announce;announcement|announcement=thông báo;announcer=người thông báo|announce=thông báo||
+annoy;annoyed;annoying|annoyance=sự bực mình|annoy=làm bực mình|annoyed=bực mình;annoying=gây bực mình|annoyingly=một cách gây bực mình
+apologize|apology=lời xin lỗi|apologize=xin lỗi|apologetic=tỏ ý xin lỗi|apologetically=với thái độ xin lỗi
+appreciate|appreciation=sự trân trọng|appreciate=trân trọng|appreciative=biết trân trọng|appreciatively=với thái độ biết ơn
+approximately|approximation=sự ước lượng|approximate=ước tính|approximate=xấp xỉ|approximately=khoảng, xấp xỉ
+arrest|arrest=sự bắt giữ|arrest=bắt giữ||
+assignment|assignment=nhiệm vụ|assign=giao nhiệm vụ||
+assist|assistance=sự hỗ trợ;assistant=trợ lý|assist=hỗ trợ||
+attach|attachment=tệp đính kèm, sự gắn bó|attach=đính kèm|attached=được gắn vào|
+attract;attraction|attraction=sự thu hút|attract=thu hút|attractive=hấp dẫn|attractively=một cách hấp dẫn
+authority|authority=quyền hạn;authorization=sự cho phép|authorize=cho phép|authorized=được cho phép|
+automatic;automatically|automation=sự tự động hóa|automate=tự động hóa|automatic=tự động|automatically=một cách tự động
+aware|awareness=sự nhận thức||aware=biết, nhận thức được;unaware=không biết|
+backward|||backward=hướng về sau|backward=về phía sau
+bake|baker=thợ làm bánh;bakery=tiệm bánh;baking=việc nướng|bake=nướng||
+balance|balance=sự cân bằng|balance=giữ cân bằng|balanced=cân bằng;unbalanced=mất cân bằng|
+ban|ban=lệnh cấm|ban=cấm||
+base;basic;basis|base=nền;basis=cơ sở|base=dựa trên|basic=cơ bản|basically=về cơ bản
+beauty|beauty=vẻ đẹp|beautify=làm đẹp|beautiful=đẹp|beautifully=một cách đẹp đẽ
+belief|belief=niềm tin;believer=người tin|believe=tin|believable=đáng tin;unbelievable=khó tin|
+bend|bend=khúc cua|bend=uốn, cúi|bent=bị cong|
+bite|bite=vết cắn|bite=cắn||
+brand|brand=thương hiệu|brand=gắn nhãn|branded=có thương hiệu|
+brave|bravery=sự dũng cảm||brave=dũng cảm|bravely=một cách dũng cảm
+breath;breathe;breathing|breath=hơi thở;breathing=sự hít thở|breathe=thở|breathless=khó thở, hết hơi|breathlessly=một cách hổn hển
+calm|calm=sự bình lặng|calm=làm dịu|calm=bình tĩnh|calmly=một cách bình tĩnh
+campaign|campaign=chiến dịch;campaigner=người vận động|campaign=vận động||
+careless|care=sự chăm sóc;carelessness=sự bất cẩn|care=quan tâm|careful=cẩn thận;careless=bất cẩn|carefully=cẩn thận;carelessly=bất cẩn
+category|category=loại, nhóm|categorize=phân loại||
+celebration|celebration=sự ăn mừng|celebrate=ăn mừng||
+center;central|center=trung tâm|center=tập trung|central=ở trung tâm|centrally=ở trung tâm
+charge|charge=phí, lời buộc tội;charger=bộ sạc|charge=tính phí, sạc;recharge=sạc lại|rechargeable=có thể sạc lại|
+cheat|cheat=người gian lận;cheating=sự gian lận|cheat=gian lận||
+cheerful|cheer=tiếng reo;cheerfulness=sự vui vẻ|cheer=reo hò, cổ vũ|cheerful=vui vẻ|cheerfully=một cách vui vẻ
+chemical|chemistry=hóa học;chemist=nhà hóa học;chemical=hóa chất||chemical=thuộc hóa học|chemically=về mặt hóa học
+claim|claim=lời khẳng định, yêu cầu đòi|claim=khẳng định, đòi||
+cloth|cloth=vải;clothing=quần áo;clothes=quần áo|clothe=mặc quần áo cho||
+combine|combination=sự kết hợp|combine=kết hợp|combined=được kết hợp|
+commercial|commerce=thương mại;commercial=quảng cáo||commercial=thuộc thương mại|commercially=về thương mại
+commit|commitment=sự cam kết|commit=cam kết, phạm|committed=tận tâm, đã cam kết|
+communication|communication=sự giao tiếp;communicator=người truyền đạt|communicate=giao tiếp|communicative=cởi mở, hay giao tiếp|
+comparison|comparison=sự so sánh|compare=so sánh|comparable=có thể so sánh;comparative=mang tính so sánh|
+competitive;competitor|competition=cuộc thi, sự cạnh tranh;competitor=đối thủ|compete=cạnh tranh|competitive=có tính cạnh tranh|competitively=một cách cạnh tranh
+complaint|complaint=lời phàn nàn|complain=phàn nàn||
+complex|complexity=sự phức tạp||complex=phức tạp|
+concentrate|concentration=sự tập trung|concentrate=tập trung||
+conclude;conclusion|conclusion=kết luận|conclude=kết luận|conclusive=có tính quyết định|conclusively=một cách xác thực
+confident|confidence=sự tự tin||confident=tự tin|confidently=một cách tự tin
+confirm|confirmation=sự xác nhận|confirm=xác nhận|confirmed=đã xác nhận|
+confuse;confused|confusion=sự bối rối|confuse=làm bối rối|confused=bối rối;confusing=gây bối rối|confusingly=một cách gây bối rối
+connection|connection=sự kết nối|connect=kết nối|connected=được kết nối|
+consequence|consequence=hậu quả||consequent=kéo theo|consequently=do đó, vì vậy
+consume;consumer|consumer=người tiêu dùng;consumption=sự tiêu thụ|consume=tiêu thụ|consumable=có thể tiêu thụ|
+contact|contact=sự liên lạc|contact=liên hệ||
+container|container=vật chứa|contain=chứa||
+continuous|continuity=sự liên tục|continue=tiếp tục|continuous=liên tục|continuously=một cách liên tục
+contrast|contrast=sự tương phản|contrast=đối chiếu|contrasting=tương phản|
+convenient|convenience=sự thuận tiện||convenient=thuận tiện;inconvenient=bất tiện|conveniently=một cách thuận tiện
+convince|conviction=niềm tin chắc|convince=thuyết phục|convinced=tin chắc;convincing=có sức thuyết phục|convincingly=một cách thuyết phục
+cultural|culture=văn hóa||cultural=thuộc văn hóa|culturally=về mặt văn hóa
+current;currently|||current=hiện tại|currently=hiện nay
+damage|damage=thiệt hại|damage=gây hư hại|damaged=bị hư hại|
+define;definite;definition|definition=định nghĩa|define=định nghĩa|definite=chắc chắn;indefinite=không xác định|definitely=chắc chắn
+deliver|delivery=sự giao hàng|deliver=giao hàng||
+departure|departure=sự khởi hành|depart=khởi hành||
+determine;determined|determination=sự quyết tâm|determine=xác định, quyết định|determined=quyết tâm|
+development|development=sự phát triển;developer=người phát triển|develop=phát triển|developed=phát triển|
+difficulty|difficulty=khó khăn||difficult=khó|
+direct;directly;indirect|direction=hướng;director=đạo diễn, giám đốc|direct=chỉ dẫn, đạo diễn|direct=trực tiếp;indirect=gián tiếp|directly=trực tiếp;indirectly=gián tiếp
+disadvantage|advantage=lợi thế;disadvantage=bất lợi||advantageous=có lợi;disadvantageous=bất lợi|
+disappointed;disappointing|disappointment=sự thất vọng|disappoint=làm thất vọng|disappointed=thất vọng;disappointing=gây thất vọng|
+divide|division=sự phân chia|divide=chia|divided=bị chia rẽ|
+donate|donation=khoản quyên góp;donor=người hiến tặng|donate=quyên góp||
+doubt|doubt=sự nghi ngờ|doubt=nghi ngờ|doubtful=không chắc|
+dressed|dress=váy, quần áo|dress=mặc quần áo;undress=cởi quần áo|dressed=đã mặc quần áo|
+economic;economy|economy=nền kinh tế;economist=nhà kinh tế|economize=tiết kiệm|economic=thuộc kinh tế;economical=tiết kiệm|economically=về kinh tế, tiết kiệm
+editor|editor=biên tập viên;editing=việc biên tập|edit=biên tập|editorial=thuộc biên tập|
+educate;educated;educational|education=giáo dục;educator=nhà giáo dục|educate=giáo dục|educated=có học;educational=có tính giáo dục|
+effective;effectively|effect=tác dụng;effectiveness=tính hiệu quả||effective=hiệu quả;ineffective=không hiệu quả|effectively=một cách hiệu quả
+election|election=cuộc bầu cử|elect=bầu chọn|elected=được bầu|
+embarrassed;embarrassing|embarrassment=sự xấu hổ|embarrass=làm xấu hổ|embarrassed=xấu hổ;embarrassing=gây xấu hổ|
+emotion|emotion=cảm xúc||emotional=xúc động, thuộc cảm xúc|emotionally=về mặt cảm xúc
+employment;unemployed;unemployment|employment=việc làm;employer=người sử dụng lao động;employee=nhân viên;unemployment=sự thất nghiệp|employ=thuê làm việc|employed=có việc làm;unemployed=thất nghiệp|
+encourage|encouragement=sự động viên|encourage=động viên|encouraging=mang tính khích lệ|
+entertain;entertainment|entertainment=sự giải trí;entertainer=người biểu diễn giải trí|entertain=giải trí cho|entertaining=thú vị, giúp giải trí|
+entrance;entry|entrance=lối vào;entry=sự đi vào|enter=đi vào||
+environmental|environment=môi trường||environmental=thuộc môi trường|environmentally=về môi trường
+equal;equally|equality=sự bình đẳng|equal=bằng|equal=bằng nhau;unequal=không bằng nhau|equally=ngang nhau
+examine|examination=sự kiểm tra;examiner=người chấm thi|examine=kiểm tra||
+exchange|exchange=sự trao đổi|exchange=trao đổi||
+excitement|excitement=sự hào hứng|excite=làm hào hứng|excited=hào hứng;exciting=gây hào hứng|excitedly=một cách hào hứng
+exhibition|exhibition=triển lãm;exhibit=hiện vật trưng bày|exhibit=trưng bày||
+expand|expansion=sự mở rộng|expand=mở rộng|expanding=đang mở rộng|
+expected|expectation=sự mong đợi|expect=mong đợi|expected=được dự kiến;unexpected=bất ngờ|unexpectedly=một cách bất ngờ
+experience;experienced|experience=kinh nghiệm|experience=trải nghiệm|experienced=có kinh nghiệm;inexperienced=thiếu kinh nghiệm|
+experiment|experiment=thí nghiệm|experiment=thử nghiệm|experimental=thuộc thử nghiệm|experimentally=qua thử nghiệm
+explode;explosion|explosion=vụ nổ|explode=phát nổ|explosive=dễ nổ|
+explore|exploration=sự khám phá;explorer=nhà thám hiểm|explore=khám phá||
+export;import|export=hàng xuất khẩu;exporter=nhà xuất khẩu;import=hàng nhập khẩu;importer=nhà nhập khẩu|export=xuất khẩu;import=nhập khẩu||
+familiar|familiarity=sự quen thuộc|familiarize=làm quen|familiar=quen thuộc;unfamiliar=không quen|
+fascinating|fascination=sự say mê|fascinate=cuốn hút|fascinated=bị cuốn hút;fascinating=hấp dẫn|
+fashionable|fashion=thời trang||fashionable=hợp thời trang;unfashionable=không hợp mốt|fashionably=theo thời trang
+financial|finance=tài chính|finance=cấp vốn|financial=thuộc tài chính|financially=về tài chính
+fitness|fitness=thể lực||fit=khỏe mạnh;unfit=không khỏe|
+flood|flood=lũ lụt|flood=làm ngập|flooded=bị ngập|
+flow|flow=dòng chảy|flow=chảy||
+force|force=lực|force=ép buộc|forceful=mạnh mẽ|forcefully=một cách mạnh mẽ
+freeze;frozen|freezer=tủ đông;freezing=sự đóng băng|freeze=đóng băng|frozen=đông lạnh;freezing=rất lạnh|
+frequently|frequency=tần suất||frequent=thường xuyên|frequently=thường xuyên
+friendship|friend=bạn;friendship=tình bạn||friendly=thân thiện;unfriendly=không thân thiện|
+frighten;frightened;frightening|fright=sự hoảng sợ|frighten=làm sợ|frightened=sợ hãi;frightening=đáng sợ|
+generally|generalization=sự khái quát|generalize=khái quát|general=chung|generally=nói chung
+generous|generosity=sự hào phóng||generous=hào phóng|generously=một cách hào phóng
+gentle|gentleness=sự dịu dàng||gentle=nhẹ nhàng|gently=một cách nhẹ nhàng
+global|globe=địa cầu;globalization=sự toàn cầu hóa|globalize=toàn cầu hóa|global=toàn cầu|globally=trên toàn cầu
+graduate|graduate=người tốt nghiệp;graduation=sự tốt nghiệp|graduate=tốt nghiệp||
+grateful|gratefulness=lòng biết ơn||grateful=biết ơn;ungrateful=vô ơn|gratefully=một cách biết ơn
+growth|growth=sự tăng trưởng|grow=phát triển|growing=đang phát triển|
+guilty|guilt=cảm giác có lỗi, tội lỗi||guilty=có tội|guiltily=với cảm giác có lỗi
+historic;historical|history=lịch sử;historian=nhà sử học||historic=có ý nghĩa lịch sử;historical=thuộc lịch sử|historically=về mặt lịch sử
+honest|honesty=sự trung thực||honest=trung thực;dishonest=không trung thực|honestly=một cách trung thực
+identity|identity=danh tính;identification=sự xác định danh tính|identify=nhận diện|identifiable=có thể nhận diện|
+illegal;legal|legality=tính hợp pháp||legal=hợp pháp;illegal=bất hợp pháp|legally=hợp pháp;illegally=trái pháp luật
+imaginary|imagination=trí tưởng tượng|imagine=tưởng tượng|imaginary=không có thật;imaginative=giàu tưởng tượng|
+immediate|||immediate=ngay lập tức|immediately=ngay lập tức
+immigrant|immigrant=người nhập cư;immigration=sự nhập cư|immigrate=nhập cư||
+importance|importance=tầm quan trọng||important=quan trọng|importantly=ở phương diện quan trọng
+impression;impressive|impression=ấn tượng|impress=gây ấn tượng|impressed=có ấn tượng;impressive=gây ấn tượng|impressively=một cách ấn tượng
+improvement|improvement=sự cải thiện|improve=cải thiện|improved=được cải thiện|
+indicate|indication=dấu hiệu;indicator=chỉ báo|indicate=chỉ ra||
+influence|influence=ảnh hưởng|influence=gây ảnh hưởng|influential=có ảnh hưởng|
+injure;injured|injury=chấn thương|injure=làm bị thương|injured=bị thương|
+innocent|innocence=sự vô tội||innocent=vô tội|innocently=một cách ngây thơ
+intelligence|intelligence=trí thông minh||intelligent=thông minh|intelligently=một cách thông minh
+intend;intention|intention=ý định|intend=dự định|intentional=cố ý|intentionally=cố ý
+invest|investment=khoản đầu tư;investor=nhà đầu tư|invest=đầu tư||
+investigate|investigation=cuộc điều tra;investigator=người điều tra|investigate=điều tra||
+judge|judge=thẩm phán;judgment=sự đánh giá|judge=đánh giá||
+kind (caring)|kindness=lòng tốt||kind=tốt bụng;unkind=không tử tế|kindly=một cách tử tế
+label|label=nhãn|label=dán nhãn||
+lead1;leading|lead=vị trí dẫn đầu;leader=người dẫn đầu;leadership=sự lãnh đạo|lead=dẫn đầu|leading=hàng đầu|
+length|length=chiều dài|lengthen=kéo dài|long=dài;lengthy=dài dòng|
+lie2 (tell a lie)|lie=lời nói dối;liar=người nói dối|lie=nói dối||
+locate;located;location|location=vị trí|locate=xác định vị trí;relocate=di chuyển địa điểm|located=nằm ở|
+lonely|loneliness=sự cô đơn||lonely=cô đơn|
+loss|loss=sự mất mát;loser=người thua|lose=mất, thua|lost=bị mất|
+luxury|luxury=sự xa xỉ||luxurious=sang trọng|luxuriously=một cách sang trọng
+management|management=sự quản lý;manager=quản lý|manage=quản lý|managerial=thuộc quản lý|
+market;marketing|market=thị trường;marketing=tiếp thị|market=tiếp thị||
+marriage|marriage=hôn nhân|marry=kết hôn|married=đã kết hôn;unmarried=chưa kết hôn|
+measure|measure=biện pháp;measurement=số đo|measure=đo|measurable=có thể đo|
+mental|||mental=thuộc tinh thần|mentally=về mặt tinh thần
+mix;mixture|mix=hỗn hợp;mixture=hỗn hợp|mix=trộn|mixed=pha trộn|
+murder|murder=vụ giết người;murderer=kẻ giết người|murder=sát hại||
+narrative|narrative=câu chuyện;narration=sự kể chuyện;narrator=người kể|narrate=kể|narrative=thuộc kể chuyện|
+nation|nation=quốc gia;nationality=quốc tịch|nationalize=quốc hữu hóa|national=thuộc quốc gia|nationally=trên cả nước
+native|native=người bản địa||native=bản địa|
+naturally|nature=tự nhiên||natural=tự nhiên;unnatural=không tự nhiên|naturally=một cách tự nhiên
+neat|neatness=sự gọn gàng||neat=gọn gàng|neatly=một cách gọn gàng
+necessarily;unnecessary|necessity=sự cần thiết||necessary=cần thiết;unnecessary=không cần thiết|necessarily=nhất thiết;unnecessarily=một cách không cần thiết
+obvious;obviously|||obvious=rõ ràng|obviously=rõ ràng là
+occur|occurrence=sự xảy ra|occur=xảy ra||
+operation|operation=sự vận hành, ca phẫu thuật;operator=người vận hành|operate=vận hành, phẫu thuật|operational=đang hoạt động|
+organized;organizer|organization=tổ chức;organizer=người tổ chức|organize=tổ chức|organized=có tổ chức;disorganized=lộn xộn|
+original;originally|original=bản gốc;origin=nguồn gốc||original=gốc, đầu tiên|originally=ban đầu
+painful|pain=cơn đau||painful=đau;painless=không đau|painfully=một cách đau đớn
+participate|participation=sự tham gia;participant=người tham gia|participate=tham gia||
+passion|passion=đam mê||passionate=đầy đam mê|passionately=một cách say mê
+payment|payment=khoản thanh toán;payer=người trả|pay=trả|payable=phải trả|
+peaceful|peace=hòa bình||peaceful=yên bình|peacefully=một cách yên bình
+performance|performance=buổi biểu diễn;performer=người biểu diễn|perform=biểu diễn||
+persuade|persuasion=sự thuyết phục|persuade=thuyết phục|persuasive=có sức thuyết phục|persuasively=một cách thuyết phục
+photographer;photography|photo=ảnh;photograph=ảnh;photographer=nhiếp ảnh gia;photography=nhiếp ảnh|photograph=chụp ảnh|photographic=thuộc nhiếp ảnh|
+pleasant;pleasure;unpleasant|pleasure=niềm vui|please=làm hài lòng|pleasant=dễ chịu;unpleasant=khó chịu;pleased=hài lòng|pleasantly=một cách dễ chịu
+poem;poet;poetry|poem=bài thơ;poet=nhà thơ;poetry=thơ ca||poetic=thuộc thơ, giàu chất thơ|poetically=một cách có chất thơ
+poison;poisonous|poison=chất độc|poison=đầu độc|poisonous=có độc|
+political;politician;politics|politics=chính trị;politician=chính trị gia||political=thuộc chính trị|politically=về mặt chính trị
+poverty|poverty=sự nghèo đói||poor=nghèo|
+powerful|power=sức mạnh|power=cung cấp năng lượng|powerful=mạnh mẽ;powerless=bất lực|powerfully=một cách mạnh mẽ
+practical|practice=sự thực hành|practice=thực hành|practical=thực tế;impractical=không thực tế|practically=gần như, về mặt thực tế
+pray;prayer|prayer=lời cầu nguyện|pray=cầu nguyện||
+prediction|prediction=dự đoán|predict=dự đoán|predictable=có thể đoán;unpredictable=khó đoán|
+prepared|preparation=sự chuẩn bị|prepare=chuẩn bị|prepared=sẵn sàng;unprepared=chưa chuẩn bị|
+presentation|presentation=bài thuyết trình;presenter=người thuyết trình|present=trình bày||
+press;pressure|press=báo chí, sự ấn;pressure=áp lực|press=ấn;pressurize=tạo áp suất||
+previous;previously|||previous=trước đó|previously=trước đây
+primary|||primary=chính, đầu tiên|primarily=chủ yếu
+printing|print=bản in;printer=máy in;printing=việc in|print=in|printed=được in|
+prisoner|prison=nhà tù;prisoner=tù nhân|imprison=giam cầm||
+private|privacy=sự riêng tư||private=riêng tư|privately=một cách riêng tư
+producer;production|product=sản phẩm;producer=nhà sản xuất;production=sự sản xuất|produce=sản xuất|productive=có năng suất|productively=một cách hiệu quả
+profession|profession=nghề chuyên môn;professional=người làm chuyên nghiệp||professional=chuyên nghiệp|professionally=một cách chuyên nghiệp
+profit|profit=lợi nhuận|profit=được lợi|profitable=có lợi nhuận|
+promote|promotion=sự quảng bá, thăng chức|promote=quảng bá, thăng chức|promotional=thuộc quảng bá|
+proper;properly|||proper=đúng, phù hợp;improper=không phù hợp|properly=đúng cách
+protest|protest=cuộc phản đối;protester=người phản đối|protest=phản đối||
+proud|pride=sự tự hào||proud=tự hào|proudly=một cách tự hào
+prove|proof=bằng chứng|prove=chứng minh|proven=đã được chứng minh|
+punish;punishment|punishment=hình phạt|punish=trừng phạt||
+qualification;qualified;qualify|qualification=bằng cấp|qualify=đủ điều kiện|qualified=có trình độ;unqualified=không đủ trình độ|
+quotation;quote|quotation=câu trích dẫn;quote=câu trích dẫn, báo giá|quote=trích dẫn||
+rare;rarely|rarity=sự hiếm có||rare=hiếm|rarely=hiếm khi
+reaction|reaction=phản ứng|react=phản ứng||
+reality|reality=thực tế||real=thật;unreal=không thật|really=thật sự
+recommendation|recommendation=lời đề xuất|recommend=đề xuất||
+reference|reference=tài liệu tham khảo, sự nhắc đến|refer=đề cập, tham khảo||
+reflect|reflection=hình phản chiếu, sự suy ngẫm|reflect=phản chiếu, suy ngẫm|reflective=có tính phản chiếu, hay suy ngẫm|
+regularly|||regular=đều đặn;irregular=không đều|regularly=đều đặn
+reject|rejection=sự từ chối|reject=từ chối||
+relate;related;relation;relative|relation=mối quan hệ;relationship=mối quan hệ;relative=người họ hàng|relate=liên hệ|related=có liên quan;relative=tương đối|relatively=tương đối
+relaxed;relaxing|relaxation=sự thư giãn|relax=thư giãn|relaxed=thư giãn;relaxing=giúp thư giãn|
+reliable|reliability=độ tin cậy|rely=trông cậy|reliable=đáng tin;unreliable=không đáng tin|reliably=một cách đáng tin cậy
+religion;religious|religion=tôn giáo||religious=thuộc tôn giáo|
+remind|reminder=lời nhắc|remind=nhắc||
+rent|rent=tiền thuê;rental=việc thuê|rent=thuê, cho thuê|rented=được thuê|
+repeat;repeated|repeat=chương trình phát lại;repetition=sự lặp lại|repeat=lặp lại|repeated=được lặp lại|repeatedly=nhiều lần
+represent|representation=sự đại diện;representative=người đại diện|represent=đại diện|representative=tiêu biểu|
+require|requirement=yêu cầu|require=yêu cầu|required=bắt buộc|
+reservation|reservation=sự đặt chỗ|reserve=đặt trước|reserved=đã đặt trước|
+respect|respect=sự tôn trọng|respect=tôn trọng|respectful=tỏ sự tôn trọng|respectfully=một cách kính trọng
+responsibility;responsible|responsibility=trách nhiệm||responsible=có trách nhiệm;irresponsible=thiếu trách nhiệm|responsibly=một cách có trách nhiệm
+retire;retired|retirement=sự nghỉ hưu|retire=nghỉ hưu|retired=đã nghỉ hưu|
+revise|revision=sự sửa đổi|revise=chỉnh sửa|revised=đã sửa|
+risk|risk=rủi ro|risk=mạo hiểm|risky=có rủi ro|
+romantic|romance=chuyện tình cảm||romantic=lãng mạn|romantically=một cách lãng mạn
+rough|roughness=độ thô ráp||rough=thô ráp|roughly=khoảng, một cách thô bạo
+royal|royalty=hoàng gia||royal=thuộc hoàng gia|
+safety|safety=sự an toàn||safe=an toàn;unsafe=không an toàn|safely=một cách an toàn
+sail;sailor|sail=buồm;sailor=thủy thủ;sailing=việc đi thuyền buồm|sail=đi thuyền buồm||
+scientific|science=khoa học;scientist=nhà khoa học||scientific=thuộc khoa học|scientifically=theo khoa học
+sculpture|sculpture=tác phẩm điêu khắc;sculptor=nhà điêu khắc|sculpt=điêu khắc||
+security|security=an ninh|secure=bảo vệ|secure=an toàn|securely=một cách chắc chắn
+sensible|sense=sự suy xét||sensible=hợp lý|sensibly=một cách hợp lý
+separate|separation=sự chia tách|separate=tách ra|separate=riêng biệt|separately=riêng rẽ
+seriously|||serious=nghiêm túc|seriously=một cách nghiêm túc
+servant|servant=người hầu;service=sự phục vụ|serve=phục vụ||
+sex;sexual|sex=giới tính||sexual=thuộc tình dục|sexually=về mặt tình dục
+share|share=phần, cổ phần;shareholder=cổ đông|share=chia sẻ|shared=được chia sẻ|
+sharp|sharpness=độ sắc|sharpen=mài sắc|sharp=sắc|sharply=đột ngột, một cách sắc bén
+shine;shiny|shine=độ bóng|shine=chiếu sáng|shiny=sáng bóng|
+shy|shyness=sự nhút nhát||shy=nhút nhát|shyly=một cách ngượng ngùng
+signal|signal=tín hiệu|signal=ra hiệu||
+silent|silence=sự im lặng|silence=làm im|silent=im lặng|silently=một cách im lặng
+silly|silliness=sự ngớ ngẩn||silly=ngớ ngẩn|
+similarity;similarly|similarity=điểm tương đồng||similar=tương tự|similarly=tương tự
+simply|simplicity=sự đơn giản|simplify=đơn giản hóa|simple=đơn giản|simply=đơn giản là
+slightly|||slight=nhỏ, nhẹ|slightly=hơi, một chút
+smooth|smoothness=độ nhẵn|smooth=làm nhẵn|smooth=nhẵn|smoothly=trôi chảy
+solid|solid=chất rắn|solidify=làm đông rắn|solid=rắn|solidly=một cách vững chắc
+specialize|specialist=chuyên gia;specialization=sự chuyên môn hóa|specialize=chuyên về|specialized=chuyên biệt|
+specifically|||specific=cụ thể|specifically=cụ thể là
+spicy|spice=gia vị|spice=thêm gia vị|spicy=cay, có gia vị|
+standard|standard=tiêu chuẩn|standardize=chuẩn hóa|standard=tiêu chuẩn|
+strength;strongly|strength=sức mạnh|strengthen=làm mạnh hơn|strong=mạnh|strongly=mạnh mẽ
+successfully|success=thành công|succeed=thành công|successful=thành công;unsuccessful=không thành công|successfully=một cách thành công
+sudden|||sudden=đột ngột|suddenly=đột nhiên
+suffer|suffering=sự đau khổ;sufferer=người chịu bệnh|suffer=chịu đau khổ||
+suit;suitable|suitability=sự phù hợp|suit=phù hợp|suitable=phù hợp;unsuitable=không phù hợp|suitably=một cách phù hợp
+summarize;summary|summary=bản tóm tắt|summarize=tóm tắt||
+supply|supply=nguồn cung;supplier=nhà cung cấp|supply=cung cấp||
+supporter|support=sự ủng hộ;supporter=người ủng hộ|support=ủng hộ|supportive=mang tính hỗ trợ|
+survive|survival=sự sống sót;survivor=người sống sót|survive=sống sót||
+talent;talented|talent=tài năng||talented=có tài|
+tax|tax=thuế;taxation=việc đánh thuế;taxpayer=người nộp thuế|tax=đánh thuế|taxable=phải chịu thuế|
+technical;technique|technique=kỹ thuật;technician=kỹ thuật viên||technical=thuộc kỹ thuật|technically=về mặt kỹ thuật
+theme|theme=chủ đề||thematic=thuộc chủ đề|
+theory|theory=lý thuyết||theoretical=thuộc lý thuyết|theoretically=theo lý thuyết
+tight|tightness=độ chặt|tighten=siết chặt|tight=chặt|tightly=một cách chặt chẽ
+total;totally|total=tổng số||total=toàn bộ|totally=hoàn toàn
+trade|trade=thương mại;trader=người buôn bán|trade=buôn bán||
+trainer|trainer=người huấn luyện;training=sự đào tạo;trainee=người học việc|train=đào tạo|trained=được đào tạo|
+translate;translation|translation=bản dịch;translator=người dịch|translate=dịch|translated=được dịch|
+treat;treatment|treatment=sự điều trị|treat=điều trị, đối xử||
+truth|truth=sự thật||true=đúng;truthful=trung thực|truly=thật sự;truthfully=một cách trung thực
+typically|||typical=điển hình|typically=thường, điển hình là
+ugly|ugliness=sự xấu xí||ugly=xấu xí|
+unable|ability=khả năng;inability=sự không thể||able=có thể;unable=không thể|
+uncomfortable|comfort=sự thoải mái|comfort=an ủi|comfortable=thoải mái;uncomfortable=không thoải mái|comfortably=một cách thoải mái
+unfair|fairness=sự công bằng||fair=công bằng;unfair=không công bằng|fairly=công bằng;unfairly=không công bằng
+unlikely|||likely=có khả năng;unlikely=khó có thể|
+update|update=bản cập nhật|update=cập nhật|updated=đã cập nhật|
+value;valuable|value=giá trị|value=coi trọng|valuable=có giá trị;invaluable=vô cùng quý giá;valueless=không có giá trị|
+various|variety=sự đa dạng;variation=sự biến đổi|vary=thay đổi|various=khác nhau;varied=đa dạng|
+view;viewer|view=cách nhìn, cảnh;viewer=người xem|view=xem||
+violent|violence=bạo lực||violent=bạo lực|violently=một cách dữ dội
+volunteer|volunteer=tình nguyện viên|volunteer=tình nguyện|voluntary=tự nguyện|voluntarily=một cách tự nguyện
+vote|vote=phiếu bầu;voter=cử tri|vote=bỏ phiếu||
+warn;warning|warning=lời cảnh báo|warn=cảnh báo||
+waste|waste=rác thải, sự lãng phí|waste=lãng phí|wasteful=lãng phí|wastefully=một cách lãng phí
+weigh|weight=trọng lượng|weigh=cân|weightless=không trọng lượng|
+wonder|wonder=điều kỳ diệu|wonder=tự hỏi|wonderful=tuyệt vời|wonderfully=một cách tuyệt vời
+written|writing=việc viết;writer=người viết|write=viết;rewrite=viết lại|written=bằng văn bản|
+youth|youth=tuổi trẻ||young=trẻ;youthful=trẻ trung|
+age|age=tuổi;aging=sự lão hóa|age=già đi|aged=cao tuổi, lâu năm|
+afford|affordability=khả năng chi trả|afford=có đủ tiền|affordable=có giá phải chăng;unaffordable=không đủ khả năng chi trả|affordably=với giá phải chăng
+agreement|agreement=thỏa thuận;disagreement=sự bất đồng|agree=đồng ý;disagree=không đồng ý||
+appointment|appointment=cuộc hẹn, sự bổ nhiệm|appoint=bổ nhiệm|appointed=được bổ nhiệm|
+arrival|arrival=sự đến nơi|arrive=đến||
+attitude|attitude=thái độ||attitudinal=thuộc thái độ|
+block|block=vật chặn;blockage=sự tắc nghẽn|block=chặn|blocked=bị chặn|
+board|boarding=việc lên tàu, xe|board=lên tàu, xe||
+bomb|bomb=bom;bomber=máy bay hoặc người đánh bom;bombing=sự đánh bom|bomb=đánh bom||
+bury|burial=sự chôn cất|bury=chôn|buried=bị chôn|
+childhood|child=trẻ em;childhood=tuổi thơ||childish=trẻ con, thiếu chín chắn;childlike=giống trẻ thơ|
+collection|collection=bộ sưu tập;collector=người sưu tập|collect=thu thập|collectible=có giá trị sưu tầm|
+cool|coolness=sự mát mẻ, bình tĩnh|cool=làm mát|cool=mát, bình tĩnh|coolly=một cách bình tĩnh, lạnh nhạt
+covered|cover=vật phủ;coverage=sự bao phủ, phạm vi đưa tin|cover=phủ|covered=được phủ;uncovered=không được phủ|
+criminal|crime=tội phạm;criminal=người phạm tội||criminal=thuộc tội phạm|criminally=theo cách phạm pháp
+cruel|cruelty=sự tàn nhẫn||cruel=tàn nhẫn|cruelly=một cách tàn nhẫn
+cut|cut=vết cắt;cutter=dụng cụ hoặc người cắt;cutting=sự cắt|cut=cắt||
+daily|day=ngày||daily=hằng ngày|daily=hằng ngày
+dislike|dislike=sự không thích;liking=sự yêu thích|like=thích;dislike=không thích|likable=dễ mến;unlikable=khó mến|
+fighting|fight=cuộc chiến;fighter=người chiến đấu;fighting=sự giao tranh|fight=chiến đấu||
+fold|fold=nếp gấp|fold=gấp;unfold=mở ra|folded=được gấp|
+frame|frame=khung;framing=việc đóng khung|frame=đóng khung|framed=được đóng khung|
+gather|gathering=cuộc tụ họp|gather=tụ họp, thu thập||
+guard|guard=người bảo vệ|guard=bảo vệ|guarded=thận trọng, dè dặt|
+hang|hanger=móc áo;hanging=việc treo|hang=treo||
+happiness|happiness=hạnh phúc;unhappiness=sự không vui||happy=vui;unhappy=không vui|happily=một cách vui vẻ;unhappily=một cách không vui
+hate|hate=sự ghét;hatred=lòng căm ghét|hate=ghét|hateful=đầy thù ghét|hatefully=với sự thù ghét
+heating|heat=nhiệt;heater=lò, máy sưởi;heating=sự sưởi ấm|heat=làm nóng|heated=được làm nóng|
+horrible;horror|horror=sự kinh hoàng|horrify=làm kinh hoàng|horrible=kinh khủng;horrified=kinh hoàng;horrifying=gây kinh hoàng|horribly=một cách kinh khủng
+hunt|hunt=cuộc săn;hunter=thợ săn;hunting=việc săn|hunt=săn||
+ignore|ignorance=sự thiếu hiểu biết|ignore=phớt lờ|ignorant=không biết, thiếu hiểu biết|
+involved|involvement=sự tham gia|involve=liên quan, bao gồm|involved=có liên quan;uninvolved=không tham gia|
+killing|killing=sự giết;killer=kẻ hoặc thứ giết|kill=giết||
+lack|lack=sự thiếu|lack=thiếu|lacking=thiếu|
+like (find sb/sth pleasant)|like=điều thích;liking=sự yêu thích|like=thích;dislike=không thích|likable=dễ mến;unlikable=khó mến|
+local|local=người địa phương|localize=khoanh vùng, bản địa hóa|local=thuộc địa phương|locally=tại địa phương
+mad|madness=sự điên rồ|madden=làm nổi giận|mad=tức giận, điên|madly=một cách điên cuồng
+move|move=bước đi;movement=sự chuyển động|move=di chuyển|moving=đang di chuyển, gây xúc động|
+mood|mood=tâm trạng||moody=hay thay đổi tâm trạng|
+muscle|muscle=cơ||muscular=có cơ bắp, thuộc cơ|
+mystery|mystery=điều bí ẩn||mysterious=bí ẩn|mysteriously=một cách bí ẩn
+personally|person=người;personality=tính cách||personal=cá nhân|personally=theo ý cá nhân
+planning|plan=kế hoạch;planner=người lập kế hoạch;planning=sự lập kế hoạch|plan=lập kế hoạch|planned=đã được lên kế hoạch|
+point|point=điểm;pointer=dụng cụ hoặc dấu trỏ|point=chỉ|pointed=nhọn|
+program|program=chương trình;programmer=lập trình viên;programming=việc lập trình|program=lập trình|programmable=có thể lập trình|
+release|release=sự phát hành|release=phát hành||
+repair|repair=sự sửa chữa|repair=sửa|repairable=có thể sửa|
+request|request=yêu cầu|request=yêu cầu||
+roll|roll=cuộn, ổ bánh mì nhỏ;roller=con lăn|roll=lăn|rolling=đang lăn|
+rule|rule=quy tắc;ruler=người cai trị;ruling=quyết định chính thức|rule=cai trị|ruling=đang nắm quyền|
+scan|scan=bản hoặc lần quét;scanner=máy quét|scan=quét||
+setting|setting=bối cảnh, cài đặt|set=đặt, thiết lập||
+shoot|shooting=sự bắn hoặc việc quay phim|shoot=bắn, quay phim||
+spending|spending=sự chi tiêu|spend=chi tiêu||
+spoken|speaker=người nói;speaking=việc nói|speak=nói|spoken=bằng lời;unspoken=không nói ra|
+spring|spring=lò xo|spring=bật, nhảy|springy=có tính đàn hồi|
+still|stillness=sự tĩnh lặng||still=đứng yên|
+store|store=kho, cửa hàng;storage=sự lưu trữ|store=lưu trữ|stored=được cất giữ|
+stranger|stranger=người lạ;strangeness=sự kỳ lạ||strange=lạ|strangely=một cách lạ lùng
+swim|swim=lần bơi;swimmer=người bơi;swimming=môn bơi|swim=bơi||
+switch|switch=công tắc|switch=chuyển đổi||
+type|type=loại;typist=người đánh máy;typing=việc đánh máy|type=đánh máy|typed=được đánh máy|
+warm|warmth=sự ấm áp|warm=làm ấm|warm=ấm|warmly=một cách nồng nhiệt
+water|water=nước|water=tưới|watery=loãng, nhiều nước|
+wave|wave=sóng, cái vẫy|wave=vẫy|wavy=gợn sóng|
+will|will=ý chí;willpower=sức mạnh ý chí||willing=sẵn lòng;unwilling=không sẵn lòng|willingly=một cách sẵn lòng
+win|win=chiến thắng;winner=người chiến thắng|win=thắng|winning=chiến thắng|
+worry|worry=nỗi lo|worry=lo lắng|worried=lo lắng;worrying=gây lo|worriedly=với sự lo lắng
+young|young=con non;youth=tuổi trẻ||young=trẻ;youthful=trẻ trung|

@@ -4,6 +4,7 @@ export type Comparison = { term: string; vi: string; nuance: string; register: s
 export type Word = {
   id: string; term: string; partOfSpeech: string; level: string;
   levels?: string[]; definition?: string; phonetic?: string;
+  sourceId?: string;
   meanings?: string[]; examples?: { en: string; vi: string }[];
   collocations?: { phrase: string; vi: string }[];
   wordFamily?: WordFamily; usageNote?: string; comparisons?: Comparison[];
@@ -16,6 +17,19 @@ export const emptyProgress = (): Progress => ({ heard: {}, known: {} });
 
 export function normalizeSearch(value: string): string {
   return value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/đ/g, 'd').replace(/Đ/g, 'D').toLowerCase().trim();
+}
+// Prepared senses are shown only at the level they were written for. Legacy IDs remain usable.
+export function buildLearningWords(trial: Word[], preparedLevels: Word[][]): Word[] {
+  const prepared = preparedLevels.flat();
+  const coveredSources = new Set(prepared.map(word => word.sourceId ?? word.id));
+  const completeLevels = new Set(prepared.map(word => word.level));
+  const remaining = trial.filter(word => !coveredSources.has(word.id)).map(word => {
+    const levels = (word.levels ?? [word.level]).filter(level => !completeLevels.has(level));
+    return { ...word, levels, level: levels.includes(word.level) ? word.level : levels[0] };
+  }).filter(word => word.levels.length);
+  return [...remaining,
+    ...prepared.map(word => ({ ...word, levels: [word.level] }))]
+    .sort((a, b) => a.term.localeCompare(b.term));
 }
 export function searchWords(words: Word[], query: string, level = 'All'): Word[] {
   const q = normalizeSearch(query);

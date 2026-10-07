@@ -1,0 +1,4052 @@
+{
+  "absolutely": {
+    "term": "absolutely",
+    "sourceTerm": "absolutely",
+    "partOfSpeech": "adv."
+  },
+  "academic": {
+    "term": "academic",
+    "sourceTerm": "academic",
+    "partOfSpeech": "adj."
+  },
+  "access": {
+    "term": "access",
+    "sourceTerm": "access",
+    "partOfSpeech": "n., v."
+  },
+  "account": {
+    "term": "account",
+    "sourceTerm": "account",
+    "partOfSpeech": "n."
+  },
+  "achievement": {
+    "term": "achievement",
+    "sourceTerm": "achievement",
+    "partOfSpeech": "n."
+  },
+  "act": {
+    "term": "act",
+    "sourceTerm": "act",
+    "partOfSpeech": "n."
+  },
+  "ad": {
+    "term": "ad",
+    "sourceTerm": "ad",
+    "partOfSpeech": "n."
+  },
+  "addition": {
+    "term": "addition",
+    "sourceTerm": "addition",
+    "partOfSpeech": "n."
+  },
+  "administration": {
+    "term": "administration",
+    "sourceTerm": "administration",
+    "partOfSpeech": "n."
+  },
+  "admire": {
+    "term": "admire",
+    "sourceTerm": "admire",
+    "partOfSpeech": "v."
+  },
+  "admit": {
+    "term": "admit",
+    "sourceTerm": "admit",
+    "partOfSpeech": "v."
+  },
+  "advanced": {
+    "term": "advanced",
+    "sourceTerm": "advanced",
+    "partOfSpeech": "adj."
+  },
+  "advise": {
+    "term": "advise",
+    "sourceTerm": "advise",
+    "partOfSpeech": "v."
+  },
+  "afford": {
+    "term": "afford",
+    "sourceTerm": "afford",
+    "partOfSpeech": "v."
+  },
+  "age": {
+    "term": "age",
+    "sourceTerm": "age",
+    "partOfSpeech": "v."
+  },
+  "agent": {
+    "term": "agent",
+    "sourceTerm": "agent",
+    "partOfSpeech": "n."
+  },
+  "agreement": {
+    "term": "agreement",
+    "sourceTerm": "agreement",
+    "partOfSpeech": "n."
+  },
+  "ahead": {
+    "term": "ahead",
+    "sourceTerm": "ahead",
+    "partOfSpeech": "adv."
+  },
+  "aim": {
+    "term": "aim",
+    "sourceTerm": "aim",
+    "partOfSpeech": "v., n."
+  },
+  "alarm": {
+    "term": "alarm",
+    "sourceTerm": "alarm",
+    "partOfSpeech": "n."
+  },
+  "album": {
+    "term": "album",
+    "sourceTerm": "album",
+    "partOfSpeech": "n."
+  },
+  "alcohol": {
+    "term": "alcohol",
+    "sourceTerm": "alcohol",
+    "partOfSpeech": "n."
+  },
+  "alcoholic": {
+    "term": "alcoholic",
+    "sourceTerm": "alcoholic",
+    "partOfSpeech": "adj."
+  },
+  "alternative": {
+    "term": "alternative",
+    "sourceTerm": "alternative",
+    "partOfSpeech": "adj."
+  },
+  "amazed": {
+    "term": "amazed",
+    "sourceTerm": "amazed",
+    "partOfSpeech": "adj."
+  },
+  "ambition": {
+    "term": "ambition",
+    "sourceTerm": "ambition",
+    "partOfSpeech": "n."
+  },
+  "analysis": {
+    "term": "analysis",
+    "sourceTerm": "analysis",
+    "partOfSpeech": "n."
+  },
+  "announce": {
+    "term": "announce",
+    "sourceTerm": "announce",
+    "partOfSpeech": "v."
+  },
+  "announcement": {
+    "term": "announcement",
+    "sourceTerm": "announcement",
+    "partOfSpeech": "n."
+  },
+  "annoy": {
+    "term": "annoy",
+    "sourceTerm": "annoy",
+    "partOfSpeech": "v."
+  },
+  "annoyed": {
+    "term": "annoyed",
+    "sourceTerm": "annoyed",
+    "partOfSpeech": "adj."
+  },
+  "annoying": {
+    "term": "annoying",
+    "sourceTerm": "annoying",
+    "partOfSpeech": "adj."
+  },
+  "apart": {
+    "term": "apart",
+    "sourceTerm": "apart",
+    "partOfSpeech": "adv."
+  },
+  "apologize": {
+    "term": "apologize",
+    "sourceTerm": "apologize",
+    "partOfSpeech": "v."
+  },
+  "application": {
+    "term": "application",
+    "sourceTerm": "application",
+    "partOfSpeech": "n."
+  },
+  "appointment": {
+    "term": "appointment",
+    "sourceTerm": "appointment",
+    "partOfSpeech": "n."
+  },
+  "appreciate": {
+    "term": "appreciate",
+    "sourceTerm": "appreciate",
+    "partOfSpeech": "v."
+  },
+  "approximately": {
+    "term": "approximately",
+    "sourceTerm": "approximately",
+    "partOfSpeech": "adv."
+  },
+  "arrest": {
+    "term": "arrest",
+    "sourceTerm": "arrest",
+    "partOfSpeech": "v., n."
+  },
+  "arrival": {
+    "term": "arrival",
+    "sourceTerm": "arrival",
+    "partOfSpeech": "n."
+  },
+  "assignment": {
+    "term": "assignment",
+    "sourceTerm": "assignment",
+    "partOfSpeech": "n."
+  },
+  "assist": {
+    "term": "assist",
+    "sourceTerm": "assist",
+    "partOfSpeech": "v."
+  },
+  "atmosphere": {
+    "term": "atmosphere",
+    "sourceTerm": "atmosphere",
+    "partOfSpeech": "n."
+  },
+  "attach": {
+    "term": "attach",
+    "sourceTerm": "attach",
+    "partOfSpeech": "v."
+  },
+  "attitude": {
+    "term": "attitude",
+    "sourceTerm": "attitude",
+    "partOfSpeech": "n."
+  },
+  "attract": {
+    "term": "attract",
+    "sourceTerm": "attract",
+    "partOfSpeech": "v."
+  },
+  "attraction": {
+    "term": "attraction",
+    "sourceTerm": "attraction",
+    "partOfSpeech": "n."
+  },
+  "authority": {
+    "term": "authority",
+    "sourceTerm": "authority",
+    "partOfSpeech": "n."
+  },
+  "automatic": {
+    "term": "automatic",
+    "sourceTerm": "automatic",
+    "partOfSpeech": "adj."
+  },
+  "automatically": {
+    "term": "automatically",
+    "sourceTerm": "automatically",
+    "partOfSpeech": "adv."
+  },
+  "average": {
+    "term": "average",
+    "sourceTerm": "average",
+    "partOfSpeech": "v."
+  },
+  "award": {
+    "term": "award",
+    "sourceTerm": "award",
+    "partOfSpeech": "v."
+  },
+  "aware": {
+    "term": "aware",
+    "sourceTerm": "aware",
+    "partOfSpeech": "adj."
+  },
+  "backward": {
+    "term": "backward",
+    "sourceTerm": "backward",
+    "partOfSpeech": "adv."
+  },
+  "bake": {
+    "term": "bake",
+    "sourceTerm": "bake",
+    "partOfSpeech": "v."
+  },
+  "balance": {
+    "term": "balance",
+    "sourceTerm": "balance",
+    "partOfSpeech": "n., v."
+  },
+  "ban": {
+    "term": "ban",
+    "sourceTerm": "ban",
+    "partOfSpeech": "v., n."
+  },
+  "bank (river)": {
+    "term": "bank",
+    "sourceTerm": "bank (river)",
+    "partOfSpeech": "n."
+  },
+  "base": {
+    "term": "base",
+    "sourceTerm": "base",
+    "partOfSpeech": "n., v."
+  },
+  "basic": {
+    "term": "basic",
+    "sourceTerm": "basic",
+    "partOfSpeech": "adj."
+  },
+  "basis": {
+    "term": "basis",
+    "sourceTerm": "basis",
+    "partOfSpeech": "n."
+  },
+  "battery": {
+    "term": "battery",
+    "sourceTerm": "battery",
+    "partOfSpeech": "n."
+  },
+  "battle": {
+    "term": "battle",
+    "sourceTerm": "battle",
+    "partOfSpeech": "n."
+  },
+  "beauty": {
+    "term": "beauty",
+    "sourceTerm": "beauty",
+    "partOfSpeech": "n."
+  },
+  "bee": {
+    "term": "bee",
+    "sourceTerm": "bee",
+    "partOfSpeech": "n."
+  },
+  "belief": {
+    "term": "belief",
+    "sourceTerm": "belief",
+    "partOfSpeech": "n."
+  },
+  "bell": {
+    "term": "bell",
+    "sourceTerm": "bell",
+    "partOfSpeech": "n."
+  },
+  "bend": {
+    "term": "bend",
+    "sourceTerm": "bend",
+    "partOfSpeech": "v., n."
+  },
+  "benefit": {
+    "term": "benefit",
+    "sourceTerm": "benefit",
+    "partOfSpeech": "v."
+  },
+  "better": {
+    "term": "better",
+    "sourceTerm": "better",
+    "partOfSpeech": "n."
+  },
+  "bite": {
+    "term": "bite",
+    "sourceTerm": "bite",
+    "partOfSpeech": "v., n."
+  },
+  "block": {
+    "term": "block",
+    "sourceTerm": "block",
+    "partOfSpeech": "v."
+  },
+  "board": {
+    "term": "board",
+    "sourceTerm": "board",
+    "partOfSpeech": "v."
+  },
+  "bomb": {
+    "term": "bomb",
+    "sourceTerm": "bomb",
+    "partOfSpeech": "n., v."
+  },
+  "border": {
+    "term": "border",
+    "sourceTerm": "border",
+    "partOfSpeech": "n."
+  },
+  "bother": {
+    "term": "bother",
+    "sourceTerm": "bother",
+    "partOfSpeech": "v."
+  },
+  "branch": {
+    "term": "branch",
+    "sourceTerm": "branch",
+    "partOfSpeech": "n."
+  },
+  "brand": {
+    "term": "brand",
+    "sourceTerm": "brand",
+    "partOfSpeech": "n., v."
+  },
+  "brave": {
+    "term": "brave",
+    "sourceTerm": "brave",
+    "partOfSpeech": "adj."
+  },
+  "breath": {
+    "term": "breath",
+    "sourceTerm": "breath",
+    "partOfSpeech": "n."
+  },
+  "breathe": {
+    "term": "breathe",
+    "sourceTerm": "breathe",
+    "partOfSpeech": "v."
+  },
+  "breathing": {
+    "term": "breathing",
+    "sourceTerm": "breathing",
+    "partOfSpeech": "n."
+  },
+  "bride": {
+    "term": "bride",
+    "sourceTerm": "bride",
+    "partOfSpeech": "n."
+  },
+  "bubble": {
+    "term": "bubble",
+    "sourceTerm": "bubble",
+    "partOfSpeech": "n."
+  },
+  "bury": {
+    "term": "bury",
+    "sourceTerm": "bury",
+    "partOfSpeech": "v."
+  },
+  "by": {
+    "term": "by",
+    "sourceTerm": "by",
+    "partOfSpeech": "adv."
+  },
+  "cable": {
+    "term": "cable",
+    "sourceTerm": "cable",
+    "partOfSpeech": "n."
+  },
+  "calm": {
+    "term": "calm",
+    "sourceTerm": "calm",
+    "partOfSpeech": "adj., v., n."
+  },
+  "campaign": {
+    "term": "campaign",
+    "sourceTerm": "campaign",
+    "partOfSpeech": "n., v."
+  },
+  "candidate": {
+    "term": "candidate",
+    "sourceTerm": "candidate",
+    "partOfSpeech": "n."
+  },
+  "cap": {
+    "term": "cap",
+    "sourceTerm": "cap",
+    "partOfSpeech": "n."
+  },
+  "captain": {
+    "term": "captain",
+    "sourceTerm": "captain",
+    "partOfSpeech": "n."
+  },
+  "careless": {
+    "term": "careless",
+    "sourceTerm": "careless",
+    "partOfSpeech": "adj."
+  },
+  "category": {
+    "term": "category",
+    "sourceTerm": "category",
+    "partOfSpeech": "n."
+  },
+  "ceiling": {
+    "term": "ceiling",
+    "sourceTerm": "ceiling",
+    "partOfSpeech": "n."
+  },
+  "celebration": {
+    "term": "celebration",
+    "sourceTerm": "celebration",
+    "partOfSpeech": "n."
+  },
+  "center": {
+    "term": "center",
+    "sourceTerm": "center",
+    "partOfSpeech": "v."
+  },
+  "central": {
+    "term": "central",
+    "sourceTerm": "central",
+    "partOfSpeech": "adj."
+  },
+  "ceremony": {
+    "term": "ceremony",
+    "sourceTerm": "ceremony",
+    "partOfSpeech": "n."
+  },
+  "chain": {
+    "term": "chain",
+    "sourceTerm": "chain",
+    "partOfSpeech": "n."
+  },
+  "challenge": {
+    "term": "challenge",
+    "sourceTerm": "challenge",
+    "partOfSpeech": "n."
+  },
+  "champion": {
+    "term": "champion",
+    "sourceTerm": "champion",
+    "partOfSpeech": "n."
+  },
+  "channel": {
+    "term": "channel",
+    "sourceTerm": "channel",
+    "partOfSpeech": "n."
+  },
+  "chapter": {
+    "term": "chapter",
+    "sourceTerm": "chapter",
+    "partOfSpeech": "n."
+  },
+  "charge": {
+    "term": "charge",
+    "sourceTerm": "charge",
+    "partOfSpeech": "n., v."
+  },
+  "cheap": {
+    "term": "cheap",
+    "sourceTerm": "cheap",
+    "partOfSpeech": "adv."
+  },
+  "cheat": {
+    "term": "cheat",
+    "sourceTerm": "cheat",
+    "partOfSpeech": "v., n."
+  },
+  "cheerful": {
+    "term": "cheerful",
+    "sourceTerm": "cheerful",
+    "partOfSpeech": "adj."
+  },
+  "chemical": {
+    "term": "chemical",
+    "sourceTerm": "chemical",
+    "partOfSpeech": "adj., n."
+  },
+  "chest": {
+    "term": "chest",
+    "sourceTerm": "chest",
+    "partOfSpeech": "n."
+  },
+  "childhood": {
+    "term": "childhood",
+    "sourceTerm": "childhood",
+    "partOfSpeech": "n."
+  },
+  "claim": {
+    "term": "claim",
+    "sourceTerm": "claim",
+    "partOfSpeech": "v., n."
+  },
+  "clause": {
+    "term": "clause",
+    "sourceTerm": "clause",
+    "partOfSpeech": "n."
+  },
+  "clear": {
+    "term": "clear",
+    "sourceTerm": "clear",
+    "partOfSpeech": "v."
+  },
+  "clever": {
+    "term": "clever",
+    "sourceTerm": "clever",
+    "partOfSpeech": "adj."
+  },
+  "click": {
+    "term": "click",
+    "sourceTerm": "click",
+    "partOfSpeech": "v., n."
+  },
+  "client": {
+    "term": "client",
+    "sourceTerm": "client",
+    "partOfSpeech": "n."
+  },
+  "climb": {
+    "term": "climb",
+    "sourceTerm": "climb",
+    "partOfSpeech": "n."
+  },
+  "close2": {
+    "term": "close",
+    "sourceTerm": "close2",
+    "partOfSpeech": "adv."
+  },
+  "cloth": {
+    "term": "cloth",
+    "sourceTerm": "cloth",
+    "partOfSpeech": "n."
+  },
+  "clue": {
+    "term": "clue",
+    "sourceTerm": "clue",
+    "partOfSpeech": "n."
+  },
+  "coach": {
+    "term": "coach",
+    "sourceTerm": "coach",
+    "partOfSpeech": "v."
+  },
+  "coal": {
+    "term": "coal",
+    "sourceTerm": "coal",
+    "partOfSpeech": "n."
+  },
+  "coin": {
+    "term": "coin",
+    "sourceTerm": "coin",
+    "partOfSpeech": "n."
+  },
+  "collection": {
+    "term": "collection",
+    "sourceTerm": "collection",
+    "partOfSpeech": "n."
+  },
+  "colored": {
+    "term": "colored",
+    "sourceTerm": "colored",
+    "partOfSpeech": "adj."
+  },
+  "combine": {
+    "term": "combine",
+    "sourceTerm": "combine",
+    "partOfSpeech": "v."
+  },
+  "comment": {
+    "term": "comment",
+    "sourceTerm": "comment",
+    "partOfSpeech": "v."
+  },
+  "commercial": {
+    "term": "commercial",
+    "sourceTerm": "commercial",
+    "partOfSpeech": "adj., n."
+  },
+  "commit": {
+    "term": "commit",
+    "sourceTerm": "commit",
+    "partOfSpeech": "v."
+  },
+  "communication": {
+    "term": "communication",
+    "sourceTerm": "communication",
+    "partOfSpeech": "n."
+  },
+  "comparison": {
+    "term": "comparison",
+    "sourceTerm": "comparison",
+    "partOfSpeech": "n."
+  },
+  "competitive": {
+    "term": "competitive",
+    "sourceTerm": "competitive",
+    "partOfSpeech": "adj."
+  },
+  "competitor": {
+    "term": "competitor",
+    "sourceTerm": "competitor",
+    "partOfSpeech": "n."
+  },
+  "complaint": {
+    "term": "complaint",
+    "sourceTerm": "complaint",
+    "partOfSpeech": "n."
+  },
+  "complex": {
+    "term": "complex",
+    "sourceTerm": "complex",
+    "partOfSpeech": "adj."
+  },
+  "concentrate": {
+    "term": "concentrate",
+    "sourceTerm": "concentrate",
+    "partOfSpeech": "v."
+  },
+  "conclude": {
+    "term": "conclude",
+    "sourceTerm": "conclude",
+    "partOfSpeech": "v."
+  },
+  "conclusion": {
+    "term": "conclusion",
+    "sourceTerm": "conclusion",
+    "partOfSpeech": "n."
+  },
+  "confident": {
+    "term": "confident",
+    "sourceTerm": "confident",
+    "partOfSpeech": "adj."
+  },
+  "confirm": {
+    "term": "confirm",
+    "sourceTerm": "confirm",
+    "partOfSpeech": "v."
+  },
+  "confuse": {
+    "term": "confuse",
+    "sourceTerm": "confuse",
+    "partOfSpeech": "v."
+  },
+  "confused": {
+    "term": "confused",
+    "sourceTerm": "confused",
+    "partOfSpeech": "adj."
+  },
+  "connection": {
+    "term": "connection",
+    "sourceTerm": "connection",
+    "partOfSpeech": "n."
+  },
+  "consequence": {
+    "term": "consequence",
+    "sourceTerm": "consequence",
+    "partOfSpeech": "n."
+  },
+  "consist": {
+    "term": "consist",
+    "sourceTerm": "consist",
+    "partOfSpeech": "v."
+  },
+  "consume": {
+    "term": "consume",
+    "sourceTerm": "consume",
+    "partOfSpeech": "v."
+  },
+  "consumer": {
+    "term": "consumer",
+    "sourceTerm": "consumer",
+    "partOfSpeech": "n."
+  },
+  "contact": {
+    "term": "contact",
+    "sourceTerm": "contact",
+    "partOfSpeech": "n., v."
+  },
+  "container": {
+    "term": "container",
+    "sourceTerm": "container",
+    "partOfSpeech": "n."
+  },
+  "content1": {
+    "term": "content",
+    "sourceTerm": "content1",
+    "partOfSpeech": "n."
+  },
+  "continuous": {
+    "term": "continuous",
+    "sourceTerm": "continuous",
+    "partOfSpeech": "adj."
+  },
+  "contrast": {
+    "term": "contrast",
+    "sourceTerm": "contrast",
+    "partOfSpeech": "n., v."
+  },
+  "convenient": {
+    "term": "convenient",
+    "sourceTerm": "convenient",
+    "partOfSpeech": "adj."
+  },
+  "convince": {
+    "term": "convince",
+    "sourceTerm": "convince",
+    "partOfSpeech": "v."
+  },
+  "cool": {
+    "term": "cool",
+    "sourceTerm": "cool",
+    "partOfSpeech": "v."
+  },
+  "corn": {
+    "term": "corn",
+    "sourceTerm": "corn",
+    "partOfSpeech": "n."
+  },
+  "costume": {
+    "term": "costume",
+    "sourceTerm": "costume",
+    "partOfSpeech": "n."
+  },
+  "cotton": {
+    "term": "cotton",
+    "sourceTerm": "cotton",
+    "partOfSpeech": "n."
+  },
+  "count": {
+    "term": "count",
+    "sourceTerm": "count",
+    "partOfSpeech": "n."
+  },
+  "countryside": {
+    "term": "countryside",
+    "sourceTerm": "countryside",
+    "partOfSpeech": "n."
+  },
+  "court": {
+    "term": "court",
+    "sourceTerm": "court",
+    "partOfSpeech": "n."
+  },
+  "cover": {
+    "term": "cover",
+    "sourceTerm": "cover",
+    "partOfSpeech": "n."
+  },
+  "covered": {
+    "term": "covered",
+    "sourceTerm": "covered",
+    "partOfSpeech": "adj."
+  },
+  "cream": {
+    "term": "cream",
+    "sourceTerm": "cream",
+    "partOfSpeech": "adj."
+  },
+  "criminal": {
+    "term": "criminal",
+    "sourceTerm": "criminal",
+    "partOfSpeech": "adj."
+  },
+  "cruel": {
+    "term": "cruel",
+    "sourceTerm": "cruel",
+    "partOfSpeech": "adj."
+  },
+  "cultural": {
+    "term": "cultural",
+    "sourceTerm": "cultural",
+    "partOfSpeech": "adj."
+  },
+  "cupboard": {
+    "term": "cupboard",
+    "sourceTerm": "cupboard",
+    "partOfSpeech": "n."
+  },
+  "currency": {
+    "term": "currency",
+    "sourceTerm": "currency",
+    "partOfSpeech": "n."
+  },
+  "current": {
+    "term": "current",
+    "sourceTerm": "current",
+    "partOfSpeech": "adj."
+  },
+  "currently": {
+    "term": "currently",
+    "sourceTerm": "currently",
+    "partOfSpeech": "adv."
+  },
+  "curtain": {
+    "term": "curtain",
+    "sourceTerm": "curtain",
+    "partOfSpeech": "n."
+  },
+  "custom": {
+    "term": "custom",
+    "sourceTerm": "custom",
+    "partOfSpeech": "n."
+  },
+  "cut": {
+    "term": "cut",
+    "sourceTerm": "cut",
+    "partOfSpeech": "n."
+  },
+  "daily": {
+    "term": "daily",
+    "sourceTerm": "daily",
+    "partOfSpeech": "adv."
+  },
+  "damage": {
+    "term": "damage",
+    "sourceTerm": "damage",
+    "partOfSpeech": "n., v."
+  },
+  "deal": {
+    "term": "deal",
+    "sourceTerm": "deal",
+    "partOfSpeech": "n."
+  },
+  "decade": {
+    "term": "decade",
+    "sourceTerm": "decade",
+    "partOfSpeech": "n."
+  },
+  "deep": {
+    "term": "deep",
+    "sourceTerm": "deep",
+    "partOfSpeech": "adv."
+  },
+  "define": {
+    "term": "define",
+    "sourceTerm": "define",
+    "partOfSpeech": "v."
+  },
+  "definite": {
+    "term": "definite",
+    "sourceTerm": "definite",
+    "partOfSpeech": "adj."
+  },
+  "definition": {
+    "term": "definition",
+    "sourceTerm": "definition",
+    "partOfSpeech": "n."
+  },
+  "deliver": {
+    "term": "deliver",
+    "sourceTerm": "deliver",
+    "partOfSpeech": "v."
+  },
+  "departure": {
+    "term": "departure",
+    "sourceTerm": "departure",
+    "partOfSpeech": "n."
+  },
+  "despite": {
+    "term": "despite",
+    "sourceTerm": "despite",
+    "partOfSpeech": "prep."
+  },
+  "destination": {
+    "term": "destination",
+    "sourceTerm": "destination",
+    "partOfSpeech": "n."
+  },
+  "determine": {
+    "term": "determine",
+    "sourceTerm": "determine",
+    "partOfSpeech": "v."
+  },
+  "determined": {
+    "term": "determined",
+    "sourceTerm": "determined",
+    "partOfSpeech": "adj."
+  },
+  "development": {
+    "term": "development",
+    "sourceTerm": "development",
+    "partOfSpeech": "n."
+  },
+  "diagram": {
+    "term": "diagram",
+    "sourceTerm": "diagram",
+    "partOfSpeech": "n."
+  },
+  "diamond": {
+    "term": "diamond",
+    "sourceTerm": "diamond",
+    "partOfSpeech": "n."
+  },
+  "difficulty": {
+    "term": "difficulty",
+    "sourceTerm": "difficulty",
+    "partOfSpeech": "n."
+  },
+  "direct": {
+    "term": "direct",
+    "sourceTerm": "direct",
+    "partOfSpeech": "v., adv."
+  },
+  "directly": {
+    "term": "directly",
+    "sourceTerm": "directly",
+    "partOfSpeech": "adv."
+  },
+  "dirt": {
+    "term": "dirt",
+    "sourceTerm": "dirt",
+    "partOfSpeech": "n."
+  },
+  "disadvantage": {
+    "term": "disadvantage",
+    "sourceTerm": "disadvantage",
+    "partOfSpeech": "n."
+  },
+  "disappointed": {
+    "term": "disappointed",
+    "sourceTerm": "disappointed",
+    "partOfSpeech": "adj."
+  },
+  "disappointing": {
+    "term": "disappointing",
+    "sourceTerm": "disappointing",
+    "partOfSpeech": "adj."
+  },
+  "discount": {
+    "term": "discount",
+    "sourceTerm": "discount",
+    "partOfSpeech": "n."
+  },
+  "dislike": {
+    "term": "dislike",
+    "sourceTerm": "dislike",
+    "partOfSpeech": "v., n."
+  },
+  "district": {
+    "term": "district",
+    "sourceTerm": "district",
+    "partOfSpeech": "n."
+  },
+  "divide": {
+    "term": "divide",
+    "sourceTerm": "divide",
+    "partOfSpeech": "v."
+  },
+  "documentary": {
+    "term": "documentary",
+    "sourceTerm": "documentary",
+    "partOfSpeech": "n."
+  },
+  "donate": {
+    "term": "donate",
+    "sourceTerm": "donate",
+    "partOfSpeech": "v."
+  },
+  "double": {
+    "term": "double",
+    "sourceTerm": "double",
+    "partOfSpeech": "adv."
+  },
+  "doubt": {
+    "term": "doubt",
+    "sourceTerm": "doubt",
+    "partOfSpeech": "n., v."
+  },
+  "dressed": {
+    "term": "dressed",
+    "sourceTerm": "dressed",
+    "partOfSpeech": "adj."
+  },
+  "drop": {
+    "term": "drop",
+    "sourceTerm": "drop",
+    "partOfSpeech": "n."
+  },
+  "drum": {
+    "term": "drum",
+    "sourceTerm": "drum",
+    "partOfSpeech": "n."
+  },
+  "drunk": {
+    "term": "drunk",
+    "sourceTerm": "drunk",
+    "partOfSpeech": "adj."
+  },
+  "due": {
+    "term": "due",
+    "sourceTerm": "due",
+    "partOfSpeech": "adj."
+  },
+  "dust": {
+    "term": "dust",
+    "sourceTerm": "dust",
+    "partOfSpeech": "n."
+  },
+  "duty": {
+    "term": "duty",
+    "sourceTerm": "duty",
+    "partOfSpeech": "n."
+  },
+  "earthquake": {
+    "term": "earthquake",
+    "sourceTerm": "earthquake",
+    "partOfSpeech": "n."
+  },
+  "eastern": {
+    "term": "eastern",
+    "sourceTerm": "eastern",
+    "partOfSpeech": "adj."
+  },
+  "economic": {
+    "term": "economic",
+    "sourceTerm": "economic",
+    "partOfSpeech": "adj."
+  },
+  "economy": {
+    "term": "economy",
+    "sourceTerm": "economy",
+    "partOfSpeech": "n."
+  },
+  "edge": {
+    "term": "edge",
+    "sourceTerm": "edge",
+    "partOfSpeech": "n."
+  },
+  "editor": {
+    "term": "editor",
+    "sourceTerm": "editor",
+    "partOfSpeech": "n."
+  },
+  "educate": {
+    "term": "educate",
+    "sourceTerm": "educate",
+    "partOfSpeech": "v."
+  },
+  "educated": {
+    "term": "educated",
+    "sourceTerm": "educated",
+    "partOfSpeech": "adj."
+  },
+  "educational": {
+    "term": "educational",
+    "sourceTerm": "educational",
+    "partOfSpeech": "adj."
+  },
+  "effective": {
+    "term": "effective",
+    "sourceTerm": "effective",
+    "partOfSpeech": "adj."
+  },
+  "effectively": {
+    "term": "effectively",
+    "sourceTerm": "effectively",
+    "partOfSpeech": "adv."
+  },
+  "effort": {
+    "term": "effort",
+    "sourceTerm": "effort",
+    "partOfSpeech": "n."
+  },
+  "election": {
+    "term": "election",
+    "sourceTerm": "election",
+    "partOfSpeech": "n."
+  },
+  "element": {
+    "term": "element",
+    "sourceTerm": "element",
+    "partOfSpeech": "n."
+  },
+  "embarrassed": {
+    "term": "embarrassed",
+    "sourceTerm": "embarrassed",
+    "partOfSpeech": "adj."
+  },
+  "embarrassing": {
+    "term": "embarrassing",
+    "sourceTerm": "embarrassing",
+    "partOfSpeech": "adj."
+  },
+  "emergency": {
+    "term": "emergency",
+    "sourceTerm": "emergency",
+    "partOfSpeech": "n."
+  },
+  "emotion": {
+    "term": "emotion",
+    "sourceTerm": "emotion",
+    "partOfSpeech": "n."
+  },
+  "employment": {
+    "term": "employment",
+    "sourceTerm": "employment",
+    "partOfSpeech": "n."
+  },
+  "empty": {
+    "term": "empty",
+    "sourceTerm": "empty",
+    "partOfSpeech": "v."
+  },
+  "encourage": {
+    "term": "encourage",
+    "sourceTerm": "encourage",
+    "partOfSpeech": "v."
+  },
+  "enemy": {
+    "term": "enemy",
+    "sourceTerm": "enemy",
+    "partOfSpeech": "n."
+  },
+  "engaged": {
+    "term": "engaged",
+    "sourceTerm": "engaged",
+    "partOfSpeech": "adj."
+  },
+  "engineering": {
+    "term": "engineering",
+    "sourceTerm": "engineering",
+    "partOfSpeech": "n."
+  },
+  "entertain": {
+    "term": "entertain",
+    "sourceTerm": "entertain",
+    "partOfSpeech": "v."
+  },
+  "entertainment": {
+    "term": "entertainment",
+    "sourceTerm": "entertainment",
+    "partOfSpeech": "n."
+  },
+  "entrance": {
+    "term": "entrance",
+    "sourceTerm": "entrance",
+    "partOfSpeech": "n."
+  },
+  "entry": {
+    "term": "entry",
+    "sourceTerm": "entry",
+    "partOfSpeech": "n."
+  },
+  "environmental": {
+    "term": "environmental",
+    "sourceTerm": "environmental",
+    "partOfSpeech": "adj."
+  },
+  "episode": {
+    "term": "episode",
+    "sourceTerm": "episode",
+    "partOfSpeech": "n."
+  },
+  "equal": {
+    "term": "equal",
+    "sourceTerm": "equal",
+    "partOfSpeech": "adj., v."
+  },
+  "equally": {
+    "term": "equally",
+    "sourceTerm": "equally",
+    "partOfSpeech": "adv."
+  },
+  "escape": {
+    "term": "escape",
+    "sourceTerm": "escape",
+    "partOfSpeech": "v., n."
+  },
+  "essential": {
+    "term": "essential",
+    "sourceTerm": "essential",
+    "partOfSpeech": "adj."
+  },
+  "eventually": {
+    "term": "eventually",
+    "sourceTerm": "eventually",
+    "partOfSpeech": "adv."
+  },
+  "examine": {
+    "term": "examine",
+    "sourceTerm": "examine",
+    "partOfSpeech": "v."
+  },
+  "except": {
+    "term": "except",
+    "sourceTerm": "except",
+    "partOfSpeech": "conj."
+  },
+  "exchange": {
+    "term": "exchange",
+    "sourceTerm": "exchange",
+    "partOfSpeech": "n., v."
+  },
+  "excitement": {
+    "term": "excitement",
+    "sourceTerm": "excitement",
+    "partOfSpeech": "n."
+  },
+  "exhibition": {
+    "term": "exhibition",
+    "sourceTerm": "exhibition",
+    "partOfSpeech": "n."
+  },
+  "exit": {
+    "term": "exit",
+    "sourceTerm": "exit",
+    "partOfSpeech": "n."
+  },
+  "expand": {
+    "term": "expand",
+    "sourceTerm": "expand",
+    "partOfSpeech": "v."
+  },
+  "expected": {
+    "term": "expected",
+    "sourceTerm": "expected",
+    "partOfSpeech": "adj."
+  },
+  "experience": {
+    "term": "experience",
+    "sourceTerm": "experience",
+    "partOfSpeech": "v."
+  },
+  "experienced": {
+    "term": "experienced",
+    "sourceTerm": "experienced",
+    "partOfSpeech": "adj."
+  },
+  "experiment": {
+    "term": "experiment",
+    "sourceTerm": "experiment",
+    "partOfSpeech": "v."
+  },
+  "explode": {
+    "term": "explode",
+    "sourceTerm": "explode",
+    "partOfSpeech": "v."
+  },
+  "explore": {
+    "term": "explore",
+    "sourceTerm": "explore",
+    "partOfSpeech": "v."
+  },
+  "explosion": {
+    "term": "explosion",
+    "sourceTerm": "explosion",
+    "partOfSpeech": "n."
+  },
+  "export": {
+    "term": "export",
+    "sourceTerm": "export",
+    "partOfSpeech": "n., v."
+  },
+  "extra": {
+    "term": "extra",
+    "sourceTerm": "extra",
+    "partOfSpeech": "n., adv."
+  },
+  "face": {
+    "term": "face",
+    "sourceTerm": "face",
+    "partOfSpeech": "v."
+  },
+  "fairly": {
+    "term": "fairly",
+    "sourceTerm": "fairly",
+    "partOfSpeech": "adv."
+  },
+  "familiar": {
+    "term": "familiar",
+    "sourceTerm": "familiar",
+    "partOfSpeech": "adj."
+  },
+  "fancy": {
+    "term": "fancy",
+    "sourceTerm": "fancy",
+    "partOfSpeech": "adj."
+  },
+  "far": {
+    "term": "far",
+    "sourceTerm": "far",
+    "partOfSpeech": "adj."
+  },
+  "fascinating": {
+    "term": "fascinating",
+    "sourceTerm": "fascinating",
+    "partOfSpeech": "adj."
+  },
+  "fashionable": {
+    "term": "fashionable",
+    "sourceTerm": "fashionable",
+    "partOfSpeech": "adj."
+  },
+  "fasten": {
+    "term": "fasten",
+    "sourceTerm": "fasten",
+    "partOfSpeech": "v."
+  },
+  "favor": {
+    "term": "favor",
+    "sourceTerm": "favor",
+    "partOfSpeech": "n."
+  },
+  "fear": {
+    "term": "fear",
+    "sourceTerm": "fear",
+    "partOfSpeech": "v."
+  },
+  "feature": {
+    "term": "feature",
+    "sourceTerm": "feature",
+    "partOfSpeech": "v."
+  },
+  "federal": {
+    "term": "federal",
+    "sourceTerm": "federal",
+    "partOfSpeech": "adj."
+  },
+  "fence": {
+    "term": "fence",
+    "sourceTerm": "fence",
+    "partOfSpeech": "n."
+  },
+  "fighting": {
+    "term": "fighting",
+    "sourceTerm": "fighting",
+    "partOfSpeech": "n."
+  },
+  "file": {
+    "term": "file",
+    "sourceTerm": "file",
+    "partOfSpeech": "n."
+  },
+  "financial": {
+    "term": "financial",
+    "sourceTerm": "financial",
+    "partOfSpeech": "adj."
+  },
+  "fitness": {
+    "term": "fitness",
+    "sourceTerm": "fitness",
+    "partOfSpeech": "n."
+  },
+  "fixed": {
+    "term": "fixed",
+    "sourceTerm": "fixed",
+    "partOfSpeech": "adj."
+  },
+  "flag": {
+    "term": "flag",
+    "sourceTerm": "flag",
+    "partOfSpeech": "n."
+  },
+  "flood": {
+    "term": "flood",
+    "sourceTerm": "flood",
+    "partOfSpeech": "n., v."
+  },
+  "flour": {
+    "term": "flour",
+    "sourceTerm": "flour",
+    "partOfSpeech": "n."
+  },
+  "flow": {
+    "term": "flow",
+    "sourceTerm": "flow",
+    "partOfSpeech": "v., n."
+  },
+  "fold": {
+    "term": "fold",
+    "sourceTerm": "fold",
+    "partOfSpeech": "v."
+  },
+  "folk": {
+    "term": "folk",
+    "sourceTerm": "folk",
+    "partOfSpeech": "n., adj."
+  },
+  "following": {
+    "term": "following",
+    "sourceTerm": "following",
+    "partOfSpeech": "n."
+  },
+  "force": {
+    "term": "force",
+    "sourceTerm": "force",
+    "partOfSpeech": "n., v."
+  },
+  "forever": {
+    "term": "forever",
+    "sourceTerm": "forever",
+    "partOfSpeech": "adv."
+  },
+  "frame": {
+    "term": "frame",
+    "sourceTerm": "frame",
+    "partOfSpeech": "n., v."
+  },
+  "freeze": {
+    "term": "freeze",
+    "sourceTerm": "freeze",
+    "partOfSpeech": "v."
+  },
+  "frequently": {
+    "term": "frequently",
+    "sourceTerm": "frequently",
+    "partOfSpeech": "adv."
+  },
+  "friendship": {
+    "term": "friendship",
+    "sourceTerm": "friendship",
+    "partOfSpeech": "n."
+  },
+  "frighten": {
+    "term": "frighten",
+    "sourceTerm": "frighten",
+    "partOfSpeech": "v."
+  },
+  "frightened": {
+    "term": "frightened",
+    "sourceTerm": "frightened",
+    "partOfSpeech": "adj."
+  },
+  "frightening": {
+    "term": "frightening",
+    "sourceTerm": "frightening",
+    "partOfSpeech": "adj."
+  },
+  "frozen": {
+    "term": "frozen",
+    "sourceTerm": "frozen",
+    "partOfSpeech": "adj."
+  },
+  "fry": {
+    "term": "fry",
+    "sourceTerm": "fry",
+    "partOfSpeech": "v."
+  },
+  "fuel": {
+    "term": "fuel",
+    "sourceTerm": "fuel",
+    "partOfSpeech": "n."
+  },
+  "function": {
+    "term": "function",
+    "sourceTerm": "function",
+    "partOfSpeech": "n."
+  },
+  "fur": {
+    "term": "fur",
+    "sourceTerm": "fur",
+    "partOfSpeech": "n."
+  },
+  "further": {
+    "term": "further",
+    "sourceTerm": "further",
+    "partOfSpeech": "adv."
+  },
+  "garage": {
+    "term": "garage",
+    "sourceTerm": "garage",
+    "partOfSpeech": "n."
+  },
+  "gather": {
+    "term": "gather",
+    "sourceTerm": "gather",
+    "partOfSpeech": "v."
+  },
+  "generally": {
+    "term": "generally",
+    "sourceTerm": "generally",
+    "partOfSpeech": "adv."
+  },
+  "generation": {
+    "term": "generation",
+    "sourceTerm": "generation",
+    "partOfSpeech": "n."
+  },
+  "generous": {
+    "term": "generous",
+    "sourceTerm": "generous",
+    "partOfSpeech": "adj."
+  },
+  "gentle": {
+    "term": "gentle",
+    "sourceTerm": "gentle",
+    "partOfSpeech": "adj."
+  },
+  "gentleman": {
+    "term": "gentleman",
+    "sourceTerm": "gentleman",
+    "partOfSpeech": "n."
+  },
+  "ghost": {
+    "term": "ghost",
+    "sourceTerm": "ghost",
+    "partOfSpeech": "n."
+  },
+  "giant": {
+    "term": "giant",
+    "sourceTerm": "giant",
+    "partOfSpeech": "adj., n."
+  },
+  "glad": {
+    "term": "glad",
+    "sourceTerm": "glad",
+    "partOfSpeech": "adj."
+  },
+  "global": {
+    "term": "global",
+    "sourceTerm": "global",
+    "partOfSpeech": "adj."
+  },
+  "glove": {
+    "term": "glove",
+    "sourceTerm": "glove",
+    "partOfSpeech": "n."
+  },
+  "go": {
+    "term": "go",
+    "sourceTerm": "go",
+    "partOfSpeech": "n."
+  },
+  "grade": {
+    "term": "grade",
+    "sourceTerm": "grade",
+    "partOfSpeech": "n."
+  },
+  "graduate": {
+    "term": "graduate",
+    "sourceTerm": "graduate",
+    "partOfSpeech": "n., v."
+  },
+  "grain": {
+    "term": "grain",
+    "sourceTerm": "grain",
+    "partOfSpeech": "n."
+  },
+  "grateful": {
+    "term": "grateful",
+    "sourceTerm": "grateful",
+    "partOfSpeech": "adj."
+  },
+  "growth": {
+    "term": "growth",
+    "sourceTerm": "growth",
+    "partOfSpeech": "n."
+  },
+  "guard": {
+    "term": "guard",
+    "sourceTerm": "guard",
+    "partOfSpeech": "n., v."
+  },
+  "guilty": {
+    "term": "guilty",
+    "sourceTerm": "guilty",
+    "partOfSpeech": "adj."
+  },
+  "hand": {
+    "term": "hand",
+    "sourceTerm": "hand",
+    "partOfSpeech": "v."
+  },
+  "hang": {
+    "term": "hang",
+    "sourceTerm": "hang",
+    "partOfSpeech": "v."
+  },
+  "happiness": {
+    "term": "happiness",
+    "sourceTerm": "happiness",
+    "partOfSpeech": "n."
+  },
+  "hardly": {
+    "term": "hardly",
+    "sourceTerm": "hardly",
+    "partOfSpeech": "adv."
+  },
+  "hate": {
+    "term": "hate",
+    "sourceTerm": "hate",
+    "partOfSpeech": "n."
+  },
+  "head": {
+    "term": "head",
+    "sourceTerm": "head",
+    "partOfSpeech": "v."
+  },
+  "headline": {
+    "term": "headline",
+    "sourceTerm": "headline",
+    "partOfSpeech": "n."
+  },
+  "heating": {
+    "term": "heating",
+    "sourceTerm": "heating",
+    "partOfSpeech": "n."
+  },
+  "heavily": {
+    "term": "heavily",
+    "sourceTerm": "heavily",
+    "partOfSpeech": "adv."
+  },
+  "helicopter": {
+    "term": "helicopter",
+    "sourceTerm": "helicopter",
+    "partOfSpeech": "n."
+  },
+  "highlight": {
+    "term": "highlight",
+    "sourceTerm": "highlight",
+    "partOfSpeech": "v., n."
+  },
+  "highly": {
+    "term": "highly",
+    "sourceTerm": "highly",
+    "partOfSpeech": "adv."
+  },
+  "highway": {
+    "term": "highway",
+    "sourceTerm": "highway",
+    "partOfSpeech": "n."
+  },
+  "hire": {
+    "term": "hire",
+    "sourceTerm": "hire",
+    "partOfSpeech": "v."
+  },
+  "historic": {
+    "term": "historic",
+    "sourceTerm": "historic",
+    "partOfSpeech": "adj."
+  },
+  "historical": {
+    "term": "historical",
+    "sourceTerm": "historical",
+    "partOfSpeech": "adj."
+  },
+  "honest": {
+    "term": "honest",
+    "sourceTerm": "honest",
+    "partOfSpeech": "adj."
+  },
+  "horrible": {
+    "term": "horrible",
+    "sourceTerm": "horrible",
+    "partOfSpeech": "adj."
+  },
+  "horror": {
+    "term": "horror",
+    "sourceTerm": "horror",
+    "partOfSpeech": "n."
+  },
+  "host": {
+    "term": "host",
+    "sourceTerm": "host",
+    "partOfSpeech": "n."
+  },
+  "hunt": {
+    "term": "hunt",
+    "sourceTerm": "hunt",
+    "partOfSpeech": "v."
+  },
+  "hurricane": {
+    "term": "hurricane",
+    "sourceTerm": "hurricane",
+    "partOfSpeech": "n."
+  },
+  "hurry": {
+    "term": "hurry",
+    "sourceTerm": "hurry",
+    "partOfSpeech": "n., v."
+  },
+  "identity": {
+    "term": "identity",
+    "sourceTerm": "identity",
+    "partOfSpeech": "n."
+  },
+  "ignore": {
+    "term": "ignore",
+    "sourceTerm": "ignore",
+    "partOfSpeech": "v."
+  },
+  "illegal": {
+    "term": "illegal",
+    "sourceTerm": "illegal",
+    "partOfSpeech": "adj."
+  },
+  "imaginary": {
+    "term": "imaginary",
+    "sourceTerm": "imaginary",
+    "partOfSpeech": "adj."
+  },
+  "immediate": {
+    "term": "immediate",
+    "sourceTerm": "immediate",
+    "partOfSpeech": "adj."
+  },
+  "immigrant": {
+    "term": "immigrant",
+    "sourceTerm": "immigrant",
+    "partOfSpeech": "n."
+  },
+  "impact": {
+    "term": "impact",
+    "sourceTerm": "impact",
+    "partOfSpeech": "n., v."
+  },
+  "import": {
+    "term": "import",
+    "sourceTerm": "import",
+    "partOfSpeech": "n., v."
+  },
+  "importance": {
+    "term": "importance",
+    "sourceTerm": "importance",
+    "partOfSpeech": "n."
+  },
+  "impression": {
+    "term": "impression",
+    "sourceTerm": "impression",
+    "partOfSpeech": "n."
+  },
+  "impressive": {
+    "term": "impressive",
+    "sourceTerm": "impressive",
+    "partOfSpeech": "adj."
+  },
+  "improvement": {
+    "term": "improvement",
+    "sourceTerm": "improvement",
+    "partOfSpeech": "n."
+  },
+  "incredibly": {
+    "term": "incredibly",
+    "sourceTerm": "incredibly",
+    "partOfSpeech": "adv."
+  },
+  "indeed": {
+    "term": "indeed",
+    "sourceTerm": "indeed",
+    "partOfSpeech": "adv."
+  },
+  "indicate": {
+    "term": "indicate",
+    "sourceTerm": "indicate",
+    "partOfSpeech": "v."
+  },
+  "indirect": {
+    "term": "indirect",
+    "sourceTerm": "indirect",
+    "partOfSpeech": "adj."
+  },
+  "indoor": {
+    "term": "indoor",
+    "sourceTerm": "indoor",
+    "partOfSpeech": "adj."
+  },
+  "indoors": {
+    "term": "indoors",
+    "sourceTerm": "indoors",
+    "partOfSpeech": "adv."
+  },
+  "influence": {
+    "term": "influence",
+    "sourceTerm": "influence",
+    "partOfSpeech": "n., v."
+  },
+  "ingredient": {
+    "term": "ingredient",
+    "sourceTerm": "ingredient",
+    "partOfSpeech": "n."
+  },
+  "injure": {
+    "term": "injure",
+    "sourceTerm": "injure",
+    "partOfSpeech": "v."
+  },
+  "injured": {
+    "term": "injured",
+    "sourceTerm": "injured",
+    "partOfSpeech": "adj."
+  },
+  "innocent": {
+    "term": "innocent",
+    "sourceTerm": "innocent",
+    "partOfSpeech": "adj."
+  },
+  "intelligence": {
+    "term": "intelligence",
+    "sourceTerm": "intelligence",
+    "partOfSpeech": "n."
+  },
+  "intend": {
+    "term": "intend",
+    "sourceTerm": "intend",
+    "partOfSpeech": "v."
+  },
+  "intention": {
+    "term": "intention",
+    "sourceTerm": "intention",
+    "partOfSpeech": "n."
+  },
+  "invest": {
+    "term": "invest",
+    "sourceTerm": "invest",
+    "partOfSpeech": "v."
+  },
+  "investigate": {
+    "term": "investigate",
+    "sourceTerm": "investigate",
+    "partOfSpeech": "v."
+  },
+  "involved": {
+    "term": "involved",
+    "sourceTerm": "involved",
+    "partOfSpeech": "adj."
+  },
+  "iron": {
+    "term": "iron",
+    "sourceTerm": "iron",
+    "partOfSpeech": "n., v."
+  },
+  "issue": {
+    "term": "issue",
+    "sourceTerm": "issue",
+    "partOfSpeech": "n."
+  },
+  "it": {
+    "term": "IT",
+    "sourceTerm": "IT",
+    "partOfSpeech": "n."
+  },
+  "journal": {
+    "term": "journal",
+    "sourceTerm": "journal",
+    "partOfSpeech": "n."
+  },
+  "journey": {
+    "term": "journey",
+    "sourceTerm": "journey",
+    "partOfSpeech": "n."
+  },
+  "judge": {
+    "term": "judge",
+    "sourceTerm": "judge",
+    "partOfSpeech": "n., v."
+  },
+  "key": {
+    "term": "key",
+    "sourceTerm": "key",
+    "partOfSpeech": "v."
+  },
+  "keyboard": {
+    "term": "keyboard",
+    "sourceTerm": "keyboard",
+    "partOfSpeech": "n."
+  },
+  "kick": {
+    "term": "kick",
+    "sourceTerm": "kick",
+    "partOfSpeech": "v., n."
+  },
+  "killing": {
+    "term": "killing",
+    "sourceTerm": "killing",
+    "partOfSpeech": "n."
+  },
+  "kind (caring)": {
+    "term": "kind",
+    "sourceTerm": "kind (caring)",
+    "partOfSpeech": "adj."
+  },
+  "kiss": {
+    "term": "kiss",
+    "sourceTerm": "kiss",
+    "partOfSpeech": "v., n."
+  },
+  "knock": {
+    "term": "knock",
+    "sourceTerm": "knock",
+    "partOfSpeech": "n."
+  },
+  "label": {
+    "term": "label",
+    "sourceTerm": "label",
+    "partOfSpeech": "n., v."
+  },
+  "laboratory": {
+    "term": "laboratory",
+    "sourceTerm": "laboratory",
+    "partOfSpeech": "n."
+  },
+  "lack": {
+    "term": "lack",
+    "sourceTerm": "lack",
+    "partOfSpeech": "n., v."
+  },
+  "latest": {
+    "term": "latest",
+    "sourceTerm": "latest",
+    "partOfSpeech": "adj."
+  },
+  "lay": {
+    "term": "lay",
+    "sourceTerm": "lay",
+    "partOfSpeech": "v."
+  },
+  "layer": {
+    "term": "layer",
+    "sourceTerm": "layer",
+    "partOfSpeech": "n."
+  },
+  "lead1": {
+    "term": "lead",
+    "sourceTerm": "lead1",
+    "partOfSpeech": "n."
+  },
+  "leading": {
+    "term": "leading",
+    "sourceTerm": "leading",
+    "partOfSpeech": "adj."
+  },
+  "leaf": {
+    "term": "leaf",
+    "sourceTerm": "leaf",
+    "partOfSpeech": "n."
+  },
+  "leather": {
+    "term": "leather",
+    "sourceTerm": "leather",
+    "partOfSpeech": "n."
+  },
+  "legal": {
+    "term": "legal",
+    "sourceTerm": "legal",
+    "partOfSpeech": "adj."
+  },
+  "leisure": {
+    "term": "leisure",
+    "sourceTerm": "leisure",
+    "partOfSpeech": "n."
+  },
+  "length": {
+    "term": "length",
+    "sourceTerm": "length",
+    "partOfSpeech": "n."
+  },
+  "level": {
+    "term": "level",
+    "sourceTerm": "level",
+    "partOfSpeech": "adj."
+  },
+  "lie2 (tell a lie)": {
+    "term": "lie",
+    "sourceTerm": "lie2 (tell a lie)",
+    "partOfSpeech": "v., n."
+  },
+  "like (find sb/sth pleasant)": {
+    "term": "like",
+    "sourceTerm": "like (find sb/sth pleasant)",
+    "partOfSpeech": "n."
+  },
+  "limit": {
+    "term": "limit",
+    "sourceTerm": "limit",
+    "partOfSpeech": "n., v."
+  },
+  "lip": {
+    "term": "lip",
+    "sourceTerm": "lip",
+    "partOfSpeech": "n."
+  },
+  "liquid": {
+    "term": "liquid",
+    "sourceTerm": "liquid",
+    "partOfSpeech": "n., adj."
+  },
+  "literature": {
+    "term": "literature",
+    "sourceTerm": "literature",
+    "partOfSpeech": "n."
+  },
+  "live2": {
+    "term": "live",
+    "sourceTerm": "live2",
+    "partOfSpeech": "adj., adv."
+  },
+  "living": {
+    "term": "living",
+    "sourceTerm": "living",
+    "partOfSpeech": "adj., n."
+  },
+  "local": {
+    "term": "local",
+    "sourceTerm": "local",
+    "partOfSpeech": "n."
+  },
+  "locate": {
+    "term": "locate",
+    "sourceTerm": "locate",
+    "partOfSpeech": "v."
+  },
+  "located": {
+    "term": "located",
+    "sourceTerm": "located",
+    "partOfSpeech": "adj."
+  },
+  "location": {
+    "term": "location",
+    "sourceTerm": "location",
+    "partOfSpeech": "n."
+  },
+  "lonely": {
+    "term": "lonely",
+    "sourceTerm": "lonely",
+    "partOfSpeech": "adj."
+  },
+  "loss": {
+    "term": "loss",
+    "sourceTerm": "loss",
+    "partOfSpeech": "n."
+  },
+  "luxury": {
+    "term": "luxury",
+    "sourceTerm": "luxury",
+    "partOfSpeech": "n."
+  },
+  "mad": {
+    "term": "mad",
+    "sourceTerm": "mad",
+    "partOfSpeech": "adj."
+  },
+  "magic": {
+    "term": "magic",
+    "sourceTerm": "magic",
+    "partOfSpeech": "n., adj."
+  },
+  "mainly": {
+    "term": "mainly",
+    "sourceTerm": "mainly",
+    "partOfSpeech": "adv."
+  },
+  "management": {
+    "term": "management",
+    "sourceTerm": "management",
+    "partOfSpeech": "n."
+  },
+  "market": {
+    "term": "market",
+    "sourceTerm": "market",
+    "partOfSpeech": "v."
+  },
+  "marketing": {
+    "term": "marketing",
+    "sourceTerm": "marketing",
+    "partOfSpeech": "n."
+  },
+  "marriage": {
+    "term": "marriage",
+    "sourceTerm": "marriage",
+    "partOfSpeech": "n."
+  },
+  "meanwhile": {
+    "term": "meanwhile",
+    "sourceTerm": "meanwhile",
+    "partOfSpeech": "adv."
+  },
+  "measure": {
+    "term": "measure",
+    "sourceTerm": "measure",
+    "partOfSpeech": "v., n."
+  },
+  "medium": {
+    "term": "medium",
+    "sourceTerm": "medium",
+    "partOfSpeech": "adj."
+  },
+  "mental": {
+    "term": "mental",
+    "sourceTerm": "mental",
+    "partOfSpeech": "adj."
+  },
+  "mention": {
+    "term": "mention",
+    "sourceTerm": "mention",
+    "partOfSpeech": "n."
+  },
+  "mess": {
+    "term": "mess",
+    "sourceTerm": "mess",
+    "partOfSpeech": "n., v."
+  },
+  "mild": {
+    "term": "mild",
+    "sourceTerm": "mild",
+    "partOfSpeech": "adj."
+  },
+  "mine (hole in the ground)": {
+    "term": "mine",
+    "sourceTerm": "mine (hole in the ground)",
+    "partOfSpeech": "n."
+  },
+  "mix": {
+    "term": "mix",
+    "sourceTerm": "mix",
+    "partOfSpeech": "v., n."
+  },
+  "mixture": {
+    "term": "mixture",
+    "sourceTerm": "mixture",
+    "partOfSpeech": "n."
+  },
+  "mood": {
+    "term": "mood",
+    "sourceTerm": "mood",
+    "partOfSpeech": "n."
+  },
+  "move": {
+    "term": "move",
+    "sourceTerm": "move",
+    "partOfSpeech": "n."
+  },
+  "mud": {
+    "term": "mud",
+    "sourceTerm": "mud",
+    "partOfSpeech": "n."
+  },
+  "murder": {
+    "term": "murder",
+    "sourceTerm": "murder",
+    "partOfSpeech": "n., v."
+  },
+  "muscle": {
+    "term": "muscle",
+    "sourceTerm": "muscle",
+    "partOfSpeech": "n."
+  },
+  "musical": {
+    "term": "musical",
+    "sourceTerm": "musical",
+    "partOfSpeech": "n."
+  },
+  "mystery": {
+    "term": "mystery",
+    "sourceTerm": "mystery",
+    "partOfSpeech": "n."
+  },
+  "nail": {
+    "term": "nail",
+    "sourceTerm": "nail",
+    "partOfSpeech": "n."
+  },
+  "narrative": {
+    "term": "narrative",
+    "sourceTerm": "narrative",
+    "partOfSpeech": "n., adj."
+  },
+  "nation": {
+    "term": "nation",
+    "sourceTerm": "nation",
+    "partOfSpeech": "n."
+  },
+  "native": {
+    "term": "native",
+    "sourceTerm": "native",
+    "partOfSpeech": "adj., n."
+  },
+  "naturally": {
+    "term": "naturally",
+    "sourceTerm": "naturally",
+    "partOfSpeech": "adv."
+  },
+  "neat": {
+    "term": "neat",
+    "sourceTerm": "neat",
+    "partOfSpeech": "adj."
+  },
+  "necessarily": {
+    "term": "necessarily",
+    "sourceTerm": "necessarily",
+    "partOfSpeech": "adv."
+  },
+  "need": {
+    "term": "need",
+    "sourceTerm": "need",
+    "partOfSpeech": "modal v."
+  },
+  "needle": {
+    "term": "needle",
+    "sourceTerm": "needle",
+    "partOfSpeech": "n."
+  },
+  "neither": {
+    "term": "neither",
+    "sourceTerm": "neither",
+    "partOfSpeech": "adv."
+  },
+  "net": {
+    "term": "net",
+    "sourceTerm": "net",
+    "partOfSpeech": "n."
+  },
+  "next": {
+    "term": "next",
+    "sourceTerm": "next",
+    "partOfSpeech": "n."
+  },
+  "nor": {
+    "term": "nor",
+    "sourceTerm": "nor",
+    "partOfSpeech": "conj./adv."
+  },
+  "normal": {
+    "term": "normal",
+    "sourceTerm": "normal",
+    "partOfSpeech": "n."
+  },
+  "northern": {
+    "term": "northern",
+    "sourceTerm": "northern",
+    "partOfSpeech": "adj."
+  },
+  "note": {
+    "term": "note",
+    "sourceTerm": "note",
+    "partOfSpeech": "v."
+  },
+  "now": {
+    "term": "now",
+    "sourceTerm": "now",
+    "partOfSpeech": "conj."
+  },
+  "nuclear": {
+    "term": "nuclear",
+    "sourceTerm": "nuclear",
+    "partOfSpeech": "adj."
+  },
+  "obvious": {
+    "term": "obvious",
+    "sourceTerm": "obvious",
+    "partOfSpeech": "adj."
+  },
+  "obviously": {
+    "term": "obviously",
+    "sourceTerm": "obviously",
+    "partOfSpeech": "adv."
+  },
+  "occasion": {
+    "term": "occasion",
+    "sourceTerm": "occasion",
+    "partOfSpeech": "n."
+  },
+  "occur": {
+    "term": "occur",
+    "sourceTerm": "occur",
+    "partOfSpeech": "v."
+  },
+  "odd": {
+    "term": "odd",
+    "sourceTerm": "odd",
+    "partOfSpeech": "adj."
+  },
+  "official": {
+    "term": "official",
+    "sourceTerm": "official",
+    "partOfSpeech": "adj."
+  },
+  "old-fashioned": {
+    "term": "old-fashioned",
+    "sourceTerm": "old-fashioned",
+    "partOfSpeech": "adj."
+  },
+  "once": {
+    "term": "once",
+    "sourceTerm": "once",
+    "partOfSpeech": "conj."
+  },
+  "operation": {
+    "term": "operation",
+    "sourceTerm": "operation",
+    "partOfSpeech": "n."
+  },
+  "organized": {
+    "term": "organized",
+    "sourceTerm": "organized",
+    "partOfSpeech": "adj."
+  },
+  "organizer": {
+    "term": "organizer",
+    "sourceTerm": "organizer",
+    "partOfSpeech": "n."
+  },
+  "original": {
+    "term": "original",
+    "sourceTerm": "original",
+    "partOfSpeech": "n."
+  },
+  "originally": {
+    "term": "originally",
+    "sourceTerm": "originally",
+    "partOfSpeech": "adv."
+  },
+  "ought": {
+    "term": "ought",
+    "sourceTerm": "ought",
+    "partOfSpeech": "modal v."
+  },
+  "ours": {
+    "term": "ours",
+    "sourceTerm": "ours",
+    "partOfSpeech": "pron."
+  },
+  "outdoor": {
+    "term": "outdoor",
+    "sourceTerm": "outdoor",
+    "partOfSpeech": "adj."
+  },
+  "outdoors": {
+    "term": "outdoors",
+    "sourceTerm": "outdoors",
+    "partOfSpeech": "adv."
+  },
+  "overseas": {
+    "term": "overseas",
+    "sourceTerm": "overseas",
+    "partOfSpeech": "adj."
+  },
+  "pack": {
+    "term": "pack",
+    "sourceTerm": "pack",
+    "partOfSpeech": "n."
+  },
+  "package": {
+    "term": "package",
+    "sourceTerm": "package",
+    "partOfSpeech": "n."
+  },
+  "painful": {
+    "term": "painful",
+    "sourceTerm": "painful",
+    "partOfSpeech": "adj."
+  },
+  "pale": {
+    "term": "pale",
+    "sourceTerm": "pale",
+    "partOfSpeech": "adj."
+  },
+  "pan": {
+    "term": "pan",
+    "sourceTerm": "pan",
+    "partOfSpeech": "n."
+  },
+  "participate": {
+    "term": "participate",
+    "sourceTerm": "participate",
+    "partOfSpeech": "v."
+  },
+  "particularly": {
+    "term": "particularly",
+    "sourceTerm": "particularly",
+    "partOfSpeech": "adv."
+  },
+  "pass": {
+    "term": "pass",
+    "sourceTerm": "pass",
+    "partOfSpeech": "n."
+  },
+  "passion": {
+    "term": "passion",
+    "sourceTerm": "passion",
+    "partOfSpeech": "n."
+  },
+  "path": {
+    "term": "path",
+    "sourceTerm": "path",
+    "partOfSpeech": "n."
+  },
+  "payment": {
+    "term": "payment",
+    "sourceTerm": "payment",
+    "partOfSpeech": "n."
+  },
+  "peaceful": {
+    "term": "peaceful",
+    "sourceTerm": "peaceful",
+    "partOfSpeech": "adj."
+  },
+  "percentage": {
+    "term": "percentage",
+    "sourceTerm": "percentage",
+    "partOfSpeech": "n."
+  },
+  "perfectly": {
+    "term": "perfectly",
+    "sourceTerm": "perfectly",
+    "partOfSpeech": "adv."
+  },
+  "performance": {
+    "term": "performance",
+    "sourceTerm": "performance",
+    "partOfSpeech": "n."
+  },
+  "personally": {
+    "term": "personally",
+    "sourceTerm": "personally",
+    "partOfSpeech": "adv."
+  },
+  "persuade": {
+    "term": "persuade",
+    "sourceTerm": "persuade",
+    "partOfSpeech": "v."
+  },
+  "photographer": {
+    "term": "photographer",
+    "sourceTerm": "photographer",
+    "partOfSpeech": "n."
+  },
+  "photography": {
+    "term": "photography",
+    "sourceTerm": "photography",
+    "partOfSpeech": "n."
+  },
+  "pin": {
+    "term": "pin",
+    "sourceTerm": "pin",
+    "partOfSpeech": "n., v."
+  },
+  "pipe": {
+    "term": "pipe",
+    "sourceTerm": "pipe",
+    "partOfSpeech": "n."
+  },
+  "place": {
+    "term": "place",
+    "sourceTerm": "place",
+    "partOfSpeech": "v."
+  },
+  "planning": {
+    "term": "planning",
+    "sourceTerm": "planning",
+    "partOfSpeech": "n."
+  },
+  "pleasant": {
+    "term": "pleasant",
+    "sourceTerm": "pleasant",
+    "partOfSpeech": "adj."
+  },
+  "pleasure": {
+    "term": "pleasure",
+    "sourceTerm": "pleasure",
+    "partOfSpeech": "n."
+  },
+  "plenty": {
+    "term": "plenty",
+    "sourceTerm": "plenty",
+    "partOfSpeech": "pron."
+  },
+  "plot": {
+    "term": "plot",
+    "sourceTerm": "plot",
+    "partOfSpeech": "n."
+  },
+  "plus1": {
+    "term": "plus",
+    "sourceTerm": "plus1",
+    "partOfSpeech": "prep."
+  },
+  "poem": {
+    "term": "poem",
+    "sourceTerm": "poem",
+    "partOfSpeech": "n."
+  },
+  "poet": {
+    "term": "poet",
+    "sourceTerm": "poet",
+    "partOfSpeech": "n."
+  },
+  "poetry": {
+    "term": "poetry",
+    "sourceTerm": "poetry",
+    "partOfSpeech": "n."
+  },
+  "point": {
+    "term": "point",
+    "sourceTerm": "point",
+    "partOfSpeech": "v."
+  },
+  "poison": {
+    "term": "poison",
+    "sourceTerm": "poison",
+    "partOfSpeech": "n., v."
+  },
+  "poisonous": {
+    "term": "poisonous",
+    "sourceTerm": "poisonous",
+    "partOfSpeech": "adj."
+  },
+  "policy": {
+    "term": "policy",
+    "sourceTerm": "policy",
+    "partOfSpeech": "n."
+  },
+  "political": {
+    "term": "political",
+    "sourceTerm": "political",
+    "partOfSpeech": "adj."
+  },
+  "politician": {
+    "term": "politician",
+    "sourceTerm": "politician",
+    "partOfSpeech": "n."
+  },
+  "politics": {
+    "term": "politics",
+    "sourceTerm": "politics",
+    "partOfSpeech": "n."
+  },
+  "port": {
+    "term": "port",
+    "sourceTerm": "port",
+    "partOfSpeech": "n."
+  },
+  "portrait": {
+    "term": "portrait",
+    "sourceTerm": "portrait",
+    "partOfSpeech": "n."
+  },
+  "possibly": {
+    "term": "possibly",
+    "sourceTerm": "possibly",
+    "partOfSpeech": "adv."
+  },
+  "pot": {
+    "term": "pot",
+    "sourceTerm": "pot",
+    "partOfSpeech": "n."
+  },
+  "pour": {
+    "term": "pour",
+    "sourceTerm": "pour",
+    "partOfSpeech": "v."
+  },
+  "poverty": {
+    "term": "poverty",
+    "sourceTerm": "poverty",
+    "partOfSpeech": "n."
+  },
+  "powder": {
+    "term": "powder",
+    "sourceTerm": "powder",
+    "partOfSpeech": "n."
+  },
+  "powerful": {
+    "term": "powerful",
+    "sourceTerm": "powerful",
+    "partOfSpeech": "adj."
+  },
+  "practical": {
+    "term": "practical",
+    "sourceTerm": "practical",
+    "partOfSpeech": "adj."
+  },
+  "pray": {
+    "term": "pray",
+    "sourceTerm": "pray",
+    "partOfSpeech": "v."
+  },
+  "prayer": {
+    "term": "prayer",
+    "sourceTerm": "prayer",
+    "partOfSpeech": "n."
+  },
+  "prediction": {
+    "term": "prediction",
+    "sourceTerm": "prediction",
+    "partOfSpeech": "n."
+  },
+  "prepared": {
+    "term": "prepared",
+    "sourceTerm": "prepared",
+    "partOfSpeech": "adj."
+  },
+  "presentation": {
+    "term": "presentation",
+    "sourceTerm": "presentation",
+    "partOfSpeech": "n."
+  },
+  "press": {
+    "term": "press",
+    "sourceTerm": "press",
+    "partOfSpeech": "v., n."
+  },
+  "pressure": {
+    "term": "pressure",
+    "sourceTerm": "pressure",
+    "partOfSpeech": "n."
+  },
+  "pretend": {
+    "term": "pretend",
+    "sourceTerm": "pretend",
+    "partOfSpeech": "v."
+  },
+  "previous": {
+    "term": "previous",
+    "sourceTerm": "previous",
+    "partOfSpeech": "adj."
+  },
+  "previously": {
+    "term": "previously",
+    "sourceTerm": "previously",
+    "partOfSpeech": "adv."
+  },
+  "priest": {
+    "term": "priest",
+    "sourceTerm": "priest",
+    "partOfSpeech": "n."
+  },
+  "primary": {
+    "term": "primary",
+    "sourceTerm": "primary",
+    "partOfSpeech": "adj."
+  },
+  "prince": {
+    "term": "prince",
+    "sourceTerm": "prince",
+    "partOfSpeech": "n."
+  },
+  "princess": {
+    "term": "princess",
+    "sourceTerm": "princess",
+    "partOfSpeech": "n."
+  },
+  "principal": {
+    "term": "principal",
+    "sourceTerm": "principal",
+    "partOfSpeech": "n."
+  },
+  "printing": {
+    "term": "printing",
+    "sourceTerm": "printing",
+    "partOfSpeech": "n."
+  },
+  "prisoner": {
+    "term": "prisoner",
+    "sourceTerm": "prisoner",
+    "partOfSpeech": "n."
+  },
+  "private": {
+    "term": "private",
+    "sourceTerm": "private",
+    "partOfSpeech": "adj."
+  },
+  "producer": {
+    "term": "producer",
+    "sourceTerm": "producer",
+    "partOfSpeech": "n."
+  },
+  "production": {
+    "term": "production",
+    "sourceTerm": "production",
+    "partOfSpeech": "n."
+  },
+  "profession": {
+    "term": "profession",
+    "sourceTerm": "profession",
+    "partOfSpeech": "n."
+  },
+  "profit": {
+    "term": "profit",
+    "sourceTerm": "profit",
+    "partOfSpeech": "n."
+  },
+  "program": {
+    "term": "program",
+    "sourceTerm": "program",
+    "partOfSpeech": "v."
+  },
+  "promote": {
+    "term": "promote",
+    "sourceTerm": "promote",
+    "partOfSpeech": "v."
+  },
+  "proper": {
+    "term": "proper",
+    "sourceTerm": "proper",
+    "partOfSpeech": "adj."
+  },
+  "properly": {
+    "term": "properly",
+    "sourceTerm": "properly",
+    "partOfSpeech": "adv."
+  },
+  "property": {
+    "term": "property",
+    "sourceTerm": "property",
+    "partOfSpeech": "n."
+  },
+  "protest": {
+    "term": "protest",
+    "sourceTerm": "protest",
+    "partOfSpeech": "n., v."
+  },
+  "proud": {
+    "term": "proud",
+    "sourceTerm": "proud",
+    "partOfSpeech": "adj."
+  },
+  "prove": {
+    "term": "prove",
+    "sourceTerm": "prove",
+    "partOfSpeech": "v."
+  },
+  "pull": {
+    "term": "pull",
+    "sourceTerm": "pull",
+    "partOfSpeech": "n."
+  },
+  "punish": {
+    "term": "punish",
+    "sourceTerm": "punish",
+    "partOfSpeech": "v."
+  },
+  "punishment": {
+    "term": "punishment",
+    "sourceTerm": "punishment",
+    "partOfSpeech": "n."
+  },
+  "push": {
+    "term": "push",
+    "sourceTerm": "push",
+    "partOfSpeech": "n."
+  },
+  "qualification": {
+    "term": "qualification",
+    "sourceTerm": "qualification",
+    "partOfSpeech": "n."
+  },
+  "qualified": {
+    "term": "qualified",
+    "sourceTerm": "qualified",
+    "partOfSpeech": "adj."
+  },
+  "qualify": {
+    "term": "qualify",
+    "sourceTerm": "qualify",
+    "partOfSpeech": "v."
+  },
+  "quit": {
+    "term": "quit",
+    "sourceTerm": "quit",
+    "partOfSpeech": "v."
+  },
+  "quotation": {
+    "term": "quotation",
+    "sourceTerm": "quotation",
+    "partOfSpeech": "n."
+  },
+  "quote": {
+    "term": "quote",
+    "sourceTerm": "quote",
+    "partOfSpeech": "v., n."
+  },
+  "race (of people)": {
+    "term": "race",
+    "sourceTerm": "race (of people)",
+    "partOfSpeech": "n."
+  },
+  "racing": {
+    "term": "racing",
+    "sourceTerm": "racing",
+    "partOfSpeech": "n."
+  },
+  "raise": {
+    "term": "raise",
+    "sourceTerm": "raise",
+    "partOfSpeech": "n."
+  },
+  "range": {
+    "term": "range",
+    "sourceTerm": "range",
+    "partOfSpeech": "n."
+  },
+  "rare": {
+    "term": "rare",
+    "sourceTerm": "rare",
+    "partOfSpeech": "adj."
+  },
+  "rarely": {
+    "term": "rarely",
+    "sourceTerm": "rarely",
+    "partOfSpeech": "adv."
+  },
+  "reaction": {
+    "term": "reaction",
+    "sourceTerm": "reaction",
+    "partOfSpeech": "n."
+  },
+  "reality": {
+    "term": "reality",
+    "sourceTerm": "reality",
+    "partOfSpeech": "n."
+  },
+  "receipt": {
+    "term": "receipt",
+    "sourceTerm": "receipt",
+    "partOfSpeech": "n."
+  },
+  "recommendation": {
+    "term": "recommendation",
+    "sourceTerm": "recommendation",
+    "partOfSpeech": "n."
+  },
+  "reference": {
+    "term": "reference",
+    "sourceTerm": "reference",
+    "partOfSpeech": "n."
+  },
+  "reflect": {
+    "term": "reflect",
+    "sourceTerm": "reflect",
+    "partOfSpeech": "v."
+  },
+  "regularly": {
+    "term": "regularly",
+    "sourceTerm": "regularly",
+    "partOfSpeech": "adv."
+  },
+  "reject": {
+    "term": "reject",
+    "sourceTerm": "reject",
+    "partOfSpeech": "v."
+  },
+  "relate": {
+    "term": "relate",
+    "sourceTerm": "relate",
+    "partOfSpeech": "v."
+  },
+  "related": {
+    "term": "related",
+    "sourceTerm": "related",
+    "partOfSpeech": "adj."
+  },
+  "relation": {
+    "term": "relation",
+    "sourceTerm": "relation",
+    "partOfSpeech": "n."
+  },
+  "relative": {
+    "term": "relative",
+    "sourceTerm": "relative",
+    "partOfSpeech": "adj., n."
+  },
+  "relaxed": {
+    "term": "relaxed",
+    "sourceTerm": "relaxed",
+    "partOfSpeech": "adj."
+  },
+  "relaxing": {
+    "term": "relaxing",
+    "sourceTerm": "relaxing",
+    "partOfSpeech": "adj."
+  },
+  "release": {
+    "term": "release",
+    "sourceTerm": "release",
+    "partOfSpeech": "v., n."
+  },
+  "reliable": {
+    "term": "reliable",
+    "sourceTerm": "reliable",
+    "partOfSpeech": "adj."
+  },
+  "religion": {
+    "term": "religion",
+    "sourceTerm": "religion",
+    "partOfSpeech": "n."
+  },
+  "religious": {
+    "term": "religious",
+    "sourceTerm": "religious",
+    "partOfSpeech": "adj."
+  },
+  "remain": {
+    "term": "remain",
+    "sourceTerm": "remain",
+    "partOfSpeech": "v."
+  },
+  "remind": {
+    "term": "remind",
+    "sourceTerm": "remind",
+    "partOfSpeech": "v."
+  },
+  "remote": {
+    "term": "remote",
+    "sourceTerm": "remote",
+    "partOfSpeech": "adj."
+  },
+  "rent": {
+    "term": "rent",
+    "sourceTerm": "rent",
+    "partOfSpeech": "n., v."
+  },
+  "repair": {
+    "term": "repair",
+    "sourceTerm": "repair",
+    "partOfSpeech": "n."
+  },
+  "repeat": {
+    "term": "repeat",
+    "sourceTerm": "repeat",
+    "partOfSpeech": "n."
+  },
+  "repeated": {
+    "term": "repeated",
+    "sourceTerm": "repeated",
+    "partOfSpeech": "adj."
+  },
+  "represent": {
+    "term": "represent",
+    "sourceTerm": "represent",
+    "partOfSpeech": "v."
+  },
+  "request": {
+    "term": "request",
+    "sourceTerm": "request",
+    "partOfSpeech": "v."
+  },
+  "require": {
+    "term": "require",
+    "sourceTerm": "require",
+    "partOfSpeech": "v."
+  },
+  "reservation": {
+    "term": "reservation",
+    "sourceTerm": "reservation",
+    "partOfSpeech": "n."
+  },
+  "resource": {
+    "term": "resource",
+    "sourceTerm": "resource",
+    "partOfSpeech": "n."
+  },
+  "respect": {
+    "term": "respect",
+    "sourceTerm": "respect",
+    "partOfSpeech": "n., v."
+  },
+  "responsibility": {
+    "term": "responsibility",
+    "sourceTerm": "responsibility",
+    "partOfSpeech": "n."
+  },
+  "responsible": {
+    "term": "responsible",
+    "sourceTerm": "responsible",
+    "partOfSpeech": "adj."
+  },
+  "result": {
+    "term": "result",
+    "sourceTerm": "result",
+    "partOfSpeech": "v."
+  },
+  "retire": {
+    "term": "retire",
+    "sourceTerm": "retire",
+    "partOfSpeech": "v."
+  },
+  "retired": {
+    "term": "retired",
+    "sourceTerm": "retired",
+    "partOfSpeech": "adj."
+  },
+  "revise": {
+    "term": "revise",
+    "sourceTerm": "revise",
+    "partOfSpeech": "v."
+  },
+  "ring2": {
+    "term": "ring",
+    "sourceTerm": "ring2",
+    "partOfSpeech": "n."
+  },
+  "risk": {
+    "term": "risk",
+    "sourceTerm": "risk",
+    "partOfSpeech": "n., v."
+  },
+  "robot": {
+    "term": "robot",
+    "sourceTerm": "robot",
+    "partOfSpeech": "n."
+  },
+  "roll": {
+    "term": "roll",
+    "sourceTerm": "roll",
+    "partOfSpeech": "v., n."
+  },
+  "romantic": {
+    "term": "romantic",
+    "sourceTerm": "romantic",
+    "partOfSpeech": "adj."
+  },
+  "rope": {
+    "term": "rope",
+    "sourceTerm": "rope",
+    "partOfSpeech": "n."
+  },
+  "rough": {
+    "term": "rough",
+    "sourceTerm": "rough",
+    "partOfSpeech": "adj."
+  },
+  "row1": {
+    "term": "row",
+    "sourceTerm": "row1",
+    "partOfSpeech": "n."
+  },
+  "royal": {
+    "term": "royal",
+    "sourceTerm": "royal",
+    "partOfSpeech": "adj."
+  },
+  "rule": {
+    "term": "rule",
+    "sourceTerm": "rule",
+    "partOfSpeech": "v."
+  },
+  "safety": {
+    "term": "safety",
+    "sourceTerm": "safety",
+    "partOfSpeech": "n."
+  },
+  "sail": {
+    "term": "sail",
+    "sourceTerm": "sail",
+    "partOfSpeech": "n."
+  },
+  "sailor": {
+    "term": "sailor",
+    "sourceTerm": "sailor",
+    "partOfSpeech": "n."
+  },
+  "sample": {
+    "term": "sample",
+    "sourceTerm": "sample",
+    "partOfSpeech": "n."
+  },
+  "sand": {
+    "term": "sand",
+    "sourceTerm": "sand",
+    "partOfSpeech": "n."
+  },
+  "scan": {
+    "term": "scan",
+    "sourceTerm": "scan",
+    "partOfSpeech": "v."
+  },
+  "scientific": {
+    "term": "scientific",
+    "sourceTerm": "scientific",
+    "partOfSpeech": "adj."
+  },
+  "script": {
+    "term": "script",
+    "sourceTerm": "script",
+    "partOfSpeech": "n."
+  },
+  "sculpture": {
+    "term": "sculpture",
+    "sourceTerm": "sculpture",
+    "partOfSpeech": "n."
+  },
+  "secondary": {
+    "term": "secondary",
+    "sourceTerm": "secondary",
+    "partOfSpeech": "adj."
+  },
+  "security": {
+    "term": "security",
+    "sourceTerm": "security",
+    "partOfSpeech": "n."
+  },
+  "seed": {
+    "term": "seed",
+    "sourceTerm": "seed",
+    "partOfSpeech": "n."
+  },
+  "sensible": {
+    "term": "sensible",
+    "sourceTerm": "sensible",
+    "partOfSpeech": "adj."
+  },
+  "separate": {
+    "term": "separate",
+    "sourceTerm": "separate",
+    "partOfSpeech": "v."
+  },
+  "seriously": {
+    "term": "seriously",
+    "sourceTerm": "seriously",
+    "partOfSpeech": "adv."
+  },
+  "servant": {
+    "term": "servant",
+    "sourceTerm": "servant",
+    "partOfSpeech": "n."
+  },
+  "set (put)": {
+    "term": "set",
+    "sourceTerm": "set (put)",
+    "partOfSpeech": "v."
+  },
+  "set (group)": {
+    "term": "set",
+    "sourceTerm": "set (group)",
+    "partOfSpeech": "n."
+  },
+  "setting": {
+    "term": "setting",
+    "sourceTerm": "setting",
+    "partOfSpeech": "n."
+  },
+  "sex": {
+    "term": "sex",
+    "sourceTerm": "sex",
+    "partOfSpeech": "n."
+  },
+  "sexual": {
+    "term": "sexual",
+    "sourceTerm": "sexual",
+    "partOfSpeech": "adj."
+  },
+  "shake": {
+    "term": "shake",
+    "sourceTerm": "shake",
+    "partOfSpeech": "n."
+  },
+  "share": {
+    "term": "share",
+    "sourceTerm": "share",
+    "partOfSpeech": "n."
+  },
+  "sharp": {
+    "term": "sharp",
+    "sourceTerm": "sharp",
+    "partOfSpeech": "adj."
+  },
+  "shelf": {
+    "term": "shelf",
+    "sourceTerm": "shelf",
+    "partOfSpeech": "n."
+  },
+  "shell": {
+    "term": "shell",
+    "sourceTerm": "shell",
+    "partOfSpeech": "n."
+  },
+  "shift": {
+    "term": "shift",
+    "sourceTerm": "shift",
+    "partOfSpeech": "n."
+  },
+  "shine": {
+    "term": "shine",
+    "sourceTerm": "shine",
+    "partOfSpeech": "v."
+  },
+  "shiny": {
+    "term": "shiny",
+    "sourceTerm": "shiny",
+    "partOfSpeech": "adj."
+  },
+  "shoot": {
+    "term": "shoot",
+    "sourceTerm": "shoot",
+    "partOfSpeech": "v."
+  },
+  "shy": {
+    "term": "shy",
+    "sourceTerm": "shy",
+    "partOfSpeech": "adj."
+  },
+  "sight": {
+    "term": "sight",
+    "sourceTerm": "sight",
+    "partOfSpeech": "n."
+  },
+  "signal": {
+    "term": "signal",
+    "sourceTerm": "signal",
+    "partOfSpeech": "n., v."
+  },
+  "silent": {
+    "term": "silent",
+    "sourceTerm": "silent",
+    "partOfSpeech": "adj."
+  },
+  "silly": {
+    "term": "silly",
+    "sourceTerm": "silly",
+    "partOfSpeech": "adj."
+  },
+  "similarity": {
+    "term": "similarity",
+    "sourceTerm": "similarity",
+    "partOfSpeech": "n."
+  },
+  "similarly": {
+    "term": "similarly",
+    "sourceTerm": "similarly",
+    "partOfSpeech": "adv."
+  },
+  "simply": {
+    "term": "simply",
+    "sourceTerm": "simply",
+    "partOfSpeech": "adv."
+  },
+  "since": {
+    "term": "since",
+    "sourceTerm": "since",
+    "partOfSpeech": "adv."
+  },
+  "sink": {
+    "term": "sink",
+    "sourceTerm": "sink",
+    "partOfSpeech": "v."
+  },
+  "slave": {
+    "term": "slave",
+    "sourceTerm": "slave",
+    "partOfSpeech": "n."
+  },
+  "slice": {
+    "term": "slice",
+    "sourceTerm": "slice",
+    "partOfSpeech": "n., v."
+  },
+  "slightly": {
+    "term": "slightly",
+    "sourceTerm": "slightly",
+    "partOfSpeech": "adv."
+  },
+  "slow": {
+    "term": "slow",
+    "sourceTerm": "slow",
+    "partOfSpeech": "v."
+  },
+  "smooth": {
+    "term": "smooth",
+    "sourceTerm": "smooth",
+    "partOfSpeech": "adj."
+  },
+  "software": {
+    "term": "software",
+    "sourceTerm": "software",
+    "partOfSpeech": "n."
+  },
+  "soil": {
+    "term": "soil",
+    "sourceTerm": "soil",
+    "partOfSpeech": "n."
+  },
+  "solid": {
+    "term": "solid",
+    "sourceTerm": "solid",
+    "partOfSpeech": "adj., n."
+  },
+  "sort": {
+    "term": "sort",
+    "sourceTerm": "sort",
+    "partOfSpeech": "v."
+  },
+  "southern": {
+    "term": "southern",
+    "sourceTerm": "southern",
+    "partOfSpeech": "adj."
+  },
+  "specifically": {
+    "term": "specifically",
+    "sourceTerm": "specifically",
+    "partOfSpeech": "adv."
+  },
+  "spending": {
+    "term": "spending",
+    "sourceTerm": "spending",
+    "partOfSpeech": "n."
+  },
+  "spicy": {
+    "term": "spicy",
+    "sourceTerm": "spicy",
+    "partOfSpeech": "adj."
+  },
+  "spirit": {
+    "term": "spirit",
+    "sourceTerm": "spirit",
+    "partOfSpeech": "n."
+  },
+  "spoken": {
+    "term": "spoken",
+    "sourceTerm": "spoken",
+    "partOfSpeech": "adj."
+  },
+  "spot": {
+    "term": "spot",
+    "sourceTerm": "spot",
+    "partOfSpeech": "n."
+  },
+  "spread": {
+    "term": "spread",
+    "sourceTerm": "spread",
+    "partOfSpeech": "v."
+  },
+  "spring": {
+    "term": "spring",
+    "sourceTerm": "spring",
+    "partOfSpeech": "v."
+  },
+  "stadium": {
+    "term": "stadium",
+    "sourceTerm": "stadium",
+    "partOfSpeech": "n."
+  },
+  "staff": {
+    "term": "staff",
+    "sourceTerm": "staff",
+    "partOfSpeech": "n."
+  },
+  "standard": {
+    "term": "standard",
+    "sourceTerm": "standard",
+    "partOfSpeech": "n., adj."
+  },
+  "state": {
+    "term": "state",
+    "sourceTerm": "state",
+    "partOfSpeech": "adj., v."
+  },
+  "statistic": {
+    "term": "statistic",
+    "sourceTerm": "statistic",
+    "partOfSpeech": "n."
+  },
+  "statue": {
+    "term": "statue",
+    "sourceTerm": "statue",
+    "partOfSpeech": "n."
+  },
+  "stick (push into/attach)": {
+    "term": "stick",
+    "sourceTerm": "stick (push into/attach)",
+    "partOfSpeech": "v."
+  },
+  "stick (piece of wood)": {
+    "term": "stick",
+    "sourceTerm": "stick (piece of wood)",
+    "partOfSpeech": "n."
+  },
+  "still": {
+    "term": "still",
+    "sourceTerm": "still",
+    "partOfSpeech": "adj."
+  },
+  "store": {
+    "term": "store",
+    "sourceTerm": "store",
+    "partOfSpeech": "v."
+  },
+  "stranger": {
+    "term": "stranger",
+    "sourceTerm": "stranger",
+    "partOfSpeech": "n."
+  },
+  "strength": {
+    "term": "strength",
+    "sourceTerm": "strength",
+    "partOfSpeech": "n."
+  },
+  "string": {
+    "term": "string",
+    "sourceTerm": "string",
+    "partOfSpeech": "n."
+  },
+  "strongly": {
+    "term": "strongly",
+    "sourceTerm": "strongly",
+    "partOfSpeech": "adv."
+  },
+  "studio": {
+    "term": "studio",
+    "sourceTerm": "studio",
+    "partOfSpeech": "n."
+  },
+  "stuff": {
+    "term": "stuff",
+    "sourceTerm": "stuff",
+    "partOfSpeech": "n."
+  },
+  "substance": {
+    "term": "substance",
+    "sourceTerm": "substance",
+    "partOfSpeech": "n."
+  },
+  "successfully": {
+    "term": "successfully",
+    "sourceTerm": "successfully",
+    "partOfSpeech": "adv."
+  },
+  "sudden": {
+    "term": "sudden",
+    "sourceTerm": "sudden",
+    "partOfSpeech": "adj."
+  },
+  "suffer": {
+    "term": "suffer",
+    "sourceTerm": "suffer",
+    "partOfSpeech": "v."
+  },
+  "suit": {
+    "term": "suit",
+    "sourceTerm": "suit",
+    "partOfSpeech": "v."
+  },
+  "suitable": {
+    "term": "suitable",
+    "sourceTerm": "suitable",
+    "partOfSpeech": "adj."
+  },
+  "summarize": {
+    "term": "summarize",
+    "sourceTerm": "summarize",
+    "partOfSpeech": "v."
+  },
+  "summary": {
+    "term": "summary",
+    "sourceTerm": "summary",
+    "partOfSpeech": "n."
+  },
+  "supply": {
+    "term": "supply",
+    "sourceTerm": "supply",
+    "partOfSpeech": "n., v."
+  },
+  "supporter": {
+    "term": "supporter",
+    "sourceTerm": "supporter",
+    "partOfSpeech": "n."
+  },
+  "surely": {
+    "term": "surely",
+    "sourceTerm": "surely",
+    "partOfSpeech": "adv."
+  },
+  "surface": {
+    "term": "surface",
+    "sourceTerm": "surface",
+    "partOfSpeech": "n."
+  },
+  "survive": {
+    "term": "survive",
+    "sourceTerm": "survive",
+    "partOfSpeech": "v."
+  },
+  "swim": {
+    "term": "swim",
+    "sourceTerm": "swim",
+    "partOfSpeech": "n."
+  },
+  "switch": {
+    "term": "switch",
+    "sourceTerm": "switch",
+    "partOfSpeech": "v."
+  },
+  "symptom": {
+    "term": "symptom",
+    "sourceTerm": "symptom",
+    "partOfSpeech": "n."
+  },
+  "tail": {
+    "term": "tail",
+    "sourceTerm": "tail",
+    "partOfSpeech": "n."
+  },
+  "talent": {
+    "term": "talent",
+    "sourceTerm": "talent",
+    "partOfSpeech": "n."
+  },
+  "talented": {
+    "term": "talented",
+    "sourceTerm": "talented",
+    "partOfSpeech": "adj."
+  },
+  "tape": {
+    "term": "tape",
+    "sourceTerm": "tape",
+    "partOfSpeech": "n."
+  },
+  "tax": {
+    "term": "tax",
+    "sourceTerm": "tax",
+    "partOfSpeech": "n., v."
+  },
+  "technical": {
+    "term": "technical",
+    "sourceTerm": "technical",
+    "partOfSpeech": "adj."
+  },
+  "technique": {
+    "term": "technique",
+    "sourceTerm": "technique",
+    "partOfSpeech": "n."
+  },
+  "tend": {
+    "term": "tend",
+    "sourceTerm": "tend",
+    "partOfSpeech": "v."
+  },
+  "tent": {
+    "term": "tent",
+    "sourceTerm": "tent",
+    "partOfSpeech": "n."
+  },
+  "that": {
+    "term": "that",
+    "sourceTerm": "that",
+    "partOfSpeech": "adv."
+  },
+  "theirs": {
+    "term": "theirs",
+    "sourceTerm": "theirs",
+    "partOfSpeech": "pron."
+  },
+  "theme": {
+    "term": "theme",
+    "sourceTerm": "theme",
+    "partOfSpeech": "n."
+  },
+  "theory": {
+    "term": "theory",
+    "sourceTerm": "theory",
+    "partOfSpeech": "n."
+  },
+  "therefore": {
+    "term": "therefore",
+    "sourceTerm": "therefore",
+    "partOfSpeech": "adv."
+  },
+  "this": {
+    "term": "this",
+    "sourceTerm": "this",
+    "partOfSpeech": "adv."
+  },
+  "though": {
+    "term": "though",
+    "sourceTerm": "though",
+    "partOfSpeech": "conj., adv."
+  },
+  "throat": {
+    "term": "throat",
+    "sourceTerm": "throat",
+    "partOfSpeech": "n."
+  },
+  "throughout": {
+    "term": "throughout",
+    "sourceTerm": "throughout",
+    "partOfSpeech": "prep./adv."
+  },
+  "tight": {
+    "term": "tight",
+    "sourceTerm": "tight",
+    "partOfSpeech": "adj."
+  },
+  "till": {
+    "term": "till",
+    "sourceTerm": "till",
+    "partOfSpeech": "conj./prep."
+  },
+  "tiny": {
+    "term": "tiny",
+    "sourceTerm": "tiny",
+    "partOfSpeech": "adj."
+  },
+  "tip": {
+    "term": "tip",
+    "sourceTerm": "tip",
+    "partOfSpeech": "v."
+  },
+  "tire": {
+    "term": "tire",
+    "sourceTerm": "tire",
+    "partOfSpeech": "n."
+  },
+  "toe": {
+    "term": "toe",
+    "sourceTerm": "toe",
+    "partOfSpeech": "n."
+  },
+  "ton": {
+    "term": "ton",
+    "sourceTerm": "ton",
+    "partOfSpeech": "n."
+  },
+  "tongue": {
+    "term": "tongue",
+    "sourceTerm": "tongue",
+    "partOfSpeech": "n."
+  },
+  "total": {
+    "term": "total",
+    "sourceTerm": "total",
+    "partOfSpeech": "adj., n."
+  },
+  "totally": {
+    "term": "totally",
+    "sourceTerm": "totally",
+    "partOfSpeech": "adv."
+  },
+  "touch": {
+    "term": "touch",
+    "sourceTerm": "touch",
+    "partOfSpeech": "n."
+  },
+  "tour": {
+    "term": "tour",
+    "sourceTerm": "tour",
+    "partOfSpeech": "v."
+  },
+  "trade": {
+    "term": "trade",
+    "sourceTerm": "trade",
+    "partOfSpeech": "n., v."
+  },
+  "trainer": {
+    "term": "trainer",
+    "sourceTerm": "trainer",
+    "partOfSpeech": "n."
+  },
+  "translate": {
+    "term": "translate",
+    "sourceTerm": "translate",
+    "partOfSpeech": "v."
+  },
+  "translation": {
+    "term": "translation",
+    "sourceTerm": "translation",
+    "partOfSpeech": "n."
+  },
+  "transport": {
+    "term": "transport",
+    "sourceTerm": "transport",
+    "partOfSpeech": "v."
+  },
+  "treat": {
+    "term": "treat",
+    "sourceTerm": "treat",
+    "partOfSpeech": "v."
+  },
+  "treatment": {
+    "term": "treatment",
+    "sourceTerm": "treatment",
+    "partOfSpeech": "n."
+  },
+  "trend": {
+    "term": "trend",
+    "sourceTerm": "trend",
+    "partOfSpeech": "n."
+  },
+  "trick": {
+    "term": "trick",
+    "sourceTerm": "trick",
+    "partOfSpeech": "n., v."
+  },
+  "truth": {
+    "term": "truth",
+    "sourceTerm": "truth",
+    "partOfSpeech": "n."
+  },
+  "tube": {
+    "term": "tube",
+    "sourceTerm": "tube",
+    "partOfSpeech": "n."
+  },
+  "type": {
+    "term": "type",
+    "sourceTerm": "type",
+    "partOfSpeech": "v."
+  },
+  "typically": {
+    "term": "typically",
+    "sourceTerm": "typically",
+    "partOfSpeech": "adv."
+  },
+  "ugly": {
+    "term": "ugly",
+    "sourceTerm": "ugly",
+    "partOfSpeech": "adj."
+  },
+  "unable": {
+    "term": "unable",
+    "sourceTerm": "unable",
+    "partOfSpeech": "adj."
+  },
+  "uncomfortable": {
+    "term": "uncomfortable",
+    "sourceTerm": "uncomfortable",
+    "partOfSpeech": "adj."
+  },
+  "underwear": {
+    "term": "underwear",
+    "sourceTerm": "underwear",
+    "partOfSpeech": "n."
+  },
+  "unemployed": {
+    "term": "unemployed",
+    "sourceTerm": "unemployed",
+    "partOfSpeech": "adj."
+  },
+  "unemployment": {
+    "term": "unemployment",
+    "sourceTerm": "unemployment",
+    "partOfSpeech": "n."
+  },
+  "unfair": {
+    "term": "unfair",
+    "sourceTerm": "unfair",
+    "partOfSpeech": "adj."
+  },
+  "union": {
+    "term": "union",
+    "sourceTerm": "union",
+    "partOfSpeech": "n."
+  },
+  "unless": {
+    "term": "unless",
+    "sourceTerm": "unless",
+    "partOfSpeech": "conj."
+  },
+  "unlike": {
+    "term": "unlike",
+    "sourceTerm": "unlike",
+    "partOfSpeech": "prep."
+  },
+  "unlikely": {
+    "term": "unlikely",
+    "sourceTerm": "unlikely",
+    "partOfSpeech": "adj."
+  },
+  "unnecessary": {
+    "term": "unnecessary",
+    "sourceTerm": "unnecessary",
+    "partOfSpeech": "adj."
+  },
+  "unpleasant": {
+    "term": "unpleasant",
+    "sourceTerm": "unpleasant",
+    "partOfSpeech": "adj."
+  },
+  "update": {
+    "term": "update",
+    "sourceTerm": "update",
+    "partOfSpeech": "v., n."
+  },
+  "upon": {
+    "term": "upon",
+    "sourceTerm": "upon",
+    "partOfSpeech": "prep."
+  },
+  "upset": {
+    "term": "upset",
+    "sourceTerm": "upset",
+    "partOfSpeech": "adj., v."
+  },
+  "used1": {
+    "term": "used",
+    "sourceTerm": "used1",
+    "partOfSpeech": "adj."
+  },
+  "used2": {
+    "term": "used",
+    "sourceTerm": "used2",
+    "partOfSpeech": "adj."
+  },
+  "valuable": {
+    "term": "valuable",
+    "sourceTerm": "valuable",
+    "partOfSpeech": "adj."
+  },
+  "value": {
+    "term": "value",
+    "sourceTerm": "value",
+    "partOfSpeech": "n."
+  },
+  "various": {
+    "term": "various",
+    "sourceTerm": "various",
+    "partOfSpeech": "adj."
+  },
+  "version": {
+    "term": "version",
+    "sourceTerm": "version",
+    "partOfSpeech": "n."
+  },
+  "victim": {
+    "term": "victim",
+    "sourceTerm": "victim",
+    "partOfSpeech": "n."
+  },
+  "view": {
+    "term": "view",
+    "sourceTerm": "view",
+    "partOfSpeech": "v."
+  },
+  "viewer": {
+    "term": "viewer",
+    "sourceTerm": "viewer",
+    "partOfSpeech": "n."
+  },
+  "violent": {
+    "term": "violent",
+    "sourceTerm": "violent",
+    "partOfSpeech": "adj."
+  },
+  "volunteer": {
+    "term": "volunteer",
+    "sourceTerm": "volunteer",
+    "partOfSpeech": "n., v."
+  },
+  "vote": {
+    "term": "vote",
+    "sourceTerm": "vote",
+    "partOfSpeech": "n., v."
+  },
+  "warm": {
+    "term": "warm",
+    "sourceTerm": "warm",
+    "partOfSpeech": "v."
+  },
+  "warn": {
+    "term": "warn",
+    "sourceTerm": "warn",
+    "partOfSpeech": "v."
+  },
+  "warning": {
+    "term": "warning",
+    "sourceTerm": "warning",
+    "partOfSpeech": "n."
+  },
+  "waste": {
+    "term": "waste",
+    "sourceTerm": "waste",
+    "partOfSpeech": "n., v., adj."
+  },
+  "water": {
+    "term": "water",
+    "sourceTerm": "water",
+    "partOfSpeech": "v."
+  },
+  "wave": {
+    "term": "wave",
+    "sourceTerm": "wave",
+    "partOfSpeech": "v."
+  },
+  "weapon": {
+    "term": "weapon",
+    "sourceTerm": "weapon",
+    "partOfSpeech": "n."
+  },
+  "weigh": {
+    "term": "weigh",
+    "sourceTerm": "weigh",
+    "partOfSpeech": "v."
+  },
+  "western": {
+    "term": "western",
+    "sourceTerm": "western",
+    "partOfSpeech": "adj."
+  },
+  "whatever": {
+    "term": "whatever",
+    "sourceTerm": "whatever",
+    "partOfSpeech": "det./pron."
+  },
+  "whenever": {
+    "term": "whenever",
+    "sourceTerm": "whenever",
+    "partOfSpeech": "conj."
+  },
+  "whether": {
+    "term": "whether",
+    "sourceTerm": "whether",
+    "partOfSpeech": "conj."
+  },
+  "while": {
+    "term": "while",
+    "sourceTerm": "while",
+    "partOfSpeech": "n."
+  },
+  "whole": {
+    "term": "whole",
+    "sourceTerm": "whole",
+    "partOfSpeech": "n."
+  },
+  "will": {
+    "term": "will",
+    "sourceTerm": "will",
+    "partOfSpeech": "n."
+  },
+  "win": {
+    "term": "win",
+    "sourceTerm": "win",
+    "partOfSpeech": "n."
+  },
+  "wing": {
+    "term": "wing",
+    "sourceTerm": "wing",
+    "partOfSpeech": "n."
+  },
+  "within": {
+    "term": "within",
+    "sourceTerm": "within",
+    "partOfSpeech": "prep."
+  },
+  "wonder": {
+    "term": "wonder",
+    "sourceTerm": "wonder",
+    "partOfSpeech": "v., n."
+  },
+  "wool": {
+    "term": "wool",
+    "sourceTerm": "wool",
+    "partOfSpeech": "n."
+  },
+  "worldwide": {
+    "term": "worldwide",
+    "sourceTerm": "worldwide",
+    "partOfSpeech": "adj., adv."
+  },
+  "worry": {
+    "term": "worry",
+    "sourceTerm": "worry",
+    "partOfSpeech": "n."
+  },
+  "worse": {
+    "term": "worse",
+    "sourceTerm": "worse",
+    "partOfSpeech": "adv."
+  },
+  "worst": {
+    "term": "worst",
+    "sourceTerm": "worst",
+    "partOfSpeech": "adv."
+  },
+  "worth": {
+    "term": "worth",
+    "sourceTerm": "worth",
+    "partOfSpeech": "adj."
+  },
+  "written": {
+    "term": "written",
+    "sourceTerm": "written",
+    "partOfSpeech": "adj."
+  },
+  "wrong": {
+    "term": "wrong",
+    "sourceTerm": "wrong",
+    "partOfSpeech": "adv."
+  },
+  "young": {
+    "term": "young",
+    "sourceTerm": "young",
+    "partOfSpeech": "n."
+  },
+  "youth": {
+    "term": "youth",
+    "sourceTerm": "youth",
+    "partOfSpeech": "n."
+  },
+  "specialize": {
+    "term": "specialize",
+    "sourceTerm": "specialize",
+    "partOfSpeech": "v."
+  }
+}

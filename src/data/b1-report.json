@@ -1,0 +1,20 @@
+{
+  "level": "B1",
+  "expected": 810,
+  "completed": 810,
+  "withPronunciation": 810,
+  "withExamples": 810,
+  "withRelatedFamilyForms": 454,
+  "withGrammarForms": 37,
+  "withUsageNotes": 172,
+  "withComparisons": 90,
+  "sources": [
+    "American_Oxford_3000.pdf",
+    "American_Oxford_5000.pdf"
+  ],
+  "sourceCounts": {
+    "American_Oxford_3000.pdf": 809,
+    "American_Oxford_5000.pdf": 1
+  },
+  "missing": []
+}

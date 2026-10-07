@@ -1,0 +1,811 @@
+# Original Vietnamese glosses for the B1 senses and parts of speech in the supplied PDFs.
+absolutely|hoàn toàn; tuyệt đối
+academic|thuộc học thuật, học tập hoặc đại học
+access|quyền hoặc khả năng tiếp cận; truy cập, tiếp cận
+account|tài khoản; bản tường thuật
+achievement|thành tựu, điều đạt được
+act|hành động; một màn trong vở kịch
+ad|quảng cáo (dạng ngắn của advertisement)
+addition|sự thêm vào; phép cộng
+administration|sự quản lý, điều hành; bộ phận hành chính
+admire|ngưỡng mộ, khâm phục
+admit|thừa nhận; cho phép vào
+advanced|nâng cao; tiên tiến
+advise|khuyên, đưa ra lời khuyên
+afford|có đủ tiền hoặc điều kiện để làm gì
+age|già đi; lâu năm, trưởng thành theo thời gian; làm cho già đi
+agent|người đại diện; đại lý
+agreement|sự đồng ý; thỏa thuận
+ahead|ở phía trước; trước về thời gian
+aim|mục tiêu; nhắm, hướng tới
+alarm|chuông báo động; sự lo sợ
+album|album nhạc; tập ảnh
+alcohol|rượu, đồ uống có cồn; cồn
+alcoholic|có chứa cồn
+alternative|thay thế; khác để lựa chọn
+amazed|rất ngạc nhiên, kinh ngạc
+ambition|hoài bão, tham vọng
+analysis|sự phân tích
+announce|thông báo, công bố
+announcement|thông báo, lời công bố
+annoy|làm phiền; khiến bực mình
+annoyed|bực mình, khó chịu
+annoying|gây bực mình, gây khó chịu
+apart|cách nhau; riêng ra
+apologize|xin lỗi
+application|đơn xin; ứng dụng; sự áp dụng
+appointment|cuộc hẹn; sự bổ nhiệm
+appreciate|trân trọng, biết ơn; hiểu rõ giá trị
+approximately|khoảng, xấp xỉ
+arrest|bắt giữ; sự bắt giữ
+arrival|sự đến nơi; người hoặc vật mới đến
+assignment|bài tập được giao; nhiệm vụ
+assist|giúp đỡ, hỗ trợ
+atmosphere|bầu khí quyển; bầu không khí, cảm giác tại một nơi
+attach|gắn, đính kèm
+attitude|thái độ, cách nhìn nhận
+attract|thu hút
+attraction|sự hấp dẫn; điểm tham quan
+authority|quyền hạn, thẩm quyền; cơ quan có thẩm quyền
+automatic|tự động
+automatically|một cách tự động
+average|đạt trung bình; tính trung bình
+award|trao giải; cấp, trao cho
+aware|biết, nhận thức được
+backward|về phía sau; ngược lại
+bake|nướng bằng lò
+balance|sự cân bằng; số dư; giữ cân bằng
+ban|cấm; lệnh cấm
+bank (river)|bờ sông
+base|nền, cơ sở; đặt cơ sở, dựa trên
+basic|cơ bản, nền tảng
+basis|cơ sở, căn cứ
+battery|pin, ắc quy
+battle|trận chiến; cuộc đấu tranh
+beauty|vẻ đẹp; điều hoặc người đẹp
+bee|con ong
+belief|niềm tin, điều tin tưởng
+bell|chuông
+bend|uốn, cúi, cong; chỗ uốn, khúc cua
+benefit|được lợi; đem lại lợi ích
+better|điều tốt hơn; người giỏi hơn (thường trong cụm cố định)
+bite|cắn; vết cắn, miếng ăn
+block|chặn, ngăn cản
+board|lên tàu, xe hoặc máy bay
+bomb|bom; đánh bom
+border|biên giới; đường viền
+bother|làm phiền; bận tâm, bỏ công
+branch|cành cây; chi nhánh
+brand|thương hiệu; gắn nhãn, đóng dấu
+brave|dũng cảm
+breath|hơi thở; một lần hít thở
+breathe|thở, hít thở
+breathing|sự hít thở
+bride|cô dâu
+bubble|bong bóng, bọt khí
+bury|chôn; vùi, che lấp
+by|đi qua, ngang qua (trạng từ)
+cable|dây cáp
+calm|bình tĩnh, yên ả; làm dịu; sự bình lặng
+campaign|chiến dịch; vận động theo một chiến dịch
+candidate|ứng viên, thí sinh
+cap|mũ lưỡi trai; nắp
+captain|đội trưởng; thuyền trưởng
+careless|bất cẩn, cẩu thả
+category|loại, nhóm phân loại
+ceiling|trần nhà
+celebration|sự ăn mừng; lễ kỷ niệm
+center|tập trung, đặt trọng tâm vào
+central|ở trung tâm; quan trọng nhất
+ceremony|buổi lễ, nghi lễ
+chain|dây xích; chuỗi, hệ thống cùng loại
+challenge|thử thách; lời thách thức
+champion|nhà vô địch
+channel|kênh truyền hình; kênh giao tiếp; luồng nước
+chapter|chương sách
+charge|phí; lời buộc tội; tính phí, sạc điện, buộc tội
+cheap|với giá rẻ (trạng từ)
+cheat|gian lận, lừa; người gian lận
+cheerful|vui vẻ, tươi tỉnh
+chemical|thuộc hóa học; hóa chất
+chest|ngực; rương, hòm
+childhood|thời thơ ấu
+claim|khẳng định; đòi quyền lợi; lời khẳng định, yêu cầu đòi
+clause|mệnh đề; điều khoản
+clear|dọn sạch; làm thông, làm rõ
+clever|thông minh, khéo léo
+click|nhấp chuột; tiếng tách, cú nhấp
+client|khách hàng sử dụng dịch vụ
+climb|sự leo trèo; đoạn đường leo
+close2|ở gần, sát (trạng từ)
+cloth|vải; miếng vải
+clue|manh mối; gợi ý
+coach|huấn luyện, hướng dẫn
+coal|than đá
+coin|đồng xu
+collection|bộ sưu tập; sự thu gom
+colored|có màu, được tô màu
+combine|kết hợp
+comment|bình luận, nhận xét
+commercial|thuộc thương mại; quảng cáo trên truyền hình hoặc radio
+commit|phạm (tội, lỗi); cam kết
+communication|sự giao tiếp, trao đổi thông tin
+comparison|sự so sánh
+competitive|có tính cạnh tranh; ham cạnh tranh
+competitor|đối thủ cạnh tranh; người thi đấu
+complaint|lời phàn nàn, khiếu nại
+complex|phức tạp
+concentrate|tập trung
+conclude|kết luận; kết thúc
+conclusion|kết luận; phần kết
+confident|tự tin; tin chắc
+confirm|xác nhận
+confuse|làm bối rối; nhầm lẫn giữa các thứ
+confused|bối rối, không hiểu rõ
+connection|sự kết nối; mối liên hệ
+consequence|hậu quả, kết quả kéo theo
+consist|gồm, bao gồm (trong consist of)
+consume|tiêu thụ; ăn, uống, sử dụng
+consumer|người tiêu dùng
+contact|sự liên lạc, tiếp xúc; liên hệ
+container|vật chứa; thùng chứa
+content1|nội dung; những thứ chứa bên trong
+continuous|liên tục, không gián đoạn
+contrast|sự tương phản; đối chiếu để thấy khác biệt
+convenient|thuận tiện
+convince|thuyết phục ai tin hoặc đồng ý
+cool|làm mát, nguội đi
+corn|ngô, bắp
+costume|trang phục biểu diễn hoặc hóa trang
+cotton|bông; vải bông
+count|sự đếm; tổng số được đếm
+countryside|vùng nông thôn
+court|tòa án; sân thể thao
+cover|bìa; nắp; vật phủ
+covered|được che, phủ hoặc bao phủ
+cream|màu kem
+criminal|thuộc tội phạm; phạm pháp
+cruel|tàn nhẫn
+cultural|thuộc văn hóa
+cupboard|tủ đựng đồ có cửa
+currency|tiền tệ, đồng tiền đang dùng
+current|hiện tại; đang có hoặc đang diễn ra
+currently|hiện nay, lúc này
+curtain|rèm cửa
+custom|phong tục, tập quán
+cut|vết cắt; sự cắt giảm
+daily|hằng ngày (trạng từ)
+damage|thiệt hại, hư hỏng; gây hư hại
+deal|thỏa thuận; lượng (trong a great deal)
+decade|thập kỷ, mười năm
+deep|sâu, vào sâu (trạng từ)
+define|định nghĩa; xác định rõ
+definite|chắc chắn, rõ ràng
+definition|định nghĩa
+deliver|giao hàng; chuyển đến; trình bày bài nói
+departure|sự khởi hành; sự rời đi
+despite|mặc dù, bất chấp (trước danh từ hoặc dạng -ing)
+destination|điểm đến
+determine|xác định; quyết định
+determined|quyết tâm
+development|sự phát triển; diễn biến mới
+diagram|sơ đồ, hình minh họa
+diamond|kim cương; hình thoi
+difficulty|sự khó khăn; điều khó
+direct|chỉ dẫn; đạo diễn; trực tiếp, không vòng qua (trạng từ)
+directly|trực tiếp; ngay lập tức
+dirt|bụi bẩn, chất bẩn
+disadvantage|bất lợi, nhược điểm
+disappointed|thất vọng
+disappointing|gây thất vọng
+discount|khoản giảm giá
+dislike|không thích; sự không thích
+district|quận, huyện; khu vực
+divide|chia, phân chia
+documentary|phim tài liệu
+donate|quyên góp; hiến tặng
+double|gấp đôi (trạng từ)
+doubt|sự nghi ngờ; nghi ngờ
+dressed|đã mặc quần áo; ăn mặc theo một cách
+drop|giọt; sự giảm xuống
+drum|trống (nhạc cụ)
+drunk|say rượu
+due|đến hạn; dự kiến; do, vì (trong due to)
+dust|bụi
+duty|bổn phận, nhiệm vụ; thuế nhập khẩu
+earthquake|động đất
+eastern|thuộc hoặc ở phía đông
+economic|thuộc kinh tế
+economy|nền kinh tế; sự tiết kiệm
+edge|mép, cạnh; rìa
+editor|biên tập viên
+educate|giáo dục, dạy dỗ
+educated|có học, được giáo dục
+educational|thuộc giáo dục; có tính giáo dục
+effective|hiệu quả, có tác dụng
+effectively|một cách hiệu quả; trên thực tế
+effort|nỗ lực, công sức
+election|cuộc bầu cử
+element|thành phần, yếu tố
+embarrassed|ngượng ngùng, xấu hổ
+embarrassing|gây ngượng, gây xấu hổ
+emergency|tình huống khẩn cấp
+emotion|cảm xúc
+employment|việc làm; sự thuê lao động
+empty|làm rỗng, đổ hết ra
+encourage|khuyến khích, động viên
+enemy|kẻ thù, đối thủ thù địch
+engaged|đã đính hôn; đang bận
+engineering|ngành kỹ thuật, công việc kỹ sư
+entertain|giải trí cho; tiếp đãi
+entertainment|sự giải trí; chương trình giải trí
+entrance|lối vào; sự đi vào
+entry|sự đi vào; mục ghi; bài dự thi
+environmental|thuộc môi trường
+episode|tập phim hoặc chương trình; một sự việc
+equal|bằng nhau, ngang nhau; bằng, ngang với
+equally|một cách ngang nhau; cũng tương tự
+escape|thoát khỏi; sự trốn thoát
+essential|thiết yếu, rất cần thiết
+eventually|cuối cùng, sau một thời gian
+examine|kiểm tra, xem xét kỹ; khám
+except|trừ việc; ngoại trừ khi (liên từ)
+exchange|trao đổi; sự trao đổi; đổi tiền
+excitement|sự hào hứng, phấn khích
+exhibition|cuộc triển lãm
+exit|lối ra
+expand|mở rộng, nở ra
+expected|được dự kiến; được mong đợi
+experience|trải nghiệm, trải qua
+experienced|có kinh nghiệm
+experiment|thử nghiệm
+explode|nổ, phát nổ
+explore|khám phá; tìm hiểu kỹ
+explosion|vụ nổ; sự bùng nổ
+export|hàng xuất khẩu; xuất khẩu
+extra|phần thêm, thứ thêm; thêm (trạng từ)
+face|đối mặt với; hướng về
+fairly|khá, tương đối; một cách công bằng
+familiar|quen thuộc
+fancy|cầu kỳ, sang trọng
+far|xa (tính từ, thường trước danh từ)
+fascinating|rất hấp dẫn, lôi cuốn
+fashionable|hợp thời trang
+fasten|cài, buộc, gắn chặt
+favor|sự giúp đỡ; sự ủng hộ, ưu ái
+fear|sợ, lo ngại
+feature|có, giới thiệu như một đặc điểm nổi bật
+federal|thuộc liên bang
+fence|hàng rào
+fighting|sự chiến đấu, giao tranh
+file|tệp, tập tin; hồ sơ
+financial|thuộc tài chính
+fitness|thể lực; tình trạng khỏe mạnh
+fixed|cố định, không thay đổi
+flag|lá cờ
+flood|lũ lụt; làm ngập, ngập
+flour|bột mì; bột ngũ cốc
+flow|chảy; dòng chảy
+fold|gấp, gập
+folk|người, mọi người; thuộc dân gian
+following|nhóm người hâm mộ hoặc ủng hộ
+force|sức mạnh, lực; ép buộc
+forever|mãi mãi
+frame|khung; đóng khung
+freeze|đóng băng; đông lạnh
+frequently|thường xuyên
+friendship|tình bạn
+frighten|làm sợ, khiến hoảng
+frightened|sợ hãi
+frightening|đáng sợ, gây sợ hãi
+frozen|đông lạnh; bị đóng băng
+fry|chiên, rán
+fuel|nhiên liệu
+function|chức năng; nhiệm vụ
+fur|lông thú; bộ lông
+further|xa hơn; thêm nữa (trạng từ)
+garage|nhà để xe; nơi sửa xe
+gather|tụ họp; thu thập
+generally|nói chung; thường
+generation|thế hệ
+generous|hào phóng, rộng lượng
+gentle|nhẹ nhàng, dịu dàng
+gentleman|quý ông; người đàn ông lịch thiệp
+ghost|ma, hồn ma
+giant|khổng lồ; người khổng lồ
+glad|vui, mừng
+global|toàn cầu
+glove|găng tay
+go|lượt thử; lần thử (danh từ)
+grade|điểm, mức xếp loại; lớp học ở Mỹ
+graduate|người tốt nghiệp; tốt nghiệp
+grain|hạt ngũ cốc; hạt nhỏ
+grateful|biết ơn
+growth|sự phát triển; sự tăng trưởng
+guard|người bảo vệ; canh gác, bảo vệ
+guilty|có tội; cảm thấy có lỗi
+hand|đưa, trao bằng tay
+hang|treo; lơ lửng
+happiness|hạnh phúc, sự vui sướng
+hardly|hầu như không; vừa mới (trong hardly ... when)
+hate|sự căm ghét, lòng thù ghét
+head|đi về phía; dẫn đầu
+headline|tiêu đề tin tức
+heating|hệ thống hoặc sự sưởi ấm
+heavily|nhiều, mạnh; nặng nề
+helicopter|máy bay trực thăng
+highlight|làm nổi bật, tô sáng; điểm nổi bật
+highly|rất, ở mức độ cao
+highway|đường lớn; đường cao tốc
+hire|thuê người làm việc; thuê đồ để dùng
+historic|có ý nghĩa quan trọng trong lịch sử
+historical|liên quan đến lịch sử
+honest|trung thực, thật thà
+horrible|kinh khủng, rất khó chịu
+horror|sự kinh hoàng; thể loại kinh dị
+host|chủ nhà, người tiếp đón; người dẫn chương trình
+hunt|săn; tìm kiếm
+hurricane|bão lớn, bão nhiệt đới
+hurry|sự vội vàng; vội, thúc giục
+identity|danh tính; bản sắc
+ignore|phớt lờ, bỏ qua
+illegal|trái pháp luật, bất hợp pháp
+imaginary|tưởng tượng, không có thật
+immediate|ngay lập tức; sát, gần nhất
+immigrant|người nhập cư
+impact|tác động; va chạm; tác động đến
+import|hàng nhập khẩu; nhập khẩu
+importance|tầm quan trọng
+impression|ấn tượng
+impressive|gây ấn tượng, đáng khâm phục
+improvement|sự cải thiện; điều cải tiến
+incredibly|cực kỳ; đến mức khó tin
+indeed|thật vậy, quả thực
+indicate|chỉ ra, cho thấy
+indirect|gián tiếp, không thẳng
+indoor|trong nhà (tính từ)
+indoors|ở trong nhà (trạng từ)
+influence|ảnh hưởng; gây ảnh hưởng
+ingredient|nguyên liệu; thành phần
+injure|làm bị thương
+injured|bị thương
+innocent|vô tội; ngây thơ
+intelligence|trí thông minh
+intend|dự định
+intention|ý định
+invest|đầu tư
+investigate|điều tra, tìm hiểu kỹ
+involved|có liên quan; tham gia
+iron|sắt; bàn là; là, ủi quần áo
+issue|vấn đề; số báo hoặc tạp chí
+it|công nghệ thông tin (IT)
+journal|tạp chí chuyên ngành; nhật ký
+journey|chuyến đi, hành trình
+judge|thẩm phán; giám khảo; đánh giá, xét xử
+key|nhập dữ liệu bằng bàn phím (thường key in)
+keyboard|bàn phím
+kick|đá bằng chân; cú đá
+killing|sự giết, vụ giết
+kind (caring)|tốt bụng, tử tế
+kiss|hôn; nụ hôn
+knock|tiếng gõ; cú va đập
+label|nhãn; dán nhãn, gọi bằng một tên
+laboratory|phòng thí nghiệm
+lack|sự thiếu; thiếu
+latest|mới nhất, gần đây nhất
+lay|đặt, để xuống; đẻ trứng
+layer|lớp, tầng
+lead1|vị trí dẫn đầu; khoảng dẫn trước
+leading|hàng đầu, dẫn đầu
+leaf|lá cây
+leather|da thuộc
+legal|hợp pháp; thuộc pháp luật
+leisure|thời gian rảnh; hoạt động lúc rảnh
+length|chiều dài; khoảng thời gian
+level|bằng phẳng; ngang bằng
+lie2 (tell a lie)|nói dối; lời nói dối
+like (find sb/sth pleasant)|điều thích, sở thích (thường likes and dislikes)
+limit|giới hạn; hạn chế
+lip|môi
+liquid|chất lỏng; ở dạng lỏng
+literature|văn học; tài liệu viết về một chủ đề
+live2|trực tiếp; đang diễn ra trực tiếp; còn sống
+living|đang sống; việc kiếm sống
+local|người dân địa phương
+locate|xác định vị trí; đặt ở một vị trí
+located|nằm, tọa lạc ở
+location|vị trí, địa điểm
+lonely|cô đơn; vắng vẻ
+loss|sự mất mát; thua lỗ
+luxury|sự xa xỉ; điều sang trọng
+mad|tức giận; điên, thiếu lý trí
+magic|phép thuật; có tính kỳ diệu
+mainly|chủ yếu
+management|sự quản lý; ban quản lý
+market|tiếp thị, quảng bá để bán
+marketing|hoạt động tiếp thị
+marriage|hôn nhân; việc kết hôn
+meanwhile|trong lúc đó
+measure|đo; biện pháp; đơn vị hoặc lượng đo
+medium|vừa, trung bình (kích cỡ, mức độ)
+mental|thuộc tâm trí, tinh thần
+mention|sự đề cập, lời nhắc đến
+mess|sự bừa bộn, rắc rối; làm bừa bộn
+mild|nhẹ, không gay gắt; ôn hòa
+mine (hole in the ground)|mỏ (nơi khai thác khoáng sản)
+mix|trộn, pha; hỗn hợp
+mixture|hỗn hợp
+mood|tâm trạng; không khí của một nơi
+move|sự di chuyển; bước đi, hành động
+mud|bùn
+murder|tội hoặc vụ giết người; sát hại
+muscle|cơ, cơ bắp
+musical|vở nhạc kịch
+mystery|điều bí ẩn; truyện hoặc phim bí ẩn
+nail|móng tay hoặc chân; đinh
+narrative|câu chuyện, lời kể; thuộc việc kể chuyện
+nation|quốc gia; dân tộc
+native|bản địa; thuộc nơi sinh; người bản địa
+naturally|một cách tự nhiên; dĩ nhiên
+neat|gọn gàng, ngăn nắp
+necessarily|nhất thiết, tất yếu
+need|cần (động từ khuyết thiếu, thường trong needn't)
+needle|kim
+neither|cũng không (trạng từ)
+net|lưới
+next|người hoặc thứ tiếp theo (danh từ)
+nor|cũng không; và không
+normal|trạng thái bình thường
+northern|thuộc hoặc ở phía bắc
+note|ghi lại; lưu ý, nhận thấy
+now|vì giờ đây, nay đã (liên từ, thường now that)
+nuclear|thuộc hạt nhân
+obvious|rõ ràng, dễ thấy
+obviously|rõ ràng là, hiển nhiên
+occasion|dịp, lần; sự kiện đặc biệt
+occur|xảy ra; nảy ra trong đầu
+odd|lạ, khác thường; lẻ (số)
+official|chính thức; thuộc chức vụ
+old-fashioned|lỗi thời; theo kiểu xưa
+once|một khi, ngay khi (liên từ)
+operation|hoạt động, sự vận hành; ca phẫu thuật
+organized|có tổ chức, ngăn nắp
+organizer|người hoặc đơn vị tổ chức
+original|bản gốc
+originally|ban đầu, lúc đầu
+ought|nên (động từ khuyết thiếu, đi với to)
+ours|của chúng tôi, của chúng ta (đại từ sở hữu)
+outdoor|ngoài trời (tính từ)
+outdoors|ở ngoài trời (trạng từ)
+overseas|ở hoặc thuộc nước ngoài (tính từ)
+pack|gói; bộ, nhóm
+package|gói hàng; gói dịch vụ
+painful|đau, gây đau; gây buồn khổ
+pale|nhợt nhạt; màu nhạt
+pan|chảo; xoong nông
+participate|tham gia
+particularly|đặc biệt là; một cách đặc biệt
+pass|vé hoặc giấy phép vào; sự đỗ; đường chuyền
+passion|niềm đam mê; cảm xúc mãnh liệt
+path|đường mòn, lối đi; hướng đi
+payment|sự thanh toán; khoản tiền trả
+peaceful|yên bình; ôn hòa
+percentage|tỷ lệ phần trăm
+perfectly|hoàn toàn; một cách hoàn hảo
+performance|buổi biểu diễn; kết quả, mức độ thực hiện
+personally|theo ý cá nhân; đích thân
+persuade|thuyết phục ai làm hoặc tin điều gì
+photographer|nhiếp ảnh gia, người chụp ảnh
+photography|nhiếp ảnh, việc chụp ảnh
+pin|ghim; ghim, gắn bằng ghim
+pipe|ống dẫn; tẩu thuốc
+place|đặt, để ở một vị trí
+planning|sự lập kế hoạch
+pleasant|dễ chịu, thú vị
+pleasure|niềm vui, sự hài lòng
+plenty|nhiều, đủ và dư (thường plenty of)
+plot|cốt truyện; âm mưu; mảnh đất
+plus1|cộng, thêm (giới từ)
+poem|bài thơ
+poet|nhà thơ
+poetry|thơ ca
+point|chỉ, trỏ; hướng về
+poison|chất độc; đầu độc
+poisonous|có độc, gây độc
+policy|chính sách; hợp đồng bảo hiểm
+political|thuộc chính trị
+politician|chính trị gia
+politics|chính trị, hoạt động chính trị
+port|cảng
+portrait|chân dung
+possibly|có thể, có khả năng
+pot|nồi; chậu; bình
+pour|rót, đổ; chảy ào
+poverty|sự nghèo đói
+powder|bột, chất ở dạng bột
+powerful|mạnh mẽ; có quyền lực
+practical|thực tế, hữu dụng; thuộc thực hành
+pray|cầu nguyện
+prayer|lời hoặc sự cầu nguyện
+prediction|sự dự đoán; điều dự đoán
+prepared|đã chuẩn bị; sẵn sàng
+presentation|bài thuyết trình; cách trình bày
+press|ấn, ép; báo chí; sự ấn
+pressure|áp suất; áp lực
+pretend|giả vờ
+previous|trước đó, có trước
+previously|trước đây, trước đó
+priest|linh mục; tu sĩ làm lễ
+primary|chính, quan trọng nhất; thuộc bậc tiểu học
+prince|hoàng tử
+princess|công chúa
+principal|hiệu trưởng
+printing|việc in ấn
+prisoner|tù nhân; người bị giam giữ
+private|riêng tư; tư nhân
+producer|nhà sản xuất; người làm ra sản phẩm
+production|sự sản xuất; sản lượng; tác phẩm được dàn dựng
+profession|nghề nghiệp cần đào tạo chuyên môn
+profit|lợi nhuận
+program|lập trình
+promote|quảng bá, thúc đẩy; thăng chức
+proper|đúng, phù hợp; thực sự
+properly|đúng cách; một cách phù hợp
+property|tài sản; bất động sản
+protest|sự phản đối, cuộc biểu tình; phản đối
+proud|tự hào
+prove|chứng minh; cho thấy là đúng
+pull|sự kéo; lực kéo
+punish|trừng phạt
+punishment|hình phạt; sự trừng phạt
+push|sự đẩy; nỗ lực thúc đẩy
+qualification|bằng cấp; điều kiện hoặc năng lực cần thiết
+qualified|có đủ trình độ, có bằng cấp phù hợp
+qualify|đủ điều kiện; giành quyền vào vòng sau
+quit|bỏ, ngừng; nghỉ việc
+quotation|câu trích dẫn; bản báo giá
+quote|trích dẫn; báo giá; câu trích dẫn
+race (of people)|chủng tộc
+racing|hoạt động hoặc môn đua
+raise|khoản tăng lương (tiếng Anh Mỹ)
+range|phạm vi; loạt, nhiều loại
+rare|hiếm; tái (thịt)
+rarely|hiếm khi
+reaction|phản ứng
+reality|thực tế, thực tại
+receipt|biên lai, hóa đơn xác nhận đã trả tiền
+recommendation|lời khuyên, đề xuất; sự giới thiệu
+reference|sự nhắc đến; tài liệu tham khảo; thư giới thiệu
+reflect|phản chiếu; phản ánh; suy ngẫm
+regularly|thường xuyên; đều đặn
+reject|từ chối, bác bỏ
+relate|liên hệ; kể lại
+related|có liên quan; có họ hàng
+relation|mối quan hệ; người họ hàng
+relative|tương đối; người họ hàng
+relaxed|thư giãn, thoải mái
+relaxing|giúp thư giãn
+release|thả, giải phóng; phát hành; sự phát hành
+reliable|đáng tin cậy
+religion|tôn giáo
+religious|thuộc tôn giáo; có tín ngưỡng
+remain|vẫn còn, tiếp tục ở trạng thái; ở lại
+remind|nhắc, làm nhớ lại
+remote|xa xôi; điều khiển từ xa
+rent|tiền thuê; thuê, cho thuê
+repair|sự sửa chữa
+repeat|sự lặp lại; chương trình phát lại
+repeated|được lặp lại, nhiều lần
+represent|đại diện; thể hiện
+request|yêu cầu, đề nghị
+require|yêu cầu; cần
+reservation|sự đặt chỗ; điều còn băn khoăn
+resource|nguồn lực; tài nguyên
+respect|sự tôn trọng; tôn trọng
+responsibility|trách nhiệm
+responsible|có trách nhiệm; chịu trách nhiệm
+result|dẫn đến, gây ra; do điều gì mà thành
+retire|nghỉ hưu
+retired|đã nghỉ hưu
+revise|sửa đổi, chỉnh sửa
+ring2|tiếng chuông; lần gọi điện
+risk|rủi ro, nguy cơ; mạo hiểm
+robot|rô-bốt, người máy
+roll|lăn, cuộn; cuộn; ổ bánh mì nhỏ
+romantic|lãng mạn; thuộc chuyện tình cảm
+rope|dây thừng
+rough|thô ráp; gồ ghề; sơ bộ; khó khăn
+row1|hàng, dãy
+royal|thuộc hoàng gia
+rule|cai trị, thống trị; quyết định chính thức
+safety|sự an toàn
+sail|buồm
+sailor|thủy thủ
+sample|mẫu, phần nhỏ đại diện
+sand|cát
+scan|quét; đọc lướt để tìm thông tin
+scientific|thuộc khoa học
+script|kịch bản; bản lời thoại
+sculpture|tác phẩm điêu khắc; nghệ thuật điêu khắc
+secondary|thứ yếu; thuộc bậc trung học
+security|sự an toàn, an ninh; công tác bảo vệ
+seed|hạt giống
+sensible|biết suy xét, hợp lý
+separate|tách ra, chia riêng
+seriously|nghiêm túc; nghiêm trọng
+servant|người hầu, người phục vụ
+set (group)|bộ, tập hợp
+set (put)|đặt, để; cài đặt, thiết lập
+setting|bối cảnh; môi trường; chế độ cài đặt
+sex|giới tính sinh học; hoạt động tình dục
+sexual|thuộc tình dục hoặc giới tính
+shake|cái lắc, sự rung
+share|phần, phần được chia; cổ phần
+sharp|sắc, nhọn; rõ, đột ngột
+shelf|kệ, giá để đồ
+shell|vỏ; vỏ sò
+shift|ca làm việc; sự chuyển đổi
+shine|chiếu sáng; sáng bóng
+shiny|sáng bóng
+shoot|bắn; quay phim hoặc chụp ảnh
+shy|nhút nhát, hay ngượng
+sight|thị lực; cảnh nhìn thấy
+signal|tín hiệu; ra hiệu
+silent|im lặng, không phát tiếng
+silly|ngớ ngẩn, thiếu suy nghĩ
+similarity|sự giống nhau; điểm tương đồng
+similarly|tương tự, theo cách giống vậy
+simply|chỉ, đơn giản là; một cách đơn giản
+since|từ đó đến nay (trạng từ)
+sink|chìm; làm chìm
+slave|người bị nô lệ hóa; nô lệ
+slice|lát, miếng mỏng; cắt thành lát
+slightly|hơi, một chút
+slow|chậm lại; làm chậm
+smooth|nhẵn, mịn; trôi chảy
+software|phần mềm
+soil|đất trồng, đất
+solid|rắn, chắc; chất rắn
+sort|sắp xếp; phân loại
+southern|thuộc hoặc ở phía nam
+specialize|chuyên về một lĩnh vực
+specifically|cụ thể là; một cách cụ thể
+spending|sự chi tiêu; số tiền chi
+spicy|cay; có nhiều gia vị
+spirit|tinh thần; linh hồn
+spoken|được nói bằng lời
+spot|đốm, vết; địa điểm
+spread|lan, trải ra; truyền bá
+spring|bật, nhảy lên; nảy ra
+stadium|sân vận động
+staff|nhân viên (tập thể)
+standard|tiêu chuẩn; mức độ; tiêu chuẩn, thông thường
+state|thuộc nhà nước; nói rõ, tuyên bố
+statistic|số liệu thống kê
+statue|tượng
+stick (piece of wood)|cây gậy; que
+stick (push into/attach)|dán, gắn; đâm, cắm; dính
+still|đứng yên, không chuyển động; yên lặng
+store|cất giữ, lưu trữ
+stranger|người lạ
+strength|sức mạnh; điểm mạnh
+string|dây, sợi dây
+strongly|mạnh mẽ; rất, hết sức
+studio|phòng thu; xưởng hoặc phòng làm nghệ thuật
+stuff|đồ đạc, thứ, chất (cách nói thân mật)
+substance|chất, vật chất
+successfully|thành công, một cách thành công
+sudden|đột ngột, bất ngờ
+suffer|chịu đau khổ; bị, mắc
+suit|phù hợp với; làm đẹp, hợp với ai
+suitable|phù hợp, thích hợp
+summarize|tóm tắt
+summary|bản tóm tắt
+supply|nguồn cung; cung cấp
+supporter|người ủng hộ; cổ động viên
+surely|chắc hẳn, chắc là
+surface|bề mặt
+survive|sống sót; tồn tại qua khó khăn
+swim|lần bơi, sự bơi
+switch|chuyển, đổi; bật hoặc tắt
+symptom|triệu chứng; dấu hiệu của vấn đề
+tail|đuôi
+talent|tài năng, năng khiếu
+talented|có tài, có năng khiếu
+tape|băng dính; băng ghi âm hoặc hình
+tax|thuế; đánh thuế
+technical|thuộc kỹ thuật; chuyên môn
+technique|kỹ thuật, cách thực hiện
+tend|có xu hướng; thường
+tent|lều
+that|đến mức ấy, như thế (trạng từ)
+theirs|của họ (đại từ sở hữu)
+theme|chủ đề
+theory|lý thuyết; cách giải thích được đề xuất
+therefore|vì vậy, do đó
+this|đến mức này, như thế này (trạng từ)
+though|mặc dù; tuy vậy
+throat|cổ họng
+throughout|khắp; suốt
+tight|chặt, bó sát; khó xoay xở
+till|cho đến khi, cho đến (dạng thân mật của until)
+tiny|rất nhỏ, tí hon
+tip|cho tiền boa; nghiêng, làm nghiêng
+tire|lốp xe (tiếng Anh Mỹ)
+toe|ngón chân
+ton|tấn (đơn vị khối lượng, giá trị tùy hệ đo)
+tongue|lưỡi; ngôn ngữ
+total|tổng, toàn bộ; tổng số
+totally|hoàn toàn
+touch|sự chạm, cảm giác chạm; nét nhỏ bổ sung
+tour|đi tham quan; đi lưu diễn
+trade|thương mại, sự trao đổi; buôn bán
+trainer|người huấn luyện
+translate|dịch từ ngôn ngữ này sang ngôn ngữ khác
+translation|bản dịch; việc dịch
+transport|vận chuyển
+treat|đối xử; điều trị; chiêu đãi
+treatment|sự điều trị; cách đối xử
+trend|xu hướng
+trick|mẹo; trò lừa; lừa
+truth|sự thật
+tube|ống; tuýp
+type|gõ, đánh máy
+typically|thường, điển hình là
+ugly|xấu xí; khó coi
+unable|không thể, không có khả năng
+uncomfortable|không thoải mái; khó chịu
+underwear|đồ lót
+unemployed|thất nghiệp
+unemployment|tình trạng thất nghiệp
+unfair|không công bằng
+union|sự liên kết; công đoàn
+unless|trừ khi, nếu không
+unlike|khác với, không giống
+unlikely|không có khả năng xảy ra; khó có thể
+unnecessary|không cần thiết
+unpleasant|khó chịu, không dễ chịu
+update|cập nhật; bản hoặc thông tin cập nhật
+upon|trên; ngay khi (cách dùng trang trọng của on)
+upset|buồn, bực; làm buồn, làm xáo trộn
+used1|đã qua sử dụng, đồ cũ
+used2|quen với (trong be/get used to)
+valuable|có giá trị; hữu ích
+value|giá trị; tầm quan trọng
+various|nhiều, khác nhau
+version|phiên bản; cách kể lại
+victim|nạn nhân
+view|xem; nhìn nhận, đánh giá
+viewer|người xem
+violent|bạo lực; dữ dội
+volunteer|tình nguyện viên; tình nguyện
+vote|phiếu bầu, sự bỏ phiếu; bỏ phiếu
+warm|làm ấm; ấm lên
+warn|cảnh báo, báo trước
+warning|lời hoặc dấu hiệu cảnh báo
+waste|sự lãng phí; rác thải; lãng phí; thừa, bỏ đi
+water|tưới, cung cấp nước cho
+wave|vẫy; chuyển động nhấp nhô
+weapon|vũ khí
+weigh|cân; có trọng lượng
+western|thuộc hoặc ở phía tây
+whatever|bất cứ gì; bất kỳ cái nào
+whenever|bất cứ khi nào; mỗi khi
+whether|liệu có hay không; dù ... hay ...
+while|một lúc, một khoảng thời gian
+whole|toàn bộ, tổng thể (danh từ)
+will|ý chí, sự quyết tâm; di chúc
+win|chiến thắng, trận thắng
+wing|cánh; phần bên của tòa nhà
+within|trong phạm vi; trong vòng
+wonder|tự hỏi; điều kỳ diệu, sự ngạc nhiên
+wool|len, lông cừu
+worldwide|trên toàn thế giới; có phạm vi toàn cầu
+worry|nỗi lo, điều gây lo
+worse|tệ hơn, kém hơn (trạng từ)
+worst|tệ nhất, kém nhất (trạng từ)
+worth|đáng, có giá trị tương xứng
+written|bằng văn bản, được viết ra
+wrong|sai, không đúng cách (trạng từ)
+young|con non; người trẻ (danh từ tập hợp)
+youth|tuổi trẻ; giới trẻ; thanh niên

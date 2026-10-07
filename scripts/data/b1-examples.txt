@@ -1,0 +1,686 @@
+# Original teaching sentences. IDs sharing a sentence are separated by semicolons.
+absolutely;essential|Clean water is absolutely essential.|Nước sạch là thứ vô cùng thiết yếu.
+academic;achievement|She is proud of her academic achievements.|Cô ấy tự hào về các thành tích học tập của mình.
+access|Students can access the online library.|Sinh viên có thể truy cập thư viện trực tuyến.
+account;payment|The payment arrived in my account.|Khoản thanh toán đã vào tài khoản của tôi.
+act;kind (caring)|Helping a stranger is a kind act.|Giúp một người lạ là một hành động tử tế.
+ad;commercial|I saw an ad for a new phone during the commercial break.|Tôi thấy quảng cáo một chiếc điện thoại mới trong giờ nghỉ quảng cáo.
+addition;valuable|The new dictionary is a valuable addition to our library.|Cuốn từ điển mới là phần bổ sung có giá trị cho thư viện của chúng tôi.
+administration|Contact the school administration about your application.|Hãy liên hệ bộ phận hành chính của trường về đơn của bạn.
+admire;honest|I admire her because she is honest.|Tôi ngưỡng mộ cô ấy vì cô ấy trung thực.
+admit;guilty|He admitted that he was guilty.|Anh ấy thừa nhận mình có tội.
+advanced;technique|This course teaches advanced painting techniques.|Khóa học này dạy các kỹ thuật vẽ nâng cao.
+advise;warn|The guide advised us to stay together and warned us about the ice.|Hướng dẫn viên khuyên chúng tôi đi cùng nhau và cảnh báo về băng trên đường.
+afford;luxury|We cannot afford a luxury hotel.|Chúng tôi không đủ tiền ở khách sạn sang trọng.
+age|Some cheeses improve as they age.|Một số loại phô mai ngon hơn khi được ủ lâu.
+agent;appointment|I have an appointment with a travel agent.|Tôi có cuộc hẹn với một đại lý du lịch.
+agreement|Both sides reached an agreement.|Hai bên đã đạt được thỏa thuận.
+ahead;path|The path ahead is narrow.|Lối đi phía trước rất hẹp.
+aim;ambition|Her ambition is to become a pilot, and she aims to start training soon.|Hoài bão của cô ấy là trở thành phi công và cô ấy dự định sớm bắt đầu đào tạo.
+alarm;bell|The alarm bell rang at midnight.|Chuông báo động reo lúc nửa đêm.
+album|Their latest album has ten songs.|Album mới nhất của họ có mười bài hát.
+alcohol;alcoholic|This drink contains no alcohol, so it is not alcoholic.|Đồ uống này không chứa cồn nên không phải đồ uống có cồn.
+alternative|We need an alternative route because the road is closed.|Chúng tôi cần một tuyến đường khác vì đường đã đóng.
+amazed;magic|The children were amazed by the magic show.|Bọn trẻ kinh ngạc trước màn ảo thuật.
+analysis;statistic|The analysis includes statistics from ten schools.|Bản phân tích có số liệu thống kê từ mười trường.
+announce;announcement|The director announced the results in a short announcement.|Giám đốc công bố kết quả trong một thông báo ngắn.
+annoy;annoyed;annoying|The annoying noise annoyed me, and I became annoyed.|Tiếng ồn khó chịu làm tôi bực mình, và tôi bắt đầu cáu.
+apart;branch|The two branches of the company are miles apart.|Hai chi nhánh của công ty cách nhau nhiều dặm.
+apologize|She apologized for arriving late.|Cô ấy xin lỗi vì đến muộn.
+application;qualification|List your qualifications on the job application.|Hãy liệt kê các bằng cấp của bạn trong đơn xin việc.
+appreciate;effort|I appreciate the effort you put into this project.|Tôi trân trọng công sức bạn đã dành cho dự án này.
+approximately;percentage|Approximately fifty percent of the class passed.|Khoảng năm mươi phần trăm học sinh trong lớp đã đỗ.
+arrest;criminal|The police arrested him for a criminal offense.|Cảnh sát bắt anh ta vì một hành vi phạm tội.
+arrival;departure|Check the arrival and departure times before you travel.|Hãy kiểm tra giờ đến và giờ khởi hành trước khi đi.
+assignment|I finished my assignment before the deadline.|Tôi hoàn thành bài tập được giao trước hạn.
+assist;client|A staff member assisted the client.|Một nhân viên đã hỗ trợ khách hàng.
+atmosphere;pleasant|The café has a pleasant atmosphere.|Quán cà phê có bầu không khí dễ chịu.
+attach;file|Please attach the file to your email.|Vui lòng đính kèm tệp vào email.
+attitude|Her positive attitude helped the team.|Thái độ tích cực của cô ấy đã giúp cả đội.
+attract;attraction|The main attraction attracts visitors all year.|Điểm tham quan chính thu hút du khách quanh năm.
+authority;official|The local authority issued an official notice.|Cơ quan địa phương đã đưa ra thông báo chính thức.
+automatic;automatically|The automatic door opens automatically when you approach.|Cửa tự động mở khi bạn đến gần.
+average|The company averages ten orders a day.|Công ty nhận trung bình mười đơn hàng mỗi ngày.
+award|The judges awarded her first prize.|Ban giám khảo trao cho cô ấy giải nhất.
+aware|Are you aware of the danger?|Bạn có biết về mối nguy hiểm này không?
+backward|Take one step backward.|Hãy lùi một bước.
+bake;flour|Use this flour to bake bread.|Hãy dùng bột mì này để nướng bánh mì.
+balance|She lost her balance on the ice.|Cô ấy mất thăng bằng trên băng.
+ban|The city has banned smoking in public buildings.|Thành phố đã cấm hút thuốc trong các tòa nhà công cộng.
+bank (river);mud|We sat on the river bank, away from the mud.|Chúng tôi ngồi trên bờ sông, tránh chỗ có bùn.
+base;basis|The story is based on a real event, which forms the basis of the film.|Câu chuyện dựa trên một sự kiện có thật, làm nền tảng cho bộ phim.
+basic|Everyone needs basic cooking skills.|Ai cũng cần những kỹ năng nấu ăn cơ bản.
+battery;charge|I need to charge my phone battery.|Tôi cần sạc pin điện thoại.
+battle;fighting|The battle ended, but fighting continued elsewhere.|Trận chiến đã kết thúc nhưng giao tranh vẫn tiếp diễn ở nơi khác.
+beauty|We admired the natural beauty of the mountains.|Chúng tôi ngắm vẻ đẹp tự nhiên của núi rừng.
+bee|A bee landed on the flower.|Một con ong đậu lên bông hoa.
+belief;religion|People have different beliefs about religion.|Mọi người có những niềm tin khác nhau về tôn giáo.
+bend|Bend your knees before you lift the box.|Hãy khuỵu gối trước khi nhấc chiếc hộp.
+benefit|Regular exercise benefits your health.|Tập thể dục đều đặn có lợi cho sức khỏe.
+better|The weather changed for the better.|Thời tiết đã chuyển biến theo hướng tốt hơn.
+bite|The dog tried to bite my shoe.|Con chó cố cắn giày của tôi.
+block|A fallen tree blocked the road.|Một cây đổ đã chặn đường.
+board|We boarded the plane at seven.|Chúng tôi lên máy bay lúc bảy giờ.
+bomb;explode;explosion|The bomb exploded, and the explosion damaged nearby buildings.|Quả bom phát nổ, và vụ nổ làm hư hại các tòa nhà gần đó.
+border|They crossed the border at dawn.|Họ qua biên giới lúc bình minh.
+bother|Sorry to bother you, but I need some help.|Xin lỗi vì làm phiền bạn, nhưng tôi cần giúp đỡ.
+brand|This brand sells sports shoes.|Thương hiệu này bán giày thể thao.
+brave|The brave firefighter rescued the child.|Người lính cứu hỏa dũng cảm đã cứu đứa trẻ.
+breath;breathe;breathing|Take a deep breath, breathe slowly, and keep your breathing steady.|Hãy hít một hơi sâu, thở chậm và giữ nhịp thở đều.
+bride;ceremony|The bride smiled during the wedding ceremony.|Cô dâu mỉm cười trong lễ cưới.
+bubble|Bubbles rose to the surface of the water.|Các bọt khí nổi lên mặt nước.
+bury|The dog buried a bone in the garden.|Con chó chôn một khúc xương trong vườn.
+by|A bus went by while we waited.|Một chiếc xe buýt đi ngang qua khi chúng tôi đang đợi.
+cable|Connect the screen with this cable.|Hãy nối màn hình bằng dây cáp này.
+calm|Stay calm and take a slow breath.|Hãy bình tĩnh và hít thở chậm.
+campaign;candidate|The candidate began her election campaign.|Ứng viên bắt đầu chiến dịch tranh cử của mình.
+cap|He wore a red cap.|Anh ấy đội một chiếc mũ lưỡi trai màu đỏ.
+captain;champion|The team captain lifted the champions' cup.|Đội trưởng nâng cúp vô địch.
+careless|A careless mistake cost us time.|Một lỗi bất cẩn làm chúng tôi mất thời gian.
+category|Put each item in the correct category.|Hãy xếp từng mục vào đúng nhóm.
+ceiling|The room has a high ceiling.|Căn phòng có trần cao.
+celebration|We held a small celebration after the exam.|Chúng tôi tổ chức một buổi ăn mừng nhỏ sau kỳ thi.
+center;central|The discussion centered on a central question.|Cuộc thảo luận tập trung vào một câu hỏi trọng tâm.
+chain|This hotel belongs to a large chain.|Khách sạn này thuộc một chuỗi lớn.
+challenge|Learning a new language is a challenge.|Học một ngôn ngữ mới là một thử thách.
+channel|Change the channel to watch the news.|Hãy chuyển kênh để xem tin tức.
+chapter|Read the first chapter tonight.|Hãy đọc chương đầu tiên tối nay.
+cheap|You can buy vegetables cheap at this market.|Bạn có thể mua rau với giá rẻ ở chợ này.
+cheat|It is wrong to cheat in an exam.|Gian lận trong kỳ thi là sai.
+cheerful|She sounded cheerful on the phone.|Giọng cô ấy qua điện thoại nghe rất vui vẻ.
+chemical;laboratory|The laboratory stores chemicals safely.|Phòng thí nghiệm bảo quản hóa chất an toàn.
+chest|He carried a heavy box against his chest.|Anh ấy ôm một chiếc hộp nặng trước ngực.
+childhood|I spent my childhood in a small town.|Tôi trải qua tuổi thơ ở một thị trấn nhỏ.
+claim;innocent|He claims that he is innocent.|Anh ấy khẳng định mình vô tội.
+clause|The contract contains a clause about payment.|Hợp đồng có một điều khoản về thanh toán.
+clear|Please clear the table after dinner.|Vui lòng dọn bàn sau bữa tối.
+clever|That is a clever solution.|Đó là một giải pháp thông minh.
+click|Click the button to save the file.|Nhấp vào nút để lưu tệp.
+climb|The climb to the top took an hour.|Việc leo lên đỉnh mất một giờ.
+close2|Stay close to me in the crowd.|Hãy ở sát tôi trong đám đông.
+cloth|Wipe the table with a clean cloth.|Hãy lau bàn bằng một miếng vải sạch.
+clue;mystery|The detective found a clue to the mystery.|Thám tử tìm thấy một manh mối để giải điều bí ẩn.
+coach|She coaches the school basketball team.|Cô ấy huấn luyện đội bóng rổ của trường.
+coal;mine (hole in the ground)|Workers carried coal out of the mine.|Công nhân đưa than đá ra khỏi mỏ.
+coin|I found a coin under the chair.|Tôi tìm thấy một đồng xu dưới ghế.
+collection|His stamp collection fills three books.|Bộ sưu tập tem của anh ấy đầy ba cuốn sổ.
+colored|The children drew with colored pencils.|Bọn trẻ vẽ bằng bút chì màu.
+combine|Combine the flour and water in a bowl.|Hãy trộn bột mì và nước trong một cái bát.
+comment|She commented on the changes to the plan.|Cô ấy nhận xét về những thay đổi của kế hoạch.
+commit|The police believe someone committed a crime.|Cảnh sát cho rằng đã có người phạm tội.
+communication|Good communication prevents misunderstandings.|Giao tiếp tốt giúp tránh hiểu lầm.
+comparison|The chart makes a comparison between the two products.|Biểu đồ so sánh hai sản phẩm.
+competitive;competitor|She is competitive and trains harder than her competitors.|Cô ấy có tinh thần tranh đua và tập luyện chăm hơn các đối thủ.
+complaint|I made a complaint about the noise.|Tôi đã phàn nàn về tiếng ồn.
+complex|The instructions are too complex for beginners.|Hướng dẫn quá phức tạp đối với người mới bắt đầu.
+concentrate|I cannot concentrate with the television on.|Tôi không thể tập trung khi tivi đang bật.
+conclude;conclusion|The report concludes that more research is needed; its conclusion is clear.|Báo cáo kết luận rằng cần nghiên cứu thêm; kết luận của nó rất rõ ràng.
+confident|I feel confident about tomorrow's interview.|Tôi cảm thấy tự tin về buổi phỏng vấn ngày mai.
+confirm;reservation|Please confirm my hotel reservation.|Vui lòng xác nhận đặt phòng khách sạn của tôi.
+confuse;confused|The similar names confuse me, and I feel confused.|Những tên gọi giống nhau khiến tôi bối rối, và tôi thấy không hiểu rõ.
+connection|There is a connection between sleep and memory.|Có mối liên hệ giữa giấc ngủ và trí nhớ.
+consequence|Think about the consequences before you act.|Hãy nghĩ đến hậu quả trước khi hành động.
+consist|The team consists of five engineers.|Đội gồm năm kỹ sư.
+consume;consumer|Consumers are trying to consume less electricity.|Người tiêu dùng đang cố sử dụng ít điện hơn.
+contact|Contact the office if your address changes.|Hãy liên hệ văn phòng nếu địa chỉ của bạn thay đổi.
+container|Keep the food in a sealed container.|Hãy giữ thức ăn trong một hộp kín.
+content1|The content of the report is useful.|Nội dung của báo cáo rất hữu ích.
+continuous|The machine makes a continuous noise.|Máy phát ra tiếng ồn liên tục.
+contrast|There is a clear contrast between the two designs.|Có sự khác biệt rõ rệt giữa hai thiết kế.
+convenient|Is this time convenient for you?|Thời gian này có thuận tiện cho bạn không?
+convince|The evidence convinced me that she was right.|Bằng chứng khiến tôi tin rằng cô ấy đúng.
+cool|Let the soup cool before you eat it.|Hãy để súp nguội trước khi ăn.
+corn|We bought fresh corn at the market.|Chúng tôi mua ngô tươi ở chợ.
+costume|He wore a pirate costume to the party.|Anh ấy mặc trang phục cướp biển đến bữa tiệc.
+cotton|This shirt is made of cotton.|Chiếc áo này làm bằng vải bông.
+count|The final count was one hundred votes.|Tổng số đếm cuối cùng là một trăm phiếu.
+countryside|They moved to the countryside last year.|Họ chuyển về vùng nông thôn năm ngoái.
+court|The judge entered the court.|Thẩm phán bước vào tòa án.
+cover|The book has a blue cover.|Cuốn sách có bìa màu xanh.
+covered|The hills were covered with snow.|Các ngọn đồi phủ đầy tuyết.
+cream|We painted the walls cream.|Chúng tôi sơn tường màu kem.
+cruel|It is cruel to hurt animals for fun.|Làm đau động vật để mua vui là tàn nhẫn.
+cultural|The festival celebrates cultural traditions.|Lễ hội tôn vinh các truyền thống văn hóa.
+cupboard|Put the plates in the cupboard.|Hãy đặt đĩa vào tủ.
+currency|What currency is used in this country?|Nước này sử dụng đồng tiền nào?
+current;currently|Our current manager is currently working overseas.|Quản lý hiện tại của chúng tôi đang làm việc ở nước ngoài.
+curtain|Close the curtains before you sleep.|Hãy kéo rèm lại trước khi ngủ.
+custom|Giving gifts is a local custom.|Tặng quà là một phong tục địa phương.
+cut|There is a small cut on my finger.|Ngón tay tôi có một vết cắt nhỏ.
+daily|The bus runs daily.|Xe buýt chạy hằng ngày.
+damage|The storm caused serious damage.|Cơn bão gây thiệt hại nghiêm trọng.
+deal|We made a deal to share the costs.|Chúng tôi thỏa thuận chia sẻ chi phí.
+decade|The town has changed over the last decade.|Thị trấn đã thay đổi trong mười năm qua.
+deep|The roots grow deep into the soil.|Rễ mọc sâu vào đất.
+define;definition|The dictionary defines each word and gives a short definition.|Từ điển định nghĩa từng từ và đưa ra lời giải nghĩa ngắn.
+definite|We need a definite answer by Friday.|Chúng tôi cần câu trả lời chắc chắn trước hoặc trong thứ Sáu.
+deliver|They deliver groceries to my home.|Họ giao thực phẩm đến nhà tôi.
+despite|We went walking despite the rain.|Chúng tôi vẫn đi dạo dù trời mưa.
+destination|Our final destination is a village near the sea.|Điểm đến cuối cùng của chúng tôi là một ngôi làng gần biển.
+determine|The test will determine your language level.|Bài kiểm tra sẽ xác định trình độ ngôn ngữ của bạn.
+determined|She is determined to finish the course.|Cô ấy quyết tâm hoàn thành khóa học.
+development|The new road helped the development of the town.|Con đường mới giúp thị trấn phát triển.
+diagram|The diagram shows how the engine works.|Sơ đồ cho thấy động cơ hoạt động thế nào.
+diamond|The ring has a small diamond.|Chiếc nhẫn có một viên kim cương nhỏ.
+difficulty|I had difficulty understanding the instructions.|Tôi gặp khó khăn khi hiểu hướng dẫn.
+direct;directly|The guide directed us to the exit, and we went directly there.|Hướng dẫn viên chỉ chúng tôi đến lối ra, và chúng tôi đi thẳng tới đó.
+dirt|Wash the dirt off your shoes.|Hãy rửa sạch chất bẩn trên giày.
+disadvantage|The main disadvantage is the high price.|Nhược điểm chính là giá cao.
+disappointed;disappointing|The result was disappointing, and everyone felt disappointed.|Kết quả gây thất vọng, và mọi người đều cảm thấy thất vọng.
+discount|Students receive a ten percent discount.|Sinh viên được giảm giá mười phần trăm.
+dislike|I dislike getting up early.|Tôi không thích dậy sớm.
+district|She lives in the business district.|Cô ấy sống ở khu thương mại.
+divide|Divide the cake into eight pieces.|Hãy chia chiếc bánh thành tám miếng.
+documentary|We watched a documentary about oceans.|Chúng tôi xem một bộ phim tài liệu về đại dương.
+donate|They donated clothes to the charity.|Họ quyên góp quần áo cho tổ chức từ thiện.
+double|The journey cost double what we expected.|Chuyến đi tốn gấp đôi số tiền chúng tôi dự kiến.
+doubt|I doubt that the shop is still open.|Tôi không chắc cửa hàng vẫn còn mở.
+dressed|Get dressed before breakfast.|Hãy mặc quần áo trước bữa sáng.
+drop|A drop of rain landed on my hand.|Một giọt mưa rơi lên tay tôi.
+drum|She plays the drums in a band.|Cô ấy chơi trống trong một ban nhạc.
+drunk|He was too drunk to drive.|Anh ấy quá say nên không thể lái xe.
+due|The report is due on Monday.|Báo cáo phải nộp vào thứ Hai.
+dust|A layer of dust covered the shelf.|Một lớp bụi phủ trên kệ.
+duty|It is my duty to keep the building safe.|Nhiệm vụ của tôi là giữ tòa nhà an toàn.
+earthquake|The earthquake damaged several houses.|Trận động đất làm hư hại một số ngôi nhà.
+eastern|The eastern part of the country is mountainous.|Phía đông của đất nước có nhiều núi.
+economic;economy|Economic growth can strengthen the economy.|Tăng trưởng kinh tế có thể củng cố nền kinh tế.
+edge|Do not stand near the edge of the cliff.|Đừng đứng gần mép vách đá.
+editor;journal|The editor works for a scientific journal.|Biên tập viên làm việc cho một tạp chí khoa học.
+educate;educated|The school aims to educate children so they become well-educated adults.|Trường hướng tới việc giáo dục trẻ em để các em trở thành người lớn có học thức.
+educational|This educational game helps children learn numbers.|Trò chơi giáo dục này giúp trẻ học các con số.
+effective;effectively|An effective plan helps us work effectively.|Một kế hoạch hiệu quả giúp chúng tôi làm việc hiệu quả.
+election;vote|Everyone in the group can vote in the election.|Mọi người trong nhóm đều có thể bỏ phiếu trong cuộc bầu cử.
+element|Trust is an important element of friendship.|Lòng tin là một yếu tố quan trọng của tình bạn.
+embarrassed;embarrassing|It was an embarrassing mistake, and I felt embarrassed.|Đó là một lỗi gây ngượng, và tôi cảm thấy xấu hổ.
+emergency|Call this number in an emergency.|Hãy gọi số này trong tình huống khẩn cấp.
+emotion|Music can express strong emotions.|Âm nhạc có thể thể hiện những cảm xúc mạnh mẽ.
+employment|She found employment at a local school.|Cô ấy tìm được việc làm tại một trường địa phương.
+empty|Please empty the trash can.|Vui lòng đổ hết rác trong thùng.
+encourage|My teacher encouraged me to keep practicing.|Giáo viên động viên tôi tiếp tục luyện tập.
+enemy|The soldiers could see the enemy in the distance.|Những người lính có thể thấy quân địch ở đằng xa.
+engaged|They got engaged last summer.|Họ đính hôn vào mùa hè năm ngoái.
+engineering|She is studying engineering at college.|Cô ấy đang học ngành kỹ thuật ở đại học.
+entertain;entertainment|The musicians entertained the guests with an evening of live entertainment.|Các nhạc công đem đến cho khách một buổi tối giải trí với nhạc biểu diễn trực tiếp.
+entrance;exit|The entrance is at the front, and the exit is at the back.|Lối vào ở phía trước và lối ra ở phía sau.
+entry|Entry to the museum is free.|Vào bảo tàng không mất phí.
+environmental|The project studies environmental problems.|Dự án nghiên cứu các vấn đề môi trường.
+episode|The next episode will be shown tomorrow.|Tập tiếp theo sẽ được chiếu vào ngày mai.
+equal;equally|They received equal amounts, so the money was shared equally.|Họ nhận những khoản bằng nhau nên tiền đã được chia đều.
+escape|The bird escaped through the open window.|Con chim thoát ra qua cửa sổ mở.
+eventually|After several attempts, she eventually passed the test.|Sau vài lần thử, cuối cùng cô ấy đã vượt qua bài kiểm tra.
+examine|The doctor examined my injured foot.|Bác sĩ khám bàn chân bị thương của tôi.
+except|The two rooms are identical, except that one has a balcony.|Hai phòng giống hệt nhau, trừ việc một phòng có ban công.
+exchange|We exchanged phone numbers after the meeting.|Chúng tôi trao đổi số điện thoại sau cuộc họp.
+excitement|The children shouted with excitement.|Bọn trẻ reo lên đầy phấn khích.
+exhibition;sculpture|The exhibition includes modern sculptures.|Triển lãm có các tác phẩm điêu khắc hiện đại.
+expand|The company plans to expand its business.|Công ty dự định mở rộng hoạt động kinh doanh.
+expected|The train arrived at the expected time.|Tàu đến đúng giờ dự kiến.
+experience;experienced|An experienced guide helped us experience life in the desert.|Một hướng dẫn viên giàu kinh nghiệm giúp chúng tôi trải nghiệm cuộc sống ở sa mạc.
+experiment|We are experimenting with different materials.|Chúng tôi đang thử nghiệm các vật liệu khác nhau.
+explore|We explored the old part of the city.|Chúng tôi khám phá khu phố cổ của thành phố.
+export;import|The country exports coffee and imports cars.|Quốc gia này xuất khẩu cà phê và nhập khẩu ô tô.
+extra|We paid extra for a room with a view.|Chúng tôi trả thêm tiền để có phòng nhìn ra cảnh đẹp.
+face|We must face the problem together.|Chúng ta phải cùng nhau đối mặt với vấn đề.
+fairly|The test was fairly easy.|Bài kiểm tra khá dễ.
+familiar|This song sounds familiar.|Bài hát này nghe quen thuộc.
+fancy|They had dinner at a fancy restaurant.|Họ ăn tối ở một nhà hàng sang trọng.
+far|We walked to the far end of the beach.|Chúng tôi đi bộ đến đầu xa của bãi biển.
+fascinating|The guide told us a fascinating story.|Hướng dẫn viên kể cho chúng tôi một câu chuyện rất hấp dẫn.
+fashionable|These shoes are fashionable this year.|Những đôi giày này đang hợp thời trang trong năm nay.
+fasten|Fasten your seat belt before the car moves.|Hãy thắt dây an toàn trước khi xe chạy.
+favor|Could you do me a favor?|Bạn có thể giúp tôi một việc không?
+fear|She fears that the flight will be canceled.|Cô ấy lo rằng chuyến bay sẽ bị hủy.
+feature|The film features two famous actors.|Bộ phim có sự góp mặt của hai diễn viên nổi tiếng.
+federal|Federal law applies across the country.|Luật liên bang được áp dụng trên cả nước.
+fence|A wooden fence surrounds the garden.|Một hàng rào gỗ bao quanh khu vườn.
+financial|They asked for financial advice.|Họ đã xin lời khuyên về tài chính.
+fitness|Walking every day improves your fitness.|Đi bộ mỗi ngày cải thiện thể lực của bạn.
+fixed|The ticket has a fixed price.|Vé có mức giá cố định.
+flag|The national flag flew above the building.|Quốc kỳ tung bay phía trên tòa nhà.
+flood|Heavy rain caused a flood in the village.|Mưa lớn gây lũ ở ngôi làng.
+flow|Water flows through the pipe.|Nước chảy qua ống.
+fold|Fold the paper in half.|Hãy gấp đôi tờ giấy.
+folk|We listened to traditional folk music.|Chúng tôi nghe nhạc dân gian truyền thống.
+following|The singer has a large following online.|Ca sĩ này có đông người hâm mộ trên mạng.
+force|Nobody can force you to agree.|Không ai có thể ép bạn đồng ý.
+forever|I will remember this day forever.|Tôi sẽ nhớ ngày này mãi mãi.
+frame|She put the photograph in a wooden frame.|Cô ấy đặt bức ảnh vào một khung gỗ.
+freeze;frozen|Freeze the fruit and use the frozen pieces later.|Hãy đông lạnh trái cây và dùng các miếng đã đông lạnh sau.
+frequently|We visit our grandparents frequently.|Chúng tôi thường xuyên thăm ông bà.
+friendship|Their friendship lasted for many years.|Tình bạn của họ kéo dài nhiều năm.
+frighten;frightened;frightening|The frightening noise frightened the child, who looked frightened.|Tiếng động đáng sợ làm đứa trẻ hoảng, trông em rất sợ hãi.
+fry|Fry the onions in a little oil.|Hãy chiên hành với một ít dầu.
+fuel|The car needs more fuel.|Xe cần thêm nhiên liệu.
+function|The main function of this button is to save your work.|Chức năng chính của nút này là lưu công việc của bạn.
+fur|The cat has soft fur.|Con mèo có bộ lông mềm.
+further|Walk further along this road.|Hãy đi xa hơn theo con đường này.
+garage|We keep the bicycles in the garage.|Chúng tôi để xe đạp trong nhà để xe.
+gather|People gathered outside the station.|Mọi người tụ tập bên ngoài nhà ga.
+generally|The weather is generally warm here.|Thời tiết ở đây thường ấm áp.
+generation|Three generations of the family live together.|Ba thế hệ trong gia đình sống cùng nhau.
+generous|It was generous of you to share your lunch.|Bạn thật hào phóng khi chia sẻ bữa trưa của mình.
+gentle|Use a gentle voice with the frightened child.|Hãy nói dịu dàng với đứa trẻ đang sợ.
+gentleman|The gentleman held the door open for us.|Người đàn ông lịch thiệp giữ cửa cho chúng tôi.
+ghost|The story is about a ghost in an old house.|Câu chuyện kể về một hồn ma trong ngôi nhà cũ.
+giant|A giant tree stood in the middle of the field.|Một cây khổng lồ đứng giữa cánh đồng.
+glad|I am glad you could come.|Tôi mừng vì bạn có thể đến.
+global|Climate change is a global problem.|Biến đổi khí hậu là một vấn đề toàn cầu.
+glove|Wear gloves to keep your hands warm.|Hãy đeo găng tay để giữ ấm tay.
+go|Can I have a go at this game?|Tôi có thể thử trò chơi này một lượt không?
+grade|She received a good grade in math.|Cô ấy đạt điểm tốt môn toán.
+graduate|He graduated from college last year.|Anh ấy tốt nghiệp đại học năm ngoái.
+grain|The farmer grows grain for bread.|Người nông dân trồng ngũ cốc để làm bánh mì.
+grateful|I am grateful for your help.|Tôi biết ơn sự giúp đỡ của bạn.
+growth|The chart shows the growth of the city.|Biểu đồ cho thấy sự phát triển của thành phố.
+guard|A guard stood at the entrance.|Một người bảo vệ đứng ở lối vào.
+hand|Please hand me the notebook.|Vui lòng đưa tôi cuốn vở.
+hang|Hang your coat on the hook.|Hãy treo áo khoác lên móc.
+happiness|For her, happiness means spending time with family.|Với cô ấy, hạnh phúc là dành thời gian cho gia đình.
+hardly|I could hardly hear her over the music.|Tôi hầu như không nghe được cô ấy nói vì tiếng nhạc.
+hate|His words were full of hate.|Lời nói của anh ta đầy sự thù ghét.
+head|We headed toward the station.|Chúng tôi đi về phía nhà ga.
+headline|The headline caught my attention.|Tiêu đề tin tức thu hút sự chú ý của tôi.
+heating|The heating is not working.|Hệ thống sưởi không hoạt động.
+heavily|It rained heavily all night.|Trời mưa lớn suốt đêm.
+helicopter|A helicopter flew over the hospital.|Một chiếc trực thăng bay qua bệnh viện.
+highlight|Highlight the important words in yellow.|Hãy tô vàng những từ quan trọng.
+highly|She is a highly skilled teacher.|Cô ấy là một giáo viên rất có chuyên môn.
+highway|The highway connects the two cities.|Đường cao tốc nối hai thành phố.
+hire|The company plans to hire two engineers.|Công ty dự định thuê hai kỹ sư làm việc.
+historic;historical|The historic building appears in many historical books.|Tòa nhà có ý nghĩa lịch sử này xuất hiện trong nhiều sách về lịch sử.
+horrible|The soup had a horrible smell.|Món súp có mùi rất khó chịu.
+horror|We watched a horror film last night.|Chúng tôi xem một bộ phim kinh dị tối qua.
+host|Our host welcomed us warmly.|Chủ nhà tiếp đón chúng tôi nồng nhiệt.
+hunt|The cat hunts mice at night.|Con mèo săn chuột vào ban đêm.
+hurricane|The hurricane destroyed houses along the coast.|Cơn bão phá hủy các ngôi nhà dọc bờ biển.
+hurry|There is no need to hurry.|Không cần phải vội.
+identity|You must show a card to prove your identity.|Bạn phải xuất trình thẻ để chứng minh danh tính.
+ignore|Do not ignore the warning signs.|Đừng phớt lờ các biển cảnh báo.
+illegal|It is illegal to drive without a license.|Lái xe không có giấy phép là trái pháp luật.
+imaginary|The child has an imaginary friend.|Đứa trẻ có một người bạn tưởng tượng.
+immediate|The problem needs immediate attention.|Vấn đề cần được chú ý ngay lập tức.
+immigrant|Her parents were immigrants from Vietnam.|Cha mẹ cô ấy là người nhập cư từ Việt Nam.
+impact|The new road had an impact on local businesses.|Con đường mới có tác động đến các doanh nghiệp địa phương.
+importance|The teacher explained the importance of sleep.|Giáo viên giải thích tầm quan trọng của giấc ngủ.
+impression;impressive|Her impressive work made a good impression.|Công việc xuất sắc của cô ấy tạo ấn tượng tốt.
+improvement|There has been an improvement in his writing.|Khả năng viết của anh ấy đã được cải thiện.
+incredibly|The view was incredibly beautiful.|Quang cảnh đẹp vô cùng.
+indeed|The exam was difficult indeed.|Kỳ thi quả thực rất khó.
+indicate|The arrow indicates the direction of the exit.|Mũi tên chỉ hướng của lối ra.
+indirect|We took an indirect route through the village.|Chúng tôi đi một tuyến đường vòng qua ngôi làng.
+indoor;indoors|The indoor pool lets us exercise indoors in winter.|Bể bơi trong nhà cho phép chúng tôi tập luyện trong nhà vào mùa đông.
+influence|Her advice influenced my decision.|Lời khuyên của cô ấy ảnh hưởng đến quyết định của tôi.
+ingredient|Check the ingredients before buying the food.|Hãy kiểm tra các thành phần trước khi mua thực phẩm.
+injure;injured|He injured his knee, so his injured leg needed rest.|Anh ấy làm đầu gối bị thương nên chân cần được nghỉ ngơi.
+intelligence|The task requires intelligence and patience.|Nhiệm vụ đòi hỏi trí thông minh và sự kiên nhẫn.
+intend;intention|I intend to leave early; my intention is to avoid traffic.|Tôi dự định đi sớm để tránh giao thông đông đúc.
+invest|They invested money in a small business.|Họ đầu tư tiền vào một doanh nghiệp nhỏ.
+investigate|The police are investigating the incident.|Cảnh sát đang điều tra sự việc.
+involved|She is involved in a community project.|Cô ấy tham gia một dự án cộng đồng.
+iron|I need to iron my shirt.|Tôi cần là áo sơ mi.
+issue|We discussed the issue at the meeting.|Chúng tôi thảo luận vấn đề đó trong cuộc họp.
+it|She works in IT and repairs computers.|Cô ấy làm trong ngành công nghệ thông tin và sửa máy tính.
+journey|The journey took three hours.|Chuyến đi mất ba giờ.
+judge|Do not judge a person by their clothes.|Đừng đánh giá một người qua quần áo của họ.
+key;keyboard|Key in your name using the keyboard.|Hãy nhập tên của bạn bằng bàn phím.
+kick|He kicked the ball into the goal.|Anh ấy đá bóng vào khung thành.
+killing|The police are investigating the killing.|Cảnh sát đang điều tra vụ giết người.
+kiss|She gave her baby a kiss.|Cô ấy hôn em bé của mình.
+knock|I heard a knock at the door.|Tôi nghe thấy tiếng gõ cửa.
+label|Read the label before washing the shirt.|Hãy đọc nhãn trước khi giặt áo.
+lack|The village lacks clean drinking water.|Ngôi làng thiếu nước uống sạch.
+latest|Have you read her latest book?|Bạn đã đọc cuốn sách mới nhất của cô ấy chưa?
+lay|Lay the clean towel on the bed.|Hãy đặt khăn sạch lên giường.
+layer|Put another layer of paint on the wall.|Hãy sơn thêm một lớp lên tường.
+lead1;leading|The leading runner had a clear lead.|Vận động viên chạy dẫn đầu có khoảng cách dẫn trước rõ rệt.
+leaf|A yellow leaf fell from the tree.|Một chiếc lá vàng rơi khỏi cây.
+leather|He bought a leather bag.|Anh ấy mua một chiếc túi da.
+legal|You should get legal advice before signing.|Bạn nên xin tư vấn pháp lý trước khi ký.
+leisure|I read books in my leisure time.|Tôi đọc sách trong thời gian rảnh.
+length|Measure the length of the table.|Hãy đo chiều dài của bàn.
+level|Check that the shelf is level.|Hãy kiểm tra xem kệ có ngang bằng không.
+lie2 (tell a lie)|He told a lie about where he had been.|Anh ấy nói dối về nơi mình đã đến.
+like (find sb/sth pleasant)|Tell me about your likes and dislikes.|Hãy nói cho tôi biết những điều bạn thích và không thích.
+limit|We need to limit the amount of sugar we use.|Chúng ta cần hạn chế lượng đường sử dụng.
+lip|She put a finger to her lips.|Cô ấy đặt một ngón tay lên môi.
+liquid|Water is a liquid at room temperature.|Nước là chất lỏng ở nhiệt độ phòng.
+literature|She studies English literature.|Cô ấy học văn học Anh.
+live2|We watched the concert live on television.|Chúng tôi xem buổi hòa nhạc trực tiếp trên tivi.
+living|He earns a living by repairing bicycles.|Anh ấy kiếm sống bằng nghề sửa xe đạp.
+local|Ask a local where the market is.|Hãy hỏi một người dân địa phương xem chợ ở đâu.
+locate;located;location|We located the hotel on a map; it is located in a quiet location.|Chúng tôi tìm vị trí khách sạn trên bản đồ; nó nằm ở một nơi yên tĩnh.
+lonely|She felt lonely after moving to a new city.|Cô ấy cảm thấy cô đơn sau khi chuyển đến một thành phố mới.
+loss|The shop made a loss last month.|Cửa hàng bị thua lỗ tháng trước.
+mad|She was mad at me for being late.|Cô ấy giận tôi vì đến muộn.
+mainly|The shop mainly sells children's clothes.|Cửa hàng chủ yếu bán quần áo trẻ em.
+management;marketing;market|The management team plans to market the product through online marketing.|Ban quản lý dự định tiếp thị sản phẩm bằng hoạt động quảng bá trực tuyến.
+marriage|They celebrated twenty years of marriage.|Họ kỷ niệm hai mươi năm chung sống vợ chồng.
+meanwhile|I cooked dinner; meanwhile, he set the table.|Tôi nấu bữa tối; trong lúc đó, anh ấy dọn bàn ăn.
+measure|Measure the water before adding it.|Hãy đo lượng nước trước khi thêm vào.
+medium|I would like a medium coffee.|Tôi muốn một ly cà phê cỡ vừa.
+mental|Rest is important for mental health.|Nghỉ ngơi rất quan trọng đối với sức khỏe tinh thần.
+mention|There was no mention of a change in price.|Không có lời nào nhắc đến việc thay đổi giá.
+mess|The children left a mess in the kitchen.|Bọn trẻ để lại một đống bừa bộn trong bếp.
+mild|We had a mild winter this year.|Năm nay chúng tôi có một mùa đông không quá lạnh.
+mix;mixture|Mix the ingredients until the mixture is smooth.|Hãy trộn các nguyên liệu đến khi hỗn hợp mịn.
+mood|I am in a good mood today.|Hôm nay tôi có tâm trạng tốt.
+move|Moving closer to work was a smart move.|Chuyển đến gần nơi làm việc là một quyết định sáng suốt.
+murder|The novel is about a murder in a small village.|Tiểu thuyết kể về một vụ giết người trong một ngôi làng nhỏ.
+muscle|Swimming strengthens your muscles.|Bơi lội làm cơ bắp khỏe hơn.
+musical|We saw a musical at the theater.|Chúng tôi xem một vở nhạc kịch ở nhà hát.
+nail|Use a nail to hang the picture.|Hãy dùng một chiếc đinh để treo bức tranh.
+narrative|The film has a clear narrative.|Bộ phim có một câu chuyện rõ ràng.
+nation|The whole nation celebrated the victory.|Cả nước ăn mừng chiến thắng.
+native|Vietnamese is her native language.|Tiếng Việt là tiếng mẹ đẻ của cô ấy.
+naturally|The fruit grows naturally in this area.|Loại trái cây này mọc tự nhiên ở khu vực này.
+neat|Keep your desk neat.|Hãy giữ bàn học gọn gàng.
+necessarily|Expensive food is not necessarily better.|Thức ăn đắt tiền không nhất thiết ngon hơn.
+need|You needn't bring any food.|Bạn không cần mang theo thức ăn.
+needle|She used a needle to repair the shirt.|Cô ấy dùng kim để sửa áo.
+neither|I do not drink coffee, and neither does he.|Tôi không uống cà phê, và anh ấy cũng không.
+net|The fisherman repaired his net.|Người đánh cá sửa chiếc lưới của mình.
+next|We worked from one morning to the next.|Chúng tôi làm việc từ sáng hôm này đến sáng hôm sau.
+nor|He has neither a car nor a bicycle.|Anh ấy không có ô tô cũng không có xe đạp.
+normal|Things returned to normal after the storm.|Mọi thứ trở lại bình thường sau cơn bão.
+northern|Snow is common in the northern regions.|Tuyết thường có ở các vùng phía bắc.
+note|Please note the date of the next meeting.|Vui lòng ghi lại ngày của cuộc họp tiếp theo.
+now|Now that the rain has stopped, we can go out.|Vì giờ mưa đã tạnh, chúng ta có thể ra ngoài.
+nuclear|The country uses nuclear energy.|Quốc gia này sử dụng năng lượng hạt nhân.
+obvious;obviously|The mistake was obvious, so obviously we had to correct it.|Lỗi rất rõ ràng nên hiển nhiên chúng tôi phải sửa.
+occasion|We only use these plates on special occasions.|Chúng tôi chỉ dùng những chiếc đĩa này vào các dịp đặc biệt.
+occur|The accident occurred near the station.|Tai nạn xảy ra gần nhà ga.
+odd|It is odd that nobody answered the phone.|Thật lạ khi không ai nghe điện thoại.
+old-fashioned|He likes old-fashioned furniture.|Anh ấy thích đồ nội thất kiểu xưa.
+once|Once you finish, you can leave.|Một khi làm xong, bạn có thể ra về.
+operation|The doctor explained the operation to the patient.|Bác sĩ giải thích ca phẫu thuật cho bệnh nhân.
+organized;organizer|The organizer kept the event well organized.|Người tổ chức giữ cho sự kiện diễn ra có trật tự.
+original;originally|The original was written in French; it was originally a short story.|Bản gốc được viết bằng tiếng Pháp; ban đầu nó là một truyện ngắn.
+ought|You ought to get some rest.|Bạn nên nghỉ ngơi một chút.
+ours|The blue car is ours.|Chiếc xe màu xanh là của chúng tôi.
+outdoor;outdoors|The outdoor café lets us eat outdoors.|Quán cà phê ngoài trời cho phép chúng tôi ăn ở bên ngoài.
+overseas|The company has several overseas offices.|Công ty có một số văn phòng ở nước ngoài.
+pack|I bought a pack of pencils.|Tôi mua một gói bút chì.
+package|A package arrived for you this morning.|Một gói hàng gửi cho bạn đã đến sáng nay.
+painful|The cut on my hand is painful.|Vết cắt trên tay tôi rất đau.
+pale|She looked pale after the long journey.|Cô ấy trông nhợt nhạt sau chuyến đi dài.
+pan|Heat the oil in a pan.|Hãy làm nóng dầu trong chảo.
+participate|Twenty students participated in the competition.|Hai mươi học sinh tham gia cuộc thi.
+particularly|I particularly enjoyed the final chapter.|Tôi đặc biệt thích chương cuối.
+pass|You need a pass to enter this building.|Bạn cần thẻ ra vào để vào tòa nhà này.
+passion|She has a passion for photography.|Cô ấy có niềm đam mê nhiếp ảnh.
+peaceful|The village is quiet and peaceful.|Ngôi làng yên tĩnh và thanh bình.
+percentage|What percentage of the students passed?|Bao nhiêu phần trăm học sinh đã đỗ?
+perfectly|The shoes fit perfectly.|Đôi giày vừa hoàn hảo.
+performance|The audience enjoyed the performance.|Khán giả thích buổi biểu diễn.
+personally|Personally, I prefer the smaller house.|Theo ý riêng tôi, tôi thích ngôi nhà nhỏ hơn.
+persuade|I persuaded him to join the class.|Tôi thuyết phục anh ấy tham gia lớp học.
+photographer;photography|The photographer teaches photography at a college.|Nhiếp ảnh gia dạy nhiếp ảnh tại một trường đại học.
+pin|Pin the note to the board.|Hãy ghim tờ ghi chú lên bảng.
+pipe|Water leaked from the broken pipe.|Nước rò ra từ đường ống bị vỡ.
+place|Place the bag under your chair.|Hãy đặt túi dưới ghế của bạn.
+planning|Careful planning made the trip easier.|Việc lên kế hoạch cẩn thận giúp chuyến đi dễ dàng hơn.
+pleasure|It was a pleasure to meet you.|Tôi rất vui được gặp bạn.
+plenty|We have plenty of time.|Chúng ta có nhiều thời gian.
+plot|The film has an interesting plot.|Bộ phim có cốt truyện thú vị.
+plus1|The ticket costs ten dollars plus tax.|Vé giá mười đô la cộng thêm thuế.
+poem;poet;poetry|The poet wrote a poem for a book of poetry.|Nhà thơ viết một bài thơ cho một tập thơ.
+point|She pointed at the map.|Cô ấy chỉ vào bản đồ.
+poison;poisonous|The poisonous plant contains a dangerous poison.|Cây có độc này chứa một chất độc nguy hiểm.
+policy|The school has a clear policy on mobile phones.|Trường có chính sách rõ ràng về điện thoại di động.
+political;politician;politics|The politician discussed political issues with students interested in politics.|Chính trị gia thảo luận các vấn đề chính trị với những sinh viên quan tâm đến chính trị.
+port|The ship arrived at the port.|Con tàu đến cảng.
+portrait|The artist painted a portrait of her father.|Nghệ sĩ vẽ chân dung cha mình.
+possibly|Could you possibly help me with this box?|Bạn có thể giúp tôi với chiếc hộp này được không?
+pot|The flowers are growing in a large pot.|Những bông hoa đang mọc trong một chậu lớn.
+pour|Pour the milk into a cup.|Hãy rót sữa vào cốc.
+poverty|The charity helps families living in poverty.|Tổ chức từ thiện giúp các gia đình sống trong nghèo đói.
+powder|Add a little curry powder to the soup.|Hãy thêm một ít bột cà ri vào súp.
+powerful|The truck has a powerful engine.|Xe tải có một động cơ mạnh mẽ.
+practical|She gave me practical advice about moving.|Cô ấy cho tôi lời khuyên hữu ích về việc chuyển nhà.
+pray;prayer|They pray together and say a short prayer.|Họ cùng cầu nguyện và đọc một lời cầu nguyện ngắn.
+prediction|His prediction about the weather was correct.|Dự đoán thời tiết của anh ấy đã đúng.
+prepared|We are prepared for the meeting.|Chúng tôi đã chuẩn bị cho cuộc họp.
+presentation|She gave a presentation about renewable energy.|Cô ấy thuyết trình về năng lượng tái tạo.
+press|Press the green button to start.|Hãy ấn nút màu xanh để bắt đầu.
+pressure|The team is under pressure to finish on time.|Cả đội chịu áp lực phải hoàn thành đúng hạn.
+pretend|The children pretended to be pirates.|Bọn trẻ giả làm cướp biển.
+previous;previously|The previous owner had previously lived abroad.|Chủ trước đây của căn nhà từng sống ở nước ngoài.
+priest|The priest spoke at the ceremony.|Vị linh mục phát biểu trong buổi lễ.
+primary|Safety is our primary concern.|An toàn là mối quan tâm chính của chúng tôi.
+prince;princess|The story is about a prince and a princess.|Câu chuyện kể về một hoàng tử và một công chúa.
+principal|The principal welcomed the new students.|Hiệu trưởng chào đón các học sinh mới.
+printing|The printing of the books took two days.|Việc in sách mất hai ngày.
+prisoner|The prisoner was allowed to see his family.|Người tù được phép gặp gia đình.
+private|This is a private conversation.|Đây là cuộc trò chuyện riêng tư.
+producer;production|The producer managed the production of the film.|Nhà sản xuất quản lý việc sản xuất bộ phim.
+profession|Teaching is a demanding profession.|Dạy học là một nghề đòi hỏi nhiều công sức.
+profit|The business made a small profit.|Doanh nghiệp thu được một khoản lợi nhuận nhỏ.
+program|She learned to program a simple game.|Cô ấy học lập trình một trò chơi đơn giản.
+promote|The company used posters to promote the event.|Công ty dùng áp phích để quảng bá sự kiện.
+proper;properly|Use the proper tools to do the job properly.|Hãy dùng đúng dụng cụ để thực hiện công việc đúng cách.
+property|The land is private property.|Mảnh đất là tài sản tư nhân.
+protest|Residents protested against the new road.|Người dân phản đối con đường mới.
+proud|She is proud of her son's progress.|Cô ấy tự hào về sự tiến bộ của con trai.
+prove|Can you prove that this is your bicycle?|Bạn có thể chứng minh đây là xe đạp của mình không?
+pull|Give the door a gentle pull.|Hãy kéo nhẹ cánh cửa.
+punish;punishment|The school will punish cheating, but the punishment must be fair.|Nhà trường sẽ xử phạt gian lận nhưng hình phạt phải công bằng.
+push|The cart moved with one strong push.|Xe đẩy chuyển động chỉ sau một cú đẩy mạnh.
+qualified;qualify|She is qualified for the job because her training qualifies her to teach.|Cô ấy đủ trình độ làm công việc này vì khóa đào tạo giúp cô ấy đủ điều kiện giảng dạy.
+quit|He quit his job to study full time.|Anh ấy nghỉ việc để học toàn thời gian.
+quotation;quote|The teacher quoted a sentence, and I wrote down the quotation.|Giáo viên trích một câu, và tôi ghi lại câu trích dẫn đó.
+race (of people)|People of every race are welcome here.|Người thuộc mọi chủng tộc đều được chào đón ở đây.
+racing|She enjoys watching motor racing.|Cô ấy thích xem đua xe.
+raise|He asked his manager for a raise.|Anh ấy xin quản lý tăng lương.
+range|The shop sells a wide range of books.|Cửa hàng bán nhiều loại sách.
+rare;rarely|This bird is rare, so we rarely see it.|Loài chim này hiếm nên chúng tôi ít khi nhìn thấy.
+reaction|What was her reaction to the news?|Cô ấy phản ứng thế nào với tin đó?
+reality|The reality was different from our expectations.|Thực tế khác với những gì chúng tôi mong đợi.
+receipt|Keep the receipt in case you need to return the item.|Hãy giữ biên lai phòng khi bạn cần trả lại món hàng.
+recommendation|We chose the hotel on a friend's recommendation.|Chúng tôi chọn khách sạn theo lời giới thiệu của một người bạn.
+reference|The report includes references to three books.|Báo cáo dẫn thông tin tham khảo từ ba cuốn sách.
+reflect|The lake reflects the mountains.|Hồ phản chiếu những ngọn núi.
+regularly|We meet regularly to discuss our progress.|Chúng tôi gặp nhau đều đặn để thảo luận tiến độ.
+reject|The company rejected my application.|Công ty từ chối đơn của tôi.
+relate;related|These two problems are related; they both relate to money.|Hai vấn đề này có liên quan; cả hai đều liên quan đến tiền.
+relation;relative|The woman is a relative of mine, but I do not know the exact relation.|Người phụ nữ là họ hàng của tôi nhưng tôi không biết chính xác quan hệ họ hàng.
+relaxed;relaxing|The music was relaxing, and I felt relaxed.|Âm nhạc giúp thư giãn, và tôi cảm thấy thoải mái.
+release|The company released a new version of the app.|Công ty phát hành phiên bản mới của ứng dụng.
+reliable|We need a reliable internet connection.|Chúng tôi cần một kết nối internet đáng tin cậy.
+religious|The building is used for religious ceremonies.|Tòa nhà được dùng cho các nghi lễ tôn giáo.
+remain|Please remain seated until the bus stops.|Vui lòng tiếp tục ngồi cho đến khi xe buýt dừng.
+remind|Remind me to buy milk.|Hãy nhắc tôi mua sữa.
+remote|They live in a remote mountain village.|Họ sống trong một ngôi làng miền núi xa xôi.
+rent|We rent a small apartment near work.|Chúng tôi thuê một căn hộ nhỏ gần nơi làm việc.
+repair|The roof needs a repair.|Mái nhà cần được sửa chữa.
+repeat;repeated|This is a repeat of last week's show, with several repeated scenes.|Đây là chương trình phát lại của tuần trước, có một số cảnh được lặp lại.
+represent|She represents her school at the competition.|Cô ấy đại diện trường mình tham gia cuộc thi.
+request|They requested a room with two beds.|Họ yêu cầu phòng có hai giường.
+require|The job requires good communication skills.|Công việc đòi hỏi kỹ năng giao tiếp tốt.
+resource|The library is a useful resource for students.|Thư viện là nguồn tài liệu hữu ích cho sinh viên.
+respect|We should respect other people's opinions.|Chúng ta nên tôn trọng ý kiến của người khác.
+responsibility;responsible|She is responsible for safety, so this is an important responsibility.|Cô ấy phụ trách an toàn nên đây là một trách nhiệm quan trọng.
+result|A lack of sleep can result in poor concentration.|Thiếu ngủ có thể dẫn đến khả năng tập trung kém.
+retire;retired|He plans to retire next year, like his retired sister.|Anh ấy dự định nghỉ hưu năm tới, giống chị gái đã nghỉ hưu của mình.
+revise|Please revise the first paragraph of your essay.|Vui lòng chỉnh sửa đoạn đầu của bài luận.
+ring2|I heard the ring of a telephone.|Tôi nghe thấy tiếng chuông điện thoại.
+risk|Driving too fast increases the risk of an accident.|Lái xe quá nhanh làm tăng nguy cơ tai nạn.
+robot|The robot moves boxes around the factory.|Rô-bốt di chuyển các hộp trong nhà máy.
+roll|Roll the ball toward me.|Hãy lăn quả bóng về phía tôi.
+romantic|They had a romantic dinner by the sea.|Họ có một bữa tối lãng mạn bên biển.
+rope|The boat was tied to the dock with a rope.|Con thuyền được buộc vào cầu tàu bằng dây thừng.
+rough|The road was rough and full of holes.|Con đường gồ ghề và đầy ổ gà.
+row1|We sat in the front row.|Chúng tôi ngồi ở hàng đầu.
+royal|The royal family visited the museum.|Hoàng gia đến thăm bảo tàng.
+rule|The king ruled the country for thirty years.|Nhà vua cai trị đất nước trong ba mươi năm.
+safety;security|The security team checks the building for safety problems.|Đội bảo vệ kiểm tra các vấn đề an toàn của tòa nhà.
+sail;sailor|The sailor raised the sail.|Thủy thủ kéo buồm lên.
+sample|The shop gave me a small sample of the tea.|Cửa hàng cho tôi một mẫu trà nhỏ.
+sand|The children played in the sand.|Bọn trẻ chơi trên cát.
+scan|Scan the page to find the phone number.|Hãy đọc lướt trang để tìm số điện thoại.
+scientific|The claim needs scientific evidence.|Khẳng định này cần bằng chứng khoa học.
+script|The actors read the script together.|Các diễn viên cùng đọc kịch bản.
+secondary|Cost is important, but it is a secondary concern.|Chi phí quan trọng nhưng là mối quan tâm thứ yếu.
+seed|Plant the seeds in wet soil.|Hãy gieo hạt vào đất ẩm.
+sensible|Wearing a helmet is a sensible choice.|Đội mũ bảo hiểm là một lựa chọn hợp lý.
+separate|Separate the white clothes from the colored ones.|Hãy tách quần áo trắng khỏi quần áo màu.
+seriously|We take your complaint seriously.|Chúng tôi xem xét lời phàn nàn của bạn một cách nghiêm túc.
+servant|The servant brought food to the table.|Người hầu mang thức ăn ra bàn.
+set (group)|She bought a set of six cups.|Cô ấy mua một bộ gồm sáu chiếc cốc.
+set (put)|Set the alarm for six o'clock.|Hãy đặt báo thức lúc sáu giờ.
+setting|The story has a beautiful mountain setting.|Câu chuyện lấy bối cảnh vùng núi đẹp.
+sex|The form asks for your age and sex.|Biểu mẫu hỏi tuổi và giới tính của bạn.
+sexual|The course includes information about sexual health.|Khóa học có thông tin về sức khỏe tình dục.
+shake|Give the bottle a shake before opening it.|Hãy lắc chai trước khi mở.
+share|Everyone paid their share of the bill.|Mỗi người trả phần của mình trong hóa đơn.
+sharp|Be careful with that sharp knife.|Hãy cẩn thận với con dao sắc đó.
+shelf|Put the books on the top shelf.|Hãy đặt sách lên kệ trên cùng.
+shell|We found a beautiful shell on the beach.|Chúng tôi tìm thấy một vỏ sò đẹp trên bãi biển.
+shift|My night shift starts at ten.|Ca đêm của tôi bắt đầu lúc mười giờ.
+shine;shiny|The sun shines on the shiny metal roof.|Mặt trời chiếu lên mái kim loại sáng bóng.
+shoot|They will shoot the film in this village.|Họ sẽ quay bộ phim ở ngôi làng này.
+shy|He is shy around new people.|Anh ấy hay ngượng khi ở gần người mới gặp.
+sight|The castle was an impressive sight.|Lâu đài là một cảnh tượng ấn tượng.
+signal|The driver gave a signal before turning.|Người lái xe ra hiệu trước khi rẽ.
+silent|Everyone was silent during the test.|Mọi người đều im lặng trong bài kiểm tra.
+silly|That was a silly mistake.|Đó là một lỗi ngớ ngẩn.
+similarity;similarly|There is a similarity between the designs, and they work similarly.|Hai thiết kế có điểm giống nhau và hoạt động theo cách tương tự.
+simply|I simply forgot to call.|Tôi chỉ đơn giản là quên gọi điện.
+since|We met in June, and I have not seen her since.|Chúng tôi gặp nhau vào tháng Sáu, và từ đó tôi chưa gặp lại cô ấy.
+sink|The boat began to sink.|Con thuyền bắt đầu chìm.
+slave|The museum tells the stories of people who were forced to live as slaves.|Bảo tàng kể những câu chuyện của những người bị ép sống trong cảnh nô lệ.
+slice|Cut the bread into thin slices.|Hãy cắt bánh mì thành các lát mỏng.
+slightly|The new box is slightly larger.|Chiếc hộp mới lớn hơn một chút.
+slow|The car slowed as it approached the crossing.|Xe giảm tốc khi đến gần chỗ giao cắt.
+smooth|The table has a smooth surface.|Chiếc bàn có bề mặt nhẵn.
+software|Install the software before using the printer.|Hãy cài phần mềm trước khi dùng máy in.
+soil|This plant grows well in dry soil.|Cây này phát triển tốt trong đất khô.
+solid|Ice is water in a solid form.|Băng là nước ở dạng rắn.
+sort|Sort the letters by date.|Hãy sắp xếp các lá thư theo ngày.
+southern|The southern coast is popular with tourists.|Bờ biển phía nam được du khách ưa thích.
+specialize|This restaurant specializes in seafood.|Nhà hàng này chuyên về hải sản.
+specifically|The course is designed specifically for beginners.|Khóa học được thiết kế riêng cho người mới bắt đầu.
+spending|We need to reduce our spending.|Chúng ta cần giảm chi tiêu.
+spicy|The soup is too spicy for me.|Súp quá cay đối với tôi.
+spirit|The team played with great spirit.|Đội thi đấu với tinh thần rất cao.
+spoken;written|The test includes spoken and written English.|Bài kiểm tra gồm tiếng Anh nói và tiếng Anh viết.
+spot|This is a good spot for a picnic.|Đây là một chỗ thích hợp để dã ngoại.
+spread|Spread the butter on the bread.|Hãy phết bơ lên bánh mì.
+spring|The cat sprang onto the table.|Con mèo nhảy bật lên bàn.
+stadium|Thousands of fans filled the stadium.|Hàng nghìn người hâm mộ đến kín sân vận động.
+staff|The staff are ready to help you.|Các nhân viên sẵn sàng giúp bạn.
+standard|The product meets international standards.|Sản phẩm đáp ứng các tiêu chuẩn quốc tế.
+state|The report states that costs have increased.|Báo cáo nói rõ rằng chi phí đã tăng.
+statue|A statue stands in the town square.|Một bức tượng đứng ở quảng trường thị trấn.
+stick (piece of wood)|He used a stick to draw in the sand.|Anh ấy dùng một chiếc que vẽ trên cát.
+stick (push into/attach)|Stick the label on the box.|Hãy dán nhãn lên hộp.
+still|Keep still while I take the photo.|Hãy đứng yên khi tôi chụp ảnh.
+store|Store the food in a cool place.|Hãy cất thức ăn ở nơi mát.
+stranger|A stranger asked me for directions.|Một người lạ hỏi tôi đường đi.
+strength|Her greatest strength is her patience.|Điểm mạnh lớn nhất của cô ấy là sự kiên nhẫn.
+string|Tie the package with string.|Hãy buộc gói hàng bằng dây.
+strongly|I strongly agree with your suggestion.|Tôi rất đồng tình với đề xuất của bạn.
+studio|The band recorded the song in a studio.|Ban nhạc thu bài hát trong phòng thu.
+stuff|Put your stuff in the locker.|Hãy để đồ của bạn vào tủ có khóa.
+substance|The laboratory tested the unknown substance.|Phòng thí nghiệm kiểm tra chất chưa rõ đó.
+successfully|She successfully completed the course.|Cô ấy hoàn thành khóa học thành công.
+sudden|A sudden noise woke me up.|Một tiếng động bất ngờ đánh thức tôi.
+suffer|Many people suffer from back pain.|Nhiều người bị đau lưng.
+suit;suitable|The blue jacket suits you, and it is suitable for the interview.|Áo khoác xanh hợp với bạn và phù hợp cho buổi phỏng vấn.
+summarize;summary|Summarize the article and write a short summary.|Hãy tóm tắt bài báo và viết một bản tóm lược ngắn.
+supply|The company supplies food to local schools.|Công ty cung cấp thực phẩm cho các trường địa phương.
+supporter|Supporters cheered for the team.|Các cổ động viên reo hò cổ vũ đội.
+surely|Surely we can find a better solution.|Chắc hẳn chúng ta có thể tìm được một giải pháp tốt hơn.
+surface|Wipe the surface with a clean cloth.|Hãy lau bề mặt bằng khăn sạch.
+survive|The plant survived the cold winter.|Cây sống sót qua mùa đông lạnh.
+swim|We went for a swim after lunch.|Chúng tôi đi bơi sau bữa trưa.
+switch|We switched from tea to coffee.|Chúng tôi chuyển từ trà sang cà phê.
+symptom|A cough can be a symptom of illness.|Ho có thể là một triệu chứng của bệnh.
+tail|The dog wagged its tail.|Con chó vẫy đuôi.
+talent;talented|The talented musician showed her talent at the concert.|Nhạc công có năng khiếu thể hiện tài năng tại buổi hòa nhạc.
+tape|Use tape to close the box.|Hãy dùng băng dính để dán kín hộp.
+tax|The price includes tax.|Giá đã bao gồm thuế.
+technical|Call the technical support team.|Hãy gọi đội hỗ trợ kỹ thuật.
+tend|I tend to wake up early.|Tôi thường thức dậy sớm.
+tent|We slept in a tent near the lake.|Chúng tôi ngủ trong lều gần hồ.
+that|I did not know the bag was that heavy.|Tôi không biết chiếc túi lại nặng đến thế.
+theirs|Our house is smaller than theirs.|Nhà của chúng tôi nhỏ hơn nhà của họ.
+theme|The theme of the exhibition is nature.|Chủ đề của triển lãm là thiên nhiên.
+theory|We discussed a theory about how people learn.|Chúng tôi thảo luận một lý thuyết về cách con người học.
+therefore|The road was closed; therefore, we took another route.|Đường đã đóng, vì vậy chúng tôi đi tuyến khác.
+this|I have never seen a tree this tall.|Tôi chưa từng thấy một cây cao đến thế này.
+though|Though it was cold, we went outside.|Dù trời lạnh, chúng tôi vẫn ra ngoài.
+throat|My throat hurts when I swallow.|Cổ họng tôi đau khi nuốt.
+throughout|It rained throughout the night.|Trời mưa suốt đêm.
+tight|These shoes are too tight.|Đôi giày này quá chật.
+till|Wait here till I return.|Hãy đợi ở đây cho đến khi tôi quay lại.
+tiny|A tiny insect landed on my hand.|Một con côn trùng tí hon đậu lên tay tôi.
+tip|We tipped the waiter after dinner.|Chúng tôi cho người phục vụ tiền boa sau bữa tối.
+tire|The car has a flat tire.|Xe bị xẹp một lốp.
+toe|I hurt my toe on the chair.|Tôi va ngón chân vào ghế và bị đau.
+ton|The truck can carry several tons.|Xe tải có thể chở vài tấn.
+tongue|The hot tea burned my tongue.|Trà nóng làm bỏng lưỡi tôi.
+total;totally|The total cost was higher than expected, which totally surprised me.|Tổng chi phí cao hơn dự kiến, khiến tôi hết sức bất ngờ.
+touch|The fabric has a soft touch.|Loại vải này có cảm giác mềm khi chạm vào.
+tour|The band will tour the country next month.|Ban nhạc sẽ lưu diễn khắp cả nước vào tháng tới.
+trade|The two countries trade with each other.|Hai nước buôn bán với nhau.
+trainer|My trainer helped me prepare for the race.|Huấn luyện viên giúp tôi chuẩn bị cho cuộc đua.
+translate;translation|Please translate this letter and send me the translation.|Vui lòng dịch lá thư này và gửi cho tôi bản dịch.
+transport|Trucks transport food to the stores.|Xe tải vận chuyển thực phẩm đến các cửa hàng.
+treat;treatment|The doctor will treat the patient and explain the treatment.|Bác sĩ sẽ điều trị cho bệnh nhân và giải thích phương pháp điều trị.
+trend|The chart shows a growing trend toward online shopping.|Biểu đồ cho thấy xu hướng mua sắm trực tuyến đang tăng.
+trick|He showed us a simple card trick.|Anh ấy cho chúng tôi xem một trò ảo thuật bài đơn giản.
+truth|Please tell me the truth.|Vui lòng nói cho tôi sự thật.
+tube|She bought a tube of toothpaste.|Cô ấy mua một tuýp kem đánh răng.
+type|Type your name in the box.|Hãy gõ tên của bạn vào ô.
+typically|The journey typically takes an hour.|Chuyến đi thường mất một giờ.
+ugly|The old building looked ugly.|Tòa nhà cũ trông xấu xí.
+unable|She was unable to attend the meeting.|Cô ấy không thể tham dự cuộc họp.
+uncomfortable|This chair is uncomfortable.|Chiếc ghế này không thoải mái.
+underwear|He packed clean underwear for the trip.|Anh ấy xếp đồ lót sạch cho chuyến đi.
+unemployed;unemployment|Many unemployed people are looking for work as unemployment rises.|Nhiều người thất nghiệp đang tìm việc khi tình trạng thất nghiệp tăng.
+unfair|It is unfair to blame only one person.|Chỉ đổ lỗi cho một người là không công bằng.
+union|The workers joined a union.|Công nhân tham gia công đoàn.
+unless|We will go unless it rains.|Chúng tôi sẽ đi trừ khi trời mưa.
+unlike|Unlike her brother, she enjoys cooking.|Khác với anh trai, cô ấy thích nấu ăn.
+unlikely|It is unlikely that the shop will open today.|Cửa hàng khó có thể mở hôm nay.
+unnecessary|The extra meeting was unnecessary.|Cuộc họp thêm đó không cần thiết.
+unpleasant|There was an unpleasant smell in the room.|Trong phòng có mùi khó chịu.
+update|Update the app to get the latest features.|Hãy cập nhật ứng dụng để có các tính năng mới nhất.
+upon|Upon arrival, please report to reception.|Ngay khi đến, vui lòng báo với lễ tân.
+upset|She was upset about losing her phone.|Cô ấy buồn vì mất điện thoại.
+used1|I bought a used bicycle.|Tôi mua một chiếc xe đạp đã qua sử dụng.
+used2|I am used to getting up early.|Tôi đã quen với việc dậy sớm.
+value|This old coin has little value.|Đồng xu cũ này có ít giá trị.
+various|The shop sells various types of tea.|Cửa hàng bán nhiều loại trà khác nhau.
+version|I downloaded the latest version of the app.|Tôi tải phiên bản mới nhất của ứng dụng.
+victim|The charity helps victims of floods.|Tổ chức từ thiện giúp các nạn nhân của lũ lụt.
+view;viewer|Viewers can view the program online.|Người xem có thể xem chương trình trực tuyến.
+violent|The film contains violent scenes.|Bộ phim có các cảnh bạo lực.
+volunteer|She volunteers at the library every Saturday.|Cô ấy làm tình nguyện ở thư viện vào mỗi thứ Bảy.
+warm|Warm the soup before serving it.|Hãy hâm nóng súp trước khi ăn.
+warning|The sign gives a warning about falling rocks.|Biển báo cảnh báo đá rơi.
+waste|Do not waste water.|Đừng lãng phí nước.
+water|Water the plants every morning.|Hãy tưới cây mỗi sáng.
+wave|She waved to us from the train.|Cô ấy vẫy tay chào chúng tôi từ trên tàu.
+weapon|The guard checked for weapons.|Người bảo vệ kiểm tra xem có vũ khí không.
+weigh|Weigh the flour before mixing it.|Hãy cân bột mì trước khi trộn.
+western|The western part of the island is quiet.|Phía tây của hòn đảo yên tĩnh.
+whatever|Choose whatever you like.|Hãy chọn bất cứ thứ gì bạn thích.
+whenever|Call me whenever you need help.|Hãy gọi tôi bất cứ khi nào bạn cần giúp đỡ.
+whether|I do not know whether she will come.|Tôi không biết liệu cô ấy có đến hay không.
+while|We waited for a while.|Chúng tôi đợi một lúc.
+whole|The whole is greater than the sum of its parts.|Tổng thể lớn hơn tổng của các bộ phận riêng lẻ.
+will|She has the will to keep trying.|Cô ấy có ý chí tiếp tục cố gắng.
+win|The team celebrated an important win.|Đội ăn mừng một chiến thắng quan trọng.
+wing|The bird spread its wings.|Con chim dang cánh.
+within|Please reply within two days.|Vui lòng trả lời trong vòng hai ngày.
+wonder|I wonder why the train is late.|Tôi tự hỏi vì sao tàu đến muộn.
+wool|The sweater is made of wool.|Chiếc áo len được làm bằng len.
+worldwide|The company sells its products worldwide.|Công ty bán sản phẩm trên toàn thế giới.
+worry|Money is a constant worry for them.|Tiền bạc là nỗi lo thường trực của họ.
+worse;worst|He played worse yesterday, but he played worst today.|Hôm qua anh ấy chơi kém hơn, nhưng hôm nay chơi kém nhất.
+worth|This book is worth reading.|Cuốn sách này đáng đọc.
+wrong|I spelled the name wrong.|Tôi viết sai chính tả tên đó.
+young|The bird feeds its young.|Con chim cho các con non ăn.
+youth|She spent her youth in the countryside.|Cô ấy trải qua thời trẻ ở vùng nông thôn.
