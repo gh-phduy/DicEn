@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "DicEn",
+    "slug": "dicen",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": { "package": "com.quizflash.oxfordradio" },
+    "ios": { "bundleIdentifier": "com.quizflash.oxfordradio" }
+  }
+}

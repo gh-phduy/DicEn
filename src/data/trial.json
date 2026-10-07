@@ -1,0 +1,4622 @@
+[
+  {
+    "id": "afford",
+    "term": "afford",
+    "definition": "có đủ tiền hoặc điều kiện để làm gì",
+    "partOfSpeech": "v.",
+    "phonetic": "/əˈfɔːrd/",
+    "level": "B1",
+    "meanings": [
+      "có đủ tiền hoặc điều kiện để làm gì"
+    ],
+    "examples": [
+      {
+        "en": "They saved diligently for three years so they could afford a trip to Europe.",
+        "vi": "Họ đã tiết kiệm chăm chỉ suốt ba năm để có thể đủ tiền đi du lịch châu Âu."
+      },
+      {
+        "en": "The company cannot afford the risk of losing its most experienced engineers.",
+        "vi": "Công ty không thể gánh nổi rủi ro đánh mất những kỹ sư giàu kinh nghiệm nhất."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "affordability",
+          "vi": "khả năng chi trả; mức giá vừa túi tiền"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "afford",
+          "vi": "có đủ khả năng chi trả"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "affordable",
+          "vi": "có giá phải chăng"
+        },
+        {
+          "term": "unaffordable",
+          "vi": "quá đắt, không đủ khả năng chi trả"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "affordably",
+          "vi": "với giá phải chăng"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "can / cannot afford to",
+        "vi": "có thể / không thể đủ sức chi trả (tiền/thời gian)"
+      },
+      {
+        "phrase": "afford a home / car",
+        "vi": "đủ tiền mua nhà / mua xe"
+      }
+    ],
+    "usageNote": "Thường dùng can/cannot afford + danh từ hoặc to + động từ. Nhấn mạnh khả năng chi trả, không phải việc đã trả tiền.",
+    "comparisons": [
+      {
+        "term": "pay for",
+        "vi": "trả tiền cho",
+        "nuance": "Nói về hành động trả tiền. Có thể afford một món đồ nhưng chưa pay for nó.",
+        "register": "Trung tính",
+        "example": {
+          "en": "I paid for the tickets yesterday.",
+          "vi": "Tôi đã trả tiền vé hôm qua."
+        }
+      },
+      {
+        "term": "manage",
+        "vi": "xoay xở, làm được",
+        "nuance": "Rộng hơn tiền bạc: làm được việc dù khó. Manage to buy không chỉ nói về khả năng tài chính.",
+        "register": "Trung tính",
+        "example": {
+          "en": "We managed to buy the last two tickets.",
+          "vi": "Chúng tôi đã xoay xở mua được hai vé cuối."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": [
+      {
+        "title": "Cambridge · afford",
+        "url": "https://dictionary.cambridge.org/dictionary/english/afford"
+      }
+    ]
+  },
+  {
+    "id": "annoy",
+    "term": "annoy",
+    "definition": "làm bực mình, gây khó chịu",
+    "partOfSpeech": "v.",
+    "phonetic": "/əˈnɔɪ/",
+    "level": "B1",
+    "meanings": [
+      "làm bực mình, gây khó chịu"
+    ],
+    "examples": [
+      {
+        "en": "It really annoys me when people talk loudly on the phone during movies.",
+        "vi": "Tôi thực sự rất bực mình khi mọi người nói chuyện điện thoại ầm ĩ trong lúc xem phim."
+      },
+      {
+        "en": "His repeated interruptions annoyed the lecturer during the presentation.",
+        "vi": "Những lần ngắt lời liên tục của anh ấy đã làm giảng viên bực mình trong buổi thuyết trình."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "annoyance",
+          "vi": "sự bực mình; điều gây phiền"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "annoy",
+          "vi": "làm bực mình"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "annoyed",
+          "vi": "cảm thấy bực mình"
+        },
+        {
+          "term": "annoying",
+          "vi": "gây bực mình"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "annoyingly",
+          "vi": "một cách gây khó chịu"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "annoy someone deeply",
+        "vi": "khiến ai đó vô cùng bực bội"
+      },
+      {
+        "phrase": "get annoyed with",
+        "vi": "trở nên cáu gắt với ai đó"
+      }
+    ],
+    "usageNote": "Annoy thường là sự khó chịu vì việc lặp lại hoặc phiền toái. Annoyed nói về người cảm thấy khó chịu; annoying nói về thứ gây khó chịu.",
+    "comparisons": [
+      {
+        "term": "irritate",
+        "vi": "làm cáu, gây kích ứng",
+        "nuance": "Gần annoy nhưng cũng dùng cho kích ứng cơ thể; thường gợi cảm giác khó chịu dai dẳng.",
+        "register": "Trung tính",
+        "example": {
+          "en": "This soap irritates my skin.",
+          "vi": "Loại xà phòng này gây kích ứng da tôi."
+        }
+      },
+      {
+        "term": "bother",
+        "vi": "làm phiền, khiến lo lắng",
+        "nuance": "Rộng hơn bực mình: một vấn đề có thể bother bạn vì nó khiến bạn lo.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Does the noise bother you?",
+          "vi": "Tiếng ồn có làm phiền bạn không?"
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "assist",
+    "term": "assist",
+    "definition": "giúp đỡ, hỗ trợ",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/əˈsɪst/",
+    "level": "B1",
+    "meanings": [
+      "giúp đỡ, hỗ trợ"
+    ],
+    "examples": [
+      {
+        "en": "Our customer support team is always ready to assist you with any questions.",
+        "vi": "Đội ngũ hỗ trợ khách hàng của chúng tôi luôn sẵn sàng giúp đỡ bạn với bất kỳ câu hỏi nào."
+      },
+      {
+        "en": "Smart technology can assist drivers in navigating unfamiliar mountain roads.",
+        "vi": "Công nghệ thông minh có thể hỗ trợ các tài xế định vị trên những cung đường núi xa lạ."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "assistance",
+          "vi": "sự hỗ trợ"
+        },
+        {
+          "term": "assistant",
+          "vi": "người trợ lý"
+        },
+        {
+          "term": "assist",
+          "vi": "pha kiến tạo trong thể thao"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "assist",
+          "vi": "hỗ trợ"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "assisted",
+          "vi": "có sự hỗ trợ"
+        },
+        {
+          "term": "unassisted",
+          "vi": "không có sự hỗ trợ"
+        },
+        {
+          "term": "assistive",
+          "vi": "hỗ trợ chức năng, thường nói về thiết bị hoặc công nghệ"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "assist someone with / in",
+        "vi": "hỗ trợ ai đó làm việc gì"
+      },
+      {
+        "phrase": "assist in doing something",
+        "vi": "góp phần hỗ trợ việc gì"
+      }
+    ],
+    "usageNote": "Assist thường trang trọng hơn help; hay gặp trong công việc, dịch vụ và hướng dẫn. Assist someone with something / in doing something.",
+    "comparisons": [
+      {
+        "term": "help",
+        "vi": "giúp",
+        "nuance": "Từ rộng, tự nhiên trong giao tiếp hằng ngày; dùng được cho việc lớn lẫn việc nhỏ.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Could you help me carry this bag?",
+          "vi": "Bạn giúp tôi mang túi này được không?"
+        }
+      },
+      {
+        "term": "support",
+        "vi": "hỗ trợ, ủng hộ",
+        "nuance": "Thường nhấn mạnh sự hậu thuẫn về tinh thần, tài chính hoặc trong thời gian dài.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Her family supported her through college.",
+          "vi": "Gia đình hỗ trợ cô ấy suốt thời gian học đại học."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": [
+      {
+        "title": "Cambridge · assist",
+        "url": "https://dictionary.cambridge.org/dictionary/english/assist"
+      }
+    ]
+  },
+  {
+    "id": "attach",
+    "term": "attach",
+    "definition": "gắn vào; đính kèm",
+    "partOfSpeech": "v.",
+    "phonetic": "/əˈtætʃ/",
+    "level": "B1",
+    "meanings": [
+      "gắn vào; đính kèm"
+    ],
+    "examples": [
+      {
+        "en": "Do not forget to attach the receipt when submitting your reimbursement form.",
+        "vi": "Đừng quên đính kèm hóa đơn khi gửi phiếu yêu cầu thanh toán chi phí."
+      },
+      {
+        "en": "Attach the safety harness securely before beginning the rock climb.",
+        "vi": "Hãy gắn dây đai an toàn thật chắc chắn trước khi bắt đầu leo vách đá."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "attachment",
+          "vi": "tệp đính kèm; sự gắn bó"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "attach",
+          "vi": "gắn vào, đính kèm"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "attached",
+          "vi": "được gắn vào; gắn bó"
+        },
+        {
+          "term": "unattached",
+          "vi": "không gắn vào; chưa có ràng buộc"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "attach a file / document to",
+        "vi": "đính kèm tập tin / tài liệu vào email"
+      },
+      {
+        "phrase": "attach importance to",
+        "vi": "đặc biệt coi trọng điều gì"
+      }
+    ],
+    "usageNote": "Attach A to B: gắn A vào B. Với email, attach a file là đính kèm tệp; attached to còn chỉ sự gắn bó tình cảm.",
+    "comparisons": [
+      {
+        "term": "connect",
+        "vi": "kết nối",
+        "nuance": "Nhấn mạnh liên kết giữa hai vật, người hoặc hệ thống, không nhất thiết gắn vật lý.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Connect your phone to the speaker.",
+          "vi": "Kết nối điện thoại với loa."
+        }
+      },
+      {
+        "term": "fasten",
+        "vi": "cài, buộc chặt",
+        "nuance": "Nhấn mạnh giữ chắc bằng khóa, dây, nút; attach chỉ việc gắn vào.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Fasten the strap before lifting the bag.",
+          "vi": "Cài chặt dây trước khi nhấc túi."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "combine",
+    "term": "combine",
+    "definition": "kết hợp, gộp lại",
+    "partOfSpeech": "v.",
+    "phonetic": "/kəmˈbaɪn/",
+    "level": "B1",
+    "meanings": [
+      "kết hợp, gộp lại"
+    ],
+    "examples": [
+      {
+        "en": "The innovative dish combines traditional Vietnamese spices with modern French cooking techniques.",
+        "vi": "Món ăn sáng tạo này kết hợp gia vị truyền thống Việt Nam với kỹ thuật nấu nướng hiện đại của Pháp."
+      },
+      {
+        "en": "Two regional courier companies decided to combine their transport networks to cut operational costs.",
+        "vi": "Hai công ty chuyển phát nhanh trong vùng đã quyết định hợp nhất mạng lưới vận tải để cắt giảm chi phí hoạt động."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "combination",
+          "vi": "sự kết hợp; tổ hợp"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "combine",
+          "vi": "kết hợp"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "combined",
+          "vi": "được kết hợp, chung"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "combine with",
+        "vi": "kết hợp với cái gì"
+      },
+      {
+        "phrase": "combine theory with practice",
+        "vi": "kết hợp lý thuyết với thực hành"
+      },
+      {
+        "phrase": "combined efforts",
+        "vi": "những nỗ lực phối hợp chung"
+      }
+    ],
+    "usageNote": "Combine A with B: kết hợp hai thứ để cùng sử dụng hoặc tạo kết quả chung; chúng không nhất thiết mất đặc điểm riêng.",
+    "comparisons": [
+      {
+        "term": "mix",
+        "vi": "trộn",
+        "nuance": "Thường nói về trộn nguyên liệu, chất hoặc các thành phần; thiên về quá trình pha trộn.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Mix the flour with water.",
+          "vi": "Trộn bột với nước."
+        }
+      },
+      {
+        "term": "merge",
+        "vi": "sáp nhập, nhập thành một",
+        "nuance": "Nhấn mạnh các phần trở thành một đơn vị, hay dùng với công ty, tệp và làn đường.",
+        "register": "Trung tính",
+        "example": {
+          "en": "The two companies merged last year.",
+          "vi": "Hai công ty sáp nhập năm ngoái."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "conclude",
+    "term": "conclude",
+    "definition": "kết luận; kết thúc",
+    "partOfSpeech": "v.",
+    "phonetic": "/kənˈkluːd/",
+    "level": "B1",
+    "meanings": [
+      "kết luận; kết thúc"
+    ],
+    "examples": [
+      {
+        "en": "The keynote speaker concluded her inspiring presentation with a famous quote.",
+        "vi": "Diễn giả chính đã khép lại bài thuyết trình truyền cảm hứng của mình bằng một câu danh ngôn nổi tiếng."
+      },
+      {
+        "en": "From the forensic evidence presented, the jury concluded that the defendant was innocent.",
+        "vi": "Từ những bằng chứng pháp y được đưa ra, bồi thẩm đoàn đã kết luận rằng bị cáo vô tội."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "conclusion",
+          "vi": "kết luận; phần kết"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "conclude",
+          "vi": "kết luận, kết thúc"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "conclusive",
+          "vi": "mang tính quyết định, đủ để kết luận"
+        },
+        {
+          "term": "inconclusive",
+          "vi": "chưa đủ để kết luận"
+        },
+        {
+          "term": "concluding",
+          "vi": "thuộc phần kết"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "conclusively",
+          "vi": "một cách dứt khoát"
+        },
+        {
+          "term": "inconclusively",
+          "vi": "không đưa đến kết luận chắc chắn"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "conclude that",
+        "vi": "kết luận rằng"
+      },
+      {
+        "phrase": "in conclusion",
+        "vi": "tóm lại, để kết luận (trong văn viết/nói)"
+      },
+      {
+        "phrase": "conclude a treaty / agreement",
+        "vi": "ký kết một hiệp định / thỏa ước"
+      }
+    ],
+    "usageNote": "Có hai nghĩa chính: conclude that + mệnh đề là rút ra kết luận; conclude a talk là kết thúc bài nói.",
+    "comparisons": [
+      {
+        "term": "finish",
+        "vi": "làm xong, kết thúc",
+        "nuance": "Tự nhiên trong đời thường; nói xong một việc, không mang nghĩa suy luận ra kết quả.",
+        "register": "Trung tính",
+        "example": {
+          "en": "I finished my homework.",
+          "vi": "Tôi đã làm xong bài tập."
+        }
+      },
+      {
+        "term": "infer",
+        "vi": "suy ra",
+        "nuance": "Nhấn mạnh suy luận từ bằng chứng gián tiếp; không dùng để nói kết thúc buổi họp.",
+        "register": "Trung tính",
+        "example": {
+          "en": "We inferred that someone had been there.",
+          "vi": "Chúng tôi suy ra rằng đã có người ở đó."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "confuse",
+    "term": "confuse",
+    "definition": "làm bối rối; nhầm lẫn",
+    "partOfSpeech": "v.",
+    "phonetic": "/kənˈfjuːz/",
+    "level": "B1",
+    "meanings": [
+      "làm bối rối; nhầm lẫn"
+    ],
+    "examples": [
+      {
+        "en": "The complex technical jargon in the user manual confused many first-time buyers.",
+        "vi": "Những thuật ngữ kỹ thuật phức tạp trong sách hướng dẫn đã làm nhiều người mua lần đầu bối rối."
+      },
+      {
+        "en": "Do not confuse genuine confidence with arrogant behavior.",
+        "vi": "Đừng nhầm lẫn giữa sự tự tin chân chính với hành vi kiêu ngạo."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "confusion",
+          "vi": "sự bối rối; sự nhầm lẫn"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "confuse",
+          "vi": "làm bối rối, nhầm"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "confused",
+          "vi": "bối rối"
+        },
+        {
+          "term": "confusing",
+          "vi": "gây khó hiểu"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "confusingly",
+          "vi": "một cách gây khó hiểu"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "confuse A with / and B",
+        "vi": "nhầm lẫn giữa A và B"
+      },
+      {
+        "phrase": "confuse the issue",
+        "vi": "làm cho vấn đề thêm rắc rối, mập mờ"
+      }
+    ],
+    "usageNote": "Confuse A with B: nhầm A với B. Confused là cảm thấy bối rối; confusing là khó hiểu, gây bối rối.",
+    "comparisons": [
+      {
+        "term": "puzzle",
+        "vi": "làm khó hiểu",
+        "nuance": "Thường gợi một vấn đề khiến người ta phải suy nghĩ tìm lời giải.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Her sudden decision puzzled me.",
+          "vi": "Quyết định đột ngột của cô ấy khiến tôi khó hiểu."
+        }
+      },
+      {
+        "term": "mislead",
+        "vi": "khiến hiểu sai",
+        "nuance": "Dẫn người ta đến niềm tin hoặc hướng đi sai, có thể do thông tin sai hay gây hiểu lầm.",
+        "register": "Trung tính",
+        "example": {
+          "en": "The advertisement misled customers.",
+          "vi": "Quảng cáo đã khiến khách hàng hiểu sai."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "count",
+    "term": "count",
+    "definition": "đếm; tính là quan trọng",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/kaʊnt/",
+    "level": "A2",
+    "meanings": [
+      "đếm; tính là quan trọng"
+    ],
+    "examples": [
+      {
+        "en": "The cashier carefully counted the paper banknotes before putting them into the cash drawer.",
+        "vi": "Nhân viên thu ngân đã cẩn thận đếm các tờ tiền giấy trước khi cất vào ngăn kéo đựng tiền."
+      },
+      {
+        "en": "It is not just what you say that counts, but what you actually do.",
+        "vi": "Không chỉ lời bạn nói ra mới quan trọng, mà chính những việc bạn thực sự làm mới có giá trị."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "count",
+          "vi": "lần đếm; tổng số"
+        },
+        {
+          "term": "counting",
+          "vi": "việc đếm"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "count",
+          "vi": "đếm"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "countable",
+          "vi": "đếm được"
+        },
+        {
+          "term": "uncountable",
+          "vi": "không đếm được"
+        },
+        {
+          "term": "countless",
+          "vi": "vô số"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "count on someone",
+        "vi": "trông cậy, tin tưởng vào ai đó"
+      },
+      {
+        "phrase": "count down",
+        "vi": "đếm ngược thời gian"
+      },
+      {
+        "phrase": "every vote / moment counts",
+        "vi": "mỗi lá phiếu / khoảnh khắc đều có giá trị"
+      }
+    ],
+    "usageNote": "Count the tickets là đếm vé. Every minute counts là mỗi phút đều quan trọng; count on someone là tin cậy vào ai.",
+    "comparisons": [
+      {
+        "term": "calculate",
+        "vi": "tính toán",
+        "nuance": "Dùng phép toán để tìm kết quả; count thường đếm từng đơn vị.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Calculate the total cost.",
+          "vi": "Tính tổng chi phí."
+        }
+      },
+      {
+        "term": "matter",
+        "vi": "có ý nghĩa, quan trọng",
+        "nuance": "Gần nghĩa count trong every vote counts; không dùng thay count khi đếm số lượng.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Your opinion matters to me.",
+          "vi": "Ý kiến của bạn quan trọng với tôi."
+        }
+      }
+    ],
+    "levels": [
+      "A2",
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "cover",
+    "term": "cover",
+    "definition": "che phủ; bao quát; chi trả",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/ˈkʌvər/",
+    "level": "A2",
+    "meanings": [
+      "che phủ; bao quát; chi trả"
+    ],
+    "examples": [
+      {
+        "en": "A thick blanket of snow covered the alpine valley overnight.",
+        "vi": "Một lớp tuyết dày đã bao phủ khắp thung lũng vùng núi cao chỉ sau một đêm."
+      },
+      {
+        "en": "Does your medical insurance policy cover dental treatment?",
+        "vi": "Hợp đồng bảo hiểm y tế của bạn có chi trả cho việc điều trị nha khoa không?"
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "cover",
+          "vi": "vật che; bìa"
+        },
+        {
+          "term": "coverage",
+          "vi": "phạm vi bao phủ; sự đưa tin"
+        },
+        {
+          "term": "covering",
+          "vi": "lớp phủ"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "cover",
+          "vi": "che phủ"
+        },
+        {
+          "term": "uncover",
+          "vi": "bỏ lớp che; phát hiện"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "covered",
+          "vi": "được che phủ"
+        },
+        {
+          "term": "uncovered",
+          "vi": "không được che; được phát hiện"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "cover with",
+        "vi": "che phủ bằng cái gì"
+      },
+      {
+        "phrase": "cover expenses / costs",
+        "vi": "đủ tiền chi trả cho các khoản phí"
+      },
+      {
+        "phrase": "cover a story",
+        "vi": "đưa tin phóng sự về một câu chuyện"
+      }
+    ],
+    "usageNote": "Cover có nhiều nghĩa: phủ bề mặt, bao quát nội dung, đưa tin hoặc chi trả chi phí. Chọn từ gần nghĩa theo từng ngữ cảnh.",
+    "comparisons": [
+      {
+        "term": "hide",
+        "vi": "giấu, che khuất",
+        "nuance": "Nhấn mạnh không để nhìn thấy hoặc biết đến; cover có thể chỉ phủ mà không có ý giấu.",
+        "register": "Trung tính",
+        "example": {
+          "en": "She hid the gift in a drawer.",
+          "vi": "Cô ấy giấu món quà trong ngăn kéo."
+        }
+      },
+      {
+        "term": "include",
+        "vi": "bao gồm",
+        "nuance": "Chỉ có một phần trong tổng thể. Cover a topic thường là đề cập hoặc giải thích chủ đề đó.",
+        "register": "Trung tính",
+        "example": {
+          "en": "The price includes breakfast.",
+          "vi": "Giá đã bao gồm bữa sáng."
+        }
+      }
+    ],
+    "levels": [
+      "A2",
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "decorate",
+    "term": "decorate",
+    "definition": "trang trí",
+    "partOfSpeech": "v.",
+    "phonetic": "/ˈdekəreɪt/",
+    "level": "B2",
+    "meanings": [
+      "trang trí"
+    ],
+    "examples": [
+      {
+        "en": "The children had great fun decorating the giant Christmas tree with colorful baubles.",
+        "vi": "Lũ trẻ đã rất vui khi trang trí cây thông Noel khổng lồ bằng những quả châu rực rỡ."
+      },
+      {
+        "en": "They hired a talented interior designer to redecorate their living room in Scandinavian style.",
+        "vi": "Họ đã thuê một nhà thiết kế nội thất tài năng để trang trí lại phòng khách theo phong cách Bắc Âu."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "decoration",
+          "vi": "đồ trang trí; việc trang trí"
+        },
+        {
+          "term": "decorator",
+          "vi": "người trang trí"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "decorate",
+          "vi": "trang trí"
+        },
+        {
+          "term": "redecorate",
+          "vi": "trang trí lại"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "decorative",
+          "vi": "có tính trang trí"
+        },
+        {
+          "term": "decorated",
+          "vi": "được trang trí"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "decoratively",
+          "vi": "theo cách có tính trang trí"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "decorate for (Christmas / Tết)",
+        "vi": "trang hoàng nhà cửa đón lễ"
+      },
+      {
+        "phrase": "decorate with",
+        "vi": "trang trí bằng hoa, đèn, tranh"
+      }
+    ],
+    "usageNote": "Decorate something with something: trang trí bằng gì. Trong ngữ cảnh quân đội, decorate còn có nghĩa trao huân chương.",
+    "comparisons": [
+      {
+        "term": "adorn",
+        "vi": "tô điểm",
+        "nuance": "Gần decorate nhưng thiên về làm đẹp, thường gặp trong văn viết giàu hình ảnh.",
+        "register": "Văn viết",
+        "example": {
+          "en": "Flowers adorned the table.",
+          "vi": "Hoa tô điểm cho chiếc bàn."
+        }
+      },
+      {
+        "term": "furnish",
+        "vi": "trang bị nội thất",
+        "nuance": "Cung cấp bàn ghế, đồ dùng cho phòng; không chỉ thêm đồ trang trí.",
+        "register": "Trung tính",
+        "example": {
+          "en": "They furnished the apartment cheaply.",
+          "vi": "Họ trang bị nội thất căn hộ với chi phí thấp."
+        }
+      }
+    ],
+    "levels": [
+      "B2"
+    ],
+    "references": []
+  },
+  {
+    "id": "define",
+    "term": "define",
+    "definition": "định nghĩa; xác định rõ",
+    "partOfSpeech": "v.",
+    "phonetic": "/dɪˈfaɪn/",
+    "level": "B1",
+    "meanings": [
+      "định nghĩa; xác định rõ"
+    ],
+    "examples": [
+      {
+        "en": "A good dictionary defines words clearly and provides authentic usage examples.",
+        "vi": "Một cuốn từ điển tốt sẽ định nghĩa từ ngữ rõ ràng và cung cấp các câu ví dụ sử dụng chân thực."
+      },
+      {
+        "en": "Your past mistakes do not define who you are as a person today.",
+        "vi": "Những sai lầm trong quá khứ không định hình nên con người bạn ngày hôm nay."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "definition",
+          "vi": "định nghĩa; độ rõ nét"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "define",
+          "vi": "định nghĩa"
+        },
+        {
+          "term": "redefine",
+          "vi": "định nghĩa lại"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "defined",
+          "vi": "được xác định rõ"
+        },
+        {
+          "term": "undefined",
+          "vi": "chưa xác định"
+        },
+        {
+          "term": "definable",
+          "vi": "có thể xác định được"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "clearly define",
+        "vi": "định nghĩa / phân định rõ ràng"
+      },
+      {
+        "phrase": "define a term / concept",
+        "vi": "định nghĩa một thuật ngữ / khái niệm"
+      }
+    ],
+    "usageNote": "Define a word là giải thích nghĩa; define a role hoặc boundary là làm rõ phạm vi, vai trò hay ranh giới.",
+    "comparisons": [
+      {
+        "term": "describe",
+        "vi": "mô tả",
+        "nuance": "Nêu đặc điểm của một thứ; không nhất thiết xác lập nghĩa hay giới hạn chính xác.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Describe your ideal home.",
+          "vi": "Mô tả ngôi nhà lý tưởng của bạn."
+        }
+      },
+      {
+        "term": "specify",
+        "vi": "nêu cụ thể",
+        "nuance": "Chỉ rõ chi tiết hoặc yêu cầu, thường trong hướng dẫn và văn bản kỹ thuật.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Please specify the delivery date.",
+          "vi": "Vui lòng nêu cụ thể ngày giao hàng."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "deliver",
+    "term": "deliver",
+    "definition": "giao, chuyển đến; trình bày",
+    "partOfSpeech": "v.",
+    "phonetic": "/dɪˈlɪvər/",
+    "level": "B1",
+    "meanings": [
+      "giao, chuyển đến; trình bày"
+    ],
+    "examples": [
+      {
+        "en": "The courier company delivers millions of parcel packages safely every single day.",
+        "vi": "Công ty chuyển phát nhanh giao hàng triệu kiện hàng an toàn mỗi ngày."
+      },
+      {
+        "en": "The skilled doctor delivered healthy twin babies early this morning.",
+        "vi": "Bác sĩ giỏi đã đỡ đẻ thành công cho hai bé sinh đôi khỏe mạnh vào sáng sớm nay."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "delivery",
+          "vi": "việc giao hàng; cách trình bày"
+        },
+        {
+          "term": "deliverer",
+          "vi": "người giao hoặc giải cứu"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "deliver",
+          "vi": "giao, chuyển đến"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "deliverable",
+          "vi": "có thể giao được"
+        },
+        {
+          "term": "undelivered",
+          "vi": "chưa được giao"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "deliver a speech / presentation",
+        "vi": "trình bày một bài diễn văn / bài thuyết trình"
+      },
+      {
+        "phrase": "deliver on a promise",
+        "vi": "thực hiện đúng cam kết đã hứa"
+      },
+      {
+        "phrase": "deliver to your door",
+        "vi": "giao hàng đến tận cửa nhà"
+      }
+    ],
+    "usageNote": "Deliver a parcel: giao kiện hàng. Deliver a speech: đọc hoặc trình bày bài phát biểu. Deliver on a promise: thực hiện lời hứa.",
+    "comparisons": [
+      {
+        "term": "send",
+        "vi": "gửi",
+        "nuance": "Nhấn mạnh bắt đầu gửi đi; deliver nhấn mạnh chuyển đến người hoặc nơi nhận.",
+        "register": "Trung tính",
+        "example": {
+          "en": "I sent the package on Monday.",
+          "vi": "Tôi gửi kiện hàng vào thứ Hai."
+        }
+      },
+      {
+        "term": "bring",
+        "vi": "mang đến",
+        "nuance": "Tự nhiên, rộng hơn, không nhất thiết là dịch vụ giao hàng hay giao cho người nhận cụ thể.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Bring your notebook tomorrow.",
+          "vi": "Mang sổ tay của bạn đến vào ngày mai."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "determine",
+    "term": "determine",
+    "definition": "xác định; quyết định kết quả",
+    "partOfSpeech": "v.",
+    "phonetic": "/dɪˈtɜːrmɪn/",
+    "level": "B1",
+    "meanings": [
+      "xác định; quyết định kết quả"
+    ],
+    "examples": [
+      {
+        "en": "DNA forensic analysis helped detectives determine the identity of the victim.",
+        "vi": "Phân tích pháp y DNA đã giúp các thám tử xác định danh tính của nạn nhân."
+      },
+      {
+        "en": "Your daily study habits will largely determine your ultimate academic success.",
+        "vi": "Thói quen học tập hàng ngày sẽ quyết định phần lớn sự thành công trong học tập của bạn."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "determination",
+          "vi": "sự quyết tâm; việc xác định"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "determine",
+          "vi": "xác định"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "determined",
+          "vi": "quyết tâm"
+        },
+        {
+          "term": "determining",
+          "vi": "mang tính quyết định"
+        },
+        {
+          "term": "undetermined",
+          "vi": "chưa xác định"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "determinedly",
+          "vi": "một cách kiên quyết"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "determine the cause of",
+        "vi": "xác định nguyên nhân cốt lõi của sự việc"
+      },
+      {
+        "phrase": "be determined to do",
+        "vi": "vô cùng quyết tâm thực hiện điều gì"
+      }
+    ],
+    "usageNote": "Determine the cause là tìm ra nguyên nhân. Một yếu tố determines an outcome khi nó quyết định kết quả; determined còn có nghĩa quyết tâm.",
+    "comparisons": [
+      {
+        "term": "decide",
+        "vi": "quyết định",
+        "nuance": "Thường là chọn giữa các khả năng; determine còn là xác định sự thật sau khi tìm hiểu.",
+        "register": "Trung tính",
+        "example": {
+          "en": "We decided to leave early.",
+          "vi": "Chúng tôi quyết định rời đi sớm."
+        }
+      },
+      {
+        "term": "establish",
+        "vi": "xác lập",
+        "nuance": "Trong nghĩa tìm ra sự thật, nhấn mạnh xác nhận điều đó bằng bằng chứng.",
+        "register": "Trung tính",
+        "example": {
+          "en": "The test established the cause.",
+          "vi": "Xét nghiệm đã xác định nguyên nhân."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "divide",
+    "term": "divide",
+    "definition": "chia, phân chia",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/dɪˈvaɪd/",
+    "level": "B1",
+    "meanings": [
+      "chia, phân chia"
+    ],
+    "examples": [
+      {
+        "en": "The broad river divides the city into the historic north and modern south districts.",
+        "vi": "Dòng sông rộng lớn chia thành phố thành hai quận: khu phía bắc cổ kính và khu phía nam hiện đại."
+      },
+      {
+        "en": "Controversial political issues can deeply divide communities and families.",
+        "vi": "Những vấn đề chính trị gây tranh cãi có thể gây chia rẽ sâu sắc các cộng đồng và gia đình."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "division",
+          "vi": "sự chia; phép chia; bộ phận"
+        },
+        {
+          "term": "divider",
+          "vi": "vật ngăn, vạch phân cách"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "divide",
+          "vi": "chia"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "divided",
+          "vi": "bị chia; bất đồng"
+        },
+        {
+          "term": "divisible",
+          "vi": "chia hết được"
+        },
+        {
+          "term": "undivided",
+          "vi": "không bị phân chia"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "divide into",
+        "vi": "chia thành nhiều phần nhỏ"
+      },
+      {
+        "phrase": "divide by",
+        "vi": "chia cho một con số (toán)"
+      },
+      {
+        "phrase": "digital divide",
+        "vi": "khoảng cách số (chênh lệch tiếp cận công nghệ)"
+      }
+    ],
+    "usageNote": "Divide something into parts: chia thành các phần; divide by dùng trong phép chia. Chia không đồng nghĩa với phân phối cho từng người.",
+    "comparisons": [
+      {
+        "term": "split",
+        "vi": "tách, chia",
+        "nuance": "Hay dùng khi chia thành nhóm hoặc phần; split a bill là chia tiền thanh toán.",
+        "register": "Trung tính",
+        "example": {
+          "en": "We split the bill equally.",
+          "vi": "Chúng tôi chia đều tiền hóa đơn."
+        }
+      },
+      {
+        "term": "separate",
+        "vi": "tách riêng",
+        "nuance": "Nhấn mạnh các phần không còn ở cùng nhau, không nhất thiết chia một tổng thể.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Separate the dark clothes from the white ones.",
+          "vi": "Tách quần áo tối màu khỏi quần áo trắng."
+        }
+      }
+    ],
+    "levels": [
+      "B1",
+      "B2"
+    ],
+    "references": []
+  },
+  {
+    "id": "donate",
+    "term": "donate",
+    "definition": "quyên góp; hiến tặng",
+    "partOfSpeech": "v.",
+    "phonetic": "/ˈdoʊneɪt/",
+    "level": "B1",
+    "meanings": [
+      "quyên góp; hiến tặng"
+    ],
+    "examples": [
+      {
+        "en": "Many volunteers donated warm clothes, blankets, and dry food after the natural disaster.",
+        "vi": "Nhiều tình nguyện viên đã quyên góp quần áo ấm, chăn màn và thực phẩm khô sau thảm họa thiên tai."
+      },
+      {
+        "en": "You can choose to donate online via credit card or digital wallet.",
+        "vi": "Bạn có thể lựa chọn quyên góp trực tuyến qua thẻ tín dụng hoặc ví điện tử."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "donation",
+          "vi": "khoản quyên góp; sự hiến tặng"
+        },
+        {
+          "term": "donor",
+          "vi": "người quyên góp, người hiến"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "donate",
+          "vi": "quyên góp"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "donated",
+          "vi": "được hiến tặng"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "donate blood / organs",
+        "vi": "hiến máu cứu người / hiến tạng"
+      },
+      {
+        "phrase": "donate money to charity",
+        "vi": "quyên góp tiền cho quỹ từ thiện"
+      }
+    ],
+    "usageNote": "Donate tiền, đồ dùng hoặc máu cho người hay tổ chức; thường không trông chờ nhận lại khoản trả tương ứng.",
+    "comparisons": [
+      {
+        "term": "give",
+        "vi": "cho",
+        "nuance": "Rộng nhất, dùng cho mọi kiểu trao cho người khác; không nhất thiết vì mục đích từ thiện.",
+        "register": "Trung tính",
+        "example": {
+          "en": "She gave me a book.",
+          "vi": "Cô ấy cho tôi một cuốn sách."
+        }
+      },
+      {
+        "term": "contribute",
+        "vi": "đóng góp",
+        "nuance": "Góp một phần vào mục tiêu chung; có thể là tiền, thời gian, ý tưởng hoặc công sức.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Everyone contributed an idea.",
+          "vi": "Mọi người đều đóng góp một ý tưởng."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "escape",
+    "term": "escape",
+    "definition": "trốn thoát; thoát khỏi",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/ɪˈskeɪp/",
+    "level": "B1",
+    "meanings": [
+      "trốn thoát; thoát khỏi"
+    ],
+    "examples": [
+      {
+        "en": "Fortunately, all the hotel guests managed to escape the burning building unharmed.",
+        "vi": "May mắn thay, tất cả khách lưu trú tại khách sạn đều đã trốn thoát khỏi tòa nhà đang cháy an toàn không bị thương tích."
+      },
+      {
+        "en": "A relaxing weekend trip to the mountains is a wonderful way to escape city noise.",
+        "vi": "Một chuyến đi nghỉ dưỡng cuối tuần trên núi là cách tuyệt vời để trốn khỏi sự ồn ào của thành phố."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "escape",
+          "vi": "sự trốn thoát; lối thoát"
+        },
+        {
+          "term": "escapee",
+          "vi": "người trốn thoát"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "escape",
+          "vi": "trốn thoát"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "escaped",
+          "vi": "đã trốn thoát"
+        },
+        {
+          "term": "inescapable",
+          "vi": "không thể tránh khỏi"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "inescapably",
+          "vi": "một cách không thể tránh khỏi"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "escape from",
+        "vi": "trốn thoát ra khỏi (nhà tù, đám cháy)"
+      },
+      {
+        "phrase": "fire escape",
+        "vi": "cầu thang thoát hiểm hỏa hoạn"
+      },
+      {
+        "phrase": "narrow escape",
+        "vi": "thoát chết trong gang tấc"
+      }
+    ],
+    "usageNote": "Escape from a place: thoát khỏi một nơi. Escape danger: tránh hoặc thoát được nguy hiểm; không phải mọi lần rời đi đều là escape.",
+    "comparisons": [
+      {
+        "term": "flee",
+        "vi": "chạy trốn",
+        "nuance": "Nhấn mạnh rời đi nhanh vì sợ hãi hoặc nguy hiểm, chưa khẳng định đã thoát thành công.",
+        "register": "Trung tính",
+        "example": {
+          "en": "They fled the burning house.",
+          "vi": "Họ chạy trốn khỏi căn nhà đang cháy."
+        }
+      },
+      {
+        "term": "avoid",
+        "vi": "tránh",
+        "nuance": "Ngăn mình gặp hoặc làm một điều ngay từ đầu; escape thường là thoát khỏi tình thế đã có.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Avoid that road during rush hour.",
+          "vi": "Tránh con đường đó vào giờ cao điểm."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "exchange",
+    "term": "exchange",
+    "definition": "trao đổi; đổi",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/ɪksˈtʃeɪndʒ/",
+    "level": "B1",
+    "meanings": [
+      "trao đổi; đổi"
+    ],
+    "examples": [
+      {
+        "en": "You can easily exchange US dollars for Vietnamese Dong at airport money counters.",
+        "vi": "Bạn có thể dễ dàng đổi đô la Mỹ sang tiền đồng Việt Nam tại các quầy đổi tiền ở sân bay."
+      },
+      {
+        "en": "The two leaders shook hands and exchanged formal gifts during the state visit.",
+        "vi": "Hai nhà lãnh đạo đã bắt tay và trao đổi những món quà nghi lễ trong chuyến thăm cấp nhà nước."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "exchange",
+          "vi": "sự trao đổi; nơi giao dịch"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "exchange",
+          "vi": "trao đổi"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "exchangeable",
+          "vi": "có thể đổi được"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "exchange rate",
+        "vi": "tỷ giá hối đoái ngoại tệ"
+      },
+      {
+        "phrase": "exchange ideas / opinions",
+        "vi": "trao đổi ý tưởng / quan điểm học thuật"
+      },
+      {
+        "phrase": "student exchange program",
+        "vi": "chương trình giao lưu / trao đổi sinh viên quốc tế"
+      }
+    ],
+    "usageNote": "Exchange A for B: đổi A lấy B. Thường có sự trao qua lại; exchange ideas là trao đổi ý kiến.",
+    "comparisons": [
+      {
+        "term": "swap",
+        "vi": "đổi cho nhau",
+        "nuance": "Gần exchange, hay dùng trong giao tiếp cho việc đổi chỗ hoặc đổi đồ giữa hai bên.",
+        "register": "Giao tiếp",
+        "example": {
+          "en": "Can we swap seats?",
+          "vi": "Chúng ta đổi chỗ cho nhau được không?"
+        }
+      },
+      {
+        "term": "trade",
+        "vi": "trao đổi, buôn bán",
+        "nuance": "Hay gắn với mua bán hoặc giao dịch; có thể nói trade A for B khi đổi thứ này lấy thứ khác.",
+        "register": "Trung tính",
+        "example": {
+          "en": "They trade goods across the border.",
+          "vi": "Họ buôn bán hàng hóa qua biên giới."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "expand",
+    "term": "expand",
+    "definition": "mở rộng; nở ra",
+    "partOfSpeech": "v.",
+    "phonetic": "/ɪkˈspænd/",
+    "level": "B1",
+    "meanings": [
+      "mở rộng; nở ra"
+    ],
+    "examples": [
+      {
+        "en": "Metals expand when heated and contract when cooled.",
+        "vi": "Kim loại sẽ nở ra khi bị nung nóng và co lại khi được làm lạnh."
+      },
+      {
+        "en": "The university is expanding its campus to accommodate more international students.",
+        "vi": "Trường đại học đang mở rộng khuôn viên để đón nhận thêm nhiều sinh viên quốc tế."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "expansion",
+          "vi": "sự mở rộng, sự giãn nở"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "expand",
+          "vi": "mở rộng"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "expanded",
+          "vi": "được mở rộng"
+        },
+        {
+          "term": "expandable",
+          "vi": "có thể mở rộng"
+        },
+        {
+          "term": "expansive",
+          "vi": "rộng; cởi mở, hay trò chuyện"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "expansively",
+          "vi": "một cách rộng rãi hoặc cởi mở"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "expand business / operations",
+        "vi": "mở rộng hoạt động kinh doanh"
+      },
+      {
+        "phrase": "expand knowledge / vocabulary",
+        "vi": "mở rộng vốn kiến thức / từ vựng"
+      }
+    ],
+    "usageNote": "Expand nói về tăng kích thước, phạm vi hay hoạt động. Expand on a point là giải thích thêm một ý.",
+    "comparisons": [
+      {
+        "term": "grow",
+        "vi": "lớn lên, phát triển",
+        "nuance": "Thường gợi quá trình phát triển tự nhiên; expand nhấn mạnh tăng phạm vi hoặc kích thước.",
+        "register": "Trung tính",
+        "example": {
+          "en": "The business grew slowly.",
+          "vi": "Doanh nghiệp phát triển chậm."
+        }
+      },
+      {
+        "term": "extend",
+        "vi": "kéo dài, mở rộng đến",
+        "nuance": "Hay dùng khi kéo dài thời gian, chiều dài hoặc phạm vi đến một điểm mới.",
+        "register": "Trung tính",
+        "example": {
+          "en": "We extended the deadline by a week.",
+          "vi": "Chúng tôi gia hạn thêm một tuần."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "explore",
+    "term": "explore",
+    "definition": "khám phá; tìm hiểu các khả năng",
+    "partOfSpeech": "v.",
+    "phonetic": "/ɪkˈsplɔːr/",
+    "level": "B1",
+    "meanings": [
+      "khám phá; tìm hiểu các khả năng"
+    ],
+    "examples": [
+      {
+        "en": "We spent the entire sunny morning exploring the historic alleyways of the old quarter.",
+        "vi": "Chúng tôi đã dành cả buổi sáng đầy nắng để khám phá những con hẻm cổ kính của khu phố cổ."
+      },
+      {
+        "en": "Tourists love to explore the limestone karsts of Ha Long Bay by sea kayak.",
+        "vi": "Du khách rất thích khám phá các hòn đảo đá vôi của Vịnh Hạ Long bằng thuyền kayak trên biển."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "exploration",
+          "vi": "sự khám phá"
+        },
+        {
+          "term": "explorer",
+          "vi": "người thám hiểm"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "explore",
+          "vi": "khám phá"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "exploratory",
+          "vi": "mang tính thăm dò"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "explore on foot / by bike",
+        "vi": "khám phá bằng cách đi bộ / xe đạp"
+      },
+      {
+        "phrase": "explore new cultures",
+        "vi": "khám phá những nền văn hóa mới"
+      },
+      {
+        "phrase": "explore hidden gems",
+        "vi": "khám phá những địa điểm bí ẩn tuyệt đẹp"
+      }
+    ],
+    "usageNote": "Explore a place: đi tìm hiểu một nơi. Explore options: xem xét các khả năng trước khi quyết định.",
+    "comparisons": [
+      {
+        "term": "discover",
+        "vi": "phát hiện ra",
+        "nuance": "Nhấn mạnh tìm thấy điều mới; explore là quá trình tìm hiểu, chưa chắc dẫn đến phát hiện.",
+        "register": "Trung tính",
+        "example": {
+          "en": "We discovered a small cave.",
+          "vi": "Chúng tôi phát hiện một hang nhỏ."
+        }
+      },
+      {
+        "term": "investigate",
+        "vi": "điều tra, xem xét kỹ",
+        "nuance": "Có mục tiêu tìm sự thật hoặc nguyên nhân cụ thể, thường có hệ thống hơn.",
+        "register": "Trung tính",
+        "example": {
+          "en": "They investigated the accident.",
+          "vi": "Họ điều tra vụ tai nạn."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "fasten",
+    "term": "fasten",
+    "definition": "cài, buộc, giữ chặt",
+    "partOfSpeech": "v.",
+    "phonetic": "/ˈfæs.ən/",
+    "level": "B1",
+    "meanings": [
+      "cài, buộc, giữ chặt"
+    ],
+    "examples": [
+      {
+        "en": "All passengers are legally required to fasten their seatbelts before the car moves.",
+        "vi": "Tất cả hành khách theo luật bắt buộc phải thắt dây an toàn trước khi xe lăn bánh."
+      },
+      {
+        "en": "Fasten the luggage securely on the roof rack to avoid losing anything on the highway.",
+        "vi": "Hãy buộc hành lý thật chắc chắn trên giá nóc xe để tránh bị rơi mất đồ trên đường cao tốc."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "fastener",
+          "vi": "vật cài, khóa hoặc chi tiết giữ chặt"
+        },
+        {
+          "term": "fastening",
+          "vi": "khóa, dây buộc; việc cài"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "fasten",
+          "vi": "cài chặt"
+        },
+        {
+          "term": "unfasten",
+          "vi": "mở khóa, tháo dây"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "fastened",
+          "vi": "đã cài, đã buộc"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "fasten your seatbelt",
+        "vi": "thắt dây an toàn (trên máy bay / ô tô)"
+      },
+      {
+        "phrase": "fasten a button / zipper",
+        "vi": "cài cúc áo / kéo khóa áo"
+      }
+    ],
+    "usageNote": "Fasten dùng với dây an toàn, khóa, nút áo hoặc vật cần giữ chắc. Không chỉ là chạm hoặc đặt hai vật cạnh nhau.",
+    "comparisons": [
+      {
+        "term": "tie",
+        "vi": "buộc bằng dây hoặc nút thắt",
+        "nuance": "Cụ thể hơn fasten: thường cần dây và nút thắt.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Tie the rope to the pole.",
+          "vi": "Buộc dây vào cột."
+        }
+      },
+      {
+        "term": "secure",
+        "vi": "giữ chắc, cố định",
+        "nuance": "Nhấn mạnh vật không bị di chuyển hoặc rơi; không quy định phải dùng khóa hay dây.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Secure the shelf to the wall.",
+          "vi": "Cố định kệ vào tường."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "fold",
+    "term": "fold",
+    "definition": "gấp, gập lại",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/foʊld/",
+    "level": "B1",
+    "meanings": [
+      "gấp, gập lại"
+    ],
+    "examples": [
+      {
+        "en": "Carefully fold the map along its original creases so it fits into your pocket.",
+        "vi": "Hãy cẩn thận gấp tấm bản đồ theo các nếp gấp ban đầu để nó vừa vặn trong túi áo của bạn."
+      },
+      {
+        "en": "Several local manufacturing businesses folded during the severe economic crisis.",
+        "vi": "Nhiều doanh nghiệp sản xuất địa phương đã phải đóng cửa phá sản trong cuộc khủng hoảng kinh tế nghiêm trọng."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "fold",
+          "vi": "nếp gấp"
+        },
+        {
+          "term": "folding",
+          "vi": "việc gấp"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "fold",
+          "vi": "gấp"
+        },
+        {
+          "term": "unfold",
+          "vi": "mở ra, trải ra"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "folded",
+          "vi": "được gấp"
+        },
+        {
+          "term": "folding",
+          "vi": "có thể gập, loại gập"
+        },
+        {
+          "term": "foldable",
+          "vi": "gập được"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "fold your arms",
+        "vi": "khoanh tay trước ngực"
+      },
+      {
+        "phrase": "fold clothes / laundry",
+        "vi": "gấp quần áo gọn gàng"
+      },
+      {
+        "phrase": "folding chair / table",
+        "vi": "bàn / ghế xếp có thể gấp gọn"
+      }
+    ],
+    "usageNote": "Fold giấy, vải hoặc vật có thể gập. Fold your arms là khoanh tay; unfold là mở phần đã gấp.",
+    "comparisons": [
+      {
+        "term": "bend",
+        "vi": "uốn, cong, cúi",
+        "nuance": "Không nhất thiết tạo nếp gấp hoặc chồng hai phần lên nhau như fold.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Bend your knees slightly.",
+          "vi": "Hơi khuỵu đầu gối."
+        }
+      },
+      {
+        "term": "crease",
+        "vi": "làm có nếp, làm nhàu",
+        "nuance": "Nhấn mạnh đường hoặc nếp xuất hiện trên giấy, vải; thường nói về kết quả.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Sitting down creased his trousers.",
+          "vi": "Ngồi xuống làm quần anh ấy có nếp nhăn."
+        }
+      }
+    ],
+    "levels": [
+      "B1",
+      "B2"
+    ],
+    "references": []
+  },
+  {
+    "id": "gather",
+    "term": "gather",
+    "definition": "tập hợp; thu thập; tụ họp",
+    "partOfSpeech": "v.",
+    "phonetic": "/ˈɡæðər/",
+    "level": "B1",
+    "meanings": [
+      "tập hợp; thu thập; tụ họp"
+    ],
+    "examples": [
+      {
+        "en": "Crowds of excited sports fans gathered outside the stadium hours before the match.",
+        "vi": "Đám đông người hâm mộ thể thao hào hứng đã tụ tập bên ngoài sân vận động nhiều giờ trước trận đấu."
+      },
+      {
+        "en": "In autumn, farmers gather ripe apples from orchards across the rolling hills.",
+        "vi": "Vào mùa thu, những người nông dân thu hoạch táo chín từ các vườn cây ăn quả khắp những ngọn đồi trập trùng."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "gathering",
+          "vi": "buổi tụ họp"
+        },
+        {
+          "term": "gatherer",
+          "vi": "người thu thập"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "gather",
+          "vi": "tập hợp"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "gathered",
+          "vi": "được tập hợp, được thu thập"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "gather information / data",
+        "vi": "thu thập thông tin / số liệu điều tra"
+      },
+      {
+        "phrase": "gather together",
+        "vi": "quây quần, tụ họp cùng nhau"
+      },
+      {
+        "phrase": "gather strength / courage",
+        "vi": "lấy lại sức mạnh / gom đủ can đảm"
+      }
+    ],
+    "usageNote": "Gather người hoặc đồ về một chỗ; gather information là thu thập thông tin. I gather that còn là tôi hiểu hoặc suy ra rằng.",
+    "comparisons": [
+      {
+        "term": "collect",
+        "vi": "thu thập",
+        "nuance": "Hay gợi thu gom có mục đích hoặc theo một tập hợp, như tem, dữ liệu, tiền.",
+        "register": "Trung tính",
+        "example": {
+          "en": "She collects old postcards.",
+          "vi": "Cô ấy sưu tầm bưu thiếp cũ."
+        }
+      },
+      {
+        "term": "assemble",
+        "vi": "tập hợp; lắp ráp",
+        "nuance": "Trang trọng hơn khi tập hợp người; với đồ vật còn là lắp các bộ phận thành một thứ.",
+        "register": "Trung tính",
+        "example": {
+          "en": "The workers assembled the machine.",
+          "vi": "Công nhân lắp ráp chiếc máy."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "guard",
+    "term": "guard",
+    "definition": "canh gác; bảo vệ",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/ɡɑːrd/",
+    "level": "B1",
+    "meanings": [
+      "canh gác; bảo vệ"
+    ],
+    "examples": [
+      {
+        "en": "Loyal guard dogs protect the family farm from nocturnal predators.",
+        "vi": "Những chú chó canh gác trung thành bảo vệ trang trại gia đình khỏi thú ăn thịt ban đêm."
+      },
+      {
+        "en": "Soldiers guard the national border checkpoints day and night.",
+        "vi": "Các chiến sĩ canh gác các trạm kiểm soát biên giới quốc gia ngày đêm."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "guard",
+          "vi": "người bảo vệ; bộ phận chắn"
+        },
+        {
+          "term": "guardian",
+          "vi": "người giám hộ, người bảo vệ"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "guard",
+          "vi": "canh gác"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "guarded",
+          "vi": "thận trọng, dè dặt; được bảo vệ"
+        },
+        {
+          "term": "unguarded",
+          "vi": "không được bảo vệ; thiếu đề phòng"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "guardedly",
+          "vi": "một cách dè dặt"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "guard against",
+        "vi": "đề phòng, phòng ngừa rủi ro"
+      },
+      {
+        "phrase": "security guard",
+        "vi": "nhân viên bảo vệ an ninh"
+      },
+      {
+        "phrase": "off guard",
+        "vi": "bất ngờ, mất cảnh giác"
+      }
+    ],
+    "usageNote": "Guard thường nhấn mạnh theo dõi, canh giữ người hoặc địa điểm để ngăn nguy hiểm hay tiếp cận trái phép.",
+    "comparisons": [
+      {
+        "term": "protect",
+        "vi": "bảo vệ",
+        "nuance": "Rộng hơn canh gác: bảo vệ sức khỏe, quyền lợi hoặc đồ vật khỏi tổn hại.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Sunscreen protects your skin.",
+          "vi": "Kem chống nắng bảo vệ làn da."
+        }
+      },
+      {
+        "term": "defend",
+        "vi": "bảo vệ, chống lại",
+        "nuance": "Thường có sự tấn công hoặc chỉ trích cần chống lại, bằng hành động hay lập luận.",
+        "register": "Trung tính",
+        "example": {
+          "en": "She defended her decision.",
+          "vi": "Cô ấy bảo vệ quyết định của mình."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "hurry",
+    "term": "hurry",
+    "definition": "vội, làm nhanh; thúc giục",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/ˈhɜːri/",
+    "level": "B1",
+    "meanings": [
+      "vội, làm nhanh; thúc giục"
+    ],
+    "examples": [
+      {
+        "en": "We had to hurry to the boarding gate before the flight doors closed.",
+        "vi": "Chúng tôi đã phải vội vã chạy đến cổng lên máy bay trước khi cửa máy bay đóng lại."
+      },
+      {
+        "en": "Take your time to make this important decision; there is no need to hurry.",
+        "vi": "Hãy thong thả đưa ra quyết định quan trọng này; không cần phải vội vàng đâu."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "hurry",
+          "vi": "sự vội vàng"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "hurry",
+          "vi": "vội, thúc giục"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "hurried",
+          "vi": "vội vàng"
+        },
+        {
+          "term": "unhurried",
+          "vi": "thong thả"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "hurriedly",
+          "vi": "một cách vội vàng"
+        },
+        {
+          "term": "unhurriedly",
+          "vi": "một cách thong thả"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "in a hurry",
+        "vi": "đang trong trạng thái rất vội vã"
+      },
+      {
+        "phrase": "hurry up",
+        "vi": "nhanh lên nào! (khẩu ngữ thúc giục)"
+      }
+    ],
+    "usageNote": "Hurry nói về làm hoặc di chuyển nhanh vì ít thời gian; in a hurry là đang vội.",
+    "comparisons": [
+      {
+        "term": "rush",
+        "vi": "vội vã, lao nhanh",
+        "nuance": "Thường gợi nhanh và gấp hơn, đôi khi làm thiếu cẩn thận hoặc đột ngột.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Do not rush your answer.",
+          "vi": "Đừng trả lời quá vội."
+        }
+      },
+      {
+        "term": "hasten",
+        "vi": "làm nhanh hơn, đẩy nhanh",
+        "nuance": "Trang trọng hơn; cũng dùng cho việc làm một sự kiện xảy ra sớm hơn.",
+        "register": "Trang trọng",
+        "example": {
+          "en": "The new road hastened development.",
+          "vi": "Con đường mới đẩy nhanh sự phát triển."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "indicate",
+    "term": "indicate",
+    "definition": "chỉ ra; cho thấy; ra tín hiệu",
+    "partOfSpeech": "v.",
+    "phonetic": "/ˈɪndɪkeɪt/",
+    "level": "B1",
+    "meanings": [
+      "chỉ ra; cho thấy; ra tín hiệu"
+    ],
+    "examples": [
+      {
+        "en": "A red light on the dashboard indicates that the car battery needs charging.",
+        "vi": "Đèn đỏ trên bảng điều khiển chỉ ra rằng ắc quy ô tô cần phải được sạc."
+      },
+      {
+        "en": "Economic indices indicate strong quarterly growth across manufacturing sectors.",
+        "vi": "Các chỉ số kinh tế cho thấy sự tăng trưởng mạnh mẽ trong quý này ở các ngành sản xuất."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "indication",
+          "vi": "dấu hiệu, sự chỉ ra"
+        },
+        {
+          "term": "indicator",
+          "vi": "chỉ báo; đèn báo"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "indicate",
+          "vi": "chỉ ra"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "indicative",
+          "vi": "cho thấy, biểu thị"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "indicate clearly that",
+        "vi": "chỉ ra một cách rõ ràng rằng"
+      },
+      {
+        "phrase": "indicate before turning",
+        "vi": "bật đèn xi-nhan trước khi rẽ xe"
+      }
+    ],
+    "usageNote": "Indicate thường là cho thấy một dấu hiệu hoặc thông tin, chưa nhất thiết chứng minh chắc chắn. Indicate that + mệnh đề.",
+    "comparisons": [
+      {
+        "term": "show",
+        "vi": "cho thấy, chỉ cho xem",
+        "nuance": "Từ rộng và tự nhiên hơn; có thể trực tiếp làm cho người khác thấy điều gì.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Show me the photo.",
+          "vi": "Cho tôi xem bức ảnh."
+        }
+      },
+      {
+        "term": "suggest",
+        "vi": "gợi ra, cho thấy có thể",
+        "nuance": "Khi nói về bằng chứng, thường nhấn mạnh khả năng hơn là kết luận chắc chắn.",
+        "register": "Trung tính",
+        "example": {
+          "en": "The results suggest a connection.",
+          "vi": "Kết quả gợi ra khả năng có một mối liên hệ."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "investigate",
+    "term": "investigate",
+    "definition": "điều tra; tìm hiểu kỹ",
+    "partOfSpeech": "v.",
+    "phonetic": "/ɪnˈvestɪɡeɪt/",
+    "level": "B1",
+    "meanings": [
+      "điều tra; tìm hiểu kỹ"
+    ],
+    "examples": [
+      {
+        "en": "Police detectives are currently investigating the circumstances surrounding the mysterious disappearance.",
+        "vi": "Các điều tra viên cảnh sát hiện đang điều tra những tình tiết xoay quanh vụ mất tích bí ẩn."
+      },
+      {
+        "en": "Scientists investigate how microplastics affect marine ecosystems in deep oceans.",
+        "vi": "Các nhà khoa học nghiên cứu tỉ mỉ cách hạt vi nhựa ảnh hưởng đến các hệ sinh thái biển dưới đại dương sâu."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "investigation",
+          "vi": "cuộc điều tra"
+        },
+        {
+          "term": "investigator",
+          "vi": "người điều tra"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "investigate",
+          "vi": "điều tra"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "investigative",
+          "vi": "thuộc hoạt động điều tra"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "investigate a crime / incident",
+        "vi": "điều tra một vụ án / sự cố tai nạn"
+      },
+      {
+        "phrase": "thoroughly investigate",
+        "vi": "điều tra một cách toàn diện và cặn kẽ"
+      }
+    ],
+    "usageNote": "Investigate thường tìm sự thật, nguyên nhân hoặc chi tiết một vấn đề theo cách có hệ thống.",
+    "comparisons": [
+      {
+        "term": "examine",
+        "vi": "xem xét kỹ",
+        "nuance": "Tập trung quan sát, kiểm tra đối tượng; không nhất thiết điều tra cả một vụ việc.",
+        "register": "Trung tính",
+        "example": {
+          "en": "The doctor examined my hand.",
+          "vi": "Bác sĩ kiểm tra bàn tay tôi."
+        }
+      },
+      {
+        "term": "look into",
+        "vi": "tìm hiểu, xem xét",
+        "nuance": "Cụm tự nhiên trong giao tiếp, thường dùng khi hứa xem xét một vấn đề.",
+        "register": "Giao tiếp",
+        "example": {
+          "en": "We will look into your complaint.",
+          "vi": "Chúng tôi sẽ xem xét khiếu nại của bạn."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "label",
+    "term": "label",
+    "definition": "dán nhãn; gán là",
+    "partOfSpeech": "n., v.",
+    "phonetic": "/ˈleɪbl/",
+    "level": "B1",
+    "meanings": [
+      "dán nhãn; gán là"
+    ],
+    "examples": [
+      {
+        "en": "Make sure each laboratory specimen bottle is clearly labeled with the patient’s full name.",
+        "vi": "Hãy đảm bảo rằng mỗi lọ mẫu bệnh phẩm trong phòng thí nghiệm đều được dán nhãn rõ ràng họ tên bệnh nhân."
+      },
+      {
+        "en": "The garment care label recommends washing in cold water only.",
+        "vi": "Nhãn hướng dẫn bảo quản trên áo khuyến nghị chỉ nên giặt bằng nước lạnh."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "label",
+          "vi": "nhãn, tên gọi"
+        },
+        {
+          "term": "labeling",
+          "vi": "việc dán hoặc gán nhãn"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "label",
+          "vi": "dán nhãn"
+        },
+        {
+          "term": "relabel",
+          "vi": "dán nhãn lại"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "labeled",
+          "vi": "được dán nhãn"
+        },
+        {
+          "term": "unlabeled",
+          "vi": "không có nhãn"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "read the food label",
+        "vi": "đọc kỹ nhãn mác dinh dưỡng trên thực phẩm"
+      },
+      {
+        "phrase": "label someone as",
+        "vi": "gán mác, chụp mũ ai đó là người thế nào"
+      },
+      {
+        "phrase": "record label",
+        "vi": "hãng thu âm âm nhạc"
+      }
+    ],
+    "usageNote": "Label a box: dán nhãn hộp. Label someone as something: gán cho ai một loại hoặc đặc điểm, đôi khi mang tính đánh giá.",
+    "comparisons": [
+      {
+        "term": "tag",
+        "vi": "gắn thẻ",
+        "nuance": "Hay dùng với thẻ nhận diện, giá hoặc nội dung số; thường là một nhãn ngắn.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Tag the photo with her name.",
+          "vi": "Gắn thẻ tên cô ấy vào ảnh."
+        }
+      },
+      {
+        "term": "classify",
+        "vi": "phân loại",
+        "nuance": "Nhấn mạnh xếp vào hệ thống nhóm theo tiêu chí, không chỉ đặt một nhãn.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Classify the books by subject.",
+          "vi": "Phân loại sách theo chủ đề."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "lack",
+    "term": "lack",
+    "definition": "thiếu, không có đủ",
+    "partOfSpeech": "n., v.",
+    "phonetic": "/læk/",
+    "level": "B1",
+    "meanings": [
+      "thiếu, không có đủ"
+    ],
+    "examples": [
+      {
+        "en": "The ambitious construction project failed primarily due to a total lack of funding.",
+        "vi": "Dự án xây dựng đầy tham vọng đã thất bại chủ yếu do hoàn toàn thiếu hụt nguồn vốn."
+      },
+      {
+        "en": "Although he is enthusiastic, he still lacks the practical skills needed for the role.",
+        "vi": "Dù rất nhiệt tình, anh ấy vẫn còn thiếu những kỹ năng thực tế cần thiết cho vị trí này."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "lack",
+          "vi": "sự thiếu"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "lack",
+          "vi": "thiếu"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "lacking",
+          "vi": "thiếu, không có đủ"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "lack of experience / sleep",
+        "vi": "sự thiếu hụt kinh nghiệm / thiếu ngủ"
+      },
+      {
+        "phrase": "lack the confidence to",
+        "vi": "thiếu tự tin để làm việc gì"
+      }
+    ],
+    "usageNote": "Lack something là động từ, không dùng of sau động từ. A lack of something là cụm danh từ.",
+    "comparisons": [
+      {
+        "term": "be short of",
+        "vi": "thiếu, chưa đủ",
+        "nuance": "Thường nhấn mạnh số lượng ít hơn mức cần, đặc biệt tiền, thời gian, nhân lực.",
+        "register": "Trung tính",
+        "example": {
+          "en": "We are short of time.",
+          "vi": "Chúng tôi không có đủ thời gian."
+        }
+      },
+      {
+        "term": "be missing",
+        "vi": "bị thiếu, không có mặt",
+        "nuance": "Gợi thứ đáng lẽ phải có nhưng không thấy, như phần bị thất lạc hoặc thiếu khỏi bộ.",
+        "register": "Trung tính",
+        "example": {
+          "en": "One page is missing.",
+          "vi": "Có một trang bị thiếu."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "lead",
+    "term": "lead",
+    "definition": "dẫn dắt; dẫn đầu",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/liːd/",
+    "level": "B1",
+    "meanings": [
+      "dẫn dắt; dẫn đầu"
+    ],
+    "examples": [
+      {
+        "en": "A seasoned mountain guide led our trekking expedition through the Himalayan pass.",
+        "vi": "Một hướng dẫn viên leo núi dày dạn kinh nghiệm đã dẫn dắt đoàn thám hiểm đi bộ qua con đèo Himalaya."
+      },
+      {
+        "en": "Poor financial management can quickly lead a profitable company into bankruptcy.",
+        "vi": "Quản lý tài chính yếu kém có thể nhanh chóng dẫn một công ty đang có lãi vào cảnh phá sản."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "leader",
+          "vi": "người lãnh đạo"
+        },
+        {
+          "term": "leadership",
+          "vi": "khả năng, vai trò lãnh đạo"
+        },
+        {
+          "term": "lead",
+          "vi": "vị trí dẫn đầu; đầu mối"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "lead",
+          "vi": "dẫn dắt"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "leading",
+          "vi": "đứng đầu, hàng đầu"
+        },
+        {
+          "term": "leaderless",
+          "vi": "không có người lãnh đạo"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "lead to (a result / consequence)",
+        "vi": "dẫn đến kết quả / hậu quả gì"
+      },
+      {
+        "phrase": "take the lead",
+        "vi": "vươn lên dẫn đầu cuộc thi"
+      },
+      {
+        "phrase": "lead a team / group",
+        "vi": "lãnh đạo một đội nhóm"
+      }
+    ],
+    "usageNote": "Ở đây học lead /liːd/ = dẫn dắt; quá khứ là led /led/. Danh từ lead /led/ = kim loại chì là từ đồng hình khác nghĩa.",
+    "comparisons": [
+      {
+        "term": "guide",
+        "vi": "hướng dẫn",
+        "nuance": "Nhấn mạnh chỉ đường hoặc giúp ai biết cách làm, không nhất thiết nắm quyền lãnh đạo.",
+        "register": "Trung tính",
+        "example": {
+          "en": "She guided us through the museum.",
+          "vi": "Cô ấy hướng dẫn chúng tôi đi qua bảo tàng."
+        }
+      },
+      {
+        "term": "manage",
+        "vi": "quản lý",
+        "nuance": "Nhấn mạnh tổ chức và điều hành công việc; lead nhấn mạnh hướng đi và dẫn dắt con người.",
+        "register": "Trung tính",
+        "example": {
+          "en": "He manages a small shop.",
+          "vi": "Anh ấy quản lý một cửa hàng nhỏ."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": [
+      {
+        "title": "Cambridge · lead",
+        "url": "https://dictionary.cambridge.org/us/dictionary/english/lead"
+      }
+    ]
+  },
+  {
+    "id": "locate",
+    "term": "locate",
+    "definition": "xác định vị trí; đặt ở",
+    "partOfSpeech": "v.",
+    "phonetic": "/ˈloʊkeɪt/",
+    "level": "B1",
+    "meanings": [
+      "xác định vị trí; đặt ở"
+    ],
+    "examples": [
+      {
+        "en": "Could you please help me locate the central tourist information desk?",
+        "vi": "Bạn có thể giúp tôi tìm vị trí của quầy thông tin du lịch trung tâm được không?"
+      },
+      {
+        "en": "The mountain resort is located amidst pine forests with panoramic valley views.",
+        "vi": "Khu nghỉ dưỡng trên núi tọa lạc giữa rừng thông với tầm nhìn bao quát toàn thung lũng."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "location",
+          "vi": "vị trí, địa điểm"
+        },
+        {
+          "term": "relocation",
+          "vi": "việc chuyển đến nơi mới"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "locate",
+          "vi": "xác định vị trí"
+        },
+        {
+          "term": "relocate",
+          "vi": "chuyển đến nơi mới"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "located",
+          "vi": "nằm ở, được đặt tại"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "conveniently / ideally located",
+        "vi": "tọa lạc ở vị trí rất thuận lợi / lý tưởng"
+      },
+      {
+        "phrase": "locate on the map",
+        "vi": "tìm thấy vị trí trên bản đồ"
+      }
+    ],
+    "usageNote": "Locate something thường là tìm ra vị trí của nó. Be located in/near: nằm ở; cách nói mô tả địa điểm.",
+    "comparisons": [
+      {
+        "term": "find",
+        "vi": "tìm thấy",
+        "nuance": "Rộng và tự nhiên hơn; locate thường nhấn mạnh biết chính xác nó ở đâu.",
+        "register": "Trung tính",
+        "example": {
+          "en": "I found my keys.",
+          "vi": "Tôi đã tìm thấy chìa khóa."
+        }
+      },
+      {
+        "term": "position",
+        "vi": "đặt vào vị trí",
+        "nuance": "Nói về chủ động đặt vật ở một chỗ; không có nghĩa tìm vật đang thất lạc.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Position the camera near the door.",
+          "vi": "Đặt máy ảnh gần cửa."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "measure",
+    "term": "measure",
+    "definition": "đo, đo lường",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/ˈmeʒər/",
+    "level": "B1",
+    "meanings": [
+      "đo, đo lường"
+    ],
+    "examples": [
+      {
+        "en": "The carpenter carefully measured the wooden planks before cutting them for the table.",
+        "vi": "Người thợ mộc đã cẩn thận đo đạc các tấm ván gỗ trước khi cắt chúng để đóng bàn."
+      },
+      {
+        "en": "Emergency medical measures were taken immediately to stabilize the injured hiker.",
+        "vi": "Các biện pháp y tế khẩn cấp đã được tiến hành ngay lập tức để ổn định người leo núi bị thương."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "measure",
+          "vi": "phép đo; biện pháp"
+        },
+        {
+          "term": "measurement",
+          "vi": "số đo, việc đo"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "measure",
+          "vi": "đo"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "measurable",
+          "vi": "đo được"
+        },
+        {
+          "term": "immeasurable",
+          "vi": "không thể đo lường, rất lớn"
+        },
+        {
+          "term": "measured",
+          "vi": "thận trọng, có cân nhắc"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "measurably",
+          "vi": "đến mức đo được"
+        },
+        {
+          "term": "immeasurably",
+          "vi": "vô cùng"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "take safety measures",
+        "vi": "thực hiện các biện pháp an toàn"
+      },
+      {
+        "phrase": "measure the success of",
+        "vi": "đo lường mức độ thành công của dự án"
+      },
+      {
+        "phrase": "tape measure",
+        "vi": "thước dây cuộn đo kích thước"
+      }
+    ],
+    "usageNote": "Measure a length, amount hoặc kết quả. Danh từ a measure còn là biện pháp; nghĩa này không phải dụng cụ đo.",
+    "comparisons": [
+      {
+        "term": "gauge",
+        "vi": "ước lượng, đánh giá mức độ",
+        "nuance": "Thường đánh giá phản ứng, mức độ hoặc tình huống; cũng có thể đo bằng thiết bị.",
+        "register": "Trung tính",
+        "example": {
+          "en": "It is hard to gauge his reaction.",
+          "vi": "Khó đánh giá phản ứng của anh ấy."
+        }
+      },
+      {
+        "term": "estimate",
+        "vi": "ước tính",
+        "nuance": "Đưa ra con số gần đúng khi chưa đo hoặc biết chính xác.",
+        "register": "Trung tính",
+        "example": {
+          "en": "We estimated the cost at $200.",
+          "vi": "Chúng tôi ước tính chi phí là 200 đô la."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "move",
+    "term": "move",
+    "definition": "di chuyển; làm cảm động",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/muːv/",
+    "level": "A1",
+    "meanings": [
+      "di chuyển; làm cảm động"
+    ],
+    "examples": [
+      {
+        "en": "The heavy wooden furniture required three strong movers to carry it up the stairs.",
+        "vi": "Món đồ nội thất bằng gỗ nặng nề cần đến ba người chuyển đồ khỏe mạnh để khiêng lên cầu thang."
+      },
+      {
+        "en": "Her heartfelt victory speech moved many audience members to tears.",
+        "vi": "Bài phát biểu chiến thắng chân thành của cô ấy đã khiến nhiều khán giả xúc động rơi nước mắt."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "movement",
+          "vi": "sự chuyển động; phong trào"
+        },
+        {
+          "term": "mover",
+          "vi": "người chuyển đồ"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "move",
+          "vi": "di chuyển"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "moving",
+          "vi": "gây cảm động; đang chuyển động"
+        },
+        {
+          "term": "movable",
+          "vi": "di chuyển được"
+        },
+        {
+          "term": "unmoved",
+          "vi": "không xúc động"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "movingly",
+          "vi": "một cách cảm động"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "move house / home",
+        "vi": "chuyển nhà sang nơi ở mới"
+      },
+      {
+        "phrase": "make a smart move",
+        "vi": "thực hiện một nước đi thông minh / quyết định khôn ngoan"
+      },
+      {
+        "phrase": "move on to",
+        "vi": "chuyển sang bước tiếp theo / chủ đề mới"
+      }
+    ],
+    "usageNote": "Move có nghĩa đổi vị trí hoặc nơi ở. A moving story là câu chuyện gây cảm động, không phải câu chuyện đang di chuyển.",
+    "comparisons": [
+      {
+        "term": "shift",
+        "vi": "dịch chuyển, thay đổi",
+        "nuance": "Thường là đổi vị trí, trọng tâm hoặc hướng, đôi khi chỉ một khoảng nhỏ.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Shift the chair to the left.",
+          "vi": "Dịch chiếc ghế sang trái."
+        }
+      },
+      {
+        "term": "relocate",
+        "vi": "chuyển địa điểm",
+        "nuance": "Nhấn mạnh chuyển nơi ở hoặc nơi làm việc đến địa điểm mới; thường trang trọng hơn move.",
+        "register": "Trung tính",
+        "example": {
+          "en": "The company relocated to Hanoi.",
+          "vi": "Công ty chuyển địa điểm đến Hà Nội."
+        }
+      }
+    ],
+    "levels": [
+      "A1",
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "note",
+    "term": "note",
+    "definition": "ghi lại; lưu ý, nhận thấy",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/noʊt/",
+    "level": "A1",
+    "meanings": [
+      "ghi lại; lưu ý, nhận thấy"
+    ],
+    "examples": [
+      {
+        "en": "The doctor noted a marked improvement in the patient’s vital signs this morning.",
+        "vi": "Bác sĩ đã ghi nhận sự cải thiện rõ rệt trong các chỉ số sinh tồn của bệnh nhân vào sáng nay."
+      },
+      {
+        "en": "Always make a note of your account password in a secure offline location.",
+        "vi": "Hãy luôn ghi lại mật khẩu tài khoản của bạn ở một nơi ngoại tuyến an toàn."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "note",
+          "vi": "ghi chú; nốt nhạc; tờ tiền"
+        },
+        {
+          "term": "notebook",
+          "vi": "sổ ghi chép"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "note",
+          "vi": "ghi lại, nhận thấy"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "noted",
+          "vi": "nổi tiếng về điều gì"
+        },
+        {
+          "term": "notable",
+          "vi": "đáng chú ý"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "notably",
+          "vi": "đặc biệt là; đáng chú ý"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "take notes",
+        "vi": "ghi chép bài giảng / nội dung cuộc họp"
+      },
+      {
+        "phrase": "note that",
+        "vi": "xin lưu ý rằng"
+      },
+      {
+        "phrase": "leave a note",
+        "vi": "để lại một mẩu giấy nhắn"
+      }
+    ],
+    "usageNote": "Note a detail có thể là ghi lại hoặc nhận thấy chi tiết. Take notes là ghi chép; note that là lưu ý rằng.",
+    "comparisons": [
+      {
+        "term": "notice",
+        "vi": "nhận thấy",
+        "nuance": "Nhấn mạnh phát hiện bằng giác quan hoặc sự chú ý; không nhất thiết ghi lại.",
+        "register": "Trung tính",
+        "example": {
+          "en": "I noticed a small mistake.",
+          "vi": "Tôi nhận thấy một lỗi nhỏ."
+        }
+      },
+      {
+        "term": "record",
+        "vi": "ghi lại, lưu lại",
+        "nuance": "Nhấn mạnh tạo hồ sơ hoặc bản ghi để dùng về sau, thường có hệ thống hơn một ghi chú.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Record the temperature every hour.",
+          "vi": "Ghi lại nhiệt độ mỗi giờ."
+        }
+      }
+    ],
+    "levels": [
+      "A1",
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "occur",
+    "term": "occur",
+    "definition": "xảy ra; xuất hiện",
+    "partOfSpeech": "v.",
+    "phonetic": "/əˈkɜːr/",
+    "level": "B1",
+    "meanings": [
+      "xảy ra; xuất hiện"
+    ],
+    "examples": [
+      {
+        "en": "The severe traffic accident occurred at the highway intersection during rush hour.",
+        "vi": "Vụ tai nạn giao thông nghiêm trọng đã xảy ra tại ngã tư đường cao tốc vào giờ cao điểm."
+      },
+      {
+        "en": "Wild orchids naturally occur in high-altitude mountain forests.",
+        "vi": "Hoa phong lan rừng tự nhiên xuất hiện ở các khu rừng núi cao."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "occurrence",
+          "vi": "sự việc xảy ra; sự xuất hiện"
+        },
+        {
+          "term": "recurrence",
+          "vi": "sự tái diễn"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "occur",
+          "vi": "xảy ra"
+        },
+        {
+          "term": "recur",
+          "vi": "tái diễn"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "recurrent",
+          "vi": "tái diễn nhiều lần"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "recurrently",
+          "vi": "một cách lặp lại"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "occur to someone",
+        "vi": "chợt nảy ra trong tâm trí ai đó"
+      },
+      {
+        "phrase": "natural occurrence",
+        "vi": "hiện tượng tự nhiên bình thường"
+      }
+    ],
+    "usageNote": "Occur thường trang trọng hơn happen. Occur to someone: một ý nghĩ chợt nảy ra với ai; không phải sự kiện xảy ra cho ai.",
+    "comparisons": [
+      {
+        "term": "happen",
+        "vi": "xảy ra",
+        "nuance": "Tự nhiên nhất trong giao tiếp, dùng cho sự kiện ngẫu nhiên hoặc bất kỳ điều xảy ra nào.",
+        "register": "Trung tính",
+        "example": {
+          "en": "What happened yesterday?",
+          "vi": "Hôm qua đã xảy ra chuyện gì?"
+        }
+      },
+      {
+        "term": "take place",
+        "vi": "diễn ra",
+        "nuance": "Thường dùng cho sự kiện, hoạt động có địa điểm hoặc thời gian, hay đã được tổ chức.",
+        "register": "Trung tính",
+        "example": {
+          "en": "The meeting takes place on Friday.",
+          "vi": "Cuộc họp diễn ra vào thứ Sáu."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "pack",
+    "term": "pack",
+    "definition": "đóng gói; xếp hành lý",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/pæk/",
+    "level": "A2",
+    "meanings": [
+      "đóng gói; xếp hành lý"
+    ],
+    "examples": [
+      {
+        "en": "Do not forget to pack sunscreen, insect repellent, and sturdy walking shoes for the trek.",
+        "vi": "Đừng quên chuẩn bị kem chống nắng, thuốc chống côn trùng và giày đi bộ chắc chắn cho chuyến đi bộ đường dài."
+      },
+      {
+        "en": "We quickly unpacked our luggage as soon as we checked into our seaside bungalow.",
+        "vi": "Chúng tôi nhanh chóng dỡ hành lý ra ngay khi nhận phòng tại căn nhà gỗ ven biển."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "pack",
+          "vi": "gói, bộ; nhóm"
+        },
+        {
+          "term": "packing",
+          "vi": "việc đóng gói; vật liệu chèn"
+        },
+        {
+          "term": "packer",
+          "vi": "người đóng gói"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "pack",
+          "vi": "đóng gói"
+        },
+        {
+          "term": "unpack",
+          "vi": "lấy đồ ra khỏi hành lý"
+        },
+        {
+          "term": "repack",
+          "vi": "đóng gói lại"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "packed",
+          "vi": "chật kín; đã đóng gói"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "pack your bags / suitcase",
+        "vi": "soạn đồ đạc / xếp vali lên đường"
+      },
+      {
+        "phrase": "pack light",
+        "vi": "mang hành lý gọn nhẹ"
+      },
+      {
+        "phrase": "packed with tourists",
+        "vi": "đông đúc chật ních khách du lịch"
+      }
+    ],
+    "usageNote": "Pack a bag hoặc pack clothes: xếp đồ vào túi. Pack còn là bó, gói hoặc nhóm trong vai trò danh từ.",
+    "comparisons": [
+      {
+        "term": "wrap",
+        "vi": "bọc, gói bên ngoài",
+        "nuance": "Nhấn mạnh phủ giấy hoặc vật liệu quanh đồ vật; pack thường là xếp vào túi hay thùng.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Wrap the gift in paper.",
+          "vi": "Bọc món quà bằng giấy."
+        }
+      },
+      {
+        "term": "load",
+        "vi": "xếp hàng lên",
+        "nuance": "Nhấn mạnh đưa đồ vào xe, máy hoặc phương tiện; không nhất thiết gói từng món.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Load the boxes into the van.",
+          "vi": "Xếp các thùng vào xe tải nhỏ."
+        }
+      }
+    ],
+    "levels": [
+      "A2",
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "participate",
+    "term": "participate",
+    "definition": "tham gia",
+    "partOfSpeech": "v.",
+    "phonetic": "/pɑːrˈtɪsɪpeɪt/",
+    "level": "B1",
+    "meanings": [
+      "tham gia"
+    ],
+    "examples": [
+      {
+        "en": "Students are actively encouraged to participate in extracurricular volunteer clubs.",
+        "vi": "Học sinh được khuyến khích tích cực tham gia vào các câu lạc bộ tình nguyện ngoại khóa."
+      },
+      {
+        "en": "She was thrilled to participate in the international environmental summit in Tokyo.",
+        "vi": "Cô ấy rất hào hứng khi được tham gia hội nghị thượng đỉnh môi trường quốc tế tại Tokyo."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "participation",
+          "vi": "sự tham gia"
+        },
+        {
+          "term": "participant",
+          "vi": "người tham gia"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "participate",
+          "vi": "tham gia"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "participating",
+          "vi": "đang tham gia"
+        },
+        {
+          "term": "participatory",
+          "vi": "có sự tham gia chủ động"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "participate in a competition / event",
+        "vi": "tham gia một cuộc thi / sự kiện thể thao"
+      },
+      {
+        "phrase": "active participation",
+        "vi": "sự tham gia tích cực nhiệt tình"
+      }
+    ],
+    "usageNote": "Participate in an activity: tham gia hoạt động, thường có đóng góp hoặc thực hiện một phần, không chỉ có mặt.",
+    "comparisons": [
+      {
+        "term": "join",
+        "vi": "tham gia, gia nhập",
+        "nuance": "Nhấn mạnh trở thành thành viên hoặc bắt đầu cùng làm gì; tự nhiên trong lời mời.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Join us for dinner.",
+          "vi": "Tham gia bữa tối cùng chúng tôi nhé."
+        }
+      },
+      {
+        "term": "attend",
+        "vi": "tham dự, có mặt",
+        "nuance": "Chỉ sự hiện diện tại sự kiện; bạn có thể attend nhưng không phát biểu hay tham gia tích cực.",
+        "register": "Trung tính",
+        "example": {
+          "en": "She attended the conference.",
+          "vi": "Cô ấy tham dự hội nghị."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "pull",
+    "term": "pull",
+    "definition": "kéo",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/pʊl/",
+    "level": "A2",
+    "meanings": [
+      "kéo"
+    ],
+    "examples": [
+      {
+        "en": "She pulled the heavy wooden door open and welcomed the guests inside.",
+        "vi": "Cô ấy đã kéo mở cánh cửa gỗ nặng nề và chào đón các vị khách vào nhà."
+      },
+      {
+        "en": "The strong tractor easily pulled the stranded vehicle out of the thick mud.",
+        "vi": "Chiếc máy kéo khỏe khoắn đã dễ dàng kéo chiếc xe bị mắc kẹt ra khỏi vũng bùn lầy dày đặc."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "pull",
+          "vi": "cú kéo, lực kéo"
+        },
+        {
+          "term": "puller",
+          "vi": "người hoặc dụng cụ kéo"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "pull",
+          "vi": "kéo"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "pulled",
+          "vi": "bị kéo; bị giãn cơ"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "pull over",
+        "vi": "tấp xe vào lề đường"
+      },
+      {
+        "phrase": "pull through",
+        "vi": "vượt qua cơn bạo bệnh / giai đoạn nguy kịch"
+      },
+      {
+        "phrase": "pull someone’s leg",
+        "vi": "trêu chọc, nói đùa ai đó (thành ngữ)"
+      }
+    ],
+    "usageNote": "Pull thường tạo lực đưa vật về phía mình hoặc theo hướng đang kéo. Trái hướng với push trong nhiều tình huống.",
+    "comparisons": [
+      {
+        "term": "drag",
+        "vi": "kéo lê",
+        "nuance": "Nhấn mạnh kéo vật dọc bề mặt, thường vì nặng hoặc khó di chuyển.",
+        "register": "Trung tính",
+        "example": {
+          "en": "He dragged the box across the floor.",
+          "vi": "Anh ấy kéo lê thùng trên sàn."
+        }
+      },
+      {
+        "term": "tug",
+        "vi": "giật, kéo mạnh từng nhịp",
+        "nuance": "Thường là một cú kéo nhanh hoặc nhiều cú kéo ngắn, thay vì lực kéo đều.",
+        "register": "Trung tính",
+        "example": {
+          "en": "The child tugged at my sleeve.",
+          "vi": "Đứa trẻ giật nhẹ tay áo tôi."
+        }
+      }
+    ],
+    "levels": [
+      "A2",
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "push",
+    "term": "push",
+    "definition": "đẩy; thúc giục",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/pʊʃ/",
+    "level": "A2",
+    "meanings": [
+      "đẩy; thúc giục"
+    ],
+    "examples": [
+      {
+        "en": "He pushed the heavy shopping cart through the crowded supermarket aisles.",
+        "vi": "Anh ấy đẩy chiếc xe đẩy mua hàng nặng nề qua các lối đi đông đúc trong siêu thị."
+      },
+      {
+        "en": "Supportive parents encourage their children without pushing them too hard.",
+        "vi": "Những bậc cha mẹ tâm lý luôn động viên con cái mà không gây áp lực thúc ép chúng quá mức."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "push",
+          "vi": "cú đẩy; nỗ lực thúc đẩy"
+        },
+        {
+          "term": "pusher",
+          "vi": "người hoặc bộ phận đẩy"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "push",
+          "vi": "đẩy"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "pushy",
+          "vi": "hay lấn tới, áp đặt"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "pushily",
+          "vi": "một cách lấn tới, áp đặt"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "push a button",
+        "vi": "ấn nút điều khiển"
+      },
+      {
+        "phrase": "push yourself to the limit",
+        "vi": "thúc đẩy bản thân vượt qua giới hạn"
+      },
+      {
+        "phrase": "push forward with",
+        "vi": "quyết tâm xúc tiến dự án về phía trước"
+      }
+    ],
+    "usageNote": "Push a door: đẩy cửa. Push someone to do something: thúc hoặc gây áp lực để ai làm gì.",
+    "comparisons": [
+      {
+        "term": "shove",
+        "vi": "xô, đẩy mạnh",
+        "nuance": "Mạnh hoặc thô bạo hơn push; thường gợi thiếu nhẹ nhàng.",
+        "register": "Trung tính",
+        "example": {
+          "en": "He shoved the door open.",
+          "vi": "Anh ấy xô mạnh cửa ra."
+        }
+      },
+      {
+        "term": "press",
+        "vi": "ấn, ép",
+        "nuance": "Nhấn mạnh lực lên một bề mặt hoặc nút; vật không nhất thiết di chuyển xa.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Press the green button.",
+          "vi": "Ấn nút màu xanh."
+        }
+      }
+    ],
+    "levels": [
+      "A2",
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "reflect",
+    "term": "reflect",
+    "definition": "phản chiếu; phản ánh; suy ngẫm",
+    "partOfSpeech": "v.",
+    "phonetic": "/rɪˈflekt/",
+    "level": "B1",
+    "meanings": [
+      "phản chiếu; phản ánh; suy ngẫm"
+    ],
+    "examples": [
+      {
+        "en": "The polished glass surface of the modern skyscraper reflected the sunset sky beautifully.",
+        "vi": "Bề mặt kính sáng bóng của tòa nhà chọc trời hiện đại phản chiếu bầu trời hoàng hôn tuyệt đẹp."
+      },
+      {
+        "en": "A person’s daily language often reflects their cultural background and upbringing.",
+        "vi": "Ngôn từ hàng ngày của một người thường phản ánh nền tảng văn hóa và sự giáo dục của họ."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "reflection",
+          "vi": "sự phản chiếu; sự suy ngẫm"
+        },
+        {
+          "term": "reflector",
+          "vi": "vật phản quang"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "reflect",
+          "vi": "phản chiếu, suy ngẫm"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "reflective",
+          "vi": "phản quang; trầm tư"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "reflectively",
+          "vi": "một cách trầm tư"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "reflect on / upon",
+        "vi": "dành thời gian ngẫm nghĩ sâu sắc về điều gì"
+      },
+      {
+        "phrase": "reflect in the mirror / water",
+        "vi": "soi bóng phản chiếu trong gương / mặt nước"
+      },
+      {
+        "phrase": "reflect the truth / reality",
+        "vi": "phản ánh đúng sự thật khách quan"
+      }
+    ],
+    "usageNote": "Reflect light là phản chiếu ánh sáng; reflect a change là phản ánh thay đổi; reflect on something là suy ngẫm về điều đó.",
+    "comparisons": [
+      {
+        "term": "mirror",
+        "vi": "phản chiếu, giống sát",
+        "nuance": "Ở nghĩa bóng, nhấn mạnh tái hiện hoặc giống gần như tương ứng với điều khác.",
+        "register": "Trung tính",
+        "example": {
+          "en": "The results mirror last year’s figures.",
+          "vi": "Kết quả gần giống các số liệu năm ngoái."
+        }
+      },
+      {
+        "term": "consider",
+        "vi": "cân nhắc, xem xét",
+        "nuance": "Trong nghĩa suy nghĩ, thường hướng đến đánh giá hay quyết định; reflect on thiên về suy ngẫm lại.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Consider all the options first.",
+          "vi": "Hãy cân nhắc mọi lựa chọn trước."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "reject",
+    "term": "reject",
+    "definition": "từ chối chấp nhận; bác bỏ",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/rɪˈdʒekt/",
+    "level": "B1",
+    "meanings": [
+      "từ chối chấp nhận; bác bỏ"
+    ],
+    "examples": [
+      {
+        "en": "The university admissions committee rejected his application because of low test scores.",
+        "vi": "Hội đồng tuyển sinh đại học đã từ chối hồ sơ của anh ấy do điểm thi không đạt yêu cầu."
+      },
+      {
+        "en": "Quality control inspectors reject any manufactured items that fail strict safety standards.",
+        "vi": "Các thanh tra kiểm định chất lượng sẽ loại bỏ bất kỳ sản phẩm nào không đạt tiêu chuẩn an toàn nghiêm ngặt."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "rejection",
+          "vi": "sự từ chối"
+        },
+        {
+          "term": "reject",
+          "vi": "vật bị loại do không đạt yêu cầu"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "reject",
+          "vi": "bác bỏ"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "rejected",
+          "vi": "bị từ chối"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "reject an offer / proposal",
+        "vi": "từ chối một lời đề nghị / đề xuất dự án"
+      },
+      {
+        "phrase": "reject an application",
+        "vi": "từ chối đơn xin việc / hồ sơ nhập học"
+      }
+    ],
+    "usageNote": "Reject an application, idea hoặc claim: không chấp nhận sau khi xem xét. Không phải lúc nào cũng thay được refuse.",
+    "comparisons": [
+      {
+        "term": "refuse",
+        "vi": "từ chối",
+        "nuance": "Hay dùng refuse to do something hoặc refuse an offer. Reject thường đi với vật, đề xuất, hồ sơ.",
+        "register": "Trung tính",
+        "example": {
+          "en": "She refused to sign the form.",
+          "vi": "Cô ấy từ chối ký biểu mẫu."
+        }
+      },
+      {
+        "term": "decline",
+        "vi": "từ chối một cách lịch sự",
+        "nuance": "Hay dùng cho lời mời hoặc đề nghị, giọng nhẹ và lịch sự hơn reject.",
+        "register": "Lịch sự",
+        "example": {
+          "en": "He politely declined the invitation.",
+          "vi": "Anh ấy lịch sự từ chối lời mời."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "remain",
+    "term": "remain",
+    "definition": "vẫn còn; vẫn ở trạng thái nào đó",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/rɪˈmeɪn/",
+    "level": "B1",
+    "meanings": [
+      "vẫn còn; vẫn ở trạng thái nào đó"
+    ],
+    "examples": [
+      {
+        "en": "Only a few historic wooden houses remain standing after the catastrophic earthquake.",
+        "vi": "Chỉ có một số ít ngôi nhà gỗ cổ kính còn đứng vững sau trận động đất thảm khốc."
+      },
+      {
+        "en": "Despite facing intense public criticism, the prime minister remained confident in the reform plan.",
+        "vi": "Dù đối mặt với sự chỉ trích gay gắt từ dư luận, thủ tướng vẫn duy trì sự tự tin vào kế hoạch cải cách."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "remainder",
+          "vi": "phần còn lại"
+        },
+        {
+          "term": "remains",
+          "vi": "tàn tích; hài cốt"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "remain",
+          "vi": "vẫn còn, ở lại"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "remaining",
+          "vi": "còn lại"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "remain calm / silent",
+        "vi": "giữ bình tĩnh / giữ im lặng"
+      },
+      {
+        "phrase": "remain unchanged",
+        "vi": "vẫn giữ nguyên không thay đổi"
+      },
+      {
+        "phrase": "ancient remains",
+        "vi": "tàn tích cổ xưa"
+      }
+    ],
+    "usageNote": "Remain + tính từ: vẫn ở trạng thái đó, như remain calm. The remaining time là thời gian còn lại.",
+    "comparisons": [
+      {
+        "term": "stay",
+        "vi": "ở lại, giữ trạng thái",
+        "nuance": "Tự nhiên hơn trong giao tiếp; remain thường trang trọng hơn và nhấn mạnh trạng thái không đổi.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Please stay calm.",
+          "vi": "Hãy bình tĩnh."
+        }
+      },
+      {
+        "term": "last",
+        "vi": "kéo dài, bền",
+        "nuance": "Nhấn mạnh thời lượng hoặc độ bền; không thay remain trong remain calm.",
+        "register": "Trung tính",
+        "example": {
+          "en": "The battery lasts all day.",
+          "vi": "Pin dùng được cả ngày."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "repair",
+    "term": "repair",
+    "definition": "sửa chữa; khắc phục hư hỏng",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/rɪˈper/",
+    "level": "A2",
+    "meanings": [
+      "sửa chữa; khắc phục hư hỏng"
+    ],
+    "examples": [
+      {
+        "en": "The skilled mechanic repaired the complex car engine problem within an hour.",
+        "vi": "Người thợ máy lành nghề đã sửa xong sự cố động cơ ô tô phức tạp chỉ trong vòng một giờ."
+      },
+      {
+        "en": "The historic stone castle underwent extensive structural repairs to ensure visitor safety.",
+        "vi": "Lâu đài đá lịch sử đã trải qua những đợt tu sửa kết cấu quy mô lớn để đảm bảo an toàn cho khách tham quan."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "repair",
+          "vi": "việc sửa chữa"
+        },
+        {
+          "term": "repairer",
+          "vi": "người sửa chữa"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "repair",
+          "vi": "sửa chữa"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "repairable",
+          "vi": "sửa được"
+        },
+        {
+          "term": "irreparable",
+          "vi": "không thể khắc phục"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "irreparably",
+          "vi": "đến mức không thể khắc phục"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "repair damage",
+        "vi": "khắc phục, tu sửa những hư hại"
+      },
+      {
+        "phrase": "under repair",
+        "vi": "đang trong quá trình bảo dưỡng sửa chữa"
+      },
+      {
+        "phrase": "repair a relationship",
+        "vi": "hàn gắn lại mối quan hệ bị rạn nứt"
+      }
+    ],
+    "usageNote": "Repair nói về làm một vật hỏng hoạt động hoặc nguyên vẹn trở lại; cũng dùng với thiệt hại, quan hệ.",
+    "comparisons": [
+      {
+        "term": "fix",
+        "vi": "sửa, xử lý",
+        "nuance": "Tự nhiên trong giao tiếp và rộng hơn: sửa đồ vật, lỗi phần mềm hay một vấn đề.",
+        "register": "Giao tiếp",
+        "example": {
+          "en": "Can you fix this error?",
+          "vi": "Bạn sửa lỗi này được không?"
+        }
+      },
+      {
+        "term": "mend",
+        "vi": "vá, sửa",
+        "nuance": "Hay dùng với vải, vật rách hoặc hỏng nhỏ; cũng dùng cho hàn gắn quan hệ.",
+        "register": "Trung tính",
+        "example": {
+          "en": "She mended the hole in my shirt.",
+          "vi": "Cô ấy vá lỗ trên áo tôi."
+        }
+      }
+    ],
+    "levels": [
+      "A2",
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "rise",
+    "term": "rise",
+    "definition": "tăng lên; đi lên; mọc lên",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/raɪz/",
+    "level": "A2",
+    "meanings": [
+      "tăng lên; đi lên; mọc lên"
+    ],
+    "examples": [
+      {
+        "en": "Global sea levels continue to rise due to melting polar ice caps.",
+        "vi": "Mực nước biển toàn cầu tiếp tục dâng cao do các chỏm băng ở hai cực bị tan chảy."
+      },
+      {
+        "en": "The audience rose to their feet to give the orchestra a standing ovation.",
+        "vi": "Khán giả đã đồng loạt đứng dậy để dành cho dàn nhạc một tràng pháo tay tán thưởng nồng nhiệt."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "rise",
+          "vi": "sự tăng; đà đi lên"
+        },
+        {
+          "term": "riser",
+          "vi": "người dậy vào giờ nào đó; mặt đứng bậc thang"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "rise",
+          "vi": "tăng lên"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "rising",
+          "vi": "đang tăng, đang đi lên"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "the sun rises in the east",
+        "vi": "mặt trời mọc ở đằng đông"
+      },
+      {
+        "phrase": "rise in prices / temperature",
+        "vi": "sự gia tăng giá cả / nhiệt độ"
+      },
+      {
+        "phrase": "rise to fame / power",
+        "vi": "vươn lên trở nên nổi tiếng / nắm giữ quyền lực"
+      }
+    ],
+    "usageNote": "Rise không cần tân ngữ: prices rise. Raise cần thứ được làm tăng: raise prices. Quá khứ rise → rose; phân từ risen.",
+    "comparisons": [
+      {
+        "term": "increase",
+        "vi": "tăng, làm tăng",
+        "nuance": "Dùng được cả có và không có tân ngữ: prices increase; increase prices.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Demand increased this month.",
+          "vi": "Nhu cầu tăng trong tháng này."
+        }
+      },
+      {
+        "term": "raise",
+        "vi": "làm tăng, nâng lên",
+        "nuance": "Cần tân ngữ; ai hoặc điều gì đó làm cho một thứ tăng lên. Không thay rise trực tiếp.",
+        "register": "Trung tính",
+        "example": {
+          "en": "The shop raised its prices.",
+          "vi": "Cửa hàng đã tăng giá."
+        }
+      }
+    ],
+    "levels": [
+      "A2",
+      "B2"
+    ],
+    "references": [
+      {
+        "title": "Cambridge · raise or rise?",
+        "url": "https://dictionary.cambridge.org/us/grammar/british-grammar/raise-or-rise"
+      }
+    ]
+  },
+  {
+    "id": "separate",
+    "term": "separate",
+    "definition": "tách riêng; riêng biệt",
+    "partOfSpeech": "v., adj.",
+    "phonetic": "/ˈsepəreɪt/",
+    "level": "A2",
+    "meanings": [
+      "tách riêng; riêng biệt"
+    ],
+    "examples": [
+      {
+        "en": "A high brick wall separates the private garden from the busy public road.",
+        "vi": "Một bức tường gạch cao ngăn cách khu vườn tư nhân với con đường công cộng tấp nập."
+      },
+      {
+        "en": "Each team member was assigned a separate module of the software project.",
+        "vi": "Mỗi thành viên trong nhóm được phân công một mô-đun riêng biệt của dự án phần mềm."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "separation",
+          "vi": "sự tách rời"
+        },
+        {
+          "term": "separator",
+          "vi": "vật hoặc bộ phận phân tách"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "separate",
+          "vi": "tách riêng"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "separate",
+          "vi": "riêng biệt"
+        },
+        {
+          "term": "separable",
+          "vi": "có thể tách"
+        },
+        {
+          "term": "inseparable",
+          "vi": "không thể tách"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "separately",
+          "vi": "một cách riêng biệt"
+        },
+        {
+          "term": "inseparably",
+          "vi": "không thể tách rời"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "separate from",
+        "vi": "tách rời khỏi cái gì"
+      },
+      {
+        "phrase": "separate rooms / accounts",
+        "vi": "các phòng riêng biệt / tài khoản riêng lẻ"
+      }
+    ],
+    "usageNote": "Separate A from B: tách A khỏi B. Động từ đọc /ˈsepəreɪt/, tính từ đọc /ˈsepərət/.",
+    "comparisons": [
+      {
+        "term": "divide",
+        "vi": "chia",
+        "nuance": "Thường chia một tổng thể thành các phần; separate có thể tách những vật vốn riêng biệt.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Divide the cake into six pieces.",
+          "vi": "Chia bánh thành sáu miếng."
+        }
+      },
+      {
+        "term": "isolate",
+        "vi": "cô lập, cách ly",
+        "nuance": "Nhấn mạnh tách hoàn toàn khỏi tiếp xúc hoặc ảnh hưởng, như người bệnh hay một biến số.",
+        "register": "Trung tính",
+        "example": {
+          "en": "The patient was isolated.",
+          "vi": "Bệnh nhân được cách ly."
+        }
+      }
+    ],
+    "levels": [
+      "A2",
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "shake",
+    "term": "shake",
+    "definition": "lắc; rung; làm run",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/ʃeɪk/",
+    "level": "A2",
+    "meanings": [
+      "lắc; rung; làm run"
+    ],
+    "examples": [
+      {
+        "en": "The violent earthquake shook high-rise buildings across the capital city.",
+        "vi": "Trận động đất dữ dội đã làm rung chuyển các tòa nhà cao tầng khắp thành phố thủ đô."
+      },
+      {
+        "en": "Her hands were shaking with nervous excitement as she opened the exam results envelope.",
+        "vi": "Đôi tay cô ấy run lên vì hồi hộp phấn khích khi mở phong bì chứa kết quả thi."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "shake",
+          "vi": "cú lắc"
+        },
+        {
+          "term": "shaker",
+          "vi": "người hoặc dụng cụ lắc"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "shake",
+          "vi": "lắc, rung"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "shaky",
+          "vi": "run, không vững; thiếu chắc chắn"
+        },
+        {
+          "term": "shaken",
+          "vi": "bị sốc, bàng hoàng"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "shakily",
+          "vi": "một cách run rẩy"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "shake hands with someone",
+        "vi": "bắt tay xã giao với ai đó"
+      },
+      {
+        "phrase": "shake your head",
+        "vi": "lắc đầu thể hiện sự không đồng ý"
+      },
+      {
+        "phrase": "shake well before use",
+        "vi": "lắc đều trước khi dùng (thuốc / đồ uống)"
+      }
+    ],
+    "usageNote": "Shake có thể tự rung hoặc làm vật khác rung. Shake hands: bắt tay. Quá khứ shook; phân từ shaken.",
+    "comparisons": [
+      {
+        "term": "tremble",
+        "vi": "run rẩy",
+        "nuance": "Thường tự run do sợ, lạnh hoặc xúc động; không dùng cho chủ động lắc một chai.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Her hands trembled with fear.",
+          "vi": "Tay cô ấy run vì sợ."
+        }
+      },
+      {
+        "term": "vibrate",
+        "vi": "rung, dao động",
+        "nuance": "Thường rung nhanh và đều, hay nói về máy móc, điện thoại hoặc sóng.",
+        "register": "Trung tính",
+        "example": {
+          "en": "My phone vibrated in my pocket.",
+          "vi": "Điện thoại rung trong túi tôi."
+        }
+      }
+    ],
+    "levels": [
+      "A2",
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "store",
+    "term": "store",
+    "definition": "cất giữ; lưu trữ",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/stɔːr/",
+    "level": "A1",
+    "meanings": [
+      "cất giữ; lưu trữ"
+    ],
+    "examples": [
+      {
+        "en": "Squirrels collect nuts and store them underground to prepare for cold winter months.",
+        "vi": "Những chú sóc thu lượm các loại hạt và cất giữ chúng dưới lòng đất để chuẩn bị cho những tháng mùa đông lạnh giá."
+      },
+      {
+        "en": "This high-speed solid-state drive can store up to two terabytes of video files.",
+        "vi": "Ổ cứng thể rắn tốc độ cao này có thể lưu trữ tới 2 terabyte các tệp video."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "store",
+          "vi": "cửa hàng; lượng dự trữ"
+        },
+        {
+          "term": "storage",
+          "vi": "việc lưu trữ; chỗ chứa"
+        },
+        {
+          "term": "storeroom",
+          "vi": "phòng chứa đồ"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "store",
+          "vi": "cất giữ"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "stored",
+          "vi": "được lưu trữ"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "store data on the cloud",
+        "vi": "lưu trữ dữ liệu trên nền tảng đám mây"
+      },
+      {
+        "phrase": "convenience store",
+        "vi": "cửa hàng tiện lợi 24/7"
+      },
+      {
+        "phrase": "store in a cool dry place",
+        "vi": "bảo quản nơi khô ráo thoáng mát"
+      }
+    ],
+    "usageNote": "Store vật hoặc dữ liệu để dùng về sau. Store trong tiếng Anh Mỹ còn là cửa hàng; storage là việc hoặc không gian lưu trữ.",
+    "comparisons": [
+      {
+        "term": "keep",
+        "vi": "giữ",
+        "nuance": "Rộng hơn, không nhất thiết sắp xếp để dùng về sau; keep a promise là giữ lời hứa.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Keep this receipt.",
+          "vi": "Giữ hóa đơn này."
+        }
+      },
+      {
+        "term": "save",
+        "vi": "lưu; để dành",
+        "nuance": "Với dữ liệu, nhấn mạnh thao tác ghi lại; với tiền, là dành lại thay vì tiêu.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Save the document before closing it.",
+          "vi": "Lưu tài liệu trước khi đóng."
+        }
+      }
+    ],
+    "levels": [
+      "A1",
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "survive",
+    "term": "survive",
+    "definition": "sống sót; vượt qua khó khăn",
+    "partOfSpeech": "v.",
+    "phonetic": "/sərˈvaɪv/",
+    "level": "B1",
+    "meanings": [
+      "sống sót; vượt qua khó khăn"
+    ],
+    "examples": [
+      {
+        "en": "Camels have evolved remarkable physiological adaptations to survive in dry desert heat for weeks without water.",
+        "vi": "Lạc đà đã phát triển những thích nghi sinh lý đáng kinh ngạc để sống sót trong cái nóng sa mạc khô cằn hàng tuần liền mà không cần nước."
+      },
+      {
+        "en": "The resilient small family business survived three severe economic crises over fifty years.",
+        "vi": "Doanh nghiệp gia đình nhỏ đầy kiên cường đã vượt qua và tồn tại sau ba cuộc khủng hoảng kinh tế nghiêm trọng suốt 50 năm."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "survival",
+          "vi": "sự sống sót"
+        },
+        {
+          "term": "survivor",
+          "vi": "người sống sót"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "survive",
+          "vi": "sống sót"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "surviving",
+          "vi": "còn sống, còn tồn tại"
+        },
+        {
+          "term": "survivable",
+          "vi": "có thể sống sót qua"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "survive an accident / crash",
+        "vi": "sống sót kỳ diệu sau tai nạn / vụ đâm máy bay"
+      },
+      {
+        "phrase": "survival skills",
+        "vi": "các kỹ năng sinh tồn nơi hoang dã"
+      },
+      {
+        "phrase": "survive on a tight budget",
+        "vi": "xoay xở sống sót với ngân sách eo hẹp"
+      }
+    ],
+    "usageNote": "Survive an accident: sống sót qua tai nạn. Survive on something: sống dựa vào một nguồn thức ăn hoặc tiền.",
+    "comparisons": [
+      {
+        "term": "live",
+        "vi": "sống",
+        "nuance": "Rộng, nói về sự sống hoặc nơi ở; survive nhấn mạnh sống tiếp qua nguy hiểm hay khó khăn.",
+        "register": "Trung tính",
+        "example": {
+          "en": "She lives in Da Nang.",
+          "vi": "Cô ấy sống ở Đà Nẵng."
+        }
+      },
+      {
+        "term": "endure",
+        "vi": "chịu đựng; tồn tại lâu",
+        "nuance": "Nhấn mạnh chịu đựng điều khó chịu hoặc bền qua thời gian, không nhất thiết nguy hiểm đến tính mạng.",
+        "register": "Trung tính",
+        "example": {
+          "en": "They endured years of hardship.",
+          "vi": "Họ chịu đựng nhiều năm khó khăn."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "translate",
+    "term": "translate",
+    "definition": "dịch sang ngôn ngữ khác",
+    "partOfSpeech": "v.",
+    "phonetic": "/trænzˈleɪt/",
+    "level": "B1",
+    "meanings": [
+      "dịch sang ngôn ngữ khác"
+    ],
+    "examples": [
+      {
+        "en": "She works as a professional translator, translating legal contracts from Japanese to English.",
+        "vi": "Cô ấy làm nghề biên dịch viên chuyên nghiệp, dịch các hợp đồng pháp lý từ tiếng Nhật sang tiếng Anh."
+      },
+      {
+        "en": "Hard work and continuous practice will soon translate into noticeable English fluency.",
+        "vi": "Sự chăm chỉ và luyện tập liên tục sẽ sớm chuyển hóa thành sự trôi chảy tiếng Anh rõ rệt."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "translation",
+          "vi": "bản dịch, việc dịch"
+        },
+        {
+          "term": "translator",
+          "vi": "người hoặc công cụ dịch"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "translate",
+          "vi": "dịch"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "translated",
+          "vi": "được dịch"
+        },
+        {
+          "term": "translatable",
+          "vi": "dịch được"
+        },
+        {
+          "term": "untranslatable",
+          "vi": "khó hoặc không thể chuyển dịch đầy đủ"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "translate from A into B",
+        "vi": "dịch từ tiếng A sang tiếng B"
+      },
+      {
+        "phrase": "translate into action / reality",
+        "vi": "biến lời nói / ý tưởng thành hành động thực tế"
+      },
+      {
+        "phrase": "machine translation",
+        "vi": "công nghệ dịch máy tự động bằng AI"
+      }
+    ],
+    "usageNote": "Translate from A into B: dịch từ ngôn ngữ A sang B. Translate something into action còn là chuyển điều đó thành hành động.",
+    "comparisons": [
+      {
+        "term": "interpret",
+        "vi": "phiên dịch; diễn giải",
+        "nuance": "Trong nghề ngôn ngữ thường là dịch lời nói; translate thường là dịch văn bản, nhưng cũng có thể nói về lời nói.",
+        "register": "Trung tính",
+        "example": {
+          "en": "She interpreted for the visitors.",
+          "vi": "Cô ấy phiên dịch cho khách."
+        }
+      },
+      {
+        "term": "paraphrase",
+        "vi": "diễn đạt lại",
+        "nuance": "Dùng lời khác trong cùng ngôn ngữ để nói lại ý; không nhất thiết chuyển ngôn ngữ.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Paraphrase the sentence in simpler words.",
+          "vi": "Diễn đạt lại câu bằng từ đơn giản hơn."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "treat",
+    "term": "treat",
+    "definition": "đối xử; điều trị; đãi",
+    "partOfSpeech": "v., n.",
+    "phonetic": "/triːt/",
+    "level": "B1",
+    "meanings": [
+      "đối xử; điều trị; đãi"
+    ],
+    "examples": [
+      {
+        "en": "The skilled pediatricians treated the sick toddler with gentle care.",
+        "vi": "Những bác sĩ nhi khoa giỏi đã chữa trị cho em bé bị bệnh bằng sự chăm sóc dịu dàng."
+      },
+      {
+        "en": "Let me treat you to a hot cup of Vietnamese egg coffee today!",
+        "vi": "Hãy để tôi khao bạn một tách cà phê trứng nóng hổi của Việt Nam ngày hôm nay nhé!"
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "treatment",
+          "vi": "sự đối xử; cách điều trị"
+        },
+        {
+          "term": "treat",
+          "vi": "món ngon; điều thú vị"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "treat",
+          "vi": "đối xử, điều trị"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "treated",
+          "vi": "được xử lý hoặc điều trị"
+        },
+        {
+          "term": "untreated",
+          "vi": "chưa điều trị"
+        },
+        {
+          "term": "treatable",
+          "vi": "điều trị được"
+        }
+      ],
+      "adverbs": []
+    },
+    "collocations": [
+      {
+        "phrase": "treat someone with respect",
+        "vi": "đối xử với ai đó bằng sự tôn trọng"
+      },
+      {
+        "phrase": "treat someone to dinner",
+        "vi": "bao, khao ai đó một bữa tối thịnh soạn"
+      },
+      {
+        "phrase": "medical treatment",
+        "vi": "phác đồ điều trị y tế"
+      }
+    ],
+    "usageNote": "Treat someone well: đối xử tốt; treat an illness: điều trị bệnh; treat someone to lunch: mời ai ăn trưa.",
+    "comparisons": [
+      {
+        "term": "cure",
+        "vi": "chữa khỏi",
+        "nuance": "Nhấn mạnh bệnh được loại bỏ; treat là điều trị, chưa khẳng định đã khỏi.",
+        "register": "Trung tính",
+        "example": {
+          "en": "The medicine cured the infection.",
+          "vi": "Thuốc đã chữa khỏi tình trạng nhiễm trùng."
+        }
+      },
+      {
+        "term": "handle",
+        "vi": "xử lý, ứng phó",
+        "nuance": "Nhấn mạnh cách xử lý tình huống hoặc đối tượng; không tự mang nghĩa điều trị hay mời ăn.",
+        "register": "Trung tính",
+        "example": {
+          "en": "She handled the complaint calmly.",
+          "vi": "Cô ấy bình tĩnh xử lý khiếu nại."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  },
+  {
+    "id": "weigh",
+    "term": "weigh",
+    "definition": "cân; có trọng lượng; cân nhắc",
+    "partOfSpeech": "v.",
+    "phonetic": "/weɪ/",
+    "level": "B1",
+    "meanings": [
+      "cân; có trọng lượng; cân nhắc"
+    ],
+    "examples": [
+      {
+        "en": "The airline staff weighed our carry-on backpacks to ensure they adhered to flight baggage limits.",
+        "vi": "Nhân viên hãng hàng không đã cân ba lô xách tay của chúng tôi để đảm bảo tuân thủ giới hạn hành lý chuyến bay."
+      },
+      {
+        "en": "The substantial long-term benefits of regular exercise far outweigh the initial effort required.",
+        "vi": "Những lợi ích lâu dài to lớn của việc tập thể dục vượt trội hơn rất nhiều so với công sức ban đầu phải bỏ ra."
+      }
+    ],
+    "wordFamily": {
+      "nouns": [
+        {
+          "term": "weight",
+          "vi": "trọng lượng"
+        },
+        {
+          "term": "weighing",
+          "vi": "việc cân"
+        },
+        {
+          "term": "weightlessness",
+          "vi": "tình trạng không trọng lượng"
+        }
+      ],
+      "verbs": [
+        {
+          "term": "weigh",
+          "vi": "cân, cân nhắc"
+        },
+        {
+          "term": "weight",
+          "vi": "gắn thêm trọng lượng; đặt trọng số"
+        }
+      ],
+      "adjectives": [
+        {
+          "term": "weighted",
+          "vi": "có gắn trọng lượng, có trọng số"
+        },
+        {
+          "term": "weightless",
+          "vi": "không trọng lượng"
+        },
+        {
+          "term": "weighty",
+          "vi": "nặng; quan trọng"
+        }
+      ],
+      "adverbs": [
+        {
+          "term": "weightlessly",
+          "vi": "trong trạng thái không trọng lượng"
+        }
+      ]
+    },
+    "collocations": [
+      {
+        "phrase": "weigh the pros and cons",
+        "vi": "cân nhắc kỹ lưỡng giữa mặt lợi và mặt hại"
+      },
+      {
+        "phrase": "weigh up options",
+        "vi": "đong đếm các sự lựa chọn khác nhau"
+      },
+      {
+        "phrase": "weigh in at",
+        "vi": "có trọng lượng khi cân là bao nhiêu (thể thao/hành lý)"
+      }
+    ],
+    "usageNote": "Weigh a bag: cân túi; the bag weighs 5 kilos: túi nặng 5 kg. Weigh the options: cân nhắc các lựa chọn.",
+    "comparisons": [
+      {
+        "term": "measure",
+        "vi": "đo",
+        "nuance": "Rộng hơn, dùng cho chiều dài, nhiệt độ và lượng; weigh chỉ đo trọng lượng trong nghĩa vật lý.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Measure the length of the bag.",
+          "vi": "Đo chiều dài của túi."
+        }
+      },
+      {
+        "term": "consider",
+        "vi": "cân nhắc",
+        "nuance": "Gần weigh trong nghĩa suy nghĩ; weigh nhấn mạnh đánh giá ưu, nhược hoặc các yếu tố đối lập.",
+        "register": "Trung tính",
+        "example": {
+          "en": "Consider the risks before deciding.",
+          "vi": "Cân nhắc rủi ro trước khi quyết định."
+        }
+      }
+    ],
+    "levels": [
+      "B1"
+    ],
+    "references": []
+  }
+]
