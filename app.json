@@ -2,10 +2,24 @@
   "expo": {
     "name": "DicEn",
     "slug": "dicen",
+    "owner": "jayngl",
     "version": "0.1.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
-    "android": { "package": "com.quizflash.oxfordradio" },
-    "ios": { "bundleIdentifier": "com.quizflash.oxfordradio" }
+    "android": {
+      "package": "com.quizflash.oxfordradio",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.quizflash.oxfordradio"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4cfa0256-91ea-4853-b573-e3e825d878c9"
+      }
+    },
+    "plugins": [
+      "expo-font"
+    ]
   }
 }

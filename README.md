@@ -132,11 +132,20 @@ Export tạo bundle, chưa phải APK; độ rõ dưới nắng và giọng đ�
 
 ## APK
 
-Repo có cấu hình EAS preview để tạo APK. Bước này cần tài khoản Expo:
+Project đã liên kết với [@jayngl/dicen trên Expo](https://expo.dev/accounts/jayngl/projects/dicen).
+Profile `preview` tạo APK cài trực tiếp trên Android. Đăng nhập bằng tài khoản
+có quyền truy cập project (máy này đã đăng nhập `jayngl`):
 
 ```sh
-npx eas-cli build --platform android --profile preview
+npx eas-cli@latest whoami
+# Chỉ đăng nhập nếu chưa có tài khoản đúng:
+npx eas-cli@latest login
+npx eas-cli@latest build --platform android --profile preview
 ```
+
+Khi build hoàn tất, mở link build trên điện thoại, chọn **Install/Download APK**
+và cài file. Bản APK chứa dữ liệu từ điển, chạy độc lập với máy tính và Expo Go.
+Các bản build nằm trong tab **Builds** của project Expo.
 
 Tham khảo: [Expo](https://docs.expo.dev/) và
 [Expo Speech](https://docs.expo.dev/versions/latest/sdk/speech/).

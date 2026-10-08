@@ -9,12 +9,14 @@
     "web": "expo start --web",
     "typecheck": "tsc --noEmit",
     "test": "node --experimental-strip-types --test tests/*.test.ts",
-    "data:import": "node scripts/import-curated.mjs"
+    "data:import": "node scripts/import-curated.mjs",
+    "build:apk": "npx eas-cli@latest build --platform android --profile preview"
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.2",
     "@react-native-async-storage/async-storage": "2.2.0",
-    "expo": "~57.0.26",
+    "expo": "~57.0.27",
+    "expo-font": "~57.0.4",
     "expo-speech": "~57.0.3",
     "expo-status-bar": "~57.0.1",
     "react": "19.2.3",
